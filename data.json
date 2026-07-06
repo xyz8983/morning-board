@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-07-04T09:00:00+10:00",
+  "weather": {
+    "location": "New York City",
+    "tempC": 14,
+    "condition": "Partly cloudy",
+    "code": 2,
+    "highC": 18,
+    "lowC": 9,
+    "rainChance": 20
+  },
+  "hotTopics": {
+    "headline": "Today's buzz",
+    "topics": [
+      {
+        "keywords": ["US jobs report", "Fed"],
+        "summary": "Markets watch this afternoon's release, expected to shape the Fed's next move."
+      },
+      {
+        "keywords": ["SpaceX", "Starship"],
+        "summary": "Overnight test scrubbed due to weather; rescheduled for tomorrow."
+      },
+      {
+        "keywords": ["Wimbledon", "Upsets"],
+        "summary": "Quarter-finals set after two seeds crash out in five-set thrillers."
+      },
+      {
+        "keywords": ["AI model launch"],
+        "summary": "A new frontier model release is dominating tech chatter today."
+      },
+      {
+        "keywords": ["Europe heatwave"],
+        "summary": "Southern Europe breaks early-July temperature records amid ongoing wildfires."
+      }
+    ]
+  },
+  "market": {
+    "indices": [
+      { "region": "US", "name": "S&P 500", "symbol": "^GSPC", "price": 5537.02, "changePct": 0.51 },
+      { "region": "US", "name": "Nasdaq", "symbol": "^IXIC", "price": 18188.30, "changePct": 0.88 },
+      { "region": "Europe", "name": "Euro Stoxx 50", "symbol": "^STOXX50E", "price": 5012.34, "changePct": -0.23 },
+      { "region": "Europe", "name": "FTSE 100", "symbol": "^FTSE", "price": 8171.12, "changePct": 0.14 },
+      { "region": "Asia", "name": "Nikkei 225", "symbol": "^N225", "price": 39631.06, "changePct": 1.12 },
+      { "region": "Asia", "name": "Hang Seng", "symbol": "^HSI", "price": 17799.61, "changePct": -0.34 }
+    ]
+  },
+  "joke": {
+    "en": {
+      "joke": "I only know 25 letters of the alphabet. I don't know y.",
+      "explanation": "\"y\" sounds like \"why\" — a homophone pun."
+    },
+    "zh": {
+      "joke": "我朋友说他戒糖了,结果我看他还在喝可乐。他说:\"这是无糖的,是精神鼓励。\""
+    }
+  }
+}
