@@ -39,15 +39,19 @@ wiring up any real data generation. The board is static HTML/CSS/JS, so we build
 swap in the real `generate.mjs` output — the frontend contract (`data.json` shape) stays
 identical, so no frontend rework is needed.
 
-**Phase A (now): UI with dummy data**
-- Create `index.html`, `style.css`, `app.js`, and a hand-written `data.json` with sample
-  values for every card.
-- Iterate on layout, colors, typography, rotation, and the market live/closed logic.
-- Verify locally in a browser at iPad landscape dimensions.
+**Phase A — UI with dummy data (done):**
+- `index.html`, `style.css`, `app.js`, and a hand-written `data.json` with sample values
+  for every card.
+- Iterated on layout, colors, typography, rotation, and the market live/closed logic.
+- Style landed on a muted Song-dynasty palette (月白 / 藕荷 / 秋香 / 缃色) with
+  translucent rice-paper tiles and hand-drawn "uncommon" ink creatures (swallow,
+  squirrel, hedgehog, bat) plus a cinnabar 印章 seal accent.
 
-**Phase B (later): real data**
-- Add `scripts/generate.mjs` + the GitHub Action to produce the real `data.json`.
-- Nothing in the frontend changes.
+**Phase B — real data (done):**
+- `scripts/generate.mjs` fetches everything and writes `data.json`.
+- `package.json` — Node ≥20, no runtime deps (native `fetch` only).
+- `.github/workflows/briefing.yml` — daily cron.
+- Frontend was not touched.
 
 ## UI design decisions
 
@@ -77,50 +81,71 @@ Project root: `/Users/yuhang.zheng/Workspace/playground/morning-board`
 ├── style.css           # full-screen dark dashboard styling
 ├── data.json           # generated output (committed by the Action)
 ├── scripts/
-│   └── generate.mjs     # Node script: fetch data + call Claude → write data.json
+│   └── generate.mjs     # Node script: fetch data + call AI (Gemini/Anthropic) → write data.json
 └── .github/workflows/
-    └── briefing.yml     # cron @ 9am local (set via UTC), runs generate.mjs, commits data.json
+    └── briefing.yml     # daily cron (13:00 UTC), runs generate.mjs, commits data.json
 ```
 
 ## Data generation (`scripts/generate.mjs`)
 
-Runs in the Action. Produces `data.json` with one object per card. Steps:
+Runs in the Action. Produces `data.json` with one object per card.
+Non-AI fetches use `Promise.allSettled` so any one failing source doesn't kill the run.
+Steps:
 
-1. **Weather** — Open-Meteo (free, no key). Fetch current conditions + daily high/low +
-   precipitation probability for the user's coordinates.
-   `https://api.open-meteo.com/v1/forecast?latitude=..&longitude=..&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max`
+1. **Weather** — Open-Meteo (free, no key). Fetches current conditions + daily high/low +
+   precipitation probability for the user's coordinates. Result:
+   `{ location, tempC, condition, code, highC, lowC, rainChance }`.
+   WMO `weather_code` is mapped to a short condition string; `code` is preserved so the
+   frontend can pick the right icon.
 
-2. **Hot topics** — Fetch Google Trends Daily RSS
-   (`https://trends.google.com/trends/trendingsearches/daily/rss?geo=US`). Parse the
-   trending terms + their related news headlines, then send them to Claude with a prompt
-   like *"Here are today's trending searches and related headlines. Write a short 'what's
-   happening today' briefing of the top ~5 things worth knowing."* Store the summary text.
+2. **Hot topics** — Fetches Google Trends daily-trending RSS
+   (`https://trends.google.com/trending/rss?geo=US`), extracts the top titles with a
+   minimal regex parser (no XML dep), then sends them to the AI with a prompt asking for
+   4–5 topics as `{ keywords: string[], summary: string }` objects — matches the exact
+   frontend shape `hotTopics.topics[]`. Temperature 0.4.
 
-3. **Market** — Yahoo Finance (unofficial, no key), one representative index per region:
-   - US: `^GSPC` (S&P 500)
-   - Europe: `^STOXX50E` (Euro Stoxx 50)
-   - Asia: `^N225` (Nikkei 225)
+3. **Market** — Yahoo Finance (unofficial, no key), two representative indices per region:
+   - US: `^GSPC` (S&P 500), `^IXIC` (Nasdaq)
+   - Europe: `^STOXX50E` (Euro Stoxx 50), `^FTSE` (FTSE 100)
+   - Asia: `000001.SS` (SSE Composite), `000300.SS` (CSI 300), `^HSI` (Hang Seng)
 
-   `https://query1.finance.yahoo.com/v8/finance/chart/<SYMBOL>` → extract current price
-   and previous close → compute % change. Store price, %change, and the symbol. (The
-   live/closed label is computed client-side, see below.)
+   `https://query1.finance.yahoo.com/v8/finance/chart/<SYMBOL>` → extract
+   `regularMarketPrice` and `chartPreviousClose` → compute %change. Store price,
+   %change, region, name, and symbol. The live/closed label is computed client-side.
 
-4. **Joke** — Claude call. Randomly pick English or Chinese and inject a **random theme
-   seed** (e.g. animals/food/tech/space/谐音梗) with **temperature ~0.9** for variety —
-   no history stored, occasional repeats acceptable.
-   - Chinese → return joke only.
-   - English → return joke **plus a short "why it's funny"** explanation (unpacking the
-     pun/wordplay), since the user may not catch English humor.
-   Store `{ lang, joke, explanation? }`.
+4. **Joke** — a single AI call. Injects a **random theme seed** from a rotating list
+   (`animals / food / wordplay / 谐音梗 / …`) at **temperature 0.95** for variety —
+   no history stored, occasional repeats acceptable. Returns
+   `{ en: { joke, explanation }, zh: { joke } }` matching the frontend shape:
+   - English joke → include a short "why it's funny" line (under 20 words).
+   - Chinese joke (中文) → joke only, no explanation.
 
-5. *(Optional, same stateless pattern)* **Challenge** (daily brain teaser) and
-   **Compliment** — Claude-generated with a random seed + high temperature.
+5. Writes all sections + a `generatedAt` ISO timestamp to `data.json`. Any section that
+   failed to fetch is simply omitted — the frontend already guards each card with a
+   truthiness check.
 
-6. Write all cards + a `generatedAt` timestamp to `data.json`.
+### AI provider switch (Gemini or Anthropic)
 
-**Claude API**: use the Anthropic SDK with **prompt caching** on the stable system prompt.
-Default to a fast, cheap model (Haiku) for these short generations. Key read from
-`process.env.ANTHROPIC_API_KEY` (the Actions secret).
+The script supports two providers behind a single `callAI(...)` interface, selected at
+run time by `AI_PROVIDER`:
+
+- **`gemini`** (default) — Google Gemini via the REST endpoint
+  (`generativelanguage.googleapis.com`). Uses `responseMimeType: "application/json"` +
+  a `responseSchema` so structured output is enforced by the API. Free tier friendly
+  (chosen for the GitHub Action). Requires `GEMINI_API_KEY`.
+  Default model: `gemini-2.5-flash` (overridable via `GEMINI_MODEL`).
+- **`anthropic`** — Claude via `api.anthropic.com/v1/messages`. Asks for JSON in the
+  prompt (no native schema mode). Requires `ANTHROPIC_API_KEY`.
+  Default model: `claude-haiku-4-5-20251001` (overridable via `ANTHROPIC_MODEL`).
+
+Both providers are called with raw `fetch` (no SDK dep). Because the whole pipeline
+runs once per day with ~2 total AI calls, prompt caching isn't worthwhile (the 5-minute
+cache TTL doesn't span daily runs).
+
+### Location & other env-var overrides
+
+`LATITUDE`, `LONGITUDE`, `LOCATION_NAME`, `TIMEZONE`, `TRENDS_GEO` — all default to
+New York City / `America/New_York` / `US`, matching the current `data.json`.
 
 ## Frontend (`index.html` / `app.js` / `style.css`)
 
@@ -138,27 +163,34 @@ Default to a fast, cheap model (Haiku) for these short generations. Key read fro
 
 ## Workflow (`.github/workflows/briefing.yml`)
 
-- `on: schedule: cron` set to 9am local time expressed in UTC (note: shifts 1h across
-  daylight saving — acceptable, or add a second cron line to cover both). Also
-  `workflow_dispatch` for manual runs.
-- Steps: checkout → setup Node → `npm ci` → `node scripts/generate.mjs` →
-  commit & push `data.json` if changed.
-- `ANTHROPIC_API_KEY` provided via `secrets`.
+- `on: schedule: cron: "0 13 * * *"` — 13:00 UTC ≈ 9am ET (EDT) / 8am ET (EST). The
+  1-hour DST drift is acceptable for a morning display; both variants land in the
+  morning. Also `workflow_dispatch` for manual runs.
+- `permissions: contents: write` so the workflow can commit back to the repo.
+- Steps: checkout → setup Node 20 → `node scripts/generate.mjs` → `git commit && push`
+  only if `data.json` actually changed.
+- Env: `AI_PROVIDER: gemini` + `GEMINI_API_KEY` from repo secrets. Anthropic wiring is
+  present but commented — swap the two lines and the secret name to switch providers.
+- No `npm ci` step: the script has no runtime deps.
 
 ## Setup / deploy (one-time, done by the user)
 
 1. Create a **public** GitHub repo, push the code.
-2. Add repo secret `ANTHROPIC_API_KEY`.
-3. Enable **GitHub Pages** (serve from the default branch root or `/docs`).
-4. Open the Pages URL on the iPad; enable Guided Access to keep it always-on.
+2. Add repo secret **`GEMINI_API_KEY`** (grab a free key at
+   https://aistudio.google.com/apikey). If you'd rather use Claude, add
+   `ANTHROPIC_API_KEY` instead and flip the two lines in `briefing.yml`.
+3. Enable **GitHub Pages** (serve from the default branch root).
+4. Trigger the workflow manually once via **Actions → Daily morning briefing → Run
+   workflow**, then let the cron take over.
+5. Open the Pages URL on the iPad; enable Guided Access to keep it always-on.
 
-## Files to create
+## Files
 
-- `index.html`, `app.js`, `style.css` — the board
-- `scripts/generate.mjs` — data + Claude generation
+- `index.html`, `app.js`, `style.css` — the board (Phase A)
+- `data.json` — regenerated each run; the frontend/backend contract
+- `scripts/generate.mjs` — the fetch + AI pipeline (Phase B)
 - `.github/workflows/briefing.yml` — daily cron
-- `package.json` — deps (`@anthropic-ai/sdk`, an RSS/XML parser)
-- `data.json` — initial placeholder (real one generated by the Action)
+- `package.json` — declares Node 20+, no runtime deps
 
 ## Verification
 
