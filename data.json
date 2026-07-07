@@ -1,56 +1,107 @@
 {
-  "generatedAt": "2026-07-04T09:00:00+10:00",
+  "generatedAt": "2026-07-07T01:16:31.566Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14,
-    "condition": "Partly cloudy",
-    "code": 2,
-    "highC": 18,
-    "lowC": 9,
-    "rainChance": 20
+    "tempC": 18.7,
+    "condition": "Heavy rain",
+    "code": 65,
+    "highC": 22,
+    "lowC": 18.5,
+    "rainChance": 85
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
-        "keywords": ["US jobs report", "Fed"],
-        "summary": "Markets watch this afternoon's release, expected to shape the Fed's next move."
+        "keywords": [
+          "World Cup",
+          "Women's Soccer"
+        ],
+        "summary": "The Women's World Cup continues with exciting matches and surprising upsets."
       },
       {
-        "keywords": ["SpaceX", "Starship"],
-        "summary": "Overnight test scrubbed due to weather; rescheduled for tomorrow."
+        "keywords": [
+          "Soccer Player",
+          "USMNT"
+        ],
+        "summary": "US soccer star Gio Reyna is reportedly facing new challenges or opportunities with his club team."
       },
       {
-        "keywords": ["Wimbledon", "Upsets"],
-        "summary": "Quarter-finals set after two seeds crash out in five-set thrillers."
+        "keywords": [
+          "Soccer Legend",
+          "WWC Analysis"
+        ],
+        "summary": "Soccer icon Abby Wambach is actively sharing her insights and commentary on the ongoing Women's World Cup."
       },
       {
-        "keywords": ["AI model launch"],
-        "summary": "A new frontier model release is dominating tech chatter today."
-      },
-      {
-        "keywords": ["Europe heatwave"],
-        "summary": "Southern Europe breaks early-July temperature records amid ongoing wildfires."
+        "keywords": [
+          "MLB",
+          "Baseball Game"
+        ],
+        "summary": "The Arizona Diamondbacks and San Diego Padres faced off in a key Major League Baseball series."
       }
     ]
   },
   "market": {
     "indices": [
-      { "region": "US", "name": "S&P 500", "symbol": "^GSPC", "price": 5537.02, "changePct": 0.51 },
-      { "region": "US", "name": "Nasdaq", "symbol": "^IXIC", "price": 18188.30, "changePct": 0.88 },
-      { "region": "Europe", "name": "Euro Stoxx 50", "symbol": "^STOXX50E", "price": 5012.34, "changePct": -0.23 },
-      { "region": "Europe", "name": "FTSE 100", "symbol": "^FTSE", "price": 8171.12, "changePct": 0.14 },
-      { "region": "Asia", "name": "Nikkei 225", "symbol": "^N225", "price": 39631.06, "changePct": 1.12 },
-      { "region": "Asia", "name": "Hang Seng", "symbol": "^HSI", "price": 17799.61, "changePct": -0.34 }
+      {
+        "region": "US",
+        "name": "S&P 500",
+        "symbol": "^GSPC",
+        "price": 7537.43,
+        "changePct": 0.7241515707100201
+      },
+      {
+        "region": "US",
+        "name": "Nasdaq",
+        "symbol": "^IXIC",
+        "price": 26121.16,
+        "changePct": 1.1167563308975594
+      },
+      {
+        "region": "Europe",
+        "name": "Euro Stoxx 50",
+        "symbol": "^STOXX50E",
+        "price": 6398.01,
+        "changePct": -0.22876550833660922
+      },
+      {
+        "region": "Europe",
+        "name": "FTSE 100",
+        "symbol": "^FTSE",
+        "price": 10651.77,
+        "changePct": -0.25526663002164257
+      },
+      {
+        "region": "Asia",
+        "name": "SSE Composite",
+        "symbol": "000001.SS",
+        "price": 4041.2383,
+        "changePct": -0.059476067040834184
+      },
+      {
+        "region": "Asia",
+        "name": "CSI 300",
+        "symbol": "000300.SS",
+        "price": 4841.998,
+        "changePct": -0.0036347310113264337
+      },
+      {
+        "region": "Asia",
+        "name": "Hang Seng",
+        "symbol": "^HSI",
+        "price": 23616.32,
+        "changePct": 1.1404268003081832
+      }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I only know 25 letters of the alphabet. I don't know y.",
-      "explanation": "\"y\" sounds like \"why\" — a homophone pun."
+      "joke": "What did the lightning bolt say to the thunder? You're shocking!",
+      "explanation": "It's a pun on 'shocking,' referring to electricity and surprise."
     },
     "zh": {
-      "joke": "我朋友说他戒糖了,结果我看他还在喝可乐。他说:\"这是无糖的,是精神鼓励。\""
+      "joke": "为什么雨滴总是那么悲伤？因为它们总是在 '下' 降。"
     }
   }
 }

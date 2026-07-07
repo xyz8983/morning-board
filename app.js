@@ -164,7 +164,7 @@ const CREATURES = {
 
 const DECOS = {
   weather:   [{ pos: "tr", key: "swallow",  size: "m"  }, { pos: "bl", key: "inkCloud", size: "s"  }],
-  hotTopics: [{ pos: "bl", key: "squirrel", size: "l"  }, { pos: "tr", key: "inkLeaf",  size: "s"  }],
+  hotTopics: [{ pos: "tl", key: "squirrel", size: "l"  }, { pos: "br", key: "inkLeaf",  size: "s"  }],
   market:    [{ pos: "bl", key: "hedgehog", size: "l"  }, { pos: "tr", key: "seal",     size: "xs" }],
   joke:      [{ pos: "tl", key: "bat",      size: "m"  }, { pos: "br", key: "seal",     size: "xs" }],
 };
@@ -190,7 +190,7 @@ function nowInZone(tz) {
 const MARKET_HOURS = {
   US:     { tz: "America/New_York", open: [9, 30], close: [16, 0] },
   Europe: { tz: "Europe/Berlin",    open: [9, 0],  close: [17, 30] },
-  Asia:   { tz: "Asia/Tokyo",       open: [9, 0],  close: [15, 0] },
+  Asia:   { tz: "Asia/Shanghai",    open: [9, 30], close: [16, 0] },
 };
 
 function isMarketOpen(region) {
@@ -216,14 +216,13 @@ function buildWeather(w) {
     <div class="weather-row">
       <div class="weather-icon">${CREATURES.inkSun}</div>
       <div class="weather-main">
-        <div class="weather-temp">${Math.round(w.tempC)}<sup>°C</sup></div>
-        <div class="weather-temp-alt">${Math.round(cToF(w.tempC))}<sup>°F</sup></div>
+        <div class="weather-temp">${Math.round(w.lowC)}°<span class="weather-temp-sep">–</span>${Math.round(w.highC)}<sup>°C</sup></div>
+        <div class="weather-temp-alt">${Math.round(cToF(w.lowC))}°–${Math.round(cToF(w.highC))}<sup>°F</sup></div>
         <div class="weather-cond">${esc(w.condition || "")}</div>
       </div>
     </div>
     <div class="weather-meta">
-      <span><b>High</b> ${Math.round(w.highC)}°C · ${Math.round(cToF(w.highC))}°F</span>
-      <span><b>Low</b> ${Math.round(w.lowC)}°C · ${Math.round(cToF(w.lowC))}°F</span>
+      <span><b>Now</b> ${Math.round(w.tempC)}°C · ${Math.round(cToF(w.tempC))}°F</span>
       <span><b>Rain</b> ${Math.round(w.rainChance)}%</span>
     </div>
   `;
@@ -269,7 +268,7 @@ function buildMarket(m) {
       `;
     }).join("");
     return `
-      <div class="region-col">
+      <div class="region-col${items.length > 2 ? " region-col--dense" : ""}">
         <div class="region-head">
           <span class="region-label">${esc(region)}</span>
           <span class="badge ${open ? "live" : "closed"}"><span class="dot"></span>${open ? "Live" : "Closed"}</span>

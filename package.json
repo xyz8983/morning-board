@@ -1,0 +1,13 @@
+{
+  "name": "morning-board",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal morning briefing board — daily-generated data.json rendered by a static frontend.",
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
