@@ -1,9 +1,10 @@
 name: Daily morning briefing
 
 on:
-  # 13:00 UTC ≈ 9am ET (EDT) / 8am ET (EST). Both are morning at the display.
+  # 13:00 UTC ≈ 9am ET (EDT), 19:00 UTC ≈ 3pm ET (EDT). 1-hour drift on EST is fine.
   schedule:
     - cron: "0 13 * * *"
+    - cron: "0 19 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -32,6 +33,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # AI_PROVIDER: anthropic
           # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+          # Optional: enables NewsAPI top-headlines for the "Today's buzz" card.
+          # Without this, only Google Trends feeds the card.
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
 
           # Optional overrides — defaults are New York City, ET.
           # LATITUDE: "40.7128"

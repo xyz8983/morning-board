@@ -1,44 +1,58 @@
 {
-  "generatedAt": "2026-07-07T01:16:31.566Z",
+  "generatedAt": "2026-07-24T20:26:21.859Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18.7,
-    "condition": "Heavy rain",
-    "code": 65,
-    "highC": 22,
-    "lowC": 18.5,
-    "rainChance": 85
+    "tempC": 27,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 28.4,
+    "lowC": 16.9,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "World Cup",
-          "Women's Soccer"
+          "Ford",
+          "Bronco Recall"
         ],
-        "summary": "The Women's World Cup continues with exciting matches and surprising upsets."
+        "summary": "Ford is buzzing due to recent recalls affecting Bronco vehicles."
       },
       {
         "keywords": [
-          "Soccer Player",
-          "USMNT"
+          "Morgan Wallen",
+          "New Song"
         ],
-        "summary": "US soccer star Gio Reyna is reportedly facing new challenges or opportunities with his club team."
+        "summary": "Morgan Wallen's new song \"Been By Now\" is buzzing among fans."
       },
       {
         "keywords": [
-          "Soccer Legend",
-          "WWC Analysis"
+          "Pete Hegseth",
+          "Military Policy"
         ],
-        "summary": "Soccer icon Abby Wambach is actively sharing her insights and commentary on the ongoing Women's World Cup."
+        "summary": "Pete Hegseth's comments on military testosterone policy are buzzing."
       },
       {
         "keywords": [
-          "MLB",
-          "Baseball Game"
+          "Netflix",
+          "Action Thriller"
         ],
-        "summary": "The Arizona Diamondbacks and San Diego Padres faced off in a key Major League Baseball series."
+        "summary": "Netflix's new \"Elite Force\" action thriller is buzzing with viewers."
+      },
+      {
+        "keywords": [
+          "Intel",
+          "Earnings Beat"
+        ],
+        "summary": "Intel exceeded earnings estimates, reporting its fastest sales growth in 15 years."
+      },
+      {
+        "keywords": [
+          "Trump",
+          "Saudi Deal"
+        ],
+        "summary": "Trump added a condition to the Saudi nuclear deal: normalizing relations with Israel."
       }
     ]
   },
@@ -48,60 +62,100 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7537.43,
-        "changePct": 0.7241515707100201
+        "price": 7411.98,
+        "changePct": 0.04967401428127076
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26121.16,
-        "changePct": 1.1167563308975594
+        "price": 24975.824,
+        "changePct": -0.6439294170710048
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6398.01,
-        "changePct": -0.22876550833660922
+        "price": 6280.94,
+        "changePct": 1.1395823302743648
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10651.77,
-        "changePct": -0.25526663002164257
+        "price": 10736.23,
+        "changePct": 0.9122892105305159
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 4041.2383,
-        "changePct": -0.059476067040834184
+        "price": 3814.198,
+        "changePct": -1.3662164503507945
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4841.998,
-        "changePct": -0.0036347310113264337
+        "price": 4649.192,
+        "changePct": -1.666877467479929
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23616.32,
-        "changePct": 1.1404268003081832
+        "price": 24963.23,
+        "changePct": -0.9820390538820519
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "What did the lightning bolt say to the thunder? You're shocking!",
-      "explanation": "It's a pun on 'shocking,' referring to electricity and surprise."
+      "joke": "My phone battery percentage is the most honest representation of my current life choices.",
+      "explanation": "It humorously links the universally relatable anxiety of a low phone battery to the larger, often overwhelming, concept of one's life choices, using deadpan internet humor."
     },
     "zh": {
-      "joke": "为什么雨滴总是那么悲伤？因为它们总是在 '下' 降。"
+      "joke": "当代年轻人的吃饭流程：拍照五分钟，修图十分钟，吃饭五分钟，然后打开外卖软件点下一顿。"
     }
+  },
+  "famousPeople": {
+    "headline": "Born today",
+    "people": [
+      {
+        "name": "Johan Georg Forchhammer",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Johan_Georg_Forchhammer.jpg/330px-Johan_Georg_Forchhammer.jpg",
+        "bio": "Danish geologist (1794–1865)",
+        "extract": "Johan Georg Forchhammer was a Danish mineralogist and geologist.",
+        "born": 1794,
+        "highlights": [
+          "Danish mineralogist.",
+          "Danish geologist."
+        ]
+      },
+      {
+        "name": "Dan Hedaya",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dan_Hedaya_2016.png/330px-Dan_Hedaya_2016.png",
+        "bio": "American actor (born 1940)",
+        "extract": "Daniel G. \"Dan\" Hedaya is an American actor best-known for his supporting roles in films such as Blood Simple, The Addams Family, Clueless, The Usual Suspects, A Night at the Roxbury, and Mulholland Drive.",
+        "born": 1940,
+        "highlights": [
+          "American actor known for supporting roles.",
+          "Appeared in \"The Addams Family\" and \"Clueless\".",
+          "Also in \"The Usual Suspects\" and \"Mulholland Drive\"."
+        ]
+      },
+      {
+        "name": "Ricky Petterd",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ricky_Petterd_Richmond_AFL_footballer.jpg",
+        "bio": "Australian rules footballer",
+        "extract": "Ricky Petterd is a former professional Australian rules footballer who played for the Melbourne Football Club and Richmond Football Club in the Australian Football League (AFL).",
+        "born": 1988,
+        "highlights": [
+          "Former professional Australian rules footballer.",
+          "Played for Melbourne Football Club.",
+          "Also played for Richmond Football Club."
+        ]
+      }
+    ]
   }
 }

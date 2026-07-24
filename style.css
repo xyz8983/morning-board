@@ -59,6 +59,7 @@ html, body {
 .card[data-kind="hotTopics"] { background: linear-gradient(135deg, #e8d3ca 0%, #cfb2aa 100%); } /* 藕荷 lotus-root pink */
 .card[data-kind="market"]    { background: linear-gradient(135deg, #d6ddc6 0%, #b1bc9c 100%); } /* 秋香 autumn sage */
 .card[data-kind="joke"]      { background: linear-gradient(135deg, #ecdcb4 0%, #d0bb7c 100%); } /* 缃色 silk gold */
+.card[data-kind="famousPeople"] { background: linear-gradient(135deg, #d9d2e0 0%, #b3a6c2 100%); } /* 群青 wisteria-grey */
 
 /* ---------- hand-drawn creature decorations ---------- */
 .deco {
@@ -108,7 +109,8 @@ html, body {
 .weather-meta,
 .topics-list,
 .market-grid,
-.joke-grid { position: relative; z-index: 2; }
+.joke-grid,
+.people-list { position: relative; z-index: 2; }
 
 /* ---------- weather card ---------- */
 .weather-row {
@@ -360,6 +362,81 @@ html, body {
   line-height: 1.4;
   color: var(--ink-soft);
   max-width: 26ch;
+}
+
+/* ---------- famous people card ---------- */
+.people-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2.4vh 2.4vw;
+  width: 100%;
+  max-width: 92vw;
+}
+.person {
+  background: rgba(250, 244, 226, 0.62);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  border-radius: 26px;
+  padding: 2.6vh 1.8vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1vh;
+  box-shadow:
+    0 4px 0 rgba(63, 56, 47, 0.05),
+    0 12px 22px rgba(63, 56, 47, 0.07);
+}
+.person:nth-child(1) { transform: rotate(-0.9deg); }
+.person:nth-child(2) { transform: rotate(0.7deg); }
+.person:nth-child(3) { transform: rotate(-0.6deg); }
+.person-photo {
+  width: clamp(72px, 9vw, 140px);
+  height: clamp(72px, 9vw, 140px);
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(63, 56, 47, 0.15);
+  box-shadow: 0 6px 14px rgba(63, 56, 47, 0.12);
+}
+.person-name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(16px, 1.9vw, 26px);
+  color: var(--ink);
+  line-height: 1.2;
+}
+.person-born {
+  font-weight: 600;
+  font-size: 0.7em;
+  color: var(--ink-soft);
+}
+.person-bio {
+  font-weight: 600;
+  font-size: clamp(13px, 1.5vw, 20px);
+  line-height: 1.35;
+  color: var(--ink-soft);
+}
+.person-highlights {
+  list-style: none;
+  text-align: left;
+  width: 100%;
+}
+.person-highlights li {
+  font-weight: 600;
+  font-size: clamp(13px, 1.5vw, 19px);
+  line-height: 1.35;
+  color: var(--ink-soft);
+  padding-left: 1.1em;
+  position: relative;
+}
+.person-highlights li + li { margin-top: 0.5vh; }
+.person-highlights li::before {
+  content: "·";
+  position: absolute;
+  left: 0.15em;
+  font-weight: 800;
+  color: var(--ink);
 }
 
 /* ---------- progress dots ---------- */

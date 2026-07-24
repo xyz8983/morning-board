@@ -98,11 +98,20 @@ Steps:
    WMO `weather_code` is mapped to a short condition string; `code` is preserved so the
    frontend can pick the right icon.
 
-2. **Hot topics** — Fetches Google Trends daily-trending RSS
-   (`https://trends.google.com/trending/rss?geo=US`), extracts the top titles with a
-   minimal regex parser (no XML dep), then sends them to the AI with a prompt asking for
-   4–5 topics as `{ keywords: string[], summary: string }` objects — matches the exact
-   frontend shape `hotTopics.topics[]`. Temperature 0.4.
+2. **Hot topics** — Mixed sourcing produces up to **4 topics** per run:
+   - **2 from Google Trends US** — top 2 titles from the daily-trending RSS
+     (`https://trends.google.com/trending/rss?geo=US`), parsed with a minimal regex.
+   - **2 from NewsAPI US top-headlines** — `GET /v2/top-headlines?country=us&pageSize=2`
+     (default general category). Requires `NEWSAPI_KEY`; silently skipped if unset.
+
+   (China coverage was dropped: NewsAPI's `country=cn` and `country=hk` return zero
+   articles in practice, and switching to `/v2/everything?q=China` was deemed too
+   noisy for the amount of value added.)
+
+   Both sources are fetched in parallel via `Promise.allSettled`; any that fail
+   contribute 0 items. The union is passed to the AI as a labeled `{ label, text }[]`
+   list (labels internal only) and the AI produces **one topic per input entry, in the
+   same order** — matches the frontend shape `hotTopics.topics[]`. Temperature 0.4.
 
 3. **Market** — Yahoo Finance (unofficial, no key), two representative indices per region:
    - US: `^GSPC` (S&P 500), `^IXIC` (Nasdaq)
@@ -147,6 +156,9 @@ cache TTL doesn't span daily runs).
 `LATITUDE`, `LONGITUDE`, `LOCATION_NAME`, `TIMEZONE`, `TRENDS_GEO` — all default to
 New York City / `America/New_York` / `US`, matching the current `data.json`.
 
+`NEWSAPI_KEY` — optional. Enables the NewsAPI top-headlines pull for the "Today's buzz"
+card (US + CN). If unset, the card falls back to Google Trends only.
+
 ## Frontend (`index.html` / `app.js` / `style.css`)
 
 - Single static page, **no framework, no build step**.
@@ -163,14 +175,20 @@ New York City / `America/New_York` / `US`, matching the current `data.json`.
 
 ## Workflow (`.github/workflows/briefing.yml`)
 
-- `on: schedule: cron: "0 13 * * *"` — 13:00 UTC ≈ 9am ET (EDT) / 8am ET (EST). The
-  1-hour DST drift is acceptable for a morning display; both variants land in the
-  morning. Also `workflow_dispatch` for manual runs.
+- **Two scheduled runs per day**:
+  - `cron: "0 13 * * *"` — 13:00 UTC ≈ 9am ET (EDT) / 8am ET (EST) — morning briefing.
+  - `cron: "0 19 * * *"` — 19:00 UTC ≈ 3pm ET (EDT) / 2pm ET (EST) — afternoon briefing.
+
+  Both runs execute the same job — no mode branching. Weather / market / joke /
+  hotTopics all regenerate on each run so the board stays current through the day. The
+  1-hour DST drift is acceptable; both runs still land in their intended time window.
+  Also `workflow_dispatch` for manual runs.
 - `permissions: contents: write` so the workflow can commit back to the repo.
 - Steps: checkout → setup Node 20 → `node scripts/generate.mjs` → `git commit && push`
   only if `data.json` actually changed.
-- Env: `AI_PROVIDER: gemini` + `GEMINI_API_KEY` from repo secrets. Anthropic wiring is
-  present but commented — swap the two lines and the secret name to switch providers.
+- Env: `AI_PROVIDER: gemini` + `GEMINI_API_KEY` from repo secrets; `NEWSAPI_KEY` also
+  from repo secrets (optional — script degrades gracefully if unset). Anthropic wiring
+  is present but commented — swap the two lines and the secret name to switch providers.
 - No `npm ci` step: the script has no runtime deps.
 
 ## Setup / deploy (one-time, done by the user)
@@ -179,10 +197,13 @@ New York City / `America/New_York` / `US`, matching the current `data.json`.
 2. Add repo secret **`GEMINI_API_KEY`** (grab a free key at
    https://aistudio.google.com/apikey). If you'd rather use Claude, add
    `ANTHROPIC_API_KEY` instead and flip the two lines in `briefing.yml`.
-3. Enable **GitHub Pages** (serve from the default branch root).
-4. Trigger the workflow manually once via **Actions → Daily morning briefing → Run
+3. Add repo secret **`NEWSAPI_KEY`** (free key at https://newsapi.org/register — 100
+   req/day tier, usage will be ~2/day = 1 call × 2 runs). Optional; without it the
+   "Today's buzz" card falls back to Google Trends only (2 topics per run).
+4. Enable **GitHub Pages** (serve from the default branch root).
+5. Trigger the workflow manually once via **Actions → Daily morning briefing → Run
    workflow**, then let the cron take over.
-5. Open the Pages URL on the iPad; enable Guided Access to keep it always-on.
+6. Open the Pages URL on the iPad; enable Guided Access to keep it always-on.
 
 ## Files
 

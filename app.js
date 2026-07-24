@@ -167,6 +167,7 @@ const DECOS = {
   hotTopics: [{ pos: "tl", key: "squirrel", size: "l"  }, { pos: "br", key: "inkLeaf",  size: "s"  }],
   market:    [{ pos: "bl", key: "hedgehog", size: "l"  }, { pos: "tr", key: "seal",     size: "xs" }],
   joke:      [{ pos: "tl", key: "bat",      size: "m"  }, { pos: "br", key: "seal",     size: "xs" }],
+  famousPeople: [{ pos: "tr", key: "inkLeaf", size: "s" }, { pos: "bl", key: "seal",   size: "xs" }],
 };
 
 function decorations(kind) {
@@ -306,6 +307,25 @@ function buildJoke(j) {
   `;
 }
 
+function buildFamousPeople(p) {
+  const people = (p.people || []).map((person) => {
+    const highlights = person.highlights?.length
+      ? `<ul class="person-highlights">${person.highlights.map((h) => `<li>${esc(h)}</li>`).join("")}</ul>`
+      : `<div class="person-bio">${esc(person.bio || person.extract || "")}</div>`;
+    return `
+    <li class="person">
+      <img class="person-photo" src="${esc(person.photoUrl)}" alt="${esc(person.name)}" loading="lazy">
+      <div class="person-name">${esc(person.name)}${person.born ? ` <span class="person-born">b. ${esc(person.born)}</span>` : ""}</div>
+      ${highlights}
+    </li>
+  `;
+  }).join("");
+  return `
+    <div class="card-title">${esc(p.headline || "Born today")}</div>
+    <ul class="people-list">${people}</ul>
+  `;
+}
+
 /* ---------- assemble ---------- */
 
 function render(data) {
@@ -318,6 +338,7 @@ function render(data) {
     data.hotTopics && { kind: "hotTopics", build: () => buildHotTopics(data.hotTopics) },
     data.market    && { kind: "market",    build: () => buildMarket(data.market) },
     data.joke      && { kind: "joke",      build: () => buildJoke(data.joke) },
+    data.famousPeople && { kind: "famousPeople", build: () => buildFamousPeople(data.famousPeople) },
   ].filter(Boolean);
 
   plan.forEach((item, i) => {

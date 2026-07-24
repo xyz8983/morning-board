@@ -53,5 +53,44 @@
     "zh": {
       "joke": "我朋友说他戒糖了,结果我看他还在喝可乐。他说:\"这是无糖的,是精神鼓励。\""
     }
+  },
+  "famousPeople": {
+    "headline": "Born today",
+    "people": [
+      {
+        "name": "Marie Curie",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marie_Curie_c._1920s.jpg/120px-Marie_Curie_c._1920s.jpg",
+        "bio": "Polish-French physicist and chemist",
+        "extract": "Pioneered research on radioactivity and was the first person to win Nobel Prizes in two different sciences.",
+        "born": 1867,
+        "highlights": [
+          "Discovered polonium and radium",
+          "First person to win Nobel Prizes in two sciences",
+          "Pioneered radioactivity research"
+        ]
+      },
+      {
+        "name": "Frida Kahlo",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/120px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
+        "bio": "Mexican painter",
+        "extract": "Known for vivid, surreal self-portraits exploring identity, pain, and Mexican culture.",
+        "born": 1907,
+        "highlights": [
+          "Famous for surreal self-portraits",
+          "Explored identity, pain, and Mexican culture"
+        ]
+      },
+      {
+        "name": "Yo-Yo Ma",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Yo-Yo_Ma_%28cropped%29.jpg/120px-Yo-Yo_Ma_%28cropped%29.jpg",
+        "bio": "French-American cellist",
+        "extract": "One of the most celebrated cellists of his generation, known for genre-spanning collaborations.",
+        "born": 1955,
+        "highlights": [
+          "World-renowned classical cellist",
+          "Known for genre-spanning collaborations"
+        ]
+      }
+    ]
   }
 }
