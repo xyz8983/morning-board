@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-24T20:26:21.859Z",
+  "generatedAt": "2026-07-25T14:37:19.190Z",
   "weather": {
     "location": "New York City",
-    "tempC": 27,
+    "tempC": 25.8,
     "condition": "Overcast",
     "code": 3,
-    "highC": 28.4,
-    "lowC": 16.9,
+    "highC": 28.5,
+    "lowC": 17.1,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,45 +14,27 @@
     "topics": [
       {
         "keywords": [
-          "Ford",
-          "Bronco Recall"
+          "Sam Patterson"
         ],
-        "summary": "Ford is buzzing due to recent recalls affecting Bronco vehicles."
+        "summary": "Sam Patterson is trending for recent notable performances."
       },
       {
         "keywords": [
-          "Morgan Wallen",
-          "New Song"
+          "Dustin Jacoby"
         ],
-        "summary": "Morgan Wallen's new song \"Been By Now\" is buzzing among fans."
+        "summary": "Dustin Jacoby is buzzing following his latest fight performance."
       },
       {
         "keywords": [
-          "Pete Hegseth",
-          "Military Policy"
+          "Valter Walker"
         ],
-        "summary": "Pete Hegseth's comments on military testosterone policy are buzzing."
+        "summary": "Valter Walker is buzzing after his recent professional debut."
       },
       {
         "keywords": [
-          "Netflix",
-          "Action Thriller"
+          "Sepp Kuss"
         ],
-        "summary": "Netflix's new \"Elite Force\" action thriller is buzzing with viewers."
-      },
-      {
-        "keywords": [
-          "Intel",
-          "Earnings Beat"
-        ],
-        "summary": "Intel exceeded earnings estimates, reporting its fastest sales growth in 15 years."
-      },
-      {
-        "keywords": [
-          "Trump",
-          "Saudi Deal"
-        ],
-        "summary": "Trump added a condition to the Saudi nuclear deal: normalizing relations with Israel."
+        "summary": "Sepp Kuss is buzzing for his recent cycling race victory."
       }
     ]
   },
@@ -91,7 +73,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3814.198,
-        "changePct": -1.3662164503507945
+        "changePct": -1.6142778285071717
       },
       {
         "region": "Asia",
@@ -111,49 +93,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone battery percentage is the most honest representation of my current life choices.",
-      "explanation": "It humorously links the universally relatable anxiety of a low phone battery to the larger, often overwhelming, concept of one's life choices, using deadpan internet humor."
+      "joke": "I'm not addicted to my phone, I just need to keep it charged to doomscroll through posts about digital detoxes.",
+      "explanation": "It's funny because it highlights the absurd cycle of being addicted to content about addiction, using current internet slang."
     },
     "zh": {
-      "joke": "当代年轻人的吃饭流程：拍照五分钟，修图十分钟，吃饭五分钟，然后打开外卖软件点下一顿。"
+      "joke": "每次说要‘爱自己’，最后都变成了：点一份最贵的宵夜，然后告诉自己这是‘精神投资’。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Johan Georg Forchhammer",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Johan_Georg_Forchhammer.jpg/330px-Johan_Georg_Forchhammer.jpg",
-        "bio": "Danish geologist (1794–1865)",
-        "extract": "Johan Georg Forchhammer was a Danish mineralogist and geologist.",
-        "born": 1794,
+        "name": "Diana Johnson",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dame_Diana_Johnson_Home_Office_portrait_%28cropped%29.jpg",
+        "bio": "British politician (born 1966)",
+        "extract": "Dame Diana Ruth Johnson is a British politician who has served as the Member of Parliament (MP) for Kingston upon Hull North since the 2005 general election. A member of the Labour Party, she has served as Minister of State in the Department for Health and Social Care since 2026.",
+        "born": 1966,
         "highlights": [
-          "Danish mineralogist.",
-          "Danish geologist."
+          "British politician.",
+          "MP for Kingston upon Hull North since 2005.",
+          "Minister of State, Health and Social Care since 2026."
         ]
       },
       {
-        "name": "Dan Hedaya",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dan_Hedaya_2016.png/330px-Dan_Hedaya_2016.png",
-        "bio": "American actor (born 1940)",
-        "extract": "Daniel G. \"Dan\" Hedaya is an American actor best-known for his supporting roles in films such as Blood Simple, The Addams Family, Clueless, The Usual Suspects, A Night at the Roxbury, and Mulholland Drive.",
-        "born": 1940,
+        "name": "Arthur II of Brittany",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Artur_Bretan.jpg",
+        "bio": "Duke of Brittany from 1305 to 1312",
+        "extract": "Arthur II, of the House of Dreux, was Duke of Brittany from 1305 to his death. He was the first son of John II and Beatrice, daughter of Henry III of England and Eleanor of Provence.",
+        "born": 1261,
         "highlights": [
-          "American actor known for supporting roles.",
-          "Appeared in \"The Addams Family\" and \"Clueless\".",
-          "Also in \"The Usual Suspects\" and \"Mulholland Drive\"."
+          "Duke of Brittany from 1305.",
+          "Of the House of Dreux.",
+          "Son of John II and Beatrice."
         ]
       },
       {
-        "name": "Ricky Petterd",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ricky_Petterd_Richmond_AFL_footballer.jpg",
-        "bio": "Australian rules footballer",
-        "extract": "Ricky Petterd is a former professional Australian rules footballer who played for the Melbourne Football Club and Richmond Football Club in the Australian Football League (AFL).",
-        "born": 1988,
+        "name": "Davidson Black",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Davidson_Black._Photogravure._Wellcome_V0026054.jpg/330px-Davidson_Black._Photogravure._Wellcome_V0026054.jpg",
+        "bio": "Canadian anthropologist",
+        "extract": "Davidson Black was a Canadian paleoanthropologist, best known for his naming of Sinanthropus pekinensis. He was Chairman of the Geological Survey of China and a Fellow of the Royal Society. He was known as 步達生 in China.",
+        "born": 1884,
         "highlights": [
-          "Former professional Australian rules footballer.",
-          "Played for Melbourne Football Club.",
-          "Also played for Richmond Football Club."
+          "Canadian paleoanthropologist.",
+          "Named Sinanthropus pekinensis.",
+          "Chairman of Geological Survey of China."
         ]
       }
     ]
