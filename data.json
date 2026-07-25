@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-25T14:37:19.190Z",
+  "generatedAt": "2026-07-25T20:09:33.384Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.8,
+    "tempC": 26.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 28.5,
+    "highC": 27.7,
     "lowC": 17.1,
     "rainChance": 0
   },
@@ -14,27 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Sam Patterson"
+          "MacKenzie Scott",
+          "Philanthropy"
         ],
-        "summary": "Sam Patterson is trending for recent notable performances."
+        "summary": "MacKenzie Scott is buzzing for her continued large-scale, unrestricted philanthropic donations to various organizations."
       },
       {
         "keywords": [
-          "Dustin Jacoby"
+          "Noah Maclauchlan",
+          "Golf Talent"
         ],
-        "summary": "Dustin Jacoby is buzzing following his latest fight performance."
+        "summary": "Noah Maclauchlan is buzzing as a rising talent in junior golf, gaining attention for his recent performances."
       },
       {
         "keywords": [
-          "Valter Walker"
+          "Tigers",
+          "Conservation"
         ],
-        "summary": "Valter Walker is buzzing after his recent professional debut."
+        "summary": "Tigers are buzzing due to ongoing conservation efforts and discussions about their declining wild populations."
       },
       {
         "keywords": [
-          "Sepp Kuss"
+          "US Junior",
+          "Amateur Golf"
         ],
-        "summary": "Sepp Kuss is buzzing for his recent cycling race victory."
+        "summary": "The US Junior Amateur 2026 is buzzing as young golfers look ahead to this prestigious future championship."
       }
     ]
   },
@@ -93,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I'm not addicted to my phone, I just need to keep it charged to doomscroll through posts about digital detoxes.",
-      "explanation": "It's funny because it highlights the absurd cycle of being addicted to content about addiction, using current internet slang."
+      "joke": "My nightly ritual is spending 30 minutes scrolling streaming services only to rewatch an episode of The Office.",
+      "explanation": "It highlights the modern paradox of endless streaming choices often leading to rewatching familiar comfort shows."
     },
     "zh": {
-      "joke": "每次说要‘爱自己’，最后都变成了：点一份最贵的宵夜，然后告诉自己这是‘精神投资’。"
+      "joke": "每天晚上睡觉前，我都会认真思考明天的早餐吃什么。这是我一天中最接近'人生规划'的时刻。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Diana Johnson",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dame_Diana_Johnson_Home_Office_portrait_%28cropped%29.jpg",
-        "bio": "British politician (born 1966)",
-        "extract": "Dame Diana Ruth Johnson is a British politician who has served as the Member of Parliament (MP) for Kingston upon Hull North since the 2005 general election. A member of the Labour Party, she has served as Minister of State in the Department for Health and Social Care since 2026.",
-        "born": 1966,
+        "name": "Gavrilo Princip",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gavrilo_Princip%2C_cell%2C_headshot%2C_bw_%28cropped%29.jpg/330px-Gavrilo_Princip%2C_cell%2C_headshot%2C_bw_%28cropped%29.jpg",
+        "bio": "Assassin of Archduke Franz Ferdinand (1894–1918)",
+        "extract": "Gavrilo Princip was a Bosnian Serb student who assassinated Archduke Franz Ferdinand, heir presumptive to the throne of Austria-Hungary, and his wife Sophie, Duchess of Hohenberg, in Sarajevo on 28 June 1914. The assassination set off the July Crisis, a series of events that within one month led to the outbreak of World War I.",
+        "born": 1894,
         "highlights": [
-          "British politician.",
-          "MP for Kingston upon Hull North since 2005.",
-          "Minister of State, Health and Social Care since 2026."
+          "Assassinated Archduke Franz Ferdinand in 1914.",
+          "His assassination led to the outbreak of World War I.",
+          "Bosnian Serb student."
         ]
       },
       {
-        "name": "Arthur II of Brittany",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Artur_Bretan.jpg",
-        "bio": "Duke of Brittany from 1305 to 1312",
-        "extract": "Arthur II, of the House of Dreux, was Duke of Brittany from 1305 to his death. He was the first son of John II and Beatrice, daughter of Henry III of England and Eleanor of Provence.",
-        "born": 1261,
+        "name": "Jerry Paris",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dick_Van_Dyke_and_Jerry_Paris.jpg/330px-Dick_Van_Dyke_and_Jerry_Paris.jpg",
+        "bio": "American actor and director (1925–1986)",
+        "extract": "William Gerald Paris was an American actor and director best known for playing Jerry Helper, the dentist and next-door neighbor of Rob and Laura Petrie on The Dick Van Dyke Show, and for directing the majority of the episodes of the sitcom Happy Days.",
+        "born": 1925,
         "highlights": [
-          "Duke of Brittany from 1305.",
-          "Of the House of Dreux.",
-          "Son of John II and Beatrice."
+          "Played Jerry Helper on The Dick Van Dyke Show.",
+          "Directed majority of episodes of Happy Days.",
+          "American actor and director."
         ]
       },
       {
-        "name": "Davidson Black",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Davidson_Black._Photogravure._Wellcome_V0026054.jpg/330px-Davidson_Black._Photogravure._Wellcome_V0026054.jpg",
-        "bio": "Canadian anthropologist",
-        "extract": "Davidson Black was a Canadian paleoanthropologist, best known for his naming of Sinanthropus pekinensis. He was Chairman of the Geological Survey of China and a Fellow of the Royal Society. He was known as 步達生 in China.",
-        "born": 1884,
+        "name": "Agostino Steffani",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1714_circa_Gerhard_Kappers%2C_Agostino_Steffani%2C_oil_on_canvas%2C_89_x_69_cm.jpg/330px-1714_circa_Gerhard_Kappers%2C_Agostino_Steffani%2C_oil_on_canvas%2C_89_x_69_cm.jpg",
+        "bio": "Italian composer and diplomat (1654–1728)",
+        "extract": "Agostino Steffani was an Italian bishop, polymath, diplomat and composer.",
+        "born": 1654,
         "highlights": [
-          "Canadian paleoanthropologist.",
-          "Named Sinanthropus pekinensis.",
-          "Chairman of Geological Survey of China."
+          "Italian bishop.",
+          "Polymath and diplomat.",
+          "Composer."
         ]
       }
     ]
