@@ -9,7 +9,12 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css" />
+  <!-- fetch() is a reliable single signal for "modern enough to skip the iOS 9
+       legacy build" — every browser that lacks it also lacks the other syntax
+       app.js/style.css need. Plain ES5 so it parses on Safari 9 too. -->
+  <script>
+    document.write('<link rel="stylesheet" href="' + (window.fetch ? "style.css" : "style.legacy.css") + '">');
+  </script>
 </head>
 <body>
   <main id="stage" class="stage">
@@ -19,6 +24,8 @@
   <!-- Progress dots indicating which card is showing -->
   <nav id="dots" class="dots" aria-hidden="true"></nav>
 
-  <script src="app.js"></script>
+  <script>
+    document.write('<script src="' + (window.fetch ? "app.js" : "app.legacy.js") + '"><' + '/script>');
+  </script>
 </body>
 </html>
