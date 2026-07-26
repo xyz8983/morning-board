@@ -5,9 +5,19 @@
   "type": "module",
   "description": "Personal morning briefing board — daily-generated data.json rendered by a static frontend.",
   "scripts": {
-    "generate": "node scripts/generate.mjs"
+    "generate": "node scripts/generate.mjs",
+    "build:legacy": "node scripts/build-legacy.mjs"
   },
   "engines": {
     "node": ">=20"
+  },
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "autoprefixer": "^10.5.4",
+    "postcss": "^8.5.23",
+    "postcss-custom-properties": "^15.0.1",
+    "regenerator-runtime": "^0.14.1",
+    "whatwg-fetch": "^3.6.20"
   }
 }

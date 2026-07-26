@@ -1,0 +1,47 @@
+name: iOS 9 legacy build
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "app.js"
+      - "style.css"
+      - "scripts/build-legacy.mjs"
+      - "package.json"
+      - "package-lock.json"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: legacy-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build app.legacy.js / style.legacy.css
+        run: npm run build:legacy
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "morning-board-bot"
+          git config user.email "morning-board-bot@users.noreply.github.com"
+          git add app.legacy.js style.legacy.css
+          if git diff --cached --quiet; then
+            echo "No changes to legacy build output"
+          else
+            git commit -m "chore: rebuild iOS 9 legacy assets"
+            git push
+          fi

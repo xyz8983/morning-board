@@ -19,6 +19,28 @@ const esc = (s) =>
 
 const cToF = (c) => (c * 9) / 5 + 32;
 
+const WEEKDAY_NAMES_LONG = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+const MONTH_NAMES_LONG = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December",
+];
+
+// "Thursday, July 24" — avoids Date.prototype.toLocaleDateString(options),
+// whose weekday/month-name support is unreliable on old WebKit.
+function formatLongDate(date) {
+  return `${WEEKDAY_NAMES_LONG[date.getDay()]}, ${MONTH_NAMES_LONG[date.getMonth()]} ${date.getDate()}`;
+}
+
+// "12,345.6" — avoids Number.prototype.toLocaleString(options), which old
+// Safari either ignores or only partially honors.
+function formatNumber(n, maxFractionDigits) {
+  const fixed = Number(n).toFixed(maxFractionDigits);
+  const trimmed = fixed.indexOf(".") === -1 ? fixed : fixed.replace(/0+$/, "").replace(/\.$/, "");
+  const [intPart, fracPart] = trimmed.split(".");
+  const withCommas = intPart.replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  return fracPart ? `${withCommas}.${fracPart}` : withCommas;
+}
+
 /* ---------- ink-painting creature SVGs ---------- */
 // Style: silhouette-forward ink brush look, warm-ink tones, soft washes.
 // Subjects chosen to be uncommon in the classical tradition (no koi / crane /
@@ -176,15 +198,60 @@ function decorations(kind) {
     .join("");
 }
 
-// Get {hour, minute, weekday} in a given IANA timezone right now
-function nowInZone(tz) {
-  const parts = new Intl.DateTimeFormat("en-US", {
-    timeZone: tz, hour: "2-digit", minute: "2-digit", weekday: "short", hour12: false,
-  }).formatToParts(new Date());
-  const get = (t) => parts.find((p) => p.type === t)?.value;
-  let hour = parseInt(get("hour"), 10);
-  if (hour === 24) hour = 0; // some engines report 24 at midnight
-  return { hour, minute: parseInt(get("minute"), 10), weekday: get("weekday") };
+// nth Sunday of a UTC month (0=Jan), 1-based n; last=true finds the last Sunday instead
+function nthSundayUTC(year, monthIdx, n, last) {
+  const d = last
+    ? new Date(Date.UTC(year, monthIdx + 1, 0)) // last day of month
+    : new Date(Date.UTC(year, monthIdx, 1));
+  const day = d.getUTCDay(); // 0 = Sunday
+  if (last) {
+    d.setUTCDate(d.getUTCDate() - day);
+  } else {
+    const offset = (7 - day) % 7;
+    d.setUTCDate(1 + offset + (n - 1) * 7);
+  }
+  return d;
+}
+
+// Fixed-rule DST windows so timezone math needs no Intl/ICU data at all
+const DST_RULES = {
+  US: {
+    // 2nd Sunday March -> 1st Sunday November
+    start: (y) => nthSundayUTC(y, 2, 2, false),
+    end:   (y) => nthSundayUTC(y, 10, 1, false),
+    stdOffsetMin: -5 * 60,
+    dstOffsetMin: -4 * 60,
+  },
+  Europe: {
+    // last Sunday March -> last Sunday October
+    start: (y) => nthSundayUTC(y, 2, 1, true),
+    end:   (y) => nthSundayUTC(y, 9, 1, true),
+    stdOffsetMin: 1 * 60,
+    dstOffsetMin: 2 * 60,
+  },
+};
+
+// Get {hour, minute, weekday} right now in a given zone key. Self-contained —
+// avoids Intl.DateTimeFormat().formatToParts(), which iOS 9 Safari either lacks
+// or throws on for non-UTC timeZone values.
+function nowInZone(zoneKey) {
+  const now = new Date();
+  let offsetMin;
+  if (zoneKey === "Asia/Shanghai") {
+    offsetMin = 8 * 60; // fixed, no DST
+  } else {
+    const rule = zoneKey === "America/New_York" ? DST_RULES.US : DST_RULES.Europe;
+    const year = now.getUTCFullYear();
+    const inDst = now >= rule.start(year) && now < rule.end(year);
+    offsetMin = inDst ? rule.dstOffsetMin : rule.stdOffsetMin;
+  }
+  const local = new Date(now.getTime() + offsetMin * 60000);
+  const weekdayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  return {
+    hour: local.getUTCHours(),
+    minute: local.getUTCMinutes(),
+    weekday: weekdayNames[local.getUTCDay()],
+  };
 }
 
 // Exchange trading hours per region (local exchange time)
@@ -209,9 +276,7 @@ function isMarketOpen(region) {
 
 function buildWeather(w) {
   const now = new Date();
-  const dateStr = now.toLocaleDateString(undefined, {
-    weekday: "long", month: "long", day: "numeric",
-  });
+  const dateStr = formatLongDate(now);
   return `
     <div class="card-title">${esc(dateStr)} · ${esc(w.location || "Weather")}</div>
     <div class="weather-row">
@@ -263,7 +328,7 @@ function buildMarket(m) {
       return `
         <div class="index">
           <div class="index-name">${esc(idx.name)}</div>
-          <div class="index-price">${Number(idx.price).toLocaleString(undefined, { maximumFractionDigits: 2 })}</div>
+          <div class="index-price">${formatNumber(idx.price, 2)}</div>
           <div class="index-change ${up ? "up" : "down"}">${arrow} ${sign}${idx.changePct.toFixed(2)}%</div>
         </div>
       `;
@@ -361,7 +426,7 @@ function render(data) {
 
 function show(i) {
   cards.forEach((el, idx) => el.classList.toggle("is-active", idx === i));
-  [...dotsNav.children].forEach((d, idx) => d.classList.toggle("active", idx === i));
+  Array.prototype.slice.call(dotsNav.children).forEach((d, idx) => d.classList.toggle("active", idx === i));
 }
 
 function goto(i) {

@@ -18,8 +18,8 @@ html, body {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  font-family: var(--font-body);
-  color: var(--ink);
+  font-family: "Nunito", system-ui, -apple-system, sans-serif;
+  color: #3f382f;
   -webkit-font-smoothing: antialiased;
   -webkit-user-select: none;
   user-select: none;
@@ -35,7 +35,10 @@ html, body {
 
 .card {
   position: absolute;
-  inset: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -44,7 +47,7 @@ html, body {
   padding: 5vh 6vw;
   opacity: 0;
   transform: scale(1.04);
-  transition: opacity var(--transition), transform var(--transition);
+  transition: opacity 700ms cubic-bezier(0.22, 1, 0.36, 1), transform 700ms cubic-bezier(0.22, 1, 0.36, 1);
   pointer-events: none;
 }
 
@@ -66,7 +69,8 @@ html, body {
   position: absolute;
   z-index: 0;
   pointer-events: none;
-  filter: drop-shadow(0 6px 10px rgba(63, 56, 47, 0.10));
+  -webkit-filter: drop-shadow(0 6px 10px rgba(63, 56, 47, 0.10));
+          filter: drop-shadow(0 6px 10px rgba(63, 56, 47, 0.10));
 }
 .deco svg { width: 100%; height: auto; display: block; }
 .deco--xs { width: 7vh; }
@@ -95,10 +99,10 @@ html, body {
   box-shadow:
     0 4px 0 rgba(63, 56, 47, 0.06),
     0 12px 24px rgba(63, 56, 47, 0.08);
-  font-family: var(--font-display);
+  font-family: "Baloo 2", system-ui, -apple-system, sans-serif;
   font-weight: 800;
-  font-size: clamp(16px, 2vw, 26px);
-  color: var(--ink);
+  font-size: 20.48px;
+  color: #3f382f;
   margin-bottom: 3.2vh;
   letter-spacing: 0.01em;
   transform: rotate(-1.2deg);
@@ -119,7 +123,7 @@ html, body {
   gap: 4vw;
 }
 .weather-icon {
-  width: clamp(140px, 20vw, 260px);
+  width: 204.8px;
   line-height: 0;
   animation: bob 4s ease-in-out infinite;
   transform-origin: center;
@@ -136,16 +140,16 @@ html, body {
   text-align: left;
 }
 .weather-temp {
-  font-family: var(--font-display);
+  font-family: "Baloo 2", system-ui, -apple-system, sans-serif;
   font-weight: 800;
-  font-size: clamp(80px, 15vw, 200px);
+  font-size: 153.6px;
   line-height: 0.9;
 }
 .weather-temp sup { font-size: 0.32em; vertical-align: super; margin-left: 0.05em; }
 .weather-temp-alt {
-  font-family: var(--font-display);
+  font-family: "Baloo 2", system-ui, -apple-system, sans-serif;
   font-weight: 700;
-  font-size: clamp(28px, 4vw, 56px);
+  font-size: 40.96px;
   line-height: 1;
   margin-top: 1.2vh;
   color: rgba(63, 56, 47, 0.7);
@@ -153,17 +157,17 @@ html, body {
 .weather-temp-alt sup { font-size: 0.5em; vertical-align: super; margin-left: 0.05em; }
 .weather-cond {
   font-weight: 700;
-  font-size: clamp(20px, 2.8vw, 38px);
+  font-size: 28.67px;
   margin-top: 1.4vh;
-  color: var(--ink);
+  color: #3f382f;
 }
 .weather-meta {
   display: flex;
   gap: 3vw;
   margin-top: 4vh;
   font-weight: 700;
-  font-size: clamp(16px, 2vw, 28px);
-  color: var(--ink-soft);
+  font-size: 20.48px;
+  color: #7a6f5f;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -204,14 +208,14 @@ html, body {
   background: rgba(63, 56, 47, 0.85);
   color: #fff;
   font-weight: 800;
-  font-size: clamp(13px, 1.5vw, 20px);
+  font-size: 15.36px;
   letter-spacing: 0.02em;
 }
 .topic-summary {
   font-weight: 600;
-  font-size: clamp(16px, 2vw, 26px);
+  font-size: 20.48px;
   line-height: 1.35;
-  color: var(--ink);
+  color: #3f382f;
 }
 
 /* ---------- market card ---------- */
@@ -235,12 +239,12 @@ html, body {
   padding: 0 0.4vw;
 }
 .region-label {
-  font-family: var(--font-display);
+  font-family: "Baloo 2", system-ui, -apple-system, sans-serif;
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  font-size: clamp(18px, 2vw, 28px);
-  color: var(--ink);
+  font-size: 20.48px;
+  color: #3f382f;
 }
 .index {
   background: rgba(250, 244, 226, 0.62);
@@ -261,14 +265,14 @@ html, body {
   border-radius: 18px;
 }
 .region-col--dense .index-name {
-  font-size: clamp(14px, 1.55vw, 22px);
+  font-size: 15.87px;
   margin-bottom: 0.3vh;
 }
 .region-col--dense .index-price {
-  font-size: clamp(16px, 2vw, 28px);
+  font-size: 20.48px;
 }
 .region-col--dense .index-change {
-  font-size: clamp(14px, 1.55vw, 22px);
+  font-size: 15.87px;
   margin-top: 0.2vh;
 }
 .region-col:nth-child(odd) .index:nth-child(2)  { transform: rotate(-0.8deg); }
@@ -276,30 +280,30 @@ html, body {
 .region-col:nth-child(even) .index:nth-child(2) { transform: rotate(0.7deg); }
 .region-col:nth-child(even) .index:nth-child(3) { transform: rotate(-1deg); }
 .index-name {
-  font-family: var(--font-display);
+  font-family: "Baloo 2", system-ui, -apple-system, sans-serif;
   font-weight: 700;
-  font-size: clamp(18px, 2.2vw, 30px);
+  font-size: 22.53px;
   margin-bottom: 0.6vh;
-  color: var(--ink);
+  color: #3f382f;
 }
 .index-price {
   font-weight: 800;
-  font-size: clamp(22px, 2.8vw, 40px);
+  font-size: 28.67px;
 }
 .index-change {
   font-weight: 800;
-  font-size: clamp(18px, 2.2vw, 30px);
+  font-size: 22.53px;
   margin-top: 0.4vh;
 }
-.index-change.up { color: var(--up); }
-.index-change.down { color: var(--down); }
+.index-change.up { color: #6a8f6a; }
+.index-change.down { color: #a3625d; }
 .badge {
   display: inline-flex;
   align-items: center;
   padding: 0.3em 0.8em;
   border-radius: 999px;
   font-weight: 800;
-  font-size: clamp(11px, 1.2vw, 16px);
+  font-size: 12.29px;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -345,22 +349,22 @@ html, body {
   font-weight: 800;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  font-size: clamp(13px, 1.4vw, 20px);
-  color: var(--ink-soft);
+  font-size: 14.34px;
+  color: #7a6f5f;
 }
 .joke-text {
-  font-family: var(--font-display);
+  font-family: "Baloo 2", system-ui, -apple-system, sans-serif;
   font-weight: 700;
-  font-size: clamp(22px, 3.2vw, 46px);
+  font-size: 32.77px;
   line-height: 1.25;
-  color: var(--ink);
+  color: #3f382f;
   max-width: 22ch;
 }
 .joke-why {
   font-weight: 600;
-  font-size: clamp(15px, 1.8vw, 24px);
+  font-size: 18.43px;
   line-height: 1.4;
-  color: var(--ink-soft);
+  color: #7a6f5f;
   max-width: 26ch;
 }
 
@@ -392,30 +396,30 @@ html, body {
 .person:nth-child(2) { transform: rotate(0.7deg); }
 .person:nth-child(3) { transform: rotate(-0.6deg); }
 .person-photo {
-  width: clamp(72px, 9vw, 140px);
-  height: clamp(72px, 9vw, 140px);
+  width: 92.16px;
+  height: 92.16px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid rgba(63, 56, 47, 0.15);
   box-shadow: 0 6px 14px rgba(63, 56, 47, 0.12);
 }
 .person-name {
-  font-family: var(--font-display);
+  font-family: "Baloo 2", system-ui, -apple-system, sans-serif;
   font-weight: 700;
-  font-size: clamp(16px, 1.9vw, 26px);
-  color: var(--ink);
+  font-size: 19.46px;
+  color: #3f382f;
   line-height: 1.2;
 }
 .person-born {
   font-weight: 600;
   font-size: 0.7em;
-  color: var(--ink-soft);
+  color: #7a6f5f;
 }
 .person-bio {
   font-weight: 600;
-  font-size: clamp(13px, 1.5vw, 20px);
+  font-size: 15.36px;
   line-height: 1.35;
-  color: var(--ink-soft);
+  color: #7a6f5f;
 }
 .person-highlights {
   list-style: none;
@@ -424,9 +428,9 @@ html, body {
 }
 .person-highlights li {
   font-weight: 600;
-  font-size: clamp(13px, 1.5vw, 19px);
+  font-size: 15.36px;
   line-height: 1.35;
-  color: var(--ink-soft);
+  color: #7a6f5f;
   padding-left: 1.1em;
   position: relative;
 }
@@ -436,7 +440,7 @@ html, body {
   position: absolute;
   left: 0.15em;
   font-weight: 800;
-  color: var(--ink);
+  color: #3f382f;
 }
 
 /* ---------- pre-Grid fallback (CSS Grid + flex `gap` are unsupported before
@@ -512,8 +516,8 @@ html, body {
 
 /* ---------- error state ---------- */
 .error {
-  position: absolute; inset: 0;
+  position: absolute; top: 0; right: 0; bottom: 0; left: 0;
   display: flex; align-items: center; justify-content: center;
-  font-weight: 700; font-size: 24px; color: var(--ink-soft);
+  font-weight: 700; font-size: 24px; color: #7a6f5f;
   background: #fff7ef;
 }
