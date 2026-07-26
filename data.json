@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-07-25T20:09:33.384Z",
+  "generatedAt": "2026-07-26T14:28:33.573Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.7,
+    "tempC": 24.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 27.7,
-    "lowC": 17.1,
-    "rainChance": 0
+    "highC": 29.1,
+    "lowC": 16.8,
+    "rainChance": 2
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "MacKenzie Scott",
-          "Philanthropy"
+          "Shea Langeliers",
+          "MLB"
         ],
-        "summary": "MacKenzie Scott is buzzing for her continued large-scale, unrestricted philanthropic donations to various organizations."
+        "summary": "Shea Langeliers is buzzing due to his recent impressive performance in MLB."
       },
       {
         "keywords": [
-          "Noah Maclauchlan",
-          "Golf Talent"
+          "All-Ireland Football",
+          "2026 Final"
         ],
-        "summary": "Noah Maclauchlan is buzzing as a rising talent in junior golf, gaining attention for his recent performances."
+        "summary": "The 2026 All-Ireland Football Final is buzzing as fans anticipate the major sporting event."
       },
       {
         "keywords": [
-          "Tigers",
-          "Conservation"
+          "Cody John",
+          "Viral Content"
         ],
-        "summary": "Tigers are buzzing due to ongoing conservation efforts and discussions about their declining wild populations."
+        "summary": "Cody John is buzzing for his engaging content or recent viral activity online."
       },
       {
         "keywords": [
-          "US Junior",
-          "Amateur Golf"
+          "Overtourism",
+          "Travel Impact"
         ],
-        "summary": "The US Junior Amateur 2026 is buzzing as young golfers look ahead to this prestigious future championship."
+        "summary": "Overtourism is buzzing as destinations grapple with excessive visitor numbers and their environmental impact."
       }
     ]
   },
@@ -76,8 +76,8 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3814.198,
-        "changePct": -1.6142778285071717
+        "price": 3814.1978,
+        "changePct": -1.6142144662268911
       },
       {
         "region": "Asia",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My nightly ritual is spending 30 minutes scrolling streaming services only to rewatch an episode of The Office.",
-      "explanation": "It highlights the modern paradox of endless streaming choices often leading to rewatching familiar comfort shows."
+      "joke": "My phone storage is full. The last photo I took was of the 'storage full' notification.",
+      "explanation": "It's funny because it captures a common, frustrating modern tech problem with a deadpan, circular observation."
     },
     "zh": {
-      "joke": "每天晚上睡觉前，我都会认真思考明天的早餐吃什么。这是我一天中最接近'人生规划'的时刻。"
+      "joke": "我最近在研究一个高深的课题：如何用一个“嗯嗯”完美结束一段对话，让对方觉得你既礼貌又不想继续聊了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Gavrilo Princip",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gavrilo_Princip%2C_cell%2C_headshot%2C_bw_%28cropped%29.jpg/330px-Gavrilo_Princip%2C_cell%2C_headshot%2C_bw_%28cropped%29.jpg",
-        "bio": "Assassin of Archduke Franz Ferdinand (1894–1918)",
-        "extract": "Gavrilo Princip was a Bosnian Serb student who assassinated Archduke Franz Ferdinand, heir presumptive to the throne of Austria-Hungary, and his wife Sophie, Duchess of Hohenberg, in Sarajevo on 28 June 1914. The assassination set off the July Crisis, a series of events that within one month led to the outbreak of World War I.",
-        "born": 1894,
+        "name": "Daniel J. Callaghan",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/80-G-11671_Captain_Daniel_J._Callaghan%2C_USN.jpg/330px-80-G-11671_Captain_Daniel_J._Callaghan%2C_USN.jpg",
+        "bio": "United States Navy admiral (1890-1942)",
+        "extract": "Daniel Judson Callaghan was a United States Navy officer who served his country in two wars, in a three-decades-long career. Callaghan served on several ships during his first 20 years of service, including escort duties during World War I, and also filled some shore-based administrative roles. He later came to the attention of President Franklin D. Roosevelt, who appointed Callaghan as his naval aide in 1938.",
+        "born": 1890,
         "highlights": [
-          "Assassinated Archduke Franz Ferdinand in 1914.",
-          "His assassination led to the outbreak of World War I.",
-          "Bosnian Serb student."
+          "United States Navy officer who served in two wars.",
+          "Served escort duties during World War I.",
+          "Appointed naval aide to President Franklin D. Roosevelt."
         ]
       },
       {
-        "name": "Jerry Paris",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dick_Van_Dyke_and_Jerry_Paris.jpg/330px-Dick_Van_Dyke_and_Jerry_Paris.jpg",
-        "bio": "American actor and director (1925–1986)",
-        "extract": "William Gerald Paris was an American actor and director best known for playing Jerry Helper, the dentist and next-door neighbor of Rob and Laura Petrie on The Dick Van Dyke Show, and for directing the majority of the episodes of the sitcom Happy Days.",
-        "born": 1925,
+        "name": "Thaksin Shinawatra",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Thaksin_Shinawatra_03-04-2025.jpg/330px-Thaksin_Shinawatra_03-04-2025.jpg",
+        "bio": "Prime Minister of Thailand from 2001 to 2006",
+        "extract": "Thaksin Shinawatra is a Thai former politician, businessman, and police officer who served as the 23rd prime minister of Thailand from 2001 until his overthrow in 2006. Since 2009 he has also been a citizen of Montenegro.",
+        "born": 1949,
         "highlights": [
-          "Played Jerry Helper on The Dick Van Dyke Show.",
-          "Directed majority of episodes of Happy Days.",
-          "American actor and director."
+          "Served as 23rd prime minister of Thailand from 2001.",
+          "Overthrown as prime minister in 2006.",
+          "Also a citizen of Montenegro since 2009."
         ]
       },
       {
-        "name": "Agostino Steffani",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1714_circa_Gerhard_Kappers%2C_Agostino_Steffani%2C_oil_on_canvas%2C_89_x_69_cm.jpg/330px-1714_circa_Gerhard_Kappers%2C_Agostino_Steffani%2C_oil_on_canvas%2C_89_x_69_cm.jpg",
-        "bio": "Italian composer and diplomat (1654–1728)",
-        "extract": "Agostino Steffani was an Italian bishop, polymath, diplomat and composer.",
-        "born": 1654,
+        "name": "James Naismith (chemist)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Professor_James_Naismith_FMedSci_FRS.jpg/330px-Professor_James_Naismith_FMedSci_FRS.jpg",
+        "bio": "British biologist (born 1968)",
+        "extract": "James Henderson Naismith is a Scot, Professor of Structural Biology and since autumn of 2023 the Head of the Mathematical, Physical, and Life Science Division (MPLS) Division at the University of Oxford. He is also currently Vice-President (non-clinical) of The Academy of Medical Sciences and a Fellow of Jesus College. He was the acting and inaugural Director (2017-2023) of the Rosalind Franklin Institute and Director of the Research Complex at Harwell. He served as Bishop Wardlaw Professor of Chemical Biology at the University of St Andrews. He was a member of Council of the Royal Society (2021-2022) and the Vice-Chair of Council (2022-2024) of the European X-ray Free Electron Laser.",
+        "born": 1968,
         "highlights": [
-          "Italian bishop.",
-          "Polymath and diplomat.",
-          "Composer."
+          "Head of Mathematical, Physical, and Life Science Division, Oxford.",
+          "Vice-President (non-clinical) of The Academy of Medical Sciences.",
+          "Inaugural Director of the Rosalind Franklin Institute (2017-2023)."
         ]
       }
     ]
