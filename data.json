@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-26T14:28:33.573Z",
+  "generatedAt": "2026-07-26T20:06:55.273Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.5,
+    "tempC": 29.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 29.1,
+    "highC": 29.9,
     "lowC": 16.8,
     "rainChance": 2
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Shea Langeliers",
-          "MLB"
+          "TPC Twin Cities",
+          "Golf Tournament"
         ],
-        "summary": "Shea Langeliers is buzzing due to his recent impressive performance in MLB."
+        "summary": "TPC Twin Cities is buzzing as it hosts a major golf tournament."
       },
       {
         "keywords": [
-          "All-Ireland Football",
-          "2026 Final"
+          "Chase Elliott",
+          "NASCAR Driver"
         ],
-        "summary": "The 2026 All-Ireland Football Final is buzzing as fans anticipate the major sporting event."
+        "summary": "NASCAR fans are buzzing about Chase Elliott's recent performance on the track."
       },
       {
         "keywords": [
-          "Cody John",
-          "Viral Content"
+          "Tyrone Taylor",
+          "MLB Player"
         ],
-        "summary": "Cody John is buzzing for his engaging content or recent viral activity online."
+        "summary": "Tyrone Taylor is buzzing among baseball fans for his recent impactful plays."
       },
       {
         "keywords": [
-          "Overtourism",
-          "Travel Impact"
+          "Willie Cauley-Stein",
+          "Basketball Player"
         ],
-        "summary": "Overtourism is buzzing as destinations grapple with excessive visitor numbers and their environmental impact."
+        "summary": "Willie Cauley-Stein is buzzing as news circulates about his basketball career."
       }
     ]
   },
@@ -56,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 24975.824,
-        "changePct": -0.6439294170710048
+        "changePct": -0.6439570843792399
       },
       {
         "region": "Europe",
@@ -70,77 +70,77 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10736.23,
-        "changePct": 0.9122892105305159
+        "changePct": 0.912004662004651
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3814.1978,
-        "changePct": -1.6142144662268911
+        "price": 3814.198,
+        "changePct": -1.6142778285071717
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4649.192,
-        "changePct": -1.666877467479929
+        "changePct": -1.6668358714043991
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24963.23,
-        "changePct": -0.9820390538820519
+        "changePct": -0.9819997778729739
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone storage is full. The last photo I took was of the 'storage full' notification.",
-      "explanation": "It's funny because it captures a common, frustrating modern tech problem with a deadpan, circular observation."
+      "joke": "My smart device just updated. I'm truly grateful for the new feature that complicates tasks I already knew how to do.",
+      "explanation": "Sarcastic jab at app updates often making interfaces less intuitive, despite being sold as improvements. A common modern frustration."
     },
     "zh": {
-      "joke": "我最近在研究一个高深的课题：如何用一个“嗯嗯”完美结束一段对话，让对方觉得你既礼貌又不想继续聊了。"
+      "joke": "公司群里，99%的消息都是“收到”，剩下1%是领导发的通知，然后大家再发99个“收到”。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Daniel J. Callaghan",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/80-G-11671_Captain_Daniel_J._Callaghan%2C_USN.jpg/330px-80-G-11671_Captain_Daniel_J._Callaghan%2C_USN.jpg",
-        "bio": "United States Navy admiral (1890-1942)",
-        "extract": "Daniel Judson Callaghan was a United States Navy officer who served his country in two wars, in a three-decades-long career. Callaghan served on several ships during his first 20 years of service, including escort duties during World War I, and also filled some shore-based administrative roles. He later came to the attention of President Franklin D. Roosevelt, who appointed Callaghan as his naval aide in 1938.",
-        "born": 1890,
+        "name": "Tom Saffell",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tom_Saffell_1952_%28cropped%29.jpg/330px-Tom_Saffell_1952_%28cropped%29.jpg",
+        "bio": "American baseball player (1921–2012)",
+        "extract": "Thomas Judson Saffell was an American professional baseball outfielder. He played in Major League Baseball (MLB) for the Pittsburgh Pirates and Kansas City Athletics.",
+        "born": 1921,
         "highlights": [
-          "United States Navy officer who served in two wars.",
-          "Served escort duties during World War I.",
-          "Appointed naval aide to President Franklin D. Roosevelt."
+          "American professional baseball outfielder.",
+          "Played in Major League Baseball (MLB).",
+          "Played for Pittsburgh Pirates and Kansas City Athletics."
         ]
       },
       {
-        "name": "Thaksin Shinawatra",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Thaksin_Shinawatra_03-04-2025.jpg/330px-Thaksin_Shinawatra_03-04-2025.jpg",
-        "bio": "Prime Minister of Thailand from 2001 to 2006",
-        "extract": "Thaksin Shinawatra is a Thai former politician, businessman, and police officer who served as the 23rd prime minister of Thailand from 2001 until his overthrow in 2006. Since 2009 he has also been a citizen of Montenegro.",
-        "born": 1949,
+        "name": "Carl Jung",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif/lossy-page1-330px-ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif.jpg",
+        "bio": "Swiss psychiatrist and psychotherapist (1875–1961)",
+        "extract": "Carl Gustav Jung was a Swiss psychiatrist, psychotherapist, and psychologist who founded the school of analytical psychology. He was a prolific author of over twenty books, illustrator, correspondent, and academic, best known for his concept of archetypes. Widely considered one of the most influential psychologists of all time, Jung's work has fostered not only scholarship, but also popular interest. His work has been influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, psychology, and religious studies.",
+        "born": 1875,
         "highlights": [
-          "Served as 23rd prime minister of Thailand from 2001.",
-          "Overthrown as prime minister in 2006.",
-          "Also a citizen of Montenegro since 2009."
+          "Swiss psychiatrist and psychologist.",
+          "Founded the school of analytical psychology.",
+          "Best known for his concept of archetypes."
         ]
       },
       {
-        "name": "James Naismith (chemist)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Professor_James_Naismith_FMedSci_FRS.jpg/330px-Professor_James_Naismith_FMedSci_FRS.jpg",
-        "bio": "British biologist (born 1968)",
-        "extract": "James Henderson Naismith is a Scot, Professor of Structural Biology and since autumn of 2023 the Head of the Mathematical, Physical, and Life Science Division (MPLS) Division at the University of Oxford. He is also currently Vice-President (non-clinical) of The Academy of Medical Sciences and a Fellow of Jesus College. He was the acting and inaugural Director (2017-2023) of the Rosalind Franklin Institute and Director of the Research Complex at Harwell. He served as Bishop Wardlaw Professor of Chemical Biology at the University of St Andrews. He was a member of Council of the Royal Society (2021-2022) and the Vice-Chair of Council (2022-2024) of the European X-ray Free Electron Laser.",
-        "born": 1968,
+        "name": "Tyson Barrie",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tyson_Barrie_-_Avalanche.jpg/330px-Tyson_Barrie_-_Avalanche.jpg",
+        "bio": "Canadian ice hockey player (born 1991)",
+        "extract": "Tyson Barrie is a Canadian former professional ice hockey defenceman and current Vancouver Canucks analyst for Sportsnet. He played in the National Hockey League (NHL) for the Colorado Avalanche, Toronto Maple Leafs, Edmonton Oilers, Nashville Predators, and Calgary Flames. He was drafted by the Avalanche in the third round, 64th overall, of the 2009 NHL entry draft.",
+        "born": 1991,
         "highlights": [
-          "Head of Mathematical, Physical, and Life Science Division, Oxford.",
-          "Vice-President (non-clinical) of The Academy of Medical Sciences.",
-          "Inaugural Director of the Rosalind Franklin Institute (2017-2023)."
+          "Canadian professional ice hockey defenceman.",
+          "Played in the National Hockey League (NHL).",
+          "Current Vancouver Canucks analyst for Sportsnet."
         ]
       }
     ]
