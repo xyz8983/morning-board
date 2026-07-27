@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-07-26T20:06:55.273Z",
+  "generatedAt": "2026-07-27T15:41:53.115Z",
   "weather": {
     "location": "New York City",
-    "tempC": 29.9,
+    "tempC": 27.4,
     "condition": "Overcast",
     "code": 3,
-    "highC": 29.9,
-    "lowC": 16.8,
-    "rainChance": 2
+    "highC": 29,
+    "lowC": 20.1,
+    "rainChance": 14
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "TPC Twin Cities",
-          "Golf Tournament"
+          "Larry Bird",
+          "NBA Legend"
         ],
-        "summary": "TPC Twin Cities is buzzing as it hosts a major golf tournament."
+        "summary": "Larry Bird is buzzing due to recent discussions about his legendary basketball career and impact."
       },
       {
         "keywords": [
-          "Chase Elliott",
-          "NASCAR Driver"
+          "Cook Islands",
+          "Travel Destination"
         ],
-        "summary": "NASCAR fans are buzzing about Chase Elliott's recent performance on the track."
+        "summary": "The Cook Islands are buzzing as a sought-after travel destination, known for pristine beaches."
       },
       {
         "keywords": [
-          "Tyrone Taylor",
-          "MLB Player"
+          "Great White",
+          "Shark Sightings"
         ],
-        "summary": "Tyrone Taylor is buzzing among baseball fans for his recent impactful plays."
+        "summary": "Great white sharks are buzzing due to increased sightings and research on their migration patterns."
       },
       {
         "keywords": [
-          "Willie Cauley-Stein",
-          "Basketball Player"
+          "Pressure",
+          "Mental Health"
         ],
-        "summary": "Willie Cauley-Stein is buzzing as news circulates about his basketball career."
+        "summary": "\"Pressure\" is buzzing in discussions related to stress, mental health, and performance in various fields."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7411.98,
-        "changePct": 0.04967401428127076
+        "price": 7392.29,
+        "changePct": -0.26565101362928123
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24975.824,
-        "changePct": -0.6439570843792399
+        "price": 24843.527,
+        "changePct": -0.5297002413213766
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6280.94,
-        "changePct": 1.1395823302743648
+        "price": 6294.9,
+        "changePct": 0.2222597254551076
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10736.23,
-        "changePct": 0.912004662004651
+        "price": 10801.94,
+        "changePct": 0.6120397942294543
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3814.198,
-        "changePct": -1.6142778285071717
+        "price": 3858.245,
+        "changePct": 1.1548221227540945
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4649.192,
-        "changePct": -1.6668358714043991
+        "price": 4702.427,
+        "changePct": 1.145037675363798
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24963.23,
-        "changePct": -0.9819997778729739
+        "price": 25207.18,
+        "changePct": 0.9772373206512167
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My smart device just updated. I'm truly grateful for the new feature that complicates tasks I already knew how to do.",
-      "explanation": "Sarcastic jab at app updates often making interfaces less intuitive, despite being sold as improvements. A common modern frustration."
+      "joke": "My phone's screen time report is just a really long, self-deprecating documentary.",
+      "explanation": "It's a relatable modern observation about spending too much time on phones, framed as a 'documentary' of one's less-than-productive habits."
     },
     "zh": {
-      "joke": "公司群里，99%的消息都是“收到”，剩下1%是领导发的通知，然后大家再发99个“收到”。"
+      "joke": "朋友问我最近怎么样，我说：‘挺好的，就是购物车里的东西永远比我银行卡里的数字更有安全感。’"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Tom Saffell",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tom_Saffell_1952_%28cropped%29.jpg/330px-Tom_Saffell_1952_%28cropped%29.jpg",
-        "bio": "American baseball player (1921–2012)",
-        "extract": "Thomas Judson Saffell was an American professional baseball outfielder. He played in Major League Baseball (MLB) for the Pittsburgh Pirates and Kansas City Athletics.",
-        "born": 1921,
+        "name": "Dash Snow",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/Dash_Snow.jpg",
+        "bio": "American artist (1981–2009)",
+        "extract": "Dashiell Alexander Whitney Snow was an American artist based in New York City. Snow's photographs included scenes of sex, drugs, violence, and the art world; his work often depicted the decadent lifestyle of young New York City artists and their social circle.",
+        "born": 1981,
         "highlights": [
-          "American professional baseball outfielder.",
-          "Played in Major League Baseball (MLB).",
-          "Played for Pittsburgh Pirates and Kansas City Athletics."
+          "American artist based in New York City.",
+          "Photographs depicted decadent lifestyle of young NYC artists.",
+          "Work included scenes of sex, drugs, violence."
         ]
       },
       {
-        "name": "Carl Jung",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif/lossy-page1-330px-ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif.jpg",
-        "bio": "Swiss psychiatrist and psychotherapist (1875–1961)",
-        "extract": "Carl Gustav Jung was a Swiss psychiatrist, psychotherapist, and psychologist who founded the school of analytical psychology. He was a prolific author of over twenty books, illustrator, correspondent, and academic, best known for his concept of archetypes. Widely considered one of the most influential psychologists of all time, Jung's work has fostered not only scholarship, but also popular interest. His work has been influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, psychology, and religious studies.",
-        "born": 1875,
+        "name": "Jean Baudrillard",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/WikipediaBaudrillard20040612-cropped.png",
+        "bio": "French sociologist and philosopher (1929–2007)",
+        "extract": "Jean Baudrillard was a French sociologist and philosopher with an interest in cultural studies. He is best known for his analyses of media, contemporary culture, and technological communication, as well as his formulation of concepts such as hyperreality. Baudrillard wrote about diverse subjects, including consumerism, critique of economy, social history, aesthetics, Western foreign policy, and popular culture. Among his best-known works are Forget Foucault (1977), Seduction (1978), Simulacra and Simulation (1981), America (1986), and The Gulf War Did Not Take Place (1991). His work is frequently associated with postmodernism and specifically post-structuralism. Nevertheless, Baudrillard had also opposed post-structuralism, and had distanced himself from postmodernism.",
+        "born": 1929,
         "highlights": [
-          "Swiss psychiatrist and psychologist.",
-          "Founded the school of analytical psychology.",
-          "Best known for his concept of archetypes."
+          "French sociologist and philosopher.",
+          "Known for analyses of media, culture, communication.",
+          "Authored Simulacra and Simulation, Seduction, Forget Foucault."
         ]
       },
       {
-        "name": "Tyson Barrie",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tyson_Barrie_-_Avalanche.jpg/330px-Tyson_Barrie_-_Avalanche.jpg",
-        "bio": "Canadian ice hockey player (born 1991)",
-        "extract": "Tyson Barrie is a Canadian former professional ice hockey defenceman and current Vancouver Canucks analyst for Sportsnet. He played in the National Hockey League (NHL) for the Colorado Avalanche, Toronto Maple Leafs, Edmonton Oilers, Nashville Predators, and Calgary Flames. He was drafted by the Avalanche in the third round, 64th overall, of the 2009 NHL entry draft.",
-        "born": 1991,
+        "name": "Stanislav Binički",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Stanislav_Bini%C4%8Dki_1997_Yugoslavia_stamp.jpg/330px-Stanislav_Bini%C4%8Dki_1997_Yugoslavia_stamp.jpg",
+        "bio": "Serbian composer, conductor, and pedagogue",
+        "extract": "Stanislav Binički was a Serbian composer, conductor, and pedagogue. A student of German composer Josef Rheinberger, he became the first director of the Opera Sector of the National Theatre in Belgrade in 1889 and began working with the Belgrade Military Orchestra a decade later. He composed the first Serbian opera, At Dawn, in 1903. In 1911, Binički established the second Serbian Music School. He joined the Serbian Army following the outbreak of World War I and composed one of his most famous works, March on the Drina, following the Serbian victory at the Battle of Cer. He retired as head of the Opera Sector of the National Theatre in 1920 and died in Belgrade in 1942. He is considered one of the leading Serbian composers of the Generation of the 1870s.",
+        "born": 1872,
         "highlights": [
-          "Canadian professional ice hockey defenceman.",
-          "Played in the National Hockey League (NHL).",
-          "Current Vancouver Canucks analyst for Sportsnet."
+          "Serbian composer, conductor, and pedagogue.",
+          "Composed the first Serbian opera, At Dawn.",
+          "Authored famous work, March on the Drina."
         ]
       }
     ]
