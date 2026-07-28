@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-07-28T15:20:38.660Z",
+  "generatedAt": "2026-07-28T20:15:01.316Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.9,
-    "condition": "Heavy rain showers",
-    "code": 82,
-    "highC": 27.4,
+    "tempC": 25.6,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 26.8,
     "lowC": 21.1,
-    "rainChance": 68
+    "rainChance": 82
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Ikea",
-          "Crocker Park"
+          "Brian Kelly",
+          "LSU Football"
         ],
-        "summary": "Ikea Crocker Park is buzzing due to news of a new store opening or development plans."
+        "summary": "Brian Kelly is buzzing due to his coaching decisions and performance with LSU football."
       },
       {
         "keywords": [
-          "NATO",
-          "Alliance"
+          "STX Stock",
+          "Seagate"
         ],
-        "summary": "NATO is buzzing amid ongoing discussions about global security and member nation commitments."
+        "summary": "STX stock is buzzing due to recent market movements and investor interest in Seagate Technology."
       },
       {
         "keywords": [
-          "Jalen Ramsey",
-          "NFL"
+          "Earnings Calendar",
+          "Q2 Reports"
         ],
-        "summary": "Jalen Ramsey is buzzing due to recent NFL trade rumors or significant team performance updates."
+        "summary": "The earnings calendar is buzzing as investors track upcoming corporate financial reports."
       },
       {
         "keywords": [
-          "Lindsey Graham",
-          "Family"
+          "Thunderstorm Watch",
+          "Weather Alert"
         ],
-        "summary": "Lindsey Graham's family is buzzing due to recent public discussions or personal news reports."
+        "summary": "A severe thunderstorm watch is buzzing as weather alerts are issued for potential dangerous storms."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7433.52,
-        "changePct": 0.27437617864398467
+        "price": 7428.78,
+        "changePct": 0.21043600721956643
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24885.203,
-        "changePct": -0.18802681621212855
+        "price": 24876.912,
+        "changePct": -0.22128115895013603
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6268.25,
-        "changePct": -0.22221479383847462
+        "price": 6289.51,
+        "changePct": 0.11620114577513617
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10858.1,
-        "changePct": 0.7081410717184164
+        "price": 10871.02,
+        "changePct": 0.8279731954460124
       },
       {
         "region": "Asia",
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "Scrolling through endless streaming options is my cardio now.",
-      "explanation": "It's a relatable, slightly self-deprecating observation about passive entertainment replacing active exercise, delivered with deadpan irony."
+      "joke": "My new smart home device keeps reminding me to 'find my joy.' I'm pretty sure it means 'plug me in.'",
+      "explanation": "This joke uses anti-humor by setting up a seemingly profound tech suggestion, then deflating it with a literal, mundane, and slightly cynical interpretation."
     },
     "zh": {
-      "joke": "我研究发现，当代都市人的精神支柱，不是信仰，而是下单后那个“骑手已接单”的瞬间。"
+      "joke": "我的运动手环每天都提醒我走了多少步，然后晚上我盯着它想：这些步数里，有90%是去冰箱和厕所的。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Ali Krieger",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alikrieger-usavden-8.20.14.jpg/330px-Alikrieger-usavden-8.20.14.jpg",
-        "bio": "American soccer player (born 1984)",
-        "extract": "Alexandra Blaire Krieger is an American former professional soccer player who played as a right back or center back. She made more than 100 appearances for the United States from 2008 to 2021, with which she won two FIFA Women's World Cups.",
-        "born": 1984,
+        "name": "Willard Price",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Willard_DeMille_Price_-_Brazilian_Immigration_Card_Photo_%281946%29.jpg/330px-Willard_DeMille_Price_-_Brazilian_Immigration_Card_Photo_%281946%29.jpg",
+        "bio": "American writer",
+        "extract": "Willard DeMille Price was a Canadian-born American traveller, journalist and author.",
+        "born": 1887,
         "highlights": [
-          "American former professional soccer player.",
-          "Made over 100 appearances for the United States.",
-          "Won two FIFA Women's World Cups."
+          "Canadian-born American traveller.",
+          "Journalist and author."
         ]
       },
       {
-        "name": "Stephen Lynch (musician)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stephen_Lynch_on_June_14%2C_2008.jpg/330px-Stephen_Lynch_on_June_14%2C_2008.jpg",
-        "bio": "American comedian, musician and actor (born 1971)",
-        "extract": "Stephen Andrew Lynch is an American comedian, musician and actor who is known for his satirical songs mocking daily life and popular culture. Lynch has released four studio albums and four live albums along with a live DVD. This 2004 DVD, Live at the El Rey, was certified Gold by the Recording Industry Association of America (RIAA).",
-        "born": 1971,
+        "name": "Santiago Calatrava",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Santiago_Calatrava_%28cropped%29.jpg/330px-Santiago_Calatrava_%28cropped%29.jpg",
+        "bio": "Spanish-Swiss engineer and architect (born 1951)",
+        "extract": "Santiago Calatrava Valls is a Spanish-Swiss architect, structural engineer, sculptor and painter, particularly known for his bridges supported by single leaning pylons, and his railway stations, stadiums, and museums, whose sculptural forms often resemble living organisms. His works include the Olympic Sports Complex of Athens, the Milwaukee Art Museum, the Turning Torso tower in Malmö, Sweden, the World Trade Center Transportation Hub in New York City, the Auditorio de Tenerife in Santa Cruz de Tenerife, the Margaret Hunt Hill Bridge in Dallas, Texas, and his largest project, the City of Arts and Sciences and Opera House in his birthplace, Valencia. His architectural firm has offices in New York City, Doha, and Zurich.",
+        "born": 1951,
         "highlights": [
-          "American comedian, musician, and actor.",
-          "Known for his satirical songs.",
-          "Live at the El Rey DVD was certified Gold."
+          "Spanish-Swiss architect, structural engineer, sculptor, and painter.",
+          "Designed Olympic Sports Complex of Athens.",
+          "Created City of Arts and Sciences, Valencia."
         ]
       },
       {
-        "name": "Garfield Sobers",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Garfield_Sobers%2C_1956.jpg/330px-Garfield_Sobers%2C_1956.jpg",
-        "bio": "Barbadian cricketer (1936–2026)",
-        "extract": "Sir Garfield St Auburn Sobers, also known as Sir Gary or Sir Garry Sobers or just Gary Sobers was a Barbadian cricketer who played for the West Indies between 1954 and 1974. A highly skilled and aggressive batsman, a versatile bowler and an excellent fielder, he is widely considered to be cricket's greatest ever all-rounder and one of the greatest cricketers of all time.",
-        "born": 1936,
+        "name": "Birgitta Haukdal",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eurovision_Song_Contest_2003_-_Iceland_-_Birgitta_Haukdal.jpg/330px-Eurovision_Song_Contest_2003_-_Iceland_-_Birgitta_Haukdal.jpg",
+        "bio": "Icelandic singer (born 1979)",
+        "extract": "Birgitta Haukdal Brynjarsdóttir, known mononymously as Birgitta, is an Icelandic singer. She rose to domestic media prominence as the lead singer of pop band Írafár. She represented Iceland in the Eurovision Song Contest 2003 with the song \"Open Your Heart\", tying in eighth place with the Spanish contestant Beth with 81 points.",
+        "born": 1979,
         "highlights": [
-          "Barbadian cricketer for the West Indies.",
-          "Considered cricket's greatest ever all-rounder.",
-          "Highly skilled batsman, versatile bowler, excellent fielder."
+          "Icelandic singer.",
+          "Lead singer of pop band Írafár.",
+          "Represented Iceland in Eurovision Song Contest 2003."
         ]
       }
     ]
