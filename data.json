@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-07-27T20:20:07.963Z",
+  "generatedAt": "2026-07-28T15:20:38.660Z",
   "weather": {
     "location": "New York City",
-    "tempC": 28.2,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 28.4,
-    "lowC": 20.1,
-    "rainChance": 13
+    "tempC": 25.9,
+    "condition": "Heavy rain showers",
+    "code": 82,
+    "highC": 27.4,
+    "lowC": 21.1,
+    "rainChance": 68
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "FIFA",
-          "Argentina"
+          "Ikea",
+          "Crocker Park"
         ],
-        "summary": "FIFA's decision on Argentina is buzzing due to its potential impact on upcoming matches."
+        "summary": "Ikea Crocker Park is buzzing due to news of a new store opening or development plans."
       },
       {
         "keywords": [
-          "Nathan Dean",
-          "GH exit"
+          "NATO",
+          "Alliance"
         ],
-        "summary": "Nathan Dean leaving General Hospital is buzzing among fans wondering about his character's fate."
+        "summary": "NATO is buzzing amid ongoing discussions about global security and member nation commitments."
       },
       {
         "keywords": [
-          "George Kirby",
-          "MLB"
+          "Jalen Ramsey",
+          "NFL"
         ],
-        "summary": "George Kirby is buzzing in sports news, likely for a recent performance or trade rumor."
+        "summary": "Jalen Ramsey is buzzing due to recent NFL trade rumors or significant team performance updates."
       },
       {
         "keywords": [
-          "Christopher Atkins",
-          "Actor news"
+          "Lindsey Graham",
+          "Family"
         ],
-        "summary": "Christopher Atkins is buzzing, possibly due to a new project or public appearance."
+        "summary": "Lindsey Graham's family is buzzing due to recent public discussions or personal news reports."
       }
     ]
   },
@@ -48,97 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7413.18,
-        "changePct": 0.016190005909361975
+        "price": 7433.52,
+        "changePct": 0.27437617864398467
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24932.082,
-        "changePct": -0.1751373648373003
+        "price": 24885.203,
+        "changePct": -0.18802681621212855
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6282.21,
-        "changePct": 0.020219903390263822
+        "price": 6268.25,
+        "changePct": -0.22221479383847462
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10781.75,
-        "changePct": 0.42398495561291477
+        "price": 10858.1,
+        "changePct": 0.7081410717184164
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3858.245,
-        "changePct": 1.1548221227540945
+        "price": 3813.315,
+        "changePct": -0.023202768601535407
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4702.427,
-        "changePct": 1.145037675363798
+        "price": 4569.5234,
+        "changePct": -2.82628086193445
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25207.18,
-        "changePct": 0.9772373206512167
+        "price": 25310.85,
+        "changePct": 0.4111920403694096
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My smart fridge just ordered milk, then suggested I watch a documentary about the dairy industry. The circle of life, I guess.",
-      "explanation": "It's funny because it presents a mundane smart appliance making an absurd, almost philosophical, connection, highlighting the intrusive nature of smart tech."
+      "joke": "Scrolling through endless streaming options is my cardio now.",
+      "explanation": "It's a relatable, slightly self-deprecating observation about passive entertainment replacing active exercise, delivered with deadpan irony."
     },
     "zh": {
-      "joke": "我本来想省钱，结果为了凑满减又买了一堆不需要的东西。每次看到购物车里多出来的商品，都觉得自己是经济学家的反向样本。"
+      "joke": "我研究发现，当代都市人的精神支柱，不是信仰，而是下单后那个“骑手已接单”的瞬间。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Édith Butler",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%C3%89dith_Butler_%C3%A0_St-Hyacinthe.png/330px-%C3%89dith_Butler_%C3%A0_St-Hyacinthe.png",
-        "bio": "Acadian-Canadian singer-songwriter and folklorist (born 1942)",
-        "extract": "Édith Butler is an Acadian-Canadian singer-songwriter and folklorist from New Brunswick’s Acadian Peninsula.",
-        "born": 1942,
-        "highlights": [
-          "Acadian-Canadian singer-songwriter.",
-          "Folklorist from New Brunswick’s Acadian Peninsula."
-        ]
-      },
-      {
-        "name": "Taylor Schilling",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Taylor_Schilling_at_Paley_Fest_Orange_Is_The_New_Black.jpg/330px-Taylor_Schilling_at_Paley_Fest_Orange_Is_The_New_Black.jpg",
-        "bio": "American actress (born 1984)",
-        "extract": "Taylor Schilling is an American actress. She is best known for her role as Piper Chapman on the Netflix original comedy-drama series Orange Is the New Black (2013–2019), for which she received a nomination for the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series and two Golden Globe Award nominations for Best Actress – Television Series Musical or Comedy and Best Actress – Television Series Drama. She made her film debut in the 2007 drama Dark Matter. She also starred as Nurse Veronica Flanagan Callahan in the short-lived NBC medical drama Mercy (2009–2010). Her other films include Atlas Shrugged: Part I (2011), the romantic drama The Lucky One (2012), the comedy Take Me (2017), and the science-fiction thriller The Titan (2018).",
+        "name": "Ali Krieger",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alikrieger-usavden-8.20.14.jpg/330px-Alikrieger-usavden-8.20.14.jpg",
+        "bio": "American soccer player (born 1984)",
+        "extract": "Alexandra Blaire Krieger is an American former professional soccer player who played as a right back or center back. She made more than 100 appearances for the United States from 2008 to 2021, with which she won two FIFA Women's World Cups.",
         "born": 1984,
         "highlights": [
-          "Best known as Piper Chapman in Orange Is the New Black.",
-          "Received Emmy and Golden Globe nominations for Orange Is the New Black.",
-          "Starred in films like Dark Matter, The Lucky One, and The Titan."
+          "American former professional soccer player.",
+          "Made over 100 appearances for the United States.",
+          "Won two FIFA Women's World Cups."
         ]
       },
       {
-        "name": "Thomas Campbell (poet)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thomas_Campbell_by_Sir_Thomas_Lawrence.jpg/330px-Thomas_Campbell_by_Sir_Thomas_Lawrence.jpg",
-        "bio": "Scottish poet (1777–1844)",
-        "extract": "Thomas Campbell was a Scottish poet at the intersection of the neoclassical with the Romantic style of British poetry.",
-        "born": 1777,
+        "name": "Stephen Lynch (musician)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stephen_Lynch_on_June_14%2C_2008.jpg/330px-Stephen_Lynch_on_June_14%2C_2008.jpg",
+        "bio": "American comedian, musician and actor (born 1971)",
+        "extract": "Stephen Andrew Lynch is an American comedian, musician and actor who is known for his satirical songs mocking daily life and popular culture. Lynch has released four studio albums and four live albums along with a live DVD. This 2004 DVD, Live at the El Rey, was certified Gold by the Recording Industry Association of America (RIAA).",
+        "born": 1971,
         "highlights": [
-          "Scottish poet.",
-          "Known for neoclassical and Romantic British poetry."
+          "American comedian, musician, and actor.",
+          "Known for his satirical songs.",
+          "Live at the El Rey DVD was certified Gold."
+        ]
+      },
+      {
+        "name": "Garfield Sobers",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Garfield_Sobers%2C_1956.jpg/330px-Garfield_Sobers%2C_1956.jpg",
+        "bio": "Barbadian cricketer (1936–2026)",
+        "extract": "Sir Garfield St Auburn Sobers, also known as Sir Gary or Sir Garry Sobers or just Gary Sobers was a Barbadian cricketer who played for the West Indies between 1954 and 1974. A highly skilled and aggressive batsman, a versatile bowler and an excellent fielder, he is widely considered to be cricket's greatest ever all-rounder and one of the greatest cricketers of all time.",
+        "born": 1936,
+        "highlights": [
+          "Barbadian cricketer for the West Indies.",
+          "Considered cricket's greatest ever all-rounder.",
+          "Highly skilled batsman, versatile bowler, excellent fielder."
         ]
       }
     ]
