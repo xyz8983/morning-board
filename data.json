@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-07-28T20:15:01.316Z",
+  "generatedAt": "2026-07-29T15:08:14.592Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.6,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 26.8,
-    "lowC": 21.1,
-    "rainChance": 82
+    "tempC": 22.5,
+    "condition": "Rain showers",
+    "code": 80,
+    "highC": 26.3,
+    "lowC": 20.2,
+    "rainChance": 72
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Brian Kelly",
-          "LSU Football"
+          "TQQQ",
+          "Stock Market"
         ],
-        "summary": "Brian Kelly is buzzing due to his coaching decisions and performance with LSU football."
+        "summary": "TQQQ is buzzing as a leveraged ETF tracking the Nasdaq 100, attracting speculative investor interest."
       },
       {
         "keywords": [
-          "STX Stock",
-          "Seagate"
+          "Bernie Moreno",
+          "Ohio Senate"
         ],
-        "summary": "STX stock is buzzing due to recent market movements and investor interest in Seagate Technology."
+        "summary": "Bernie Moreno is buzzing due to his Ohio Senate primary win, backed by former President Trump."
       },
       {
         "keywords": [
-          "Earnings Calendar",
-          "Q2 Reports"
+          "Andy Kim",
+          "NJ Senate"
         ],
-        "summary": "The earnings calendar is buzzing as investors track upcoming corporate financial reports."
+        "summary": "Andy Kim is buzzing for his New Jersey Senate primary win, challenging the state's political machine."
       },
       {
         "keywords": [
-          "Thunderstorm Watch",
-          "Weather Alert"
+          "Arion Carter",
+          "College Football"
         ],
-        "summary": "A severe thunderstorm watch is buzzing as weather alerts are issued for potential dangerous storms."
+        "summary": "Arion Carter is buzzing due to his transfer from Tennessee to Colorado, impacting college football rosters."
       }
     ]
   },
@@ -48,98 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7428.78,
-        "changePct": 0.21043600721956643
+        "price": 7375.63,
+        "changePct": -0.7154606812962511
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24876.912,
-        "changePct": -0.22128115895013603
+        "price": 24662.1,
+        "changePct": -0.8634994568457762
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6289.51,
-        "changePct": 0.11620114577513617
+        "price": 6247.96,
+        "changePct": -0.6606238005822422
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10871.02,
-        "changePct": 0.8279731954460124
+        "price": 10885.08,
+        "changePct": 0.12933468984510643
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3813.315,
-        "changePct": -0.023202768601535407
+        "price": 3828.469,
+        "changePct": 0.39740491389289606
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4569.5234,
-        "changePct": -2.82628086193445
+        "price": 4600.262,
+        "changePct": 0.6726872216038915
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25310.85,
-        "changePct": 0.4111920403694096
+        "price": 25807.92,
+        "changePct": 1.9638613479989797
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My new smart home device keeps reminding me to 'find my joy.' I'm pretty sure it means 'plug me in.'",
-      "explanation": "This joke uses anti-humor by setting up a seemingly profound tech suggestion, then deflating it with a literal, mundane, and slightly cynical interpretation."
+      "joke": "My AI assistant suggested I 'touch grass.' I didn't realize it had opinions on my screen time.",
+      "explanation": "It's funny because it personifies the AI with a common internet phrase, highlighting the irony of technology telling us to disconnect."
     },
     "zh": {
-      "joke": "我的运动手环每天都提醒我走了多少步，然后晚上我盯着它想：这些步数里，有90%是去冰箱和厕所的。"
+      "joke": "我不是胖，我只是对生活的热爱过于具象化了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Willard Price",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Willard_DeMille_Price_-_Brazilian_Immigration_Card_Photo_%281946%29.jpg/330px-Willard_DeMille_Price_-_Brazilian_Immigration_Card_Photo_%281946%29.jpg",
-        "bio": "American writer",
-        "extract": "Willard DeMille Price was a Canadian-born American traveller, journalist and author.",
-        "born": 1887,
+        "name": "John Clarke (satirist)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/John_Morrison_Clarke.jpg/330px-John_Morrison_Clarke.jpg",
+        "bio": "New Zealand comedian, writer, and satirist (1948–2017)",
+        "extract": "John Morrison Clarke was a New Zealand comedian, writer and satirist who lived and worked in Australia from the late 1970s. He was a highly regarded actor and writer whose work appeared on the Australian Broadcasting Corporation (ABC) in both radio and television and also in print. He is principally known for his character Fred Dagg and his long-running collaboration with fellow satirist Bryan Dawe, which lasted from 1989 to his death in 2017, as well as for his success as a comic actor in Australian and New Zealand film and television.",
+        "born": 1948,
         "highlights": [
-          "Canadian-born American traveller.",
-          "Journalist and author."
+          "Known for his character Fred Dagg.",
+          "Long-running collaboration with satirist Bryan Dawe.",
+          "Comic actor in Australian and New Zealand film."
         ]
       },
       {
-        "name": "Santiago Calatrava",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Santiago_Calatrava_%28cropped%29.jpg/330px-Santiago_Calatrava_%28cropped%29.jpg",
-        "bio": "Spanish-Swiss engineer and architect (born 1951)",
-        "extract": "Santiago Calatrava Valls is a Spanish-Swiss architect, structural engineer, sculptor and painter, particularly known for his bridges supported by single leaning pylons, and his railway stations, stadiums, and museums, whose sculptural forms often resemble living organisms. His works include the Olympic Sports Complex of Athens, the Milwaukee Art Museum, the Turning Torso tower in Malmö, Sweden, the World Trade Center Transportation Hub in New York City, the Auditorio de Tenerife in Santa Cruz de Tenerife, the Margaret Hunt Hill Bridge in Dallas, Texas, and his largest project, the City of Arts and Sciences and Opera House in his birthplace, Valencia. His architectural firm has offices in New York City, Doha, and Zurich.",
-        "born": 1951,
+        "name": "Nellie Kim",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2018-10-15_Floor_Victory_ceremony_%28Apparatus_Final_Girls%27_Artistic_Gymnastics%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93013.jpg/330px-2018-10-15_Floor_Victory_ceremony_%28Apparatus_Final_Girls%27_Artistic_Gymnastics%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93013.jpg",
+        "bio": "Russian gymnast (born 1957)",
+        "extract": "Nellie Vladimirovna Kim is a retired Soviet and Belarusian gymnast of Sakhalin Korean and Tatar descent who won three gold medals and a silver medal at the 1976 Summer Olympics in Montreal, and two gold medals at the 1980 Summer Olympics in Moscow. She was the second woman in Olympic history to earn a perfect 10 score and the first woman to score it on the vault and on the floor exercise, rivaling Nadia Comăneci, Ludmilla Tourischeva, and other strong competitors of the 1970s.",
+        "born": 1957,
         "highlights": [
-          "Spanish-Swiss architect, structural engineer, sculptor, and painter.",
-          "Designed Olympic Sports Complex of Athens.",
-          "Created City of Arts and Sciences, Valencia."
+          "Won 3 gold, 1 silver at 1976 Summer Olympics.",
+          "Won 2 gold medals at 1980 Summer Olympics.",
+          "Second woman to earn a perfect 10 score."
         ]
       },
       {
-        "name": "Birgitta Haukdal",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eurovision_Song_Contest_2003_-_Iceland_-_Birgitta_Haukdal.jpg/330px-Eurovision_Song_Contest_2003_-_Iceland_-_Birgitta_Haukdal.jpg",
-        "bio": "Icelandic singer (born 1979)",
-        "extract": "Birgitta Haukdal Brynjarsdóttir, known mononymously as Birgitta, is an Icelandic singer. She rose to domestic media prominence as the lead singer of pop band Írafár. She represented Iceland in the Eurovision Song Contest 2003 with the song \"Open Your Heart\", tying in eighth place with the Spanish contestant Beth with 81 points.",
-        "born": 1979,
+        "name": "Mircea Lucescu",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mircea_Lucescu_2009.jpg/330px-Mircea_Lucescu_2009.jpg",
+        "bio": "Romanian football player and manager (1945–2026)",
+        "extract": "Mircea Lucescu was a Romanian professional football player and manager.",
+        "born": 1945,
         "highlights": [
-          "Icelandic singer.",
-          "Lead singer of pop band Írafár.",
-          "Represented Iceland in Eurovision Song Contest 2003."
+          "Romanian professional football player.",
+          "Romanian professional football manager."
         ]
       }
     ]
