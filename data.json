@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-29T15:08:14.592Z",
+  "generatedAt": "2026-07-29T20:10:18.306Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.5,
+    "tempC": 25,
     "condition": "Rain showers",
     "code": 80,
-    "highC": 26.3,
+    "highC": 25.6,
     "lowC": 20.2,
     "rainChance": 72
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "TQQQ",
-          "Stock Market"
+          "Tennis Player",
+          "Sports Buzz"
         ],
-        "summary": "TQQQ is buzzing as a leveraged ETF tracking the Nasdaq 100, attracting speculative investor interest."
+        "summary": "Taylor Fritz is buzzing due to recent strong performances in major tennis tournaments."
       },
       {
         "keywords": [
-          "Bernie Moreno",
-          "Ohio Senate"
+          "Tennis Star",
+          "Rising Talent"
         ],
-        "summary": "Bernie Moreno is buzzing due to his Ohio Senate primary win, backed by former President Trump."
+        "summary": "Emma Navarro is buzzing for her impressive wins and rapid ascent in professional tennis."
       },
       {
         "keywords": [
-          "Andy Kim",
-          "NJ Senate"
+          "Entrepreneur",
+          "Podcast Host"
         ],
-        "summary": "Andy Kim is buzzing for his New Jersey Senate primary win, challenging the state's political machine."
+        "summary": "Steven Bartlett is buzzing for his influential podcast and business insights."
       },
       {
         "keywords": [
-          "Arion Carter",
-          "College Football"
+          "Actress",
+          "TV Series"
         ],
-        "summary": "Arion Carter is buzzing due to his transfer from Tennessee to Colorado, impacting college football rosters."
+        "summary": "Nicola Walker is buzzing for her acclaimed performances in popular TV dramas."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7375.63,
-        "changePct": -0.7154606812962511
+        "price": 7316.15,
+        "changePct": -1.5161305086434127
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24662.1,
-        "changePct": -0.8634994568457762
+        "price": 24442.941,
+        "changePct": -1.744472947446216
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6247.96,
-        "changePct": -0.6606238005822422
+        "price": 6248.84,
+        "changePct": -0.6466322495711124
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10885.08,
-        "changePct": 0.12933468984510643
+        "price": 10908.41,
+        "changePct": 0.34394196680715716
       },
       {
         "region": "Asia",
@@ -97,49 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My AI assistant suggested I 'touch grass.' I didn't realize it had opinions on my screen time.",
-      "explanation": "It's funny because it personifies the AI with a common internet phrase, highlighting the irony of technology telling us to disconnect."
+      "joke": "My screen time report is basically a memoir of my poor life choices.",
+      "explanation": "It's funny because it uses the formal term \"memoir\" to ironically describe the embarrassing reality of excessive digital consumption, a common modern experience."
     },
     "zh": {
-      "joke": "我不是胖，我只是对生活的热爱过于具象化了。"
+      "joke": "每次打开购物APP，都感觉不是我在花钱，是APP在自动帮我筛选掉那些我暂时用不上的钱。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "John Clarke (satirist)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/John_Morrison_Clarke.jpg/330px-John_Morrison_Clarke.jpg",
-        "bio": "New Zealand comedian, writer, and satirist (1948–2017)",
-        "extract": "John Morrison Clarke was a New Zealand comedian, writer and satirist who lived and worked in Australia from the late 1970s. He was a highly regarded actor and writer whose work appeared on the Australian Broadcasting Corporation (ABC) in both radio and television and also in print. He is principally known for his character Fred Dagg and his long-running collaboration with fellow satirist Bryan Dawe, which lasted from 1989 to his death in 2017, as well as for his success as a comic actor in Australian and New Zealand film and television.",
-        "born": 1948,
+        "name": "Andi Peters",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Andi_Peters_2010_%28cropped%29.jpg/330px-Andi_Peters_2010_%28cropped%29.jpg",
+        "bio": "British television personality",
+        "extract": "Andi Eleazu Peters is a British television presenter, producer, journalist and voice actor, currently employed by ITV and known for presenting Children's BBC, roles on breakfast TV shows Live & Kicking, GMTV, Good Morning Britain and Lorraine, and for hosting Dancing on Ice: Extra and The Big Reunion.",
+        "born": 1970,
         "highlights": [
-          "Known for his character Fred Dagg.",
-          "Long-running collaboration with satirist Bryan Dawe.",
-          "Comic actor in Australian and New Zealand film."
+          "Presented Children's BBC.",
+          "Known for Live & Kicking, GMTV, Good Morning Britain.",
+          "Hosted Dancing on Ice: Extra and The Big Reunion."
         ]
       },
       {
-        "name": "Nellie Kim",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2018-10-15_Floor_Victory_ceremony_%28Apparatus_Final_Girls%27_Artistic_Gymnastics%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93013.jpg/330px-2018-10-15_Floor_Victory_ceremony_%28Apparatus_Final_Girls%27_Artistic_Gymnastics%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93013.jpg",
-        "bio": "Russian gymnast (born 1957)",
-        "extract": "Nellie Vladimirovna Kim is a retired Soviet and Belarusian gymnast of Sakhalin Korean and Tatar descent who won three gold medals and a silver medal at the 1976 Summer Olympics in Montreal, and two gold medals at the 1980 Summer Olympics in Moscow. She was the second woman in Olympic history to earn a perfect 10 score and the first woman to score it on the vault and on the floor exercise, rivaling Nadia Comăneci, Ludmilla Tourischeva, and other strong competitors of the 1970s.",
-        "born": 1957,
+        "name": "Patti Scialfa",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Patti_Scialfa_11022008_%28cropped%29.JPG/330px-Patti_Scialfa_11022008_%28cropped%29.JPG",
+        "bio": "American singer (born 1953)",
+        "extract": "Vivienne Patricia Scialfa is an American singer-songwriter and guitarist. Scialfa has been a member of the E Street Band since 1984 and has been married to Bruce Springsteen since 1991. In 2014, Scialfa was inducted into the Rock and Roll Hall of Fame as a member of the E Street Band.",
+        "born": 1953,
         "highlights": [
-          "Won 3 gold, 1 silver at 1976 Summer Olympics.",
-          "Won 2 gold medals at 1980 Summer Olympics.",
-          "Second woman to earn a perfect 10 score."
+          "Member of the E Street Band since 1984.",
+          "Inducted into Rock and Roll Hall of Fame.",
+          "Married to Bruce Springsteen since 1991."
         ]
       },
       {
-        "name": "Mircea Lucescu",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mircea_Lucescu_2009.jpg/330px-Mircea_Lucescu_2009.jpg",
-        "bio": "Romanian football player and manager (1945–2026)",
-        "extract": "Mircea Lucescu was a Romanian professional football player and manager.",
-        "born": 1945,
+        "name": "Maria Ouspenskaya",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Maria_Ouspenskaya_in_Waterloo_Bridge_trailer.jpg/330px-Maria_Ouspenskaya_in_Waterloo_Bridge_trailer.jpg",
+        "bio": "Russian actress (1876–1949)",
+        "extract": "Maria Alekseyevna Ouspenskaya was a Russian actress and acting teacher. She achieved success as a stage actress as a young woman in Russia, and as an older woman in Hollywood films. She was twice nominated for the Academy Award for Best Supporting Actress for Dodsworth (1936) and Love Affair (1939). Ouspenskaya is the first Russian actress to be nominated for an Oscar.",
+        "born": 1876,
         "highlights": [
-          "Romanian professional football player.",
-          "Romanian professional football manager."
+          "Twice nominated for Academy Award for Best Supporting Actress.",
+          "Nominated for Dodsworth (1936) and Love Affair (1939).",
+          "First Russian actress nominated for an Oscar."
         ]
       }
     ]
