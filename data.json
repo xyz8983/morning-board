@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-30T15:10:07.932Z",
+  "generatedAt": "2026-07-30T20:13:01.625Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.8,
-    "condition": "Heavy drizzle",
-    "code": 55,
-    "highC": 23.7,
+    "tempC": 23.1,
+    "condition": "Light rain",
+    "code": 61,
+    "highC": 23.1,
     "lowC": 19.5,
     "rainChance": 25
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Fortnite",
-          "New Sprites"
+          "British Airways",
+          "Stall Warnings"
         ],
-        "summary": "Fortnite players are buzzing about the game's new character sprites and visual updates."
+        "summary": "British Airways flight stall warnings are buzzing due to recent safety concerns and investigations."
       },
       {
         "keywords": [
-          "AMD",
-          "Tech Buzz"
+          "Benfica",
+          "Football Club"
         ],
-        "summary": "AMD is buzzing due to recent announcements about new processors and competitive market moves."
+        "summary": "Benfica is buzzing due to recent match results and transfer market activity."
       },
       {
         "keywords": [
-          "Street Fighter",
-          "Movie News"
+          "Magdalena Fręch",
+          "Tennis Player"
         ],
-        "summary": "The new Street Fighter movie adaptation is buzzing with fans anticipating casting and plot details."
+        "summary": "Magdalena Fręch is buzzing after recent strong performances in tennis tournaments."
       },
       {
         "keywords": [
-          "Nancy Guthrie",
-          "Christian Author"
+          "Bourbon Virus",
+          "Health Alert"
         ],
-        "summary": "Nancy Guthrie is buzzing for her recent Christian book releases and speaking engagements."
+        "summary": "Bourbon virus is buzzing due to new reported cases and public health advisories."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7391.7,
-        "changePct": 1.032646952290483
+        "price": 7437.63,
+        "changePct": 1.6604361583619867
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25017.271,
-        "changePct": 2.349676333956711
+        "price": 25122.178,
+        "changePct": 2.7788677311785066
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6345.5,
-        "changePct": 1.5468470948207964
+        "price": 6344.4,
+        "changePct": 1.5292438276544045
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10933.38,
-        "changePct": 0.22890595421330281
+        "price": 10897.27,
+        "changePct": -0.10212304084646084
       },
       {
         "region": "Asia",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My deepest fear is dying alone in my apartment, and the delivery driver who finds me just sighs about the missed tip.",
-      "explanation": "This joke uses dark humor to highlight the transactional nature of modern life, contrasting a serious event with the trivial concern of a delivery tip."
+      "joke": "I spent 20 minutes deciding what to order for dinner, then 5 minutes eating it.",
+      "explanation": "It highlights the modern dilemma of overthinking simple choices (like food delivery) and the disproportionate effort compared to the quick outcome."
     },
     "zh": {
-      "joke": "我发现人生的本质就是不断地进行'数据清洗'：把没用的社交关系删掉，把没用的APP卸载掉，把购物车里没用的东西清空。可惜，体重这个数据总是洗不干净。"
+      "joke": "我最近发现一个职场潜规则：当你感到焦虑，不知道从何下手的时候，先打开所有相关文档和软件，然后找个角落深呼吸，假装在“战略性冥想”。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Alfred Lépine",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Hockey_player_Alfred_Lepine.png",
-        "bio": "Canadian ice hockey player",
-        "extract": "Joseph Alfred Pierre Hormisdas \"Pit\" Lépine was a Canadian ice hockey forward and coach. He was born in Sainte-Anne-de-Bellevue, Quebec.",
-        "born": 1901,
+        "name": "Paul Anka",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paul_Anka_performing_at_Caesars_Windsor%2C_2024-05-24_10.jpg/330px-Paul_Anka_performing_at_Caesars_Windsor%2C_2024-05-24_10.jpg",
+        "bio": "Canadian and American singer and actor (born 1941)",
+        "extract": "Paul Albert Anka is a Canadian and American singer, songwriter, and actor. His songs include \"Diana\", \"You Are My Destiny\", \"Lonely Boy\", \"Put Your Head on My Shoulder\", \"(You're) Having My Baby\" and \"My Way\".",
+        "born": 1941,
         "highlights": [
-          "Canadian ice hockey forward.",
-          "Also worked as a coach.",
-          "Known by his nickname \"Pit\" Lépine."
+          "Singer, songwriter, and actor.",
+          "Known for songs like \"Diana\" and \"My Way\".",
+          "Also wrote \"You Are My Destiny\" and \"Lonely Boy\"."
         ]
       },
       {
-        "name": "Hirving Lozano",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hirving_Lozano.png/330px-Hirving_Lozano.png",
-        "bio": "Mexican footballer (born 1995)",
-        "extract": "Hirving Rodrigo Lozano Bahena, also known by his nickname Chucky, is a Mexican professional footballer who plays as a winger for Major League Soccer club San Diego FC and the Mexico national team.",
-        "born": 1995,
+        "name": "Samuel Rogers",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Samuel_Rogers_by_Thomas_Phillips.jpg/330px-Samuel_Rogers_by_Thomas_Phillips.jpg",
+        "bio": "British poet (1763–1855)",
+        "extract": "Samuel Rogers was an English poet, during his lifetime one of the most celebrated, although his fame has long since been eclipsed by his Romantic colleagues and friends Wordsworth, Coleridge and Byron. His recollections of these and other friends such as Charles James Fox are key sources for information about London artistic and literary life, with which he was intimate, and which he used his wealth to support. He made his money as a banker and was also a discriminating art collector.",
+        "born": 1763,
         "highlights": [
-          "Mexican professional footballer.",
-          "Plays as a winger for San Diego FC.",
-          "Member of the Mexico national team."
+          "English poet, celebrated in his lifetime.",
+          "His recollections are key sources for London literary life.",
+          "Also a banker and discriminating art collector."
         ]
       },
       {
-        "name": "Ron Block",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ron_Block_TFF.JPG/330px-Ron_Block_TFF.JPG",
-        "bio": "American singer-songwriter",
-        "extract": "Ronald Franklin Block is an American banjo player, guitarist, and singer-songwriter, best known as a member of the bluegrass band Alison Krauss & Union Station. He has won 14 Grammy Awards, 6 International Bluegrass Music Awards, a Country Music Association Award, and a Gospel Music Association Dove Award.",
-        "born": 1964,
+        "name": "Sonu Nigam",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sonu_Nigam123.jpg/330px-Sonu_Nigam123.jpg",
+        "bio": "Indian playback singer (born 1973)",
+        "extract": "Sonu Nigam  is an Indian playback singer, music director, dubbing artist and actor. He is considered one of the most versatile singers in India, with a wide vocal range. His performances include a wide range of genres, like classical music, devotional music, ghazals, qawwali, rock and pop music, among others. Nigam sings predominantly in Hindi- and Kannada-language films. He has recorded over 6,000 songs in more than 32 languages throughout his career. He has released a number of non-film albums and acted in some Hindi films. Nigam has been awarded one National Film Award, two Filmfare Awards and two Filmfare Awards South and four IIFA Awards for Best Playback Singer. He was ranked top artist on the Billboard Uncharted charts twice in September and October 2013.\nNigam was honoured with the Padma Shri, India's fourth-highest civilian award in 2022.",
+        "born": 1973,
         "highlights": [
-          "Member of Alison Krauss & Union Station.",
-          "Won 14 Grammy Awards.",
-          "Also won 6 International Bluegrass Music Awards."
+          "Indian playback singer, music director, and actor.",
+          "Recorded over 6,000 songs in 32+ languages.",
+          "Awarded Padma Shri, National Film Award, Filmfare Awards."
         ]
       }
     ]
