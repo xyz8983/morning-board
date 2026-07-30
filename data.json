@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-07-29T20:10:18.306Z",
+  "generatedAt": "2026-07-30T15:10:07.932Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25,
-    "condition": "Rain showers",
-    "code": 80,
-    "highC": 25.6,
-    "lowC": 20.2,
-    "rainChance": 72
+    "tempC": 22.8,
+    "condition": "Heavy drizzle",
+    "code": 55,
+    "highC": 23.7,
+    "lowC": 19.5,
+    "rainChance": 25
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Tennis Player",
-          "Sports Buzz"
+          "Fortnite",
+          "New Sprites"
         ],
-        "summary": "Taylor Fritz is buzzing due to recent strong performances in major tennis tournaments."
+        "summary": "Fortnite players are buzzing about the game's new character sprites and visual updates."
       },
       {
         "keywords": [
-          "Tennis Star",
-          "Rising Talent"
+          "AMD",
+          "Tech Buzz"
         ],
-        "summary": "Emma Navarro is buzzing for her impressive wins and rapid ascent in professional tennis."
+        "summary": "AMD is buzzing due to recent announcements about new processors and competitive market moves."
       },
       {
         "keywords": [
-          "Entrepreneur",
-          "Podcast Host"
+          "Street Fighter",
+          "Movie News"
         ],
-        "summary": "Steven Bartlett is buzzing for his influential podcast and business insights."
+        "summary": "The new Street Fighter movie adaptation is buzzing with fans anticipating casting and plot details."
       },
       {
         "keywords": [
-          "Actress",
-          "TV Series"
+          "Nancy Guthrie",
+          "Christian Author"
         ],
-        "summary": "Nicola Walker is buzzing for her acclaimed performances in popular TV dramas."
+        "summary": "Nancy Guthrie is buzzing for her recent Christian book releases and speaking engagements."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7316.15,
-        "changePct": -1.5161305086434127
+        "price": 7391.7,
+        "changePct": 1.032646952290483
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24442.941,
-        "changePct": -1.744472947446216
+        "price": 25017.271,
+        "changePct": 2.349676333956711
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6248.84,
-        "changePct": -0.6466322495711124
+        "price": 6345.5,
+        "changePct": 1.5468470948207964
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10908.41,
-        "changePct": 0.34394196680715716
+        "price": 10933.38,
+        "changePct": 0.22890595421330281
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3828.469,
-        "changePct": 0.39740491389289606
+        "price": 3804.693,
+        "changePct": -0.2259716624140113
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4600.262,
-        "changePct": 0.6726872216038915
+        "price": 4549.72,
+        "changePct": -1.0986765536397594
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25807.92,
-        "changePct": 1.9638613479989797
+        "price": 25858.88,
+        "changePct": 0.1974587645963052
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My screen time report is basically a memoir of my poor life choices.",
-      "explanation": "It's funny because it uses the formal term \"memoir\" to ironically describe the embarrassing reality of excessive digital consumption, a common modern experience."
+      "joke": "My deepest fear is dying alone in my apartment, and the delivery driver who finds me just sighs about the missed tip.",
+      "explanation": "This joke uses dark humor to highlight the transactional nature of modern life, contrasting a serious event with the trivial concern of a delivery tip."
     },
     "zh": {
-      "joke": "每次打开购物APP，都感觉不是我在花钱，是APP在自动帮我筛选掉那些我暂时用不上的钱。"
+      "joke": "我发现人生的本质就是不断地进行'数据清洗'：把没用的社交关系删掉，把没用的APP卸载掉，把购物车里没用的东西清空。可惜，体重这个数据总是洗不干净。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Andi Peters",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Andi_Peters_2010_%28cropped%29.jpg/330px-Andi_Peters_2010_%28cropped%29.jpg",
-        "bio": "British television personality",
-        "extract": "Andi Eleazu Peters is a British television presenter, producer, journalist and voice actor, currently employed by ITV and known for presenting Children's BBC, roles on breakfast TV shows Live & Kicking, GMTV, Good Morning Britain and Lorraine, and for hosting Dancing on Ice: Extra and The Big Reunion.",
-        "born": 1970,
+        "name": "Alfred Lépine",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Hockey_player_Alfred_Lepine.png",
+        "bio": "Canadian ice hockey player",
+        "extract": "Joseph Alfred Pierre Hormisdas \"Pit\" Lépine was a Canadian ice hockey forward and coach. He was born in Sainte-Anne-de-Bellevue, Quebec.",
+        "born": 1901,
         "highlights": [
-          "Presented Children's BBC.",
-          "Known for Live & Kicking, GMTV, Good Morning Britain.",
-          "Hosted Dancing on Ice: Extra and The Big Reunion."
+          "Canadian ice hockey forward.",
+          "Also worked as a coach.",
+          "Known by his nickname \"Pit\" Lépine."
         ]
       },
       {
-        "name": "Patti Scialfa",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Patti_Scialfa_11022008_%28cropped%29.JPG/330px-Patti_Scialfa_11022008_%28cropped%29.JPG",
-        "bio": "American singer (born 1953)",
-        "extract": "Vivienne Patricia Scialfa is an American singer-songwriter and guitarist. Scialfa has been a member of the E Street Band since 1984 and has been married to Bruce Springsteen since 1991. In 2014, Scialfa was inducted into the Rock and Roll Hall of Fame as a member of the E Street Band.",
-        "born": 1953,
+        "name": "Hirving Lozano",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hirving_Lozano.png/330px-Hirving_Lozano.png",
+        "bio": "Mexican footballer (born 1995)",
+        "extract": "Hirving Rodrigo Lozano Bahena, also known by his nickname Chucky, is a Mexican professional footballer who plays as a winger for Major League Soccer club San Diego FC and the Mexico national team.",
+        "born": 1995,
         "highlights": [
-          "Member of the E Street Band since 1984.",
-          "Inducted into Rock and Roll Hall of Fame.",
-          "Married to Bruce Springsteen since 1991."
+          "Mexican professional footballer.",
+          "Plays as a winger for San Diego FC.",
+          "Member of the Mexico national team."
         ]
       },
       {
-        "name": "Maria Ouspenskaya",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Maria_Ouspenskaya_in_Waterloo_Bridge_trailer.jpg/330px-Maria_Ouspenskaya_in_Waterloo_Bridge_trailer.jpg",
-        "bio": "Russian actress (1876–1949)",
-        "extract": "Maria Alekseyevna Ouspenskaya was a Russian actress and acting teacher. She achieved success as a stage actress as a young woman in Russia, and as an older woman in Hollywood films. She was twice nominated for the Academy Award for Best Supporting Actress for Dodsworth (1936) and Love Affair (1939). Ouspenskaya is the first Russian actress to be nominated for an Oscar.",
-        "born": 1876,
+        "name": "Ron Block",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ron_Block_TFF.JPG/330px-Ron_Block_TFF.JPG",
+        "bio": "American singer-songwriter",
+        "extract": "Ronald Franklin Block is an American banjo player, guitarist, and singer-songwriter, best known as a member of the bluegrass band Alison Krauss & Union Station. He has won 14 Grammy Awards, 6 International Bluegrass Music Awards, a Country Music Association Award, and a Gospel Music Association Dove Award.",
+        "born": 1964,
         "highlights": [
-          "Twice nominated for Academy Award for Best Supporting Actress.",
-          "Nominated for Dodsworth (1936) and Love Affair (1939).",
-          "First Russian actress nominated for an Oscar."
+          "Member of Alison Krauss & Union Station.",
+          "Won 14 Grammy Awards.",
+          "Also won 6 International Bluegrass Music Awards."
         ]
       }
     ]
