@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-07-30T20:13:01.625Z",
+  "generatedAt": "2026-07-31T15:19:18.281Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.1,
-    "condition": "Light rain",
-    "code": 61,
-    "highC": 23.1,
-    "lowC": 19.5,
-    "rainChance": 25
+    "tempC": 25.6,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 29.9,
+    "lowC": 19,
+    "rainChance": 5
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "British Airways",
-          "Stall Warnings"
+          "Los Angeles",
+          "City Buzz"
         ],
-        "summary": "British Airways flight stall warnings are buzzing due to recent safety concerns and investigations."
+        "summary": "Los Angeles is buzzing due to recent cultural events and local news developments."
       },
       {
         "keywords": [
-          "Benfica",
-          "Football Club"
+          "Andrew Painter",
+          "MLB Prospect"
         ],
-        "summary": "Benfica is buzzing due to recent match results and transfer market activity."
+        "summary": "Andrew Painter is buzzing as a top pitching prospect in MLB, generating significant draft interest."
       },
       {
         "keywords": [
-          "Magdalena Fręch",
-          "Tennis Player"
+          "Hartman Colorado",
+          "Real Estate"
         ],
-        "summary": "Magdalena Fręch is buzzing after recent strong performances in tennis tournaments."
+        "summary": "Hartman, Colorado is buzzing due to its unique real estate market and outdoor recreation appeal."
       },
       {
         "keywords": [
-          "Bourbon Virus",
-          "Health Alert"
+          "Casey Mize",
+          "Pitcher Comeback"
         ],
-        "summary": "Bourbon virus is buzzing due to new reported cases and public health advisories."
+        "summary": "Casey Mize is buzzing as fans anticipate his return to the mound after a long injury recovery."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7437.63,
-        "changePct": 1.6604361583619867
+        "price": 7441.89,
+        "changePct": 0.057276309792235136
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25122.178,
-        "changePct": 2.7788677311785066
+        "price": 25174.357,
+        "changePct": 0.20770094057927657
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6344.4,
-        "changePct": 1.5292438276544045
+        "price": 6368.88,
+        "changePct": 0.3858520900321618
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10897.27,
-        "changePct": -0.10212304084646084
+        "price": 10877.89,
+        "changePct": -0.17784270739369604
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3804.693,
-        "changePct": -0.2259716624140113
+        "price": 3832.262,
+        "changePct": 0.0990474001363566
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4549.72,
-        "changePct": -1.0986765536397594
+        "price": 4588.197,
+        "changePct": 0.8457003947495638
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25858.88,
-        "changePct": 0.1974587645963052
+        "price": 25884.43,
+        "changePct": 0.09880551671224456
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I spent 20 minutes deciding what to order for dinner, then 5 minutes eating it.",
-      "explanation": "It highlights the modern dilemma of overthinking simple choices (like food delivery) and the disproportionate effort compared to the quick outcome."
+      "joke": "I've started scheduling my existential dread. It really helps with time management.",
+      "explanation": "It's funny because it takes a profound, overwhelming emotion (existential dread) and applies a mundane, modern coping mechanism (scheduling), highlighting absurd attempts to control inner chaos."
     },
     "zh": {
-      "joke": "我最近发现一个职场潜规则：当你感到焦虑，不知道从何下手的时候，先打开所有相关文档和软件，然后找个角落深呼吸，假装在“战略性冥想”。"
+      "joke": "我每天起床的动力，就是想看看今天又有什么新的“待办事项”能被我无情地拖到明天。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Paul Anka",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paul_Anka_performing_at_Caesars_Windsor%2C_2024-05-24_10.jpg/330px-Paul_Anka_performing_at_Caesars_Windsor%2C_2024-05-24_10.jpg",
-        "bio": "Canadian and American singer and actor (born 1941)",
-        "extract": "Paul Albert Anka is a Canadian and American singer, songwriter, and actor. His songs include \"Diana\", \"You Are My Destiny\", \"Lonely Boy\", \"Put Your Head on My Shoulder\", \"(You're) Having My Baby\" and \"My Way\".",
-        "born": 1941,
+        "name": "Salvatore Maranzano",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Salvatore_Maranzano_%28cropped%29.jpg/330px-Salvatore_Maranzano_%28cropped%29.jpg",
+        "bio": "Italian-American mob boss (1886–1931)",
+        "extract": "Salvatore Maranzano, nicknamed Little Caesar, was an Italian-American mobster from the town of Castellammare del Golfo, Sicily, and an early Cosa Nostra boss who led what later would become the Bonanno crime family in New York City. He instigated the Castellammarese War in 1930 to seize control of the American Mafia, winning the war after the murder of rival faction head Joe Masseria in April 1931. He then briefly became the Mafia's capo di tutti capi and formed the Five Families in New York City but was murdered on September 10, 1931, on the orders of Charles \"Lucky\" Luciano, who established the Commission, in which families shared power to prevent future turf wars.",
+        "born": 1886,
         "highlights": [
-          "Singer, songwriter, and actor.",
-          "Known for songs like \"Diana\" and \"My Way\".",
-          "Also wrote \"You Are My Destiny\" and \"Lonely Boy\"."
+          "Early Cosa Nostra boss, led Bonanno crime family.",
+          "Instigated Castellammarese War, became capo di tutti capi.",
+          "Formed the Five Families in New York City."
         ]
       },
       {
-        "name": "Samuel Rogers",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Samuel_Rogers_by_Thomas_Phillips.jpg/330px-Samuel_Rogers_by_Thomas_Phillips.jpg",
-        "bio": "British poet (1763–1855)",
-        "extract": "Samuel Rogers was an English poet, during his lifetime one of the most celebrated, although his fame has long since been eclipsed by his Romantic colleagues and friends Wordsworth, Coleridge and Byron. His recollections of these and other friends such as Charles James Fox are key sources for information about London artistic and literary life, with which he was intimate, and which he used his wealth to support. He made his money as a banker and was also a discriminating art collector.",
-        "born": 1763,
+        "name": "Derek Smith (ice hockey, born 1954)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Derek_Smith_%28110410-F-DS336-092%29_%28cropped%29.jpg/330px-Derek_Smith_%28110410-F-DS336-092%29_%28cropped%29.jpg",
+        "bio": "Canadian ice hockey player",
+        "extract": "Derek Robert Smith is a Canadian former professional ice hockey player who played in the National Hockey League with the Buffalo Sabres and Detroit Red Wings between 1975 and 1983. He was selected by the Sabres in the 1974 NHL Amateur Draft.",
+        "born": 1954,
         "highlights": [
-          "English poet, celebrated in his lifetime.",
-          "His recollections are key sources for London literary life.",
-          "Also a banker and discriminating art collector."
+          "Canadian former professional ice hockey player.",
+          "Played in NHL with Buffalo Sabres.",
+          "Also played for Detroit Red Wings."
         ]
       },
       {
-        "name": "Sonu Nigam",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sonu_Nigam123.jpg/330px-Sonu_Nigam123.jpg",
-        "bio": "Indian playback singer (born 1973)",
-        "extract": "Sonu Nigam  is an Indian playback singer, music director, dubbing artist and actor. He is considered one of the most versatile singers in India, with a wide vocal range. His performances include a wide range of genres, like classical music, devotional music, ghazals, qawwali, rock and pop music, among others. Nigam sings predominantly in Hindi- and Kannada-language films. He has recorded over 6,000 songs in more than 32 languages throughout his career. He has released a number of non-film albums and acted in some Hindi films. Nigam has been awarded one National Film Award, two Filmfare Awards and two Filmfare Awards South and four IIFA Awards for Best Playback Singer. He was ranked top artist on the Billboard Uncharted charts twice in September and October 2013.\nNigam was honoured with the Padma Shri, India's fourth-highest civilian award in 2022.",
-        "born": 1973,
+        "name": "John Swainson",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/John_Swainson_%281961_portrait%29.png/330px-John_Swainson_%281961_portrait%29.png",
+        "bio": "American politician",
+        "extract": "John Burley Swainson was a Canadian-American politician and jurist who served as the 42nd governor of Michigan from 1961 to 1963.",
+        "born": 1925,
         "highlights": [
-          "Indian playback singer, music director, and actor.",
-          "Recorded over 6,000 songs in 32+ languages.",
-          "Awarded Padma Shri, National Film Award, Filmfare Awards."
+          "Canadian-American politician and jurist.",
+          "Served as 42nd governor of Michigan.",
+          "Governor of Michigan from 1961 to 1963."
         ]
       }
     ]
