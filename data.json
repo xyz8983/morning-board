@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-31T15:19:18.281Z",
+  "generatedAt": "2026-07-31T20:17:32.878Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.6,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 29.9,
+    "tempC": 29.5,
+    "condition": "Mostly clear",
+    "code": 1,
+    "highC": 29.8,
     "lowC": 19,
     "rainChance": 5
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Los Angeles",
-          "City Buzz"
+          "Pixel Tag",
+          "Tracking"
         ],
-        "summary": "Los Angeles is buzzing due to recent cultural events and local news developments."
+        "summary": "Pixel tags are buzzing due to privacy concerns and their role in online user tracking."
       },
       {
         "keywords": [
-          "Andrew Painter",
-          "MLB Prospect"
+          "Bill Murray",
+          "Appearances"
         ],
-        "summary": "Andrew Painter is buzzing as a top pitching prospect in MLB, generating significant draft interest."
+        "summary": "Bill Murray is buzzing with recent appearances and new projects generating fan excitement."
       },
       {
         "keywords": [
-          "Hartman Colorado",
-          "Real Estate"
+          "Spencer Jones",
+          "Comedy"
         ],
-        "summary": "Hartman, Colorado is buzzing due to its unique real estate market and outdoor recreation appeal."
+        "summary": "Spencer Jones is buzzing for his unique physical comedy and viral online sketches."
       },
       {
         "keywords": [
-          "Casey Mize",
-          "Pitcher Comeback"
+          "DeAndre Hopkins",
+          "NFL Free Agent"
         ],
-        "summary": "Casey Mize is buzzing as fans anticipate his return to the mound after a long injury recovery."
+        "summary": "DeAndre Hopkins is buzzing as a top NFL free agent, with teams vying for his talent."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7441.89,
-        "changePct": 0.057276309792235136
+        "price": 7489.72,
+        "changePct": 0.7003575063561934
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25174.357,
-        "changePct": 0.20770094057927657
+        "price": 25373.854,
+        "changePct": 1.0018080438726271
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6368.88,
-        "changePct": 0.3858520900321618
+        "price": 6358.01,
+        "changePct": 0.21451989155791854
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10877.89,
-        "changePct": -0.17784270739369604
+        "price": 10868.05,
+        "changePct": -0.26814055263383546
       },
       {
         "region": "Asia",
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "I've started scheduling my existential dread. It really helps with time management.",
-      "explanation": "It's funny because it takes a profound, overwhelming emotion (existential dread) and applies a mundane, modern coping mechanism (scheduling), highlighting absurd attempts to control inner chaos."
+      "joke": "My biggest fear isn't AI taking over, it's AI judging my 'For You' page.",
+      "explanation": "It plays on a common modern fear of AI, while comically prioritizing a relatable, trivial insecurity about social media algorithms."
     },
     "zh": {
-      "joke": "我每天起床的动力，就是想看看今天又有什么新的“待办事项”能被我无情地拖到明天。"
+      "joke": "每次清空购物车，都觉得自己完成了一项重要的“消费心理学”实验，成功抵抗了资本主义的诱惑。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Salvatore Maranzano",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Salvatore_Maranzano_%28cropped%29.jpg/330px-Salvatore_Maranzano_%28cropped%29.jpg",
-        "bio": "Italian-American mob boss (1886–1931)",
-        "extract": "Salvatore Maranzano, nicknamed Little Caesar, was an Italian-American mobster from the town of Castellammare del Golfo, Sicily, and an early Cosa Nostra boss who led what later would become the Bonanno crime family in New York City. He instigated the Castellammarese War in 1930 to seize control of the American Mafia, winning the war after the murder of rival faction head Joe Masseria in April 1931. He then briefly became the Mafia's capo di tutti capi and formed the Five Families in New York City but was murdered on September 10, 1931, on the orders of Charles \"Lucky\" Luciano, who established the Commission, in which families shared power to prevent future turf wars.",
-        "born": 1886,
+        "name": "Brian Orakpo",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Washington_Commanders_Reveal_Brian_Orakpo_%28cropped%29.jpg/330px-Washington_Commanders_Reveal_Brian_Orakpo_%28cropped%29.jpg",
+        "bio": "American football player (born 1986)",
+        "extract": "Brian Ndubisi Orakpo is an American former professional football player who was a linebacker for 10 seasons in the National Football League (NFL). He played college football for the University of Texas, was recognized as a unanimous All-American, and was selected by the Washington Redskins with the thirteenth overall pick in the 2009 NFL draft. He also played for Tennessee Titans, and was selected to four Pro Bowls.",
+        "born": 1986,
         "highlights": [
-          "Early Cosa Nostra boss, led Bonanno crime family.",
-          "Instigated Castellammarese War, became capo di tutti capi.",
-          "Formed the Five Families in New York City."
+          "Played 10 seasons as an NFL linebacker.",
+          "Unanimous All-American at University of Texas.",
+          "Selected to four Pro Bowls."
         ]
       },
       {
-        "name": "Derek Smith (ice hockey, born 1954)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Derek_Smith_%28110410-F-DS336-092%29_%28cropped%29.jpg/330px-Derek_Smith_%28110410-F-DS336-092%29_%28cropped%29.jpg",
-        "bio": "Canadian ice hockey player",
-        "extract": "Derek Robert Smith is a Canadian former professional ice hockey player who played in the National Hockey League with the Buffalo Sabres and Detroit Red Wings between 1975 and 1983. He was selected by the Sabres in the 1974 NHL Amateur Draft.",
-        "born": 1954,
+        "name": "Daniel Ciofani",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Daniel_ciofani_-_frosinone.jpg/330px-Daniel_ciofani_-_frosinone.jpg",
+        "bio": "Italian footballer (born 1985)",
+        "extract": "Daniel Ciofani is an Italian former professional footballer who played as a forward.",
+        "born": 1985,
         "highlights": [
-          "Canadian former professional ice hockey player.",
-          "Played in NHL with Buffalo Sabres.",
-          "Also played for Detroit Red Wings."
+          "Italian former professional footballer.",
+          "Played as a forward."
         ]
       },
       {
-        "name": "John Swainson",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/John_Swainson_%281961_portrait%29.png/330px-John_Swainson_%281961_portrait%29.png",
-        "bio": "American politician",
-        "extract": "John Burley Swainson was a Canadian-American politician and jurist who served as the 42nd governor of Michigan from 1961 to 1963.",
-        "born": 1925,
+        "name": "Kim Newman",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kim_Newman_%28cropped%29.jpg",
+        "bio": "English writer and novelist (born 1959)",
+        "extract": "Kim James Newman is an English journalist, film critic, and fiction writer. He focuses on film history and horror fiction – both of which he attributes to seeing Tod Browning's Dracula at the age of eleven – and alternative history. He has won the Bram Stoker Award, the International Horror Guild Award, and the BSFA award.",
+        "born": 1959,
         "highlights": [
-          "Canadian-American politician and jurist.",
-          "Served as 42nd governor of Michigan.",
-          "Governor of Michigan from 1961 to 1963."
+          "English journalist, film critic, and fiction writer.",
+          "Won the Bram Stoker Award.",
+          "Won the International Horror Guild Award and BSFA award."
         ]
       }
     ]
