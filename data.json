@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-07-31T20:17:32.878Z",
+  "generatedAt": "2026-08-01T14:25:48.656Z",
   "weather": {
     "location": "New York City",
-    "tempC": 29.5,
-    "condition": "Mostly clear",
-    "code": 1,
-    "highC": 29.8,
-    "lowC": 19,
-    "rainChance": 5
+    "tempC": 26,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 30.4,
+    "lowC": 21,
+    "rainChance": 3
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Pixel Tag",
-          "Tracking"
+          "CJ Gardner-Johnson",
+          "NFL"
         ],
-        "summary": "Pixel tags are buzzing due to privacy concerns and their role in online user tracking."
+        "summary": "Why is CJ Gardner-Johnson buzzing? The NFL player is a frequent topic in sports discussions."
       },
       {
         "keywords": [
-          "Bill Murray",
-          "Appearances"
+          "Doxxing",
+          "Online Safety"
         ],
-        "summary": "Bill Murray is buzzing with recent appearances and new projects generating fan excitement."
+        "summary": "Why is doxxing buzzing? It's a serious online threat involving personal information exposure."
       },
       {
         "keywords": [
-          "Spencer Jones",
-          "Comedy"
+          "Man Utd",
+          "Football Club"
         ],
-        "summary": "Spencer Jones is buzzing for his unique physical comedy and viral online sketches."
+        "summary": "Why is Man U buzzing? The football club is a constant subject of sports news and fan debate."
       },
       {
         "keywords": [
-          "DeAndre Hopkins",
-          "NFL Free Agent"
+          "Mateusz Rębecki",
+          "MMA Fighter"
         ],
-        "summary": "DeAndre Hopkins is buzzing as a top NFL free agent, with teams vying for his talent."
+        "summary": "Why is Mateusz Rębecki buzzing? The MMA fighter is gaining attention in combat sports circles."
       }
     ]
   },
@@ -77,7 +77,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3832.262,
-        "changePct": 0.0990474001363566
+        "changePct": 0.7246845340881941
       },
       {
         "region": "Asia",
@@ -97,49 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My biggest fear isn't AI taking over, it's AI judging my 'For You' page.",
-      "explanation": "It plays on a common modern fear of AI, while comically prioritizing a relatable, trivial insecurity about social media algorithms."
+      "joke": "I asked AI to write my obituary. It generated three versions, then offered to optimize them for SEO.",
+      "explanation": "It's funny because it applies a modern, impersonal, and capitalist concept (SEO optimization) to something deeply personal and final (an obituary), creating an absurd contrast."
     },
     "zh": {
-      "joke": "每次清空购物车，都觉得自己完成了一项重要的“消费心理学”实验，成功抵抗了资本主义的诱惑。"
+      "joke": "朋友圈里个个都人生赢家，晒旅行、晒健身、晒娃。我默默点了个赞，然后点开外卖软件，至少我还能拥有热量自由。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Brian Orakpo",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Washington_Commanders_Reveal_Brian_Orakpo_%28cropped%29.jpg/330px-Washington_Commanders_Reveal_Brian_Orakpo_%28cropped%29.jpg",
-        "bio": "American football player (born 1986)",
-        "extract": "Brian Ndubisi Orakpo is an American former professional football player who was a linebacker for 10 seasons in the National Football League (NFL). He played college football for the University of Texas, was recognized as a unanimous All-American, and was selected by the Washington Redskins with the thirteenth overall pick in the 2009 NFL draft. He also played for Tennessee Titans, and was selected to four Pro Bowls.",
-        "born": 1986,
+        "name": "Charles I, Duke of Brunswick-Wolfenbüttel",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/After_Ziesenis_-_Charles_I%2C_Duke_of_Brunswick-Wolfenb%C3%BCttel.png/330px-After_Ziesenis_-_Charles_I%2C_Duke_of_Brunswick-Wolfenb%C3%BCttel.png",
+        "bio": "Prince of Brunswick-Wolfenbüttel",
+        "extract": "Charles, Duke of Brunswick-Lüneburg, reigned as Prince of Brunswick-Wolfenbüttel from 1735 until his death.",
+        "born": 1713,
         "highlights": [
-          "Played 10 seasons as an NFL linebacker.",
-          "Unanimous All-American at University of Texas.",
-          "Selected to four Pro Bowls."
+          "Reigned as Prince of Brunswick-Wolfenbüttel.",
+          "Duke of Brunswick-Lüneburg.",
+          "Reigned from 1735 until his death."
         ]
       },
       {
-        "name": "Daniel Ciofani",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Daniel_ciofani_-_frosinone.jpg/330px-Daniel_ciofani_-_frosinone.jpg",
-        "bio": "Italian footballer (born 1985)",
-        "extract": "Daniel Ciofani is an Italian former professional footballer who played as a forward.",
-        "born": 1985,
+        "name": "Sammy Jones",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/SPJones.jpg",
+        "bio": "Australian cricketer",
+        "extract": "Samuel Percy Jones was an Australian cricketer who played 12 Test matches between 1882 and 1888.",
+        "born": 1861,
         "highlights": [
-          "Italian former professional footballer.",
-          "Played as a forward."
+          "Australian cricketer.",
+          "Played 12 Test matches.",
+          "Played between 1882 and 1888."
         ]
       },
       {
-        "name": "Kim Newman",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kim_Newman_%28cropped%29.jpg",
-        "bio": "English writer and novelist (born 1959)",
-        "extract": "Kim James Newman is an English journalist, film critic, and fiction writer. He focuses on film history and horror fiction – both of which he attributes to seeing Tod Browning's Dracula at the age of eleven – and alternative history. He has won the Bram Stoker Award, the International Horror Guild Award, and the BSFA award.",
-        "born": 1959,
+        "name": "Jack Delano",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jack_Delano_in_his_studio.jpg/330px-Jack_Delano_in_his_studio.jpg",
+        "bio": "American photographer, composer (1914–1997)",
+        "extract": "Jack Delano was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.",
+        "born": 1914,
         "highlights": [
-          "English journalist, film critic, and fiction writer.",
-          "Won the Bram Stoker Award.",
-          "Won the International Horror Guild Award and BSFA award."
+          "Photographer, filmmaker, and composer.",
+          "Worked for Farm Security Administration (FSA).",
+          "Known for Puerto Rican folk material in compositions."
         ]
       }
     ]
