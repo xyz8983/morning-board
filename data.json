@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-01T20:08:29.910Z",
+  "generatedAt": "2026-08-02T14:28:35.405Z",
   "weather": {
     "location": "New York City",
-    "tempC": 29.3,
+    "tempC": 26.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 30.8,
-    "lowC": 21,
-    "rainChance": 3
+    "highC": 29.1,
+    "lowC": 22.8,
+    "rainChance": 17
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Marlins",
-          "Mets"
+          "NFL",
+          "Preseason"
         ],
-        "summary": "Marlins vs Mets is buzzing due to their recent MLB matchup."
+        "summary": "NFL preseason is buzzing as fans anticipate the start of the new football season."
       },
       {
         "keywords": [
-          "Dewanna Bonner",
-          "WNBA"
+          "Bernie Sanders",
+          "Politics"
         ],
-        "summary": "Dewanna Bonner is buzzing for her standout performance in the WNBA."
+        "summary": "Bernie Sanders is buzzing due to recent political statements and public appearances."
       },
       {
         "keywords": [
-          "Hank Aaron",
-          "Baseball Legend"
+          "Scarlett Johansson",
+          "Actress"
         ],
-        "summary": "Hank Aaron is buzzing as fans remember the baseball legend's enduring legacy."
+        "summary": "Scarlett Johansson is buzzing due to recent film projects or public engagements."
       },
       {
         "keywords": [
-          "Chicago Stars",
-          "Racing Louisville"
+          "Madden 27",
+          "Game Release"
         ],
-        "summary": "Chicago Stars vs Racing Louisville is buzzing following their recent NWSL game."
+        "summary": "Madden 27 release date is buzzing as gamers eagerly await the new edition."
       }
     ]
   },
@@ -76,8 +76,8 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3832.262,
-        "changePct": 0.7246845340881941
+        "price": 3832.2625,
+        "changePct": 0.7246288438650723
       },
       {
         "region": "Asia",
@@ -97,48 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My remote office is just my laptop on a daily pilgrimage to whichever surface still has enough charge.",
-      "explanation": "It's a deadpan observation on the less glamorous, constantly mobile reality of working from home."
+      "joke": "My current life status is 'buffering'.",
+      "explanation": "This joke uses a common digital metaphor to humorously express feeling stuck or unproductive in life."
     },
     "zh": {
-      "joke": "别人问我为什么总是加班，我说我在享受“延迟满足”。具体内容是：延迟下班，满足老板。"
+      "joke": "为了响应国家号召，我决定把躺平升级为“战略性休憩”。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Robert Todd Lincoln",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lincoln%2C_Robert_%28son_of_Abraham_Lincoln%29_Crop.jpg/330px-Lincoln%2C_Robert_%28son_of_Abraham_Lincoln%29_Crop.jpg",
-        "bio": "American lawyer and politician (1843–1926)",
-        "extract": "Robert Todd Lincoln was an American lawyer and businessman. He was the eldest son of President Abraham Lincoln and First Lady Mary Todd Lincoln and the only one of their four children to live past age 18. Robert Lincoln became a business lawyer and company president, serving as both United States Secretary of War (1881–1885) and the U.S. Ambassador to Great Britain (1889–1893).",
-        "born": 1843,
+        "name": "Alexander Emelianenko",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alex_emelyanenko_40_years.jpg/330px-Alex_emelyanenko_40_years.jpg",
+        "bio": "Russian mixed martial artist",
+        "extract": "Alexander Vladimirovich Emelianenko is a Russian professional mixed martial artist. He is a three-time Russian national Combat Sambo champion and three-time world Combat Sambo champion in the absolute division. He is a younger brother of Fedor Emelianenko.",
+        "born": 1981,
         "highlights": [
-          "Eldest son of President Abraham Lincoln.",
-          "Served as United States Secretary of War.",
-          "U.S. Ambassador to Great Britain."
+          "Russian professional mixed martial artist.",
+          "Three-time Russian national Combat Sambo champion.",
+          "Three-time world Combat Sambo champion."
         ]
       },
       {
-        "name": "Damien Saez",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Damien_Saez_-_Ardentes_2010.jpg/330px-Damien_Saez_-_Ardentes_2010.jpg",
-        "bio": "French singer-songwriter and musician (born 1977)",
-        "extract": "Damien Saez or just Saez, is a French singer-songwriter and musician.",
-        "born": 1977,
+        "name": "Uğur Tütüneker",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/U%C4%9Fur_T%C3%BCt%C3%BCneker_%281%29.JPG/330px-U%C4%9Fur_T%C3%BCt%C3%BCneker_%281%29.JPG",
+        "bio": "Turkish footballer and manager",
+        "extract": "Uğur Tütüneker is a Turkish former footballer and manager who most recently served as the manager of Adana Demirspor. After migrating to Germany with his family, he started playing football at Bayern Munich youth academy.",
+        "born": 1963,
         "highlights": [
-          "French singer-songwriter and musician."
+          "Turkish former footballer and manager.",
+          "Most recently managed Adana Demirspor.",
+          "Played football at Bayern Munich youth academy."
         ]
       },
       {
-        "name": "Teri Shields",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Teri_Shields.jpg/330px-Teri_Shields.jpg",
-        "bio": "American actress, film producer, socialite, and model (1933–2012)",
-        "extract": "Theresia Anna Lilian Maria Shields was an American actress, who was the mother and manager of actress Brooke Shields.",
-        "born": 1933,
+        "name": "Butch Vig",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Butch_Vig_at_Smart_Studios%2C_Madison%2C_WI%2C_United_States_of_America_%28cropped%29.jpg/330px-Butch_Vig_at_Smart_Studios%2C_Madison%2C_WI%2C_United_States_of_America_%28cropped%29.jpg",
+        "bio": "American musician and record producer",
+        "extract": "Bryan David \"Butch\" Vig is an American musician, record producer, and songwriter who is the drummer and co-producer of the rock band Garbage. Vig produced for several alternative rock acts of the 1990s, including Nirvana, the Smashing Pumpkins, L7, and Sonic Youth. Notable albums he produced include Nirvana's diamond-selling album Nevermind (1991), L7's Bricks Are Heavy (1992), the Smashing Pumpkins' Siamese Dream (1993), and Green Day's 21st Century Breakdown (2009).",
+        "born": 1955,
         "highlights": [
-          "American actress.",
-          "Mother of actress Brooke Shields.",
-          "Manager of actress Brooke Shields."
+          "Drummer and co-producer of rock band Garbage.",
+          "Produced Nirvana's diamond-selling album Nevermind.",
+          "Produced Smashing Pumpkins' Siamese Dream."
         ]
       }
     ]
