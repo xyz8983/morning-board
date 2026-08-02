@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-02T14:28:35.405Z",
+  "generatedAt": "2026-08-02T20:08:31.441Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.5,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 29.1,
+    "tempC": 27.9,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 28.2,
     "lowC": 22.8,
-    "rainChance": 17
+    "rainChance": 19
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "NFL",
-          "Preseason"
+          "Twins",
+          "Mariners"
         ],
-        "summary": "NFL preseason is buzzing as fans anticipate the start of the new football season."
+        "summary": "Twins vs. Mariners is buzzing as fans follow the intense baseball matchup."
       },
       {
         "keywords": [
-          "Bernie Sanders",
-          "Politics"
+          "Cameron Brink",
+          "WNBA"
         ],
-        "summary": "Bernie Sanders is buzzing due to recent political statements and public appearances."
+        "summary": "Cameron Brink is buzzing due to her impressive performance in the WNBA season."
       },
       {
         "keywords": [
-          "Scarlett Johansson",
-          "Actress"
+          "Guardians",
+          "Baseball"
         ],
-        "summary": "Scarlett Johansson is buzzing due to recent film projects or public engagements."
+        "summary": "The Guardians game is buzzing as fans eagerly track the team's latest play."
       },
       {
         "keywords": [
-          "Madden 27",
-          "Game Release"
+          "Ariana Grande",
+          "Stepping back"
         ],
-        "summary": "Madden 27 release date is buzzing as gamers eagerly await the new edition."
+        "summary": "Ariana Grande stepping back is buzzing as fans discuss her career pause."
       }
     ]
   },
@@ -56,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 25373.854,
-        "changePct": 1.0018080438726271
+        "changePct": 1.0017195946214847
       },
       {
         "region": "Europe",
@@ -70,14 +70,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10868.05,
-        "changePct": -0.26814055263383546
+        "changePct": -0.2684151120002203
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3832.2625,
-        "changePct": 0.7246288438650723
+        "price": 3832.262,
+        "changePct": 0.7246845340881941
       },
       {
         "region": "Asia",
@@ -91,56 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 25884.43,
-        "changePct": 0.09880551671224456
+        "changePct": 0.09872809748287374
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My current life status is 'buffering'.",
-      "explanation": "This joke uses a common digital metaphor to humorously express feeling stuck or unproductive in life."
+      "joke": "My biggest fear is dying before my Amazon package arrives.",
+      "explanation": "It's an absurdly relatable, dark exaggeration of modern consumerism and impatience, making light of death."
     },
     "zh": {
-      "joke": "为了响应国家号召，我决定把躺平升级为“战略性休憩”。"
+      "joke": "别人问我最近忙什么，我一般都说在‘战略性思考人生’，其实就是在发呆或者刷手机。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Alexander Emelianenko",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alex_emelyanenko_40_years.jpg/330px-Alex_emelyanenko_40_years.jpg",
-        "bio": "Russian mixed martial artist",
-        "extract": "Alexander Vladimirovich Emelianenko is a Russian professional mixed martial artist. He is a three-time Russian national Combat Sambo champion and three-time world Combat Sambo champion in the absolute division. He is a younger brother of Fedor Emelianenko.",
-        "born": 1981,
+        "name": "Estephan El Douaihy",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Estephane-Douaihi.jpg",
+        "bio": "Head of the Maronite Church from 1670 to 1704",
+        "extract": "Estephan El Douaihy or Istifan al-Duwayhi was the 57th Patriarch of the Maronite Church, serving from 1670 until his death. He was born in Ehden, Lebanon.",
+        "born": 1630,
         "highlights": [
-          "Russian professional mixed martial artist.",
-          "Three-time Russian national Combat Sambo champion.",
-          "Three-time world Combat Sambo champion."
+          "57th Patriarch of the Maronite Church.",
+          "Served as Patriarch from 1670 until his death.",
+          "Born in Ehden, Lebanon."
         ]
       },
       {
-        "name": "Uğur Tütüneker",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/U%C4%9Fur_T%C3%BCt%C3%BCneker_%281%29.JPG/330px-U%C4%9Fur_T%C3%BCt%C3%BCneker_%281%29.JPG",
-        "bio": "Turkish footballer and manager",
-        "extract": "Uğur Tütüneker is a Turkish former footballer and manager who most recently served as the manager of Adana Demirspor. After migrating to Germany with his family, he started playing football at Bayern Munich youth academy.",
-        "born": 1963,
+        "name": "Skylar Diggins",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Skylar_Diggins-Smith_2024_%28cropped%29.jpg/330px-Skylar_Diggins-Smith_2024_%28cropped%29.jpg",
+        "bio": "American basketball player (born 1990)",
+        "extract": "Skylar Kierra Diggins is an American professional basketball player for the Chicago Sky of the Women's National Basketball Association (WNBA) and for the Lunar Owls of Unrivaled. Diggins was drafted third overall by the Tulsa Shock in the 2013 WNBA draft. In high school, she was the National Gatorade Player of the Year and the Gatorade Female Athlete of the Year. She played college basketball for the Notre Dame Fighting Irish and led the team to three consecutive Final Fours and two consecutive NCAA championship appearances. She finished her Notre Dame career ranked first in points and steals, second in assists, and as a two-time winner of the Nancy Lieberman Award as the top point guard in the nation.",
+        "born": 1990,
         "highlights": [
-          "Turkish former footballer and manager.",
-          "Most recently managed Adana Demirspor.",
-          "Played football at Bayern Munich youth academy."
+          "Professional basketball player for Chicago Sky and Lunar Owls.",
+          "National Gatorade Player of the Year in high school.",
+          "Two-time winner of the Nancy Lieberman Award."
         ]
       },
       {
-        "name": "Butch Vig",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Butch_Vig_at_Smart_Studios%2C_Madison%2C_WI%2C_United_States_of_America_%28cropped%29.jpg/330px-Butch_Vig_at_Smart_Studios%2C_Madison%2C_WI%2C_United_States_of_America_%28cropped%29.jpg",
-        "bio": "American musician and record producer",
-        "extract": "Bryan David \"Butch\" Vig is an American musician, record producer, and songwriter who is the drummer and co-producer of the rock band Garbage. Vig produced for several alternative rock acts of the 1990s, including Nirvana, the Smashing Pumpkins, L7, and Sonic Youth. Notable albums he produced include Nirvana's diamond-selling album Nevermind (1991), L7's Bricks Are Heavy (1992), the Smashing Pumpkins' Siamese Dream (1993), and Green Day's 21st Century Breakdown (2009).",
-        "born": 1955,
+        "name": "Jean-Baptiste du Casse",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jean_Baptiste_du_Casse.JPG/330px-Jean_Baptiste_du_Casse.JPG",
+        "bio": "French Navy officer, privateer, slave trader and colonial administrator",
+        "extract": "Lieutenant général des armées navales Jean-Baptiste du Casse was a French Navy officer, privateer, slave trader and colonial administrator who served as the first governor of Saint-Domingue from 1691 to 1700. Born on 2 August 1646 in Saubusse, France to a Huguenot family, du Casse enlisted in the French merchant navy before joining the French East India Company and the Compagnie du Sénégal. He subsequently joined the French navy and took part in several victorious expeditions during the Nine Years' War in the West Indies and South America.",
+        "born": 1646,
         "highlights": [
-          "Drummer and co-producer of rock band Garbage.",
-          "Produced Nirvana's diamond-selling album Nevermind.",
-          "Produced Smashing Pumpkins' Siamese Dream."
+          "First governor of Saint-Domingue (1691-1700).",
+          "French Navy officer, privateer, and slave trader.",
+          "Participated in victorious Nine Years' War expeditions."
         ]
       }
     ]
