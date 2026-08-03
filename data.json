@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-02T20:08:31.441Z",
+  "generatedAt": "2026-08-03T15:42:03.283Z",
   "weather": {
     "location": "New York City",
-    "tempC": 27.9,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 28.2,
-    "lowC": 22.8,
-    "rainChance": 19
+    "tempC": 23.6,
+    "condition": "Rain showers",
+    "code": 81,
+    "highC": 27.6,
+    "lowC": 20.4,
+    "rainChance": 93
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Twins",
-          "Mariners"
+          "Brent Suter",
+          "Reds Signing"
         ],
-        "summary": "Twins vs. Mariners is buzzing as fans follow the intense baseball matchup."
+        "summary": "Brent Suter is buzzing after signing a new contract with the Cincinnati Reds."
       },
       {
         "keywords": [
-          "Cameron Brink",
-          "WNBA"
+          "Nathan Eovaldi",
+          "Rangers Star"
         ],
-        "summary": "Cameron Brink is buzzing due to her impressive performance in the WNBA season."
+        "summary": "Nathan Eovaldi is buzzing for his key role in the Rangers' recent World Series win."
       },
       {
         "keywords": [
-          "Guardians",
-          "Baseball"
+          "Flock Safety",
+          "Surveillance Tech"
         ],
-        "summary": "The Guardians game is buzzing as fans eagerly track the team's latest play."
+        "summary": "Flock Safety is buzzing due to its expanding use of public safety cameras."
       },
       {
         "keywords": [
-          "Ariana Grande",
-          "Stepping back"
+          "SpaceX Rocket",
+          "Moon Impact"
         ],
-        "summary": "Ariana Grande stepping back is buzzing as fans discuss her career pause."
+        "summary": "SpaceX rocket moon impact is buzzing as a discarded booster is set to hit the moon."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7489.72,
-        "changePct": 0.7003575063561934
+        "price": 7582.32,
+        "changePct": 1.2363613058966083
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25373.854,
-        "changePct": 1.0017195946214847
+        "price": 25848.521,
+        "changePct": 1.8706933522987925
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6358.01,
-        "changePct": 0.21451989155791854
+        "price": 6435.83,
+        "changePct": 1.2239678767413027
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10868.05,
-        "changePct": -0.2684151120002203
+        "price": 10849.65,
+        "changePct": -0.1693036009219652
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3832.262,
-        "changePct": 0.7246845340881941
+        "price": 3809.6628,
+        "changePct": -0.5897221288990449
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4588.197,
-        "changePct": 0.8457003947495638
+        "price": 4543.178,
+        "changePct": -0.9811915225087379
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25884.43,
-        "changePct": 0.09872809748287374
+        "price": 26009.4,
+        "changePct": 0.4827998916723341
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My biggest fear is dying before my Amazon package arrives.",
-      "explanation": "It's an absurdly relatable, dark exaggeration of modern consumerism and impatience, making light of death."
+      "joke": "I just bought a new smart device. It's really changed my life. Now I have another thing to ignore.",
+      "explanation": "It subverts expectations of a 'life-changing' smart device, highlighting modern notification fatigue and the ironic act of ignoring new tech."
     },
     "zh": {
-      "joke": "别人问我最近忙什么，我一般都说在‘战略性思考人生’，其实就是在发呆或者刷手机。"
+      "joke": "每天都告诉自己要早睡，结果在睡前刷手机刷到凌晨，第二天又觉得“今天必须得早睡”，形成了一个完美的闭环。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Estephan El Douaihy",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Estephane-Douaihi.jpg",
-        "bio": "Head of the Maronite Church from 1670 to 1704",
-        "extract": "Estephan El Douaihy or Istifan al-Duwayhi was the 57th Patriarch of the Maronite Church, serving from 1670 until his death. He was born in Ehden, Lebanon.",
-        "born": 1630,
+        "name": "Luis Robert Jr.",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Luis_Robert_Jr._standing_in_the_batter%27s_box%2C_July_19%2C_2023_%28cropped%29.jpg/330px-Luis_Robert_Jr._standing_in_the_batter%27s_box%2C_July_19%2C_2023_%28cropped%29.jpg",
+        "bio": "Cuban-born baseball player (born 1997)",
+        "extract": "Luis Robert Moirán Jr. is a Cuban-born professional baseball center fielder for the New York Mets of Major League Baseball (MLB). He has previously played in MLB for the Chicago White Sox. After defecting from Cuba in 2016, Robert signed with the White Sox in 2017. He made his MLB debut in 2020. That year, he won the Gold Glove Award. He was named an All-Star in 2023.",
+        "born": 1997,
         "highlights": [
-          "57th Patriarch of the Maronite Church.",
-          "Served as Patriarch from 1670 until his death.",
-          "Born in Ehden, Lebanon."
+          "Professional baseball center fielder for New York Mets.",
+          "Won the Gold Glove Award in 2020.",
+          "Named an All-Star in 2023."
         ]
       },
       {
-        "name": "Skylar Diggins",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Skylar_Diggins-Smith_2024_%28cropped%29.jpg/330px-Skylar_Diggins-Smith_2024_%28cropped%29.jpg",
-        "bio": "American basketball player (born 1990)",
-        "extract": "Skylar Kierra Diggins is an American professional basketball player for the Chicago Sky of the Women's National Basketball Association (WNBA) and for the Lunar Owls of Unrivaled. Diggins was drafted third overall by the Tulsa Shock in the 2013 WNBA draft. In high school, she was the National Gatorade Player of the Year and the Gatorade Female Athlete of the Year. She played college basketball for the Notre Dame Fighting Irish and led the team to three consecutive Final Fours and two consecutive NCAA championship appearances. She finished her Notre Dame career ranked first in points and steals, second in assists, and as a two-time winner of the Nancy Lieberman Award as the top point guard in the nation.",
-        "born": 1990,
+        "name": "Charlie Shavers",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Charlie_Shavers%2C_May_1947.jpg/330px-Charlie_Shavers%2C_May_1947.jpg",
+        "bio": "American jazz trumpeter (1920–1971)",
+        "extract": "Charles James Shavers was an American jazz trumpeter who played with Dizzy Gillespie, Nat King Cole, Roy Eldridge, Johnny Dodds, Jimmie Noone, Sidney Bechet, Midge Williams, Tommy Dorsey, and Billie Holiday. He was also an arranger and composer, and one of his compositions, \"Undecided\", is a jazz standard.",
+        "born": 1920,
         "highlights": [
-          "Professional basketball player for Chicago Sky and Lunar Owls.",
-          "National Gatorade Player of the Year in high school.",
-          "Two-time winner of the Nancy Lieberman Award."
+          "American jazz trumpeter.",
+          "Composed \"Undecided\", a jazz standard.",
+          "Played with Dizzy Gillespie, Nat King Cole, Tommy Dorsey."
         ]
       },
       {
-        "name": "Jean-Baptiste du Casse",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jean_Baptiste_du_Casse.JPG/330px-Jean_Baptiste_du_Casse.JPG",
-        "bio": "French Navy officer, privateer, slave trader and colonial administrator",
-        "extract": "Lieutenant général des armées navales Jean-Baptiste du Casse was a French Navy officer, privateer, slave trader and colonial administrator who served as the first governor of Saint-Domingue from 1691 to 1700. Born on 2 August 1646 in Saubusse, France to a Huguenot family, du Casse enlisted in the French merchant navy before joining the French East India Company and the Compagnie du Sénégal. He subsequently joined the French navy and took part in several victorious expeditions during the Nine Years' War in the West Indies and South America.",
-        "born": 1646,
+        "name": "Pope Shenouda III of Alexandria",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pope_Shenouda_III_of_Alexandria_by_Chuck_Kennedy_%28Official_White_House_Photostream%29.jpg/330px-Pope_Shenouda_III_of_Alexandria_by_Chuck_Kennedy_%28Official_White_House_Photostream%29.jpg",
+        "bio": "Head of the Coptic Church from 1971 to 2012",
+        "extract": "Pope Shenouda III was the 117th Pope of Alexandria and Patriarch of the See of St. Mark. His papacy lasted 40 years, 4 months, and 4 days, from 14 November 1971 until his death in 2012.",
+        "born": 1923,
         "highlights": [
-          "First governor of Saint-Domingue (1691-1700).",
-          "French Navy officer, privateer, and slave trader.",
-          "Participated in victorious Nine Years' War expeditions."
+          "117th Pope of Alexandria.",
+          "Patriarch of the See of St. Mark.",
+          "Papacy lasted over 40 years (1971-2012)."
         ]
       }
     ]
