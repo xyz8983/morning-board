@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-03T15:42:03.283Z",
+  "generatedAt": "2026-08-03T20:25:19.724Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.6,
-    "condition": "Rain showers",
-    "code": 81,
-    "highC": 27.6,
-    "lowC": 20.4,
+    "tempC": 26.9,
+    "condition": "Heavy rain showers",
+    "code": 82,
+    "highC": 26.7,
+    "lowC": 20,
     "rainChance": 93
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Brent Suter",
-          "Reds Signing"
+          "Snap Stock",
+          "Market Buzz"
         ],
-        "summary": "Brent Suter is buzzing after signing a new contract with the Cincinnati Reds."
+        "summary": "Snap stock is buzzing due to recent market performance and investor interest."
       },
       {
         "keywords": [
-          "Nathan Eovaldi",
-          "Rangers Star"
+          "Daulton Varsho",
+          "MLB Player"
         ],
-        "summary": "Nathan Eovaldi is buzzing for his key role in the Rangers' recent World Series win."
+        "summary": "Daulton Varsho is buzzing in sports news, likely for recent performance or trade rumors."
       },
       {
         "keywords": [
-          "Flock Safety",
-          "Surveillance Tech"
+          "Josiah Ragsdale",
+          "Emerging Talent"
         ],
-        "summary": "Flock Safety is buzzing due to its expanding use of public safety cameras."
+        "summary": "Josiah Ragsdale is buzzing, possibly due to emerging talent or recent athletic achievements."
       },
       {
         "keywords": [
-          "SpaceX Rocket",
-          "Moon Impact"
+          "Brewers Prospects",
+          "Team Future"
         ],
-        "summary": "SpaceX rocket moon impact is buzzing as a discarded booster is set to hit the moon."
+        "summary": "Brewers top prospects are buzzing as fans anticipate their impact on the team's future."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7582.32,
-        "changePct": 1.2363613058966083
+        "price": 7600.5,
+        "changePct": 1.479094011525127
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25848.521,
-        "changePct": 1.8706933522987925
+        "price": 25913.896,
+        "changePct": 2.1283404562822867
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6435.83,
-        "changePct": 1.2239678767413027
+        "price": 6426.5,
+        "changePct": 1.077223848342481
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10849.65,
-        "changePct": -0.1693036009219652
+        "price": 10857.7,
+        "changePct": -0.09523327551859391
       },
       {
         "region": "Asia",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I just bought a new smart device. It's really changed my life. Now I have another thing to ignore.",
-      "explanation": "It subverts expectations of a 'life-changing' smart device, highlighting modern notification fatigue and the ironic act of ignoring new tech."
+      "joke": "My smart home decided 3 AM was the perfect time to ask if I enjoyed my last Amazon purchase.",
+      "explanation": "Funny because it subverts the expectation of smart tech being helpful, instead making it intrusive and comically ill-timed with a mundane query."
     },
     "zh": {
-      "joke": "每天都告诉自己要早睡，结果在睡前刷手机刷到凌晨，第二天又觉得“今天必须得早睡”，形成了一个完美的闭环。"
+      "joke": "我每天都在努力实现“躺平”的梦想，没想到实现这个梦想本身就挺内卷的。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Luis Robert Jr.",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Luis_Robert_Jr._standing_in_the_batter%27s_box%2C_July_19%2C_2023_%28cropped%29.jpg/330px-Luis_Robert_Jr._standing_in_the_batter%27s_box%2C_July_19%2C_2023_%28cropped%29.jpg",
-        "bio": "Cuban-born baseball player (born 1997)",
-        "extract": "Luis Robert Moirán Jr. is a Cuban-born professional baseball center fielder for the New York Mets of Major League Baseball (MLB). He has previously played in MLB for the Chicago White Sox. After defecting from Cuba in 2016, Robert signed with the White Sox in 2017. He made his MLB debut in 2020. That year, he won the Gold Glove Award. He was named an All-Star in 2023.",
-        "born": 1997,
+        "name": "Ian Bairnson",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/IanBairnson1982.jpg/330px-IanBairnson1982.jpg",
+        "bio": "Scottish musician (1953–2023)",
+        "extract": "John \"Ian\" Bairnson was a Scottish musician and member of Pilot and the Alan Parsons Project. He was a multi-instrumentalist, who played saxophone and keyboards, but mainly performed as a guitarist, which he played with a sixpence. In addition to his work with Parsons, Bairnson played guitar on four Kate Bush albums, including the guitar solo on her 1978 debut single, \"Wuthering Heights\".",
+        "born": 1953,
         "highlights": [
-          "Professional baseball center fielder for New York Mets.",
-          "Won the Gold Glove Award in 2020.",
-          "Named an All-Star in 2023."
+          "Member of Pilot and the Alan Parsons Project.",
+          "Played guitar on four Kate Bush albums.",
+          "Performed guitar solo on \"Wuthering Heights\"."
         ]
       },
       {
-        "name": "Charlie Shavers",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Charlie_Shavers%2C_May_1947.jpg/330px-Charlie_Shavers%2C_May_1947.jpg",
-        "bio": "American jazz trumpeter (1920–1971)",
-        "extract": "Charles James Shavers was an American jazz trumpeter who played with Dizzy Gillespie, Nat King Cole, Roy Eldridge, Johnny Dodds, Jimmie Noone, Sidney Bechet, Midge Williams, Tommy Dorsey, and Billie Holiday. He was also an arranger and composer, and one of his compositions, \"Undecided\", is a jazz standard.",
-        "born": 1920,
+        "name": "Brent Kutzle",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Brent_Kutzle_from_OneRepublic_%28cropped%29.jpg",
+        "bio": "Musical artist",
+        "extract": "Brent Michael Kutzle is an American musician, multi-instrumentalist, songwriter, record producer, and film composer originating from Fountain Valley, California. He is the bassist and cellist for the pop rock band OneRepublic.",
+        "born": 1985,
         "highlights": [
-          "American jazz trumpeter.",
-          "Composed \"Undecided\", a jazz standard.",
-          "Played with Dizzy Gillespie, Nat King Cole, Tommy Dorsey."
+          "Bassist and cellist for OneRepublic.",
+          "Multi-instrumentalist, songwriter, and record producer.",
+          "Also works as a film composer."
         ]
       },
       {
-        "name": "Pope Shenouda III of Alexandria",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pope_Shenouda_III_of_Alexandria_by_Chuck_Kennedy_%28Official_White_House_Photostream%29.jpg/330px-Pope_Shenouda_III_of_Alexandria_by_Chuck_Kennedy_%28Official_White_House_Photostream%29.jpg",
-        "bio": "Head of the Coptic Church from 1971 to 2012",
-        "extract": "Pope Shenouda III was the 117th Pope of Alexandria and Patriarch of the See of St. Mark. His papacy lasted 40 years, 4 months, and 4 days, from 14 November 1971 until his death in 2012.",
-        "born": 1923,
+        "name": "Lawrence Brown (jazz trombonist)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%28Portrait_of_Lawrence_Brown%2C_Aquarium%2C_New_York%2C_N.Y.%2C_ca._Nov._1946%29_%28LOC%29_%284888665414%29.jpg/330px-%28Portrait_of_Lawrence_Brown%2C_Aquarium%2C_New_York%2C_N.Y.%2C_ca._Nov._1946%29_%28LOC%29_%284888665414%29.jpg",
+        "bio": "American jazz trombonist (1907–1988)",
+        "extract": "Lawrence Brown was an American jazz trombonist from California best remembered for his work with the Duke Ellington orchestra. He was a session musician throughout his career, and also recorded albums under his own name.",
+        "born": 1907,
         "highlights": [
-          "117th Pope of Alexandria.",
-          "Patriarch of the See of St. Mark.",
-          "Papacy lasted over 40 years (1971-2012)."
+          "American jazz trombonist.",
+          "Best remembered for work with Duke Ellington orchestra.",
+          "Recorded albums under his own name."
         ]
       }
     ]
