@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-04T15:24:07.130Z",
+  "generatedAt": "2026-08-04T20:22:11.240Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.9,
+    "tempC": 26.1,
     "condition": "Overcast",
     "code": 3,
-    "highC": 26.5,
+    "highC": 27.6,
     "lowC": 18,
     "rainChance": 0
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Natasha Ward",
-          "Australian Runner"
+          "Rebecca De Paula",
+          "Social Media"
         ],
-        "summary": "Australian runner Natasha Ward is buzzing for recent athletic achievements."
+        "summary": "Rebecca De Paula is buzzing due to recent social media activity and public appearances."
       },
       {
         "keywords": [
-          "Meghan Markle",
-          "Public Engagements"
+          "AMD Stock",
+          "Market Buzz"
         ],
-        "summary": "Meghan Markle is buzzing due to her recent public engagements."
+        "summary": "AMD stock is buzzing due to strong market performance and new product announcements."
       },
       {
         "keywords": [
-          "Baylen Dupree",
-          "Tourette's Advocacy"
+          "FBI",
+          "Current Events"
         ],
-        "summary": "Baylen Dupree is buzzing for her social media advocacy for Tourette's."
+        "summary": "The Federal Bureau of Investigation is buzzing amidst ongoing high-profile investigations and public statements."
       },
       {
         "keywords": [
-          "Cyberattack",
-          "Security Threats"
+          "LIV Golf",
+          "Tournaments"
         ],
-        "summary": "Cyberattack concerns are buzzing due to recent widespread incidents."
+        "summary": "LIV Golf is buzzing with recent tournament developments and player transfer news."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7700.5,
-        "changePct": 1.3157029142819552
+        "price": 7736.52,
+        "changePct": 1.7896191040063212
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26411.568,
-        "changePct": 1.9204831261188926
+        "price": 26584.992,
+        "changePct": 2.5897148001211305
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6486.79,
-        "changePct": 0.9381467361705432
+        "price": 6486.7,
+        "changePct": 0.9367462849140249
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10892.46,
-        "changePct": 0.32014146642473446
+        "price": 10879.38,
+        "changePct": 0.1996739640991966
       },
       {
         "region": "Asia",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My WFH commute today was a real journey: from the bed to the desk. Barely made it.",
-      "explanation": "It's sarcastic about the minimal effort of a WFH 'commute,' humorously exaggerating a relatable modern experience."
+      "joke": "My most consistent relationship is with the guy who delivers my groceries.",
+      "explanation": "This joke is a dry, self-deprecating observation about modern social isolation and reliance on convenience services."
     },
     "zh": {
-      "joke": "跟不熟的人聊天时，我感觉自己像一个在有限算力下运行的对话机器人，每句话都得精确规划，生怕宕机。"
+      "joke": "建议把我的工位命名为“高效发呆区”，因为我在这里思考宇宙的奥秘远多于工作。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Andrew McLeod",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amcleod_%28cropped%29.jpg/330px-Amcleod_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian rules footballer (born 1976)",
-        "extract": "Andrew Luke McLeod is a former professional Australian rules footballer who played for the Adelaide Football Club in the Australian Football League (AFL). He is the games record holder for Adelaide, having played 340 games.",
-        "born": 1976,
+        "name": "Wesley Addy",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wesley_Addy_in_Time_Table_%281956%29.jpg/330px-Wesley_Addy_in_Time_Table_%281956%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (1913–1996)",
+        "extract": "Robert Wesley Addy was an American actor of stage, television, and film.",
+        "born": 1913,
         "highlights": [
-          "Former professional Australian rules footballer.",
-          "Played for the Adelaide Football Club.",
-          "Games record holder for Adelaide (340 games)."
+          "American actor.",
+          "Acted in stage productions.",
+          "Appeared in television and film."
         ]
       },
       {
-        "name": "Stefan Brogren",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Stefan_Brogren_10.jpg/330px-Stefan_Brogren_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian actor and director (born 1972)",
-        "extract": "Stefan Brogren is a Canadian actor, director, and producer who is best known for his mainstay role as Archie \"Snake\" Simpson in the Degrassi television franchise. First appearing as a student in the second series Degrassi Junior High (1987–1989) and continuing into Degrassi High (1989–1991), Brogren played the role of Snake throughout every subsequent entry in the franchise, reprising his role in the revival Degrassi: The Next Generation (2001–2015) as a teacher and later principal, and again in Degrassi: Next Class (2016–17).",
-        "born": 1972,
+        "name": "John Scaddan",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/John_Scaddan_-_Bazley_%28cropped%29.jpg/330px-John_Scaddan_-_Bazley_%28cropped%29.jpg",
+        "bio": "Australian politician (1876–1934)",
+        "extract": "John Scaddan, CMG, popularly known as \"Happy Jack\", was Premier of Western Australia from 7 October 1911 until 27 July 1916.",
+        "born": 1876,
         "highlights": [
-          "Canadian actor, director, and producer.",
-          "Known as Archie \"Snake\" Simpson in Degrassi franchise.",
-          "Played Snake from Degrassi Junior High to Next Class."
+          "Known as \"Happy Jack\".",
+          "Premier of Western Australia.",
+          "Served as Premier from 1911 to 1916."
         ]
       },
       {
-        "name": "Lorenzo di Pierfrancesco de' Medici",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lorenzo_il_popolano%2C_xv_century.jpg/330px-Lorenzo_il_popolano%2C_xv_century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian banker and politician",
-        "extract": "Lorenzo di Pierfrancesco de' Medici, nicknamed the Popolano, was an Italian banker and politician, the brother of Giovanni il Popolano. He belonged to the junior branch of the House of Medici of Florence.",
-        "born": 1463,
+        "name": "Domingo Germán",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Domingo_German_%2846644031395%29.jpg/330px-Domingo_German_%2846644031395%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Dominican baseball player (born 1992)",
+        "extract": "Domingo Germán Polanco is a Dominican professional baseball pitcher for the Toros de Tijuana of the Mexican League. He has previously played in Major League Baseball (MLB) for the New York Yankees and Pittsburgh Pirates.",
+        "born": 1992,
         "highlights": [
-          "Italian banker and politician.",
-          "Nicknamed \"the Popolano\".",
-          "Member of the junior branch of House of Medici."
+          "Dominican professional baseball pitcher.",
+          "Plays for Toros de Tijuana.",
+          "Played MLB for New York Yankees and Pittsburgh Pirates."
         ]
       }
     ]
