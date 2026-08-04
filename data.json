@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-03T20:25:19.724Z",
+  "generatedAt": "2026-08-04T15:24:07.130Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.9,
-    "condition": "Heavy rain showers",
-    "code": 82,
-    "highC": 26.7,
-    "lowC": 20,
-    "rainChance": 93
+    "tempC": 24.9,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 26.5,
+    "lowC": 18,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Snap Stock",
-          "Market Buzz"
+          "Natasha Ward",
+          "Australian Runner"
         ],
-        "summary": "Snap stock is buzzing due to recent market performance and investor interest."
+        "summary": "Australian runner Natasha Ward is buzzing for recent athletic achievements."
       },
       {
         "keywords": [
-          "Daulton Varsho",
-          "MLB Player"
+          "Meghan Markle",
+          "Public Engagements"
         ],
-        "summary": "Daulton Varsho is buzzing in sports news, likely for recent performance or trade rumors."
+        "summary": "Meghan Markle is buzzing due to her recent public engagements."
       },
       {
         "keywords": [
-          "Josiah Ragsdale",
-          "Emerging Talent"
+          "Baylen Dupree",
+          "Tourette's Advocacy"
         ],
-        "summary": "Josiah Ragsdale is buzzing, possibly due to emerging talent or recent athletic achievements."
+        "summary": "Baylen Dupree is buzzing for her social media advocacy for Tourette's."
       },
       {
         "keywords": [
-          "Brewers Prospects",
-          "Team Future"
+          "Cyberattack",
+          "Security Threats"
         ],
-        "summary": "Brewers top prospects are buzzing as fans anticipate their impact on the team's future."
+        "summary": "Cyberattack concerns are buzzing due to recent widespread incidents."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7600.5,
-        "changePct": 1.479094011525127
+        "price": 7700.5,
+        "changePct": 1.3157029142819552
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25913.896,
-        "changePct": 2.1283404562822867
+        "price": 26411.568,
+        "changePct": 1.9204831261188926
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6426.5,
-        "changePct": 1.077223848342481
+        "price": 6486.79,
+        "changePct": 0.9381467361705432
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10857.7,
-        "changePct": -0.09523327551859391
+        "price": 10892.46,
+        "changePct": 0.32014146642473446
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3809.6628,
-        "changePct": -0.5897221288990449
+        "price": 3822.285,
+        "changePct": -0.2602902725806799
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4543.178,
-        "changePct": -0.9811915225087379
+        "price": 4600.93,
+        "changePct": 1.2711806581208223
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 26009.4,
-        "changePct": 0.4827998916723341
+        "price": 25852.92,
+        "changePct": -0.6016286419525371
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My smart home decided 3 AM was the perfect time to ask if I enjoyed my last Amazon purchase.",
-      "explanation": "Funny because it subverts the expectation of smart tech being helpful, instead making it intrusive and comically ill-timed with a mundane query."
+      "joke": "My WFH commute today was a real journey: from the bed to the desk. Barely made it.",
+      "explanation": "It's sarcastic about the minimal effort of a WFH 'commute,' humorously exaggerating a relatable modern experience."
     },
     "zh": {
-      "joke": "我每天都在努力实现“躺平”的梦想，没想到实现这个梦想本身就挺内卷的。"
+      "joke": "跟不熟的人聊天时，我感觉自己像一个在有限算力下运行的对话机器人，每句话都得精确规划，生怕宕机。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Ian Bairnson",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/IanBairnson1982.jpg/330px-IanBairnson1982.jpg",
-        "bio": "Scottish musician (1953–2023)",
-        "extract": "John \"Ian\" Bairnson was a Scottish musician and member of Pilot and the Alan Parsons Project. He was a multi-instrumentalist, who played saxophone and keyboards, but mainly performed as a guitarist, which he played with a sixpence. In addition to his work with Parsons, Bairnson played guitar on four Kate Bush albums, including the guitar solo on her 1978 debut single, \"Wuthering Heights\".",
-        "born": 1953,
+        "name": "Andrew McLeod",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amcleod_%28cropped%29.jpg/330px-Amcleod_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian rules footballer (born 1976)",
+        "extract": "Andrew Luke McLeod is a former professional Australian rules footballer who played for the Adelaide Football Club in the Australian Football League (AFL). He is the games record holder for Adelaide, having played 340 games.",
+        "born": 1976,
         "highlights": [
-          "Member of Pilot and the Alan Parsons Project.",
-          "Played guitar on four Kate Bush albums.",
-          "Performed guitar solo on \"Wuthering Heights\"."
+          "Former professional Australian rules footballer.",
+          "Played for the Adelaide Football Club.",
+          "Games record holder for Adelaide (340 games)."
         ]
       },
       {
-        "name": "Brent Kutzle",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Brent_Kutzle_from_OneRepublic_%28cropped%29.jpg",
-        "bio": "Musical artist",
-        "extract": "Brent Michael Kutzle is an American musician, multi-instrumentalist, songwriter, record producer, and film composer originating from Fountain Valley, California. He is the bassist and cellist for the pop rock band OneRepublic.",
-        "born": 1985,
+        "name": "Stefan Brogren",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Stefan_Brogren_10.jpg/330px-Stefan_Brogren_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian actor and director (born 1972)",
+        "extract": "Stefan Brogren is a Canadian actor, director, and producer who is best known for his mainstay role as Archie \"Snake\" Simpson in the Degrassi television franchise. First appearing as a student in the second series Degrassi Junior High (1987–1989) and continuing into Degrassi High (1989–1991), Brogren played the role of Snake throughout every subsequent entry in the franchise, reprising his role in the revival Degrassi: The Next Generation (2001–2015) as a teacher and later principal, and again in Degrassi: Next Class (2016–17).",
+        "born": 1972,
         "highlights": [
-          "Bassist and cellist for OneRepublic.",
-          "Multi-instrumentalist, songwriter, and record producer.",
-          "Also works as a film composer."
+          "Canadian actor, director, and producer.",
+          "Known as Archie \"Snake\" Simpson in Degrassi franchise.",
+          "Played Snake from Degrassi Junior High to Next Class."
         ]
       },
       {
-        "name": "Lawrence Brown (jazz trombonist)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%28Portrait_of_Lawrence_Brown%2C_Aquarium%2C_New_York%2C_N.Y.%2C_ca._Nov._1946%29_%28LOC%29_%284888665414%29.jpg/330px-%28Portrait_of_Lawrence_Brown%2C_Aquarium%2C_New_York%2C_N.Y.%2C_ca._Nov._1946%29_%28LOC%29_%284888665414%29.jpg",
-        "bio": "American jazz trombonist (1907–1988)",
-        "extract": "Lawrence Brown was an American jazz trombonist from California best remembered for his work with the Duke Ellington orchestra. He was a session musician throughout his career, and also recorded albums under his own name.",
-        "born": 1907,
+        "name": "Lorenzo di Pierfrancesco de' Medici",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lorenzo_il_popolano%2C_xv_century.jpg/330px-Lorenzo_il_popolano%2C_xv_century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian banker and politician",
+        "extract": "Lorenzo di Pierfrancesco de' Medici, nicknamed the Popolano, was an Italian banker and politician, the brother of Giovanni il Popolano. He belonged to the junior branch of the House of Medici of Florence.",
+        "born": 1463,
         "highlights": [
-          "American jazz trombonist.",
-          "Best remembered for work with Duke Ellington orchestra.",
-          "Recorded albums under his own name."
+          "Italian banker and politician.",
+          "Nicknamed \"the Popolano\".",
+          "Member of the junior branch of House of Medici."
         ]
       }
     ]
