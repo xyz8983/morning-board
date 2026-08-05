@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-04T20:22:11.240Z",
+  "generatedAt": "2026-08-05T15:13:13.005Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.1,
+    "tempC": 25.2,
     "condition": "Overcast",
     "code": 3,
-    "highC": 27.6,
-    "lowC": 18,
-    "rainChance": 0
+    "highC": 25.8,
+    "lowC": 19.8,
+    "rainChance": 12
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Rebecca De Paula",
-          "Social Media"
+          "Marcell Ozuna",
+          "MLB Performance"
         ],
-        "summary": "Rebecca De Paula is buzzing due to recent social media activity and public appearances."
+        "summary": "Marcell Ozuna is buzzing for his recent strong performance in MLB games."
       },
       {
         "keywords": [
-          "AMD Stock",
-          "Market Buzz"
+          "Harry Jowsey",
+          "DWTS"
         ],
-        "summary": "AMD stock is buzzing due to strong market performance and new product announcements."
+        "summary": "Harry Jowsey is buzzing following his recent participation in \"Dancing with the Stars.\""
       },
       {
         "keywords": [
-          "FBI",
-          "Current Events"
+          "IonQ Stock",
+          "Quantum Computing"
         ],
-        "summary": "The Federal Bureau of Investigation is buzzing amidst ongoing high-profile investigations and public statements."
+        "summary": "IonQ stock is buzzing due to recent market performance and quantum computing developments."
       },
       {
         "keywords": [
-          "LIV Golf",
-          "Tournaments"
+          "Harrison Ford",
+          "Film Releases"
         ],
-        "summary": "LIV Golf is buzzing with recent tournament developments and player transfer news."
+        "summary": "Harrison Ford is buzzing for his recent film releases and public engagements."
       }
     ]
   },
@@ -48,99 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7736.52,
-        "changePct": 1.7896191040063212
+        "price": 7760.09,
+        "changePct": 0.30465894226344287
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26584.992,
-        "changePct": 2.5897148001211305
+        "price": 26625.736,
+        "changePct": 0.15325940289920875
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6486.7,
-        "changePct": 0.9367462849140249
+        "price": 6481.32,
+        "changePct": -0.08293893659333883
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10879.38,
-        "changePct": 0.1996739640991966
+        "price": 10908.53,
+        "changePct": 0.2679380626469657
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3822.285,
-        "changePct": -0.2602902725806799
+        "price": 3878.43,
+        "changePct": 1.8051479659602168
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4600.93,
-        "changePct": 1.2711806581208223
+        "price": 4658.155,
+        "changePct": 1.2437702812257403
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25852.92,
-        "changePct": -0.6016286419525371
+        "price": 25915.82,
+        "changePct": 0.24329940293011956
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My most consistent relationship is with the guy who delivers my groceries.",
-      "explanation": "This joke is a dry, self-deprecating observation about modern social isolation and reliance on convenience services."
+      "joke": "My smart home speaker just suggested I listen to 'lo-fi beats to stare blankly at the wall to.'",
+      "explanation": "This is dark humor because it personifies AI with a bleak, relatable observation about modern anhedonia or burnout, mimicking popular lo-fi music titles."
     },
     "zh": {
-      "joke": "建议把我的工位命名为“高效发呆区”，因为我在这里思考宇宙的奥秘远多于工作。"
+      "joke": "我的工作热情，就像手机电量，上午90%，下午20%，晚上直接黑屏。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Wesley Addy",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wesley_Addy_in_Time_Table_%281956%29.jpg/330px-Wesley_Addy_in_Time_Table_%281956%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (1913–1996)",
-        "extract": "Robert Wesley Addy was an American actor of stage, television, and film.",
-        "born": 1913,
+        "name": "Christopher Chessun",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Official_portrait_of_The_Lord_Bishop_of_Southwark_crop_2.jpg/330px-Official_portrait_of_The_Lord_Bishop_of_Southwark_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British Anglican bishop and Lord Spiritual (born 1956)",
+        "extract": "Christopher Thomas James Chessun is a British Anglican bishop. He became Bishop of Southwark in the Church of England in 2011.",
+        "born": 1956,
         "highlights": [
-          "American actor.",
-          "Acted in stage productions.",
-          "Appeared in television and film."
+          "British Anglican bishop.",
+          "Became Bishop of Southwark in 2011."
         ]
       },
       {
-        "name": "John Scaddan",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/John_Scaddan_-_Bazley_%28cropped%29.jpg/330px-John_Scaddan_-_Bazley_%28cropped%29.jpg",
-        "bio": "Australian politician (1876–1934)",
-        "extract": "John Scaddan, CMG, popularly known as \"Happy Jack\", was Premier of Western Australia from 7 October 1911 until 27 July 1916.",
-        "born": 1876,
+        "name": "José García Villa",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jose_Garcia_Villa_NYWTS.jpg/330px-Jose_Garcia_Villa_NYWTS.jpg",
+        "bio": "Filipino poet (1908–1997)",
+        "extract": "José García Villa was a Filipino poet, literary critic, short story writer, and painter. He was awarded the National Artist of the Philippines title for literature in 1973, as well as the Guggenheim Fellowship in creative writing by Conrad Aiken. He is known to have introduced the \"reversed consonance rhyme scheme\" in writing poetry, as well as the extensive use of punctuation marks—especially commas, which made him known as the Comma Poet. He used the pen name Doveglion, based on the characters he derived from his own works. These animals were also explored by another poet, E. E. Cummings, in \"Doveglion, Adventures in Value\", a poem dedicated to Villa.",
+        "born": 1908,
         "highlights": [
-          "Known as \"Happy Jack\".",
-          "Premier of Western Australia.",
-          "Served as Premier from 1911 to 1916."
+          "Filipino poet, literary critic, short story writer, and painter.",
+          "Awarded National Artist of the Philippines title for literature in 1973.",
+          "Introduced \"reversed consonance rhyme scheme\" and was \"Comma Poet\"."
         ]
       },
       {
-        "name": "Domingo Germán",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Domingo_German_%2846644031395%29.jpg/330px-Domingo_German_%2846644031395%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Dominican baseball player (born 1992)",
-        "extract": "Domingo Germán Polanco is a Dominican professional baseball pitcher for the Toros de Tijuana of the Mexican League. He has previously played in Major League Baseball (MLB) for the New York Yankees and Pittsburgh Pirates.",
-        "born": 1992,
+        "name": "Sammi Smith",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sammi_Smith.png/330px-Sammi_Smith.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American country singer (1943–2005)",
+        "extract": "Jewel Fay \"Sammi\" Smith was an American country music singer and songwriter. She is best known for her 1971 crossover hit \"Help Me Make It Through the Night\", which was written by Kris Kristofferson. She became one of the few women in the outlaw country movement during the 1970s.",
+        "born": 1943,
         "highlights": [
-          "Dominican professional baseball pitcher.",
-          "Plays for Toros de Tijuana.",
-          "Played MLB for New York Yankees and Pittsburgh Pirates."
+          "American country music singer and songwriter.",
+          "Best known for 1971 hit \"Help Me Make It Through the Night\".",
+          "One of few women in the outlaw country movement."
         ]
       }
     ]
