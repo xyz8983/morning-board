@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-05T15:13:13.005Z",
+  "generatedAt": "2026-08-05T20:24:01.350Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.2,
+    "tempC": 26.6,
     "condition": "Overcast",
     "code": 3,
-    "highC": 25.8,
+    "highC": 26.9,
     "lowC": 19.8,
-    "rainChance": 12
+    "rainChance": 26
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Marcell Ozuna",
-          "MLB Performance"
+          "SanDisk",
+          "Earnings"
         ],
-        "summary": "Marcell Ozuna is buzzing for his recent strong performance in MLB games."
+        "summary": "SanDisk earnings are buzzing as investors analyze the latest financial performance and future outlook."
       },
       {
         "keywords": [
-          "Harry Jowsey",
-          "DWTS"
+          "WDC",
+          "Stock Performance"
         ],
-        "summary": "Harry Jowsey is buzzing following his recent participation in \"Dancing with the Stars.\""
+        "summary": "WDC stock is buzzing due to recent market movements and analyst predictions for its value."
       },
       {
         "keywords": [
-          "IonQ Stock",
-          "Quantum Computing"
+          "Brian Moynihan",
+          "CEO News"
         ],
-        "summary": "IonQ stock is buzzing due to recent market performance and quantum computing developments."
+        "summary": "Brian Moynihan is buzzing as news circulates about his leadership at Bank of America."
       },
       {
         "keywords": [
-          "Harrison Ford",
-          "Film Releases"
+          "Cubs",
+          "Baseball Team"
         ],
-        "summary": "Harrison Ford is buzzing for his recent film releases and public engagements."
+        "summary": "The Cubs are buzzing as fans discuss their recent games and playoff prospects."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7760.09,
-        "changePct": 0.30465894226344287
+        "price": 7723.55,
+        "changePct": -0.167646435348196
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26625.736,
-        "changePct": 0.15325940289920875
+        "price": 26363.44,
+        "changePct": -0.8333724531495051
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6481.32,
-        "changePct": -0.08293893659333883
+        "price": 6476.98,
+        "changePct": -0.1498450675998621
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10908.53,
-        "changePct": 0.2679380626469657
+        "price": 10888.3,
+        "changePct": 0.08198996633999432
       },
       {
         "region": "Asia",
@@ -97,49 +97,48 @@
   },
   "joke": {
     "en": {
-      "joke": "My smart home speaker just suggested I listen to 'lo-fi beats to stare blankly at the wall to.'",
-      "explanation": "This is dark humor because it personifies AI with a bleak, relatable observation about modern anhedonia or burnout, mimicking popular lo-fi music titles."
+      "joke": "Just posted a 10-minute video explaining why I'm taking a break from social media, only to realize it's my most viral content yet.",
+      "explanation": "It's post-ironic because it highlights the self-defeating absurdity of trying to escape social media while being rewarded by its very mechanics."
     },
     "zh": {
-      "joke": "我的工作热情，就像手机电量，上午90%，下午20%，晚上直接黑屏。"
+      "joke": "我的健身卡已经躺在钱包里一年了，每次看到它，我都会感到一种平静。那是一种与世无争的佛系，象征着我与世俗欲望彻底和解，比如……八块腹肌。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Christopher Chessun",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Official_portrait_of_The_Lord_Bishop_of_Southwark_crop_2.jpg/330px-Official_portrait_of_The_Lord_Bishop_of_Southwark_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British Anglican bishop and Lord Spiritual (born 1956)",
-        "extract": "Christopher Thomas James Chessun is a British Anglican bishop. He became Bishop of Southwark in the Church of England in 2011.",
-        "born": 1956,
+        "name": "Wayne Bridge",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WayneBridge.jpg/330px-WayneBridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English footballer (born 1980)",
+        "extract": "Wayne Michael Bridge is an English former professional footballer who played as a left back.",
+        "born": 1980,
         "highlights": [
-          "British Anglican bishop.",
-          "Became Bishop of Southwark in 2011."
+          "English former professional footballer.",
+          "Played as a left back."
         ]
       },
       {
-        "name": "José García Villa",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jose_Garcia_Villa_NYWTS.jpg/330px-Jose_Garcia_Villa_NYWTS.jpg",
-        "bio": "Filipino poet (1908–1997)",
-        "extract": "José García Villa was a Filipino poet, literary critic, short story writer, and painter. He was awarded the National Artist of the Philippines title for literature in 1973, as well as the Guggenheim Fellowship in creative writing by Conrad Aiken. He is known to have introduced the \"reversed consonance rhyme scheme\" in writing poetry, as well as the extensive use of punctuation marks—especially commas, which made him known as the Comma Poet. He used the pen name Doveglion, based on the characters he derived from his own works. These animals were also explored by another poet, E. E. Cummings, in \"Doveglion, Adventures in Value\", a poem dedicated to Villa.",
-        "born": 1908,
+        "name": "Devan Nair",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Devan_Nair_%283x4_crop%29.jpg/330px-Devan_Nair_%283x4_crop%29.jpg",
+        "bio": "President of Singapore from 1981 to 1985",
+        "extract": "Chengara Veetil Devan Nair was a Singaporean union leader and politician who served as the third president of Singapore from 1981 until his resignation in 1985.",
+        "born": 1923,
         "highlights": [
-          "Filipino poet, literary critic, short story writer, and painter.",
-          "Awarded National Artist of the Philippines title for literature in 1973.",
-          "Introduced \"reversed consonance rhyme scheme\" and was \"Comma Poet\"."
+          "Singaporean union leader and politician.",
+          "Served as third president of Singapore (1981-1985)."
         ]
       },
       {
-        "name": "Sammi Smith",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sammi_Smith.png/330px-Sammi_Smith.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American country singer (1943–2005)",
-        "extract": "Jewel Fay \"Sammi\" Smith was an American country music singer and songwriter. She is best known for her 1971 crossover hit \"Help Me Make It Through the Night\", which was written by Kris Kristofferson. She became one of the few women in the outlaw country movement during the 1970s.",
-        "born": 1943,
+        "name": "Jesse Williams (actor)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jesse_Williams_at_the_2025_Sundance_Film_Festival_%28cropped%29.jpg/330px-Jesse_Williams_at_the_2025_Sundance_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor, director, producer (born 1980)",
+        "extract": "Jesse Wesley Williams is an American actor, director, producer, and activist best known as Dr. Jackson Avery on Grey's Anatomy. He has also appeared in films such as The Cabin in the Woods (2012) and The Butler (2013). He provided voice acting and motion capture for Markus in the video game Detroit: Become Human (2018).",
+        "born": 1980,
         "highlights": [
-          "American country music singer and songwriter.",
-          "Best known for 1971 hit \"Help Me Make It Through the Night\".",
-          "One of few women in the outlaw country movement."
+          "Best known as Dr. Jackson Avery on Grey's Anatomy.",
+          "Appeared in films like The Cabin in the Woods.",
+          "Voice acted as Markus in Detroit: Become Human."
         ]
       }
     ]
