@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-05T20:24:01.350Z",
+  "generatedAt": "2026-08-06T15:14:17.492Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.6,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 26.9,
-    "lowC": 19.8,
-    "rainChance": 26
+    "tempC": 26.8,
+    "condition": "Heavy rain showers",
+    "code": 82,
+    "highC": 29.5,
+    "lowC": 24.3,
+    "rainChance": 20
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "SanDisk",
-          "Earnings"
+          "Diomande",
+          "MLS Debut"
         ],
-        "summary": "SanDisk earnings are buzzing as investors analyze the latest financial performance and future outlook."
+        "summary": "Why it's buzzing: Denis Bouanga's hat-trick overshadowed Diomande's strong MLS debut for LAFC."
       },
       {
         "keywords": [
-          "WDC",
-          "Stock Performance"
+          "Rocket Lab",
+          "Space Launch"
         ],
-        "summary": "WDC stock is buzzing due to recent market movements and analyst predictions for its value."
+        "summary": "Why it's buzzing: Rocket Lab (RKLB) stock is gaining attention after its successful 'Owl's Night Continues' launch."
       },
       {
         "keywords": [
-          "Brian Moynihan",
-          "CEO News"
+          "Fauci",
+          "Phone Calls"
         ],
-        "summary": "Brian Moynihan is buzzing as news circulates about his leadership at Bank of America."
+        "summary": "Why it's buzzing: Dr. Fauci's private phone calls are under scrutiny regarding his COVID-19 pandemic response."
       },
       {
         "keywords": [
-          "Cubs",
-          "Baseball Team"
+          "JD Vance",
+          "Politics"
         ],
-        "summary": "The Cubs are buzzing as fans discuss their recent games and playoff prospects."
+        "summary": "Why it's buzzing: Senator JD Vance is frequently mentioned in discussions about potential vice-presidential candidates."
       }
     ]
   },
@@ -48,97 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7723.55,
-        "changePct": -0.167646435348196
+        "price": 7725.64,
+        "changePct": 0.027060095422443635
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26363.44,
-        "changePct": -0.8333724531495051
+        "price": 26441.117,
+        "changePct": 0.29463909110495323
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6476.98,
-        "changePct": -0.1498450675998621
+        "price": 6522.46,
+        "changePct": 0.7021791019888973
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10888.3,
-        "changePct": 0.08198996633999432
+        "price": 10881.21,
+        "changePct": -0.0651157664649224
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3878.43,
-        "changePct": 1.8051479659602168
+        "price": 3900.352,
+        "changePct": 2.04255051958516
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4658.155,
-        "changePct": 1.2437702812257403
+        "price": 4651.31,
+        "changePct": -0.1469465915152962
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25915.82,
-        "changePct": 0.24329940293011956
+        "price": 25530.28,
+        "changePct": -1.487662748082063
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "Just posted a 10-minute video explaining why I'm taking a break from social media, only to realize it's my most viral content yet.",
-      "explanation": "It's post-ironic because it highlights the self-defeating absurdity of trying to escape social media while being rewarded by its very mechanics."
+      "joke": "My dating app bio says 'fluent in sarcasm.' My matches respond with 'k.'",
+      "explanation": "It's funny because it highlights the ironic futility of trying to express personality (sarcasm) on dating apps, only to receive minimal, unenthusiastic replies."
     },
     "zh": {
-      "joke": "我的健身卡已经躺在钱包里一年了，每次看到它，我都会感到一种平静。那是一种与世无争的佛系，象征着我与世俗欲望彻底和解，比如……八块腹肌。"
+      "joke": "朋友问我最近怎么样，我说'挺好的，除了手机电量和存款以外，一切都挺好的。'"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Wayne Bridge",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WayneBridge.jpg/330px-WayneBridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English footballer (born 1980)",
-        "extract": "Wayne Michael Bridge is an English former professional footballer who played as a left back.",
-        "born": 1980,
+        "name": "Mickaël Delage",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Micka%C3%ABl_Delage_4JDD2011.JPG/330px-Micka%C3%ABl_Delage_4JDD2011.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Road bicycle racer (born 1985)",
+        "extract": "Mickaël Delage is a French former professional road and track cyclist, who last rode for UCI WorldTeam Groupama–FDJ.",
+        "born": 1985,
         "highlights": [
-          "English former professional footballer.",
-          "Played as a left back."
+          "French former professional road cyclist.",
+          "Also a professional track cyclist.",
+          "Last rode for UCI WorldTeam Groupama–FDJ."
         ]
       },
       {
-        "name": "Devan Nair",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Devan_Nair_%283x4_crop%29.jpg/330px-Devan_Nair_%283x4_crop%29.jpg",
-        "bio": "President of Singapore from 1981 to 1985",
-        "extract": "Chengara Veetil Devan Nair was a Singaporean union leader and politician who served as the third president of Singapore from 1981 until his resignation in 1985.",
-        "born": 1923,
+        "name": "Howard Hodgkin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Howard_Hodgkin_DMarshall1987.jpg/330px-Howard_Hodgkin_DMarshall1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British painter and printmaker (1932–2017)",
+        "extract": "Sir Gordon Howard Eliot Hodgkin was a British painter and printmaker. His work is most often associated with abstraction.",
+        "born": 1932,
         "highlights": [
-          "Singaporean union leader and politician.",
-          "Served as third president of Singapore (1981-1985)."
+          "British painter.",
+          "Also a printmaker.",
+          "Work associated with abstraction."
         ]
       },
       {
-        "name": "Jesse Williams (actor)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jesse_Williams_at_the_2025_Sundance_Film_Festival_%28cropped%29.jpg/330px-Jesse_Williams_at_the_2025_Sundance_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor, director, producer (born 1980)",
-        "extract": "Jesse Wesley Williams is an American actor, director, producer, and activist best known as Dr. Jackson Avery on Grey's Anatomy. He has also appeared in films such as The Cabin in the Woods (2012) and The Butler (2013). He provided voice acting and motion capture for Markus in the video game Detroit: Become Human (2018).",
-        "born": 1980,
+        "name": "Takhmina Ikromova",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Takhmina_Ikromova_Portrait.jpg/330px-Takhmina_Ikromova_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Uzbekistani rhythmic gymnast",
+        "extract": "Takhmina Ikromova is an Uzbekistani rhythmic gymnast. She is the 2022 Asian Games all-around and team gold medalist, a four-time Asian all-around champion and the 2025 World University Games all-around silver medalist.",
+        "born": 2004,
         "highlights": [
-          "Best known as Dr. Jackson Avery on Grey's Anatomy.",
-          "Appeared in films like The Cabin in the Woods.",
-          "Voice acted as Markus in Detroit: Become Human."
+          "Uzbekistani rhythmic gymnast.",
+          "2022 Asian Games all-around and team gold medalist.",
+          "Four-time Asian all-around champion."
         ]
       }
     ]
