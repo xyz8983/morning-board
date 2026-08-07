@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-07T00:39:35.783Z",
+  "generatedAt": "2026-08-07T14:12:55.862Z",
   "weather": {
     "location": "New York City",
-    "tempC": 27.5,
-    "condition": "Rain showers",
-    "code": 80,
-    "highC": 30.5,
-    "lowC": 24.3,
-    "rainChance": 20
+    "tempC": 28,
+    "condition": "Light rain",
+    "code": 61,
+    "highC": 34.5,
+    "lowC": 24.5,
+    "rainChance": 57
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Braves",
-          "MLB"
+          "Julie Chen",
+          "Moonves"
         ],
-        "summary": "The Braves are buzzing due to their recent performance and playoff implications."
+        "summary": "Julie Chen Moonves is buzzing due to her recent public statements and career developments."
       },
       {
         "keywords": [
-          "Travis Etienne",
-          "NFL"
+          "Sergi Roberto",
+          "Football"
         ],
-        "summary": "Travis Etienne is buzzing as a key player for the Jaguars, impacting fantasy football."
+        "summary": "Sergi Roberto is buzzing as news circulates about his contract situation and future with Barcelona."
       },
       {
         "keywords": [
-          "Dave Canales",
-          "NFL Coach"
+          "Oreo",
+          "New Flavors"
         ],
-        "summary": "Dave Canales is buzzing as the new head coach for the Carolina Panthers."
+        "summary": "Oreo is buzzing with excitement over new product releases and innovative flavor collaborations."
       },
       {
         "keywords": [
-          "Ja'Tavion Sanders",
-          "NFL Draft"
+          "Emmy Rossum",
+          "New Role"
         ],
-        "summary": "Ja'Tavion Sanders is buzzing as a top tight end prospect for the upcoming NFL Draft."
+        "summary": "Emmy Rossum is buzzing due to her recent acting projects and upcoming film or TV appearances."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7709.96,
-        "changePct": -0.1759553573162619
+        "price": 7719.3,
+        "changePct": 0.12114200333075847
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26348.352,
-        "changePct": -0.05723077109815616
+        "price": 26480.271,
+        "changePct": 0.5006726796423613
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6502.56,
-        "changePct": 0.3949371466331661
+        "price": 6531.73,
+        "changePct": 0.4485925543170561
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10867.89,
-        "changePct": -0.18744891305345973
+        "price": 10919.27,
+        "changePct": 0.47276886313719607
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3900.352,
-        "changePct": 2.04255051958516
+        "price": 3940.037,
+        "changePct": 1.5884520282691703
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4651.31,
-        "changePct": -0.1469465915152962
+        "price": 4694.4365,
+        "changePct": 0.9271990838881207
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25530.28,
-        "changePct": -1.487662748082063
+        "price": 25668.03,
+        "changePct": 0.539555382863016
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write my autobiography. It returned 'Error 404: Motivation Not Found'.",
-      "explanation": "It's funny because it uses a tech error message to comically reflect a common feeling of modern apathy or lack of direction, delivered with deadpan humor."
+      "joke": "I asked my dating app what it thought of my profile. It just sent back a 'seen' notification.",
+      "explanation": "It's a deadpan, sarcastic take on the impersonal nature and often unresponsiveness of dating apps, using a common digital interaction."
     },
     "zh": {
-      "joke": "每个月发工资那天，我的手机银行App都会弹出通知：'您的账户余额已进入限时体验模式。'"
+      "joke": "每次看到朋友圈有人晒跑步记录，我就感觉我家的路由器也在默默地为我的生活做贡献。毕竟，没有它，我也跑不出这么远的网速。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Carl Ritter",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carl_Ritter_Litho_%28cropped%29.jpg/330px-Carl_Ritter_Litho_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German geographer (1779–1859)",
-        "extract": "Carl Ritter was a German geographer. Along with Alexander von Humboldt, he is considered one of the founders of modern geography, as they established it as an independent scientific discipline. From 1825 until his death, he occupied the first chair in geography at the University of Berlin.",
-        "born": 1779,
+        "name": "Wayne Knight",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wayne_Knight_Photo_Op_GalaxyCon_Raleigh_2025.jpg/330px-Wayne_Knight_Photo_Op_GalaxyCon_Raleigh_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (born 1955)",
+        "extract": "Wayne Elliot Knight is an American actor. After several smaller film parts, including in box office successes like Dirty Dancing and Basic Instinct, Knight's breakthrough role was portraying Dennis Nedry in the film adaptation of Jurassic Park (1993), which earned him a Saturn Award for Best Supporting Actor nomination. His other two most prominent roles followed on television, where he played Newman on the NBC sitcom Seinfeld (1992–1998) and Officer Don Orville on the NBC sitcom 3rd Rock from the Sun (1996–2001), which earned him a Q Award nomination for Best Recurring Player and a Screen Actors Guild Award nomination for Outstanding Performance by an Ensemble in a Comedy Series, respectively.",
+        "born": 1955,
         "highlights": [
-          "German geographer.",
-          "Co-founder of modern geography.",
-          "Held first geography chair at University of Berlin."
+          "Breakthrough role as Dennis Nedry in Jurassic Park.",
+          "Played Newman on NBC sitcom Seinfeld.",
+          "Played Officer Don Orville on 3rd Rock from the Sun."
         ]
       },
       {
-        "name": "Cirroc Lofton",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cirroc_Lofton_DS9.jpg/330px-Cirroc_Lofton_DS9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor",
-        "extract": "Cirroc Lofton is an American actor and podcaster who started his career at the age of nine with many minor roles. He got his start in the 1989 child education program Econ and Me, which teaches children economics. He is best known for playing Jake Sisko on the 1990s TV series Star Trek: Deep Space Nine.",
-        "born": 1978,
+        "name": "Michael Shannon",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/MichaelShannon-byPhilipRomano.jpg/330px-MichaelShannon-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (born 1974)",
+        "extract": "Michael Corbett Shannon is an American actor. Known for his forceful and intense style of acting, he has twice received nominations for the Academy Award for Best Supporting Actor, for Revolutionary Road (2008) and Nocturnal Animals (2016). He received Actor Award and Golden Globe nominations for his role in 99 Homes (2014).",
+        "born": 1974,
         "highlights": [
-          "American actor and podcaster.",
-          "Known for playing Jake Sisko.",
-          "Appeared in Star Trek: Deep Space Nine."
+          "Oscar nominee for Revolutionary Road (2008).",
+          "Oscar nominee for Nocturnal Animals (2016).",
+          "Received Actor Award, Golden Globe nominations for 99 Homes."
         ]
       },
       {
-        "name": "Ann Harding",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ann_Harding_1930.jpg/330px-Ann_Harding_1930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (1902–1981)",
-        "extract": "Ann Harding was an American theatre, motion picture, radio, and television actress. Harding was a regular on Broadway and on tour in the 1920s. In the 1930s, Harding was one of the first actresses to gain fame in the new medium of \"talking pictures,\" and she was nominated for the Academy Award for Best Actress in 1931 for her work in Holiday.",
-        "born": 1901,
+        "name": "Elinor Ostrom",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Nobel_Prize_2009-Press_Conference_KVA-30.jpg/330px-Nobel_Prize_2009-Press_Conference_KVA-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American political economist (1933–2012)",
+        "extract": "Elinor Claire \"Lin\" Ostrom was an American political scientist and political economist whose work was associated with New Institutional Economics and the resurgence of political economy. In 2009, she was awarded the Nobel Memorial Prize in Economic Sciences for her \"analysis of economic governance, especially the commons\", which she shared with Oliver E. Williamson; she was the first woman to win the prize.",
+        "born": 1933,
         "highlights": [
-          "American theatre and motion picture actress.",
-          "Gained fame in \"talking pictures.\"",
-          "Oscar nominee for Best Actress in 1931 for Holiday."
+          "American political scientist and political economist.",
+          "Awarded Nobel Memorial Prize in Economic Sciences (2009).",
+          "First woman to win Nobel Memorial Prize in Economic Sciences."
         ]
       }
     ]
