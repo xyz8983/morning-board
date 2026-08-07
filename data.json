@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-06T15:14:17.492Z",
+  "generatedAt": "2026-08-07T00:39:35.783Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.8,
-    "condition": "Heavy rain showers",
-    "code": 82,
-    "highC": 29.5,
+    "tempC": 27.5,
+    "condition": "Rain showers",
+    "code": 80,
+    "highC": 30.5,
     "lowC": 24.3,
     "rainChance": 20
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Diomande",
-          "MLS Debut"
+          "Braves",
+          "MLB"
         ],
-        "summary": "Why it's buzzing: Denis Bouanga's hat-trick overshadowed Diomande's strong MLS debut for LAFC."
+        "summary": "The Braves are buzzing due to their recent performance and playoff implications."
       },
       {
         "keywords": [
-          "Rocket Lab",
-          "Space Launch"
+          "Travis Etienne",
+          "NFL"
         ],
-        "summary": "Why it's buzzing: Rocket Lab (RKLB) stock is gaining attention after its successful 'Owl's Night Continues' launch."
+        "summary": "Travis Etienne is buzzing as a key player for the Jaguars, impacting fantasy football."
       },
       {
         "keywords": [
-          "Fauci",
-          "Phone Calls"
+          "Dave Canales",
+          "NFL Coach"
         ],
-        "summary": "Why it's buzzing: Dr. Fauci's private phone calls are under scrutiny regarding his COVID-19 pandemic response."
+        "summary": "Dave Canales is buzzing as the new head coach for the Carolina Panthers."
       },
       {
         "keywords": [
-          "JD Vance",
-          "Politics"
+          "Ja'Tavion Sanders",
+          "NFL Draft"
         ],
-        "summary": "Why it's buzzing: Senator JD Vance is frequently mentioned in discussions about potential vice-presidential candidates."
+        "summary": "Ja'Tavion Sanders is buzzing as a top tight end prospect for the upcoming NFL Draft."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7725.64,
-        "changePct": 0.027060095422443635
+        "price": 7709.96,
+        "changePct": -0.1759553573162619
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26441.117,
-        "changePct": 0.29463909110495323
+        "price": 26348.352,
+        "changePct": -0.05723077109815616
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6522.46,
-        "changePct": 0.7021791019888973
+        "price": 6502.56,
+        "changePct": 0.3949371466331661
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10881.21,
-        "changePct": -0.0651157664649224
+        "price": 10867.89,
+        "changePct": -0.18744891305345973
       },
       {
         "region": "Asia",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My dating app bio says 'fluent in sarcasm.' My matches respond with 'k.'",
-      "explanation": "It's funny because it highlights the ironic futility of trying to express personality (sarcasm) on dating apps, only to receive minimal, unenthusiastic replies."
+      "joke": "I asked AI to write my autobiography. It returned 'Error 404: Motivation Not Found'.",
+      "explanation": "It's funny because it uses a tech error message to comically reflect a common feeling of modern apathy or lack of direction, delivered with deadpan humor."
     },
     "zh": {
-      "joke": "朋友问我最近怎么样，我说'挺好的，除了手机电量和存款以外，一切都挺好的。'"
+      "joke": "每个月发工资那天，我的手机银行App都会弹出通知：'您的账户余额已进入限时体验模式。'"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Mickaël Delage",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Micka%C3%ABl_Delage_4JDD2011.JPG/330px-Micka%C3%ABl_Delage_4JDD2011.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Road bicycle racer (born 1985)",
-        "extract": "Mickaël Delage is a French former professional road and track cyclist, who last rode for UCI WorldTeam Groupama–FDJ.",
-        "born": 1985,
+        "name": "Carl Ritter",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carl_Ritter_Litho_%28cropped%29.jpg/330px-Carl_Ritter_Litho_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German geographer (1779–1859)",
+        "extract": "Carl Ritter was a German geographer. Along with Alexander von Humboldt, he is considered one of the founders of modern geography, as they established it as an independent scientific discipline. From 1825 until his death, he occupied the first chair in geography at the University of Berlin.",
+        "born": 1779,
         "highlights": [
-          "French former professional road cyclist.",
-          "Also a professional track cyclist.",
-          "Last rode for UCI WorldTeam Groupama–FDJ."
+          "German geographer.",
+          "Co-founder of modern geography.",
+          "Held first geography chair at University of Berlin."
         ]
       },
       {
-        "name": "Howard Hodgkin",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Howard_Hodgkin_DMarshall1987.jpg/330px-Howard_Hodgkin_DMarshall1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British painter and printmaker (1932–2017)",
-        "extract": "Sir Gordon Howard Eliot Hodgkin was a British painter and printmaker. His work is most often associated with abstraction.",
-        "born": 1932,
+        "name": "Cirroc Lofton",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cirroc_Lofton_DS9.jpg/330px-Cirroc_Lofton_DS9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor",
+        "extract": "Cirroc Lofton is an American actor and podcaster who started his career at the age of nine with many minor roles. He got his start in the 1989 child education program Econ and Me, which teaches children economics. He is best known for playing Jake Sisko on the 1990s TV series Star Trek: Deep Space Nine.",
+        "born": 1978,
         "highlights": [
-          "British painter.",
-          "Also a printmaker.",
-          "Work associated with abstraction."
+          "American actor and podcaster.",
+          "Known for playing Jake Sisko.",
+          "Appeared in Star Trek: Deep Space Nine."
         ]
       },
       {
-        "name": "Takhmina Ikromova",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Takhmina_Ikromova_Portrait.jpg/330px-Takhmina_Ikromova_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Uzbekistani rhythmic gymnast",
-        "extract": "Takhmina Ikromova is an Uzbekistani rhythmic gymnast. She is the 2022 Asian Games all-around and team gold medalist, a four-time Asian all-around champion and the 2025 World University Games all-around silver medalist.",
-        "born": 2004,
+        "name": "Ann Harding",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ann_Harding_1930.jpg/330px-Ann_Harding_1930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (1902–1981)",
+        "extract": "Ann Harding was an American theatre, motion picture, radio, and television actress. Harding was a regular on Broadway and on tour in the 1920s. In the 1930s, Harding was one of the first actresses to gain fame in the new medium of \"talking pictures,\" and she was nominated for the Academy Award for Best Actress in 1931 for her work in Holiday.",
+        "born": 1901,
         "highlights": [
-          "Uzbekistani rhythmic gymnast.",
-          "2022 Asian Games all-around and team gold medalist.",
-          "Four-time Asian all-around champion."
+          "American theatre and motion picture actress.",
+          "Gained fame in \"talking pictures.\"",
+          "Oscar nominee for Best Actress in 1931 for Holiday."
         ]
       }
     ]
