@@ -1,42 +1,45 @@
 {
-  "generatedAt": "2026-08-08T13:44:29.273Z",
+  "generatedAt": "2026-08-08T19:26:20.365Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.1,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 31.7,
+    "tempC": 31.1,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 31.4,
     "lowC": 22.1,
-    "rainChance": 20
+    "rainChance": 18
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "College Football"
+          "MN Lynx",
+          "WNBA"
         ],
-        "summary": "College football is buzzing due to ongoing discussions about team performance and upcoming season expectations."
+        "summary": "Why it's buzzing: The Minnesota Lynx are performing well in the WNBA season, drawing fan attention."
       },
       {
         "keywords": [
-          "Year 2027"
+          "Cam Coleman",
+          "Football Recruit"
         ],
-        "summary": "The year 2027 is buzzing with discussions around future tech innovations and significant upcoming global events."
+        "summary": "Why it's buzzing: Cam Coleman, a top football recruit, is making headlines with his recent commitments."
       },
       {
         "keywords": [
-          "Leicester City",
-          "Northampton Town"
+          "Houston Weather",
+          "Forecast"
         ],
-        "summary": "The match between Leicester City and Northampton Town is buzzing due to recent game results and fan anticipation."
+        "summary": "Why it's buzzing: Houston's weather is a hot topic due to recent extreme conditions or upcoming changes."
       },
       {
         "keywords": [
-          "Burnley",
-          "Notts County"
+          "Football Match",
+          "Estrela Amadora",
+          "SCP"
         ],
-        "summary": "Burnley vs Notts County is buzzing due to recent match outcomes and ongoing fan discussions."
+        "summary": "Why it's buzzing: The football match between Estrela Amadora and SCP is generating significant interest."
       }
     ]
   },
@@ -95,50 +98,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone told me I spent 8 hours on social media today. I told it, 'You're welcome for the engagement'.",
-      "explanation": "It's a sarcastic, deadpan response to screen time reports, ironically thanking the app for the 'engagement' it tracks."
+      "joke": "My smart speaker asked if I'm \"truly maximizing my potential\" when I just said \"play rain sounds.\"",
+      "explanation": "It's funny because the AI's existential query is an absurd overreach for a simple command, highlighting modern tech's often unwarranted invasiveness."
     },
     "zh": {
-      "joke": "周末为了缓解工作压力去运动，结果发现运动完更累了，完美实现了用一种疲惫代替另一种疲惫。"
+      "joke": "我今天的运动计划是：在床上成功翻了个身，并宣布完成了核心力量训练。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Johan Augustin Mannerheim",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Johan_Augustin_Mannerheim.jpg/330px-Johan_Augustin_Mannerheim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swedish nobleman and military leader (1706–1778)",
-        "extract": "Baron Johan Augustin Mannerheim was a Swedish nobleman, the Artillery Colonel and the Gothenburg Commandant. He was a great-great-grandfather of Baron C. G. E. Mannerheim, the Marshal of Finland.",
-        "born": 1706,
+        "name": "Huey Morgan",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Huey-Morgan.jpg/330px-Huey-Morgan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American musician (born 1968)",
+        "extract": "Hugh Thomas Diaz Morgan is an American musician and DJ best known as the former frontman of rock/hip hop band Fun Lovin' Criminals. Morgan performs both vocals and guitar and combines rock, hip hop, jazz, reggae, and funk influences in his music. He presents The Huey Show on Virgin Radio, having previously hosted on BBC Radio 6 Music for 17 years.",
+        "born": 1968,
         "highlights": [
-          "Swedish nobleman.",
-          "Artillery Colonel.",
-          "Gothenburg Commandant."
+          "Former frontman of rock/hip hop band Fun Lovin' Criminals.",
+          "Presents The Huey Show on Virgin Radio.",
+          "Hosted on BBC Radio 6 Music for 17 years."
         ]
       },
       {
-        "name": "Kane Williamson",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kane_Williamson_in_2019.jpg/330px-Kane_Williamson_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "New Zealand cricketer (born 1990)",
-        "extract": "Kane Stuart Williamson is a former international cricketer who captained the New Zealand national cricket team in all formats of this game. A right-handed batsman and an occasional off spin bowler, Williamson is the leading run-scorer for New Zealand in Test cricket and is widely regarded as one of the world's best contemporary batsmen and one of the greatest New Zealand captains and batsmen of all time. He captained New Zealand to victory in the 2021 ICC World Test Championship final and to the finals of the 2019 Cricket World Cup and 2021 T20 World Cup. He was also a part of the New Zealand squad to finish as runners-up at the 2015 Cricket World Cup and the 2025 ICC Champions Trophy. Williamson retired from international cricket on 12 June 2026.",
-        "born": 1990,
+        "name": "Paul Ludwig Ewald von Kleist",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bundesarchiv_Bild_183-1986-0210-503%2C_General_Ewald_von_Kleist_%283x4%29.jpg/330px-Bundesarchiv_Bild_183-1986-0210-503%2C_General_Ewald_von_Kleist_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German field marshal (1881–1954)",
+        "extract": "Paul Ludwig Ewald von Kleist was a German Generalfeldmarschall of the Wehrmacht during World War II. Born into the Prussian noble family von Kleist, Kleist entered the Prussian Army in 1900 and commanded a cavalry squadron during World War I. Kleist joined the Reichswehr of inter-war Germany before being discharged in 1938.",
+        "born": 1881,
         "highlights": [
-          "Captained New Zealand cricket team in all formats.",
-          "Leading run-scorer for New Zealand in Test cricket.",
-          "Led New Zealand to 2021 ICC World Test Championship victory."
+          "German Generalfeldmarschall during World War II.",
+          "Commanded a cavalry squadron during World War I.",
+          "Born into the Prussian noble family von Kleist."
         ]
       },
       {
-        "name": "Denisse Guerrero",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Denisse_Guerrero%2ABelanova%2A.jpg/330px-Denisse_Guerrero%2ABelanova%2A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican musician and singer-songwriter (born 1980)",
-        "extract": "Denisse Guerrero Flores is a Mexican musician and singer-songwriter, best known as the lead vocalist of the electropop band Belanova.",
-        "born": 1980,
+        "name": "Rikki Rockett",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RikkiRockett_%28cropped%29.JPG/330px-RikkiRockett_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American drummer (born 1961)",
+        "extract": "Richard Allan Ream, known professionally as Rikki Rockett, is an American musician, best known as the drummer for the band Poison. The band has sold more than 50 million albums worldwide and 15 million records in the United States alone.",
+        "born": 1961,
         "highlights": [
-          "Mexican musician.",
-          "Singer-songwriter.",
-          "Lead vocalist of Belanova."
+          "Drummer for the band Poison.",
+          "Poison sold over 50 million albums worldwide.",
+          "Poison sold 15 million records in the United States."
         ]
       }
     ]
