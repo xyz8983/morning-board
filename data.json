@@ -1,44 +1,42 @@
 {
-  "generatedAt": "2026-08-07T19:50:41.596Z",
+  "generatedAt": "2026-08-08T13:44:29.273Z",
   "weather": {
     "location": "New York City",
-    "tempC": 33.1,
-    "condition": "Heavy drizzle",
-    "code": 55,
-    "highC": 33.7,
-    "lowC": 23.5,
-    "rainChance": 43
+    "tempC": 25.1,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 31.7,
+    "lowC": 22.1,
+    "rainChance": 20
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Hubert Hurkacz",
-          "Tennis"
+          "College Football"
         ],
-        "summary": "Hubert Hurkacz is buzzing after his recent strong performance in tennis tournaments."
+        "summary": "College football is buzzing due to ongoing discussions about team performance and upcoming season expectations."
       },
       {
         "keywords": [
-          "Zizou Bergs",
-          "Tennis"
+          "Year 2027"
         ],
-        "summary": "Zizou Bergs is buzzing due to his surprising wins and rising profile in professional tennis."
+        "summary": "The year 2027 is buzzing with discussions around future tech innovations and significant upcoming global events."
       },
       {
         "keywords": [
-          "Peter Skoronski",
-          "NFL Draft"
+          "Leicester City",
+          "Northampton Town"
         ],
-        "summary": "Peter Skoronski is buzzing as a top offensive line prospect for the upcoming NFL draft."
+        "summary": "The match between Leicester City and Northampton Town is buzzing due to recent game results and fan anticipation."
       },
       {
         "keywords": [
-          "John Goodman",
-          "Acting"
+          "Burnley",
+          "Notts County"
         ],
-        "summary": "John Goodman is buzzing for his recent acclaimed roles and career resurgence."
+        "summary": "Burnley vs Notts County is buzzing due to recent match outcomes and ongoing fan discussions."
       }
     ]
   },
@@ -48,15 +46,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7752.49,
-        "changePct": 0.5516241329397267
+        "price": 7757.64,
+        "changePct": 0.6184208478383842
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26664.53,
-        "changePct": 1.199991559244388
+        "price": 26690.615,
+        "changePct": 1.298992058402752
       },
       {
         "region": "Europe",
@@ -77,7 +75,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3940.037,
-        "changePct": 1.5884520282691703
+        "changePct": 1.0175240683528375
       },
       {
         "region": "Asia",
@@ -97,49 +95,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My coffee machine notified me it's 'sensing low productivity.' Pretty sure it just watched me scroll for 20 minutes.",
-      "explanation": "Funny because a machine, designed for utility, is now anthropomorphized to observe and judge human idleness."
+      "joke": "My phone told me I spent 8 hours on social media today. I told it, 'You're welcome for the engagement'.",
+      "explanation": "It's a sarcastic, deadpan response to screen time reports, ironically thanking the app for the 'engagement' it tracks."
     },
     "zh": {
-      "joke": "我司的KPI，已经脱离了实际业务，上升到了形而上学的层面，主要考核员工的精神内耗强度。"
+      "joke": "周末为了缓解工作压力去运动，结果发现运动完更累了，完美实现了用一种疲惫代替另一种疲惫。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Eamonn Darcy",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Eamonn_Darcy.JPG/330px-Eamonn_Darcy.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Irish professional golfer",
-        "extract": "Eamonn Christopher Darcy is an Irish professional golfer. He won four times on the European Tour and played in the Ryder Cup four times.",
-        "born": 1952,
+        "name": "Johan Augustin Mannerheim",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Johan_Augustin_Mannerheim.jpg/330px-Johan_Augustin_Mannerheim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish nobleman and military leader (1706–1778)",
+        "extract": "Baron Johan Augustin Mannerheim was a Swedish nobleman, the Artillery Colonel and the Gothenburg Commandant. He was a great-great-grandfather of Baron C. G. E. Mannerheim, the Marshal of Finland.",
+        "born": 1706,
         "highlights": [
-          "Irish professional golfer.",
-          "Won four times on the European Tour.",
-          "Played in the Ryder Cup four times."
+          "Swedish nobleman.",
+          "Artillery Colonel.",
+          "Gothenburg Commandant."
         ]
       },
       {
-        "name": "Lana Cantrell",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lana_Cantrell.JPG/330px-Lana_Cantrell.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American lawyer",
-        "extract": "Lana Eleanor Cantrell AM is an Australian-American singer and entertainment lawyer. She was nominated for the Grammy Award for Best New Artist in the Grammy Awards of 1968.",
-        "born": 1943,
+        "name": "Kane Williamson",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kane_Williamson_in_2019.jpg/330px-Kane_Williamson_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "New Zealand cricketer (born 1990)",
+        "extract": "Kane Stuart Williamson is a former international cricketer who captained the New Zealand national cricket team in all formats of this game. A right-handed batsman and an occasional off spin bowler, Williamson is the leading run-scorer for New Zealand in Test cricket and is widely regarded as one of the world's best contemporary batsmen and one of the greatest New Zealand captains and batsmen of all time. He captained New Zealand to victory in the 2021 ICC World Test Championship final and to the finals of the 2019 Cricket World Cup and 2021 T20 World Cup. He was also a part of the New Zealand squad to finish as runners-up at the 2015 Cricket World Cup and the 2025 ICC Champions Trophy. Williamson retired from international cricket on 12 June 2026.",
+        "born": 1990,
         "highlights": [
-          "Australian-American singer and entertainment lawyer.",
-          "Nominated for Grammy Award for Best New Artist (1968)."
+          "Captained New Zealand cricket team in all formats.",
+          "Leading run-scorer for New Zealand in Test cricket.",
+          "Led New Zealand to 2021 ICC World Test Championship victory."
         ]
       },
       {
-        "name": "Karol Zalewski",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karol_Zalewski_Pozna%C5%84_2021.jpg/330px-Karol_Zalewski_Pozna%C5%84_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Polish sprinter (born 1993)",
-        "extract": "Karol Zalewski is a Polish athlete who specialises in the sprinting events. He reached the semifinals of the 2013 World Championships in the 200 metres. He is also the 2013 European U23 champion over that distance.",
-        "born": 1993,
+        "name": "Denisse Guerrero",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Denisse_Guerrero%2ABelanova%2A.jpg/330px-Denisse_Guerrero%2ABelanova%2A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican musician and singer-songwriter (born 1980)",
+        "extract": "Denisse Guerrero Flores is a Mexican musician and singer-songwriter, best known as the lead vocalist of the electropop band Belanova.",
+        "born": 1980,
         "highlights": [
-          "Polish athlete specializing in sprinting events.",
-          "2013 World Championships 200m semifinalist.",
-          "2013 European U23 champion (200m)."
+          "Mexican musician.",
+          "Singer-songwriter.",
+          "Lead vocalist of Belanova."
         ]
       }
     ]
