@@ -1,45 +1,44 @@
 {
-  "generatedAt": "2026-08-08T19:26:20.365Z",
+  "generatedAt": "2026-08-09T13:49:28.091Z",
   "weather": {
     "location": "New York City",
-    "tempC": 31.1,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 31.4,
-    "lowC": 22.1,
-    "rainChance": 18
+    "tempC": 27.2,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 33.8,
+    "lowC": 22.6,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "MN Lynx",
-          "WNBA"
+          "GoFundMe",
+          "Crowdfunding"
         ],
-        "summary": "Why it's buzzing: The Minnesota Lynx are performing well in the WNBA season, drawing fan attention."
+        "summary": "GoFundMe is buzzing as a platform for personal fundraising and community support."
       },
       {
         "keywords": [
-          "Cam Coleman",
-          "Football Recruit"
+          "Colorado Lottery",
+          "Jackpot"
         ],
-        "summary": "Why it's buzzing: Cam Coleman, a top football recruit, is making headlines with his recent commitments."
+        "summary": "Colorado Lottery is buzzing due to recent large jackpots and local prize winners."
       },
       {
         "keywords": [
-          "Houston Weather",
-          "Forecast"
+          "Dominican Parade",
+          "NYC Event"
         ],
-        "summary": "Why it's buzzing: Houston's weather is a hot topic due to recent extreme conditions or upcoming changes."
+        "summary": "Dominican Day Parade is buzzing as a vibrant cultural celebration in New York City."
       },
       {
         "keywords": [
-          "Football Match",
-          "Estrela Amadora",
-          "SCP"
+          "Billy Strings",
+          "Concert Incident"
         ],
-        "summary": "Why it's buzzing: The football match between Estrela Amadora and SCP is generating significant interest."
+        "summary": "Billy Strings is buzzing after an object struck him during a recent live concert."
       }
     ]
   },
@@ -78,7 +77,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3940.037,
-        "changePct": 1.0175240683528375
+        "changePct": 1.017464499296635
       },
       {
         "region": "Asia",
@@ -98,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My smart speaker asked if I'm \"truly maximizing my potential\" when I just said \"play rain sounds.\"",
-      "explanation": "It's funny because the AI's existential query is an absurd overreach for a simple command, highlighting modern tech's often unwarranted invasiveness."
+      "joke": "My plants are thriving because they're the only things in my life not asking for my attention or an update.",
+      "explanation": "It's funny because it's a deadpan observation about how overwhelming modern digital life is compared to the simplicity of caring for plants."
     },
     "zh": {
-      "joke": "我今天的运动计划是：在床上成功翻了个身，并宣布完成了核心力量训练。"
+      "joke": "每天最大的成就，就是成功把闹钟按掉，假装自己赢得了与世界的第一次博弈。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Huey Morgan",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Huey-Morgan.jpg/330px-Huey-Morgan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American musician (born 1968)",
-        "extract": "Hugh Thomas Diaz Morgan is an American musician and DJ best known as the former frontman of rock/hip hop band Fun Lovin' Criminals. Morgan performs both vocals and guitar and combines rock, hip hop, jazz, reggae, and funk influences in his music. He presents The Huey Show on Virgin Radio, having previously hosted on BBC Radio 6 Music for 17 years.",
-        "born": 1968,
+        "name": "Kanstantsin Sivtsov",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kanstantsin_Siutsou_CD_2011.jpg/330px-Kanstantsin_Siutsou_CD_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Belarusian road bicycle racer",
+        "extract": "Kanstantsin Sivtsov (or Siutsou is a Belarusian former professional road bicycle racer, who rode professionally between 2001 and 2018 for the Itera, Lokomotiv, Fassa Bortolo, Acqua & Sapone, Barloworld, HTC–Highroad, Team Sky, Team Dimension Data and Bahrain–Merida squads. He retired after provisionally being suspended from the sport following an adverse analytical finding for erythropoietin.",
+        "born": 1982,
         "highlights": [
-          "Former frontman of rock/hip hop band Fun Lovin' Criminals.",
-          "Presents The Huey Show on Virgin Radio.",
-          "Hosted on BBC Radio 6 Music for 17 years."
+          "Belarusian former professional road bicycle racer.",
+          "Rode professionally for various squads from 2001 to 2018.",
+          "Retired after suspension for erythropoietin."
         ]
       },
       {
-        "name": "Paul Ludwig Ewald von Kleist",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bundesarchiv_Bild_183-1986-0210-503%2C_General_Ewald_von_Kleist_%283x4%29.jpg/330px-Bundesarchiv_Bild_183-1986-0210-503%2C_General_Ewald_von_Kleist_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German field marshal (1881–1954)",
-        "extract": "Paul Ludwig Ewald von Kleist was a German Generalfeldmarschall of the Wehrmacht during World War II. Born into the Prussian noble family von Kleist, Kleist entered the Prussian Army in 1900 and commanded a cavalry squadron during World War I. Kleist joined the Reichswehr of inter-war Germany before being discharged in 1938.",
-        "born": 1881,
+        "name": "Valentin Kovalenko",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Valentin_Kovalenko_Azadi_Stadium_ACL_2018.jpg/330px-Valentin_Kovalenko_Azadi_Stadium_ACL_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Uzbekistani football referee",
+        "extract": "Valentin Kovalenko is an Uzbek professional football referee of Ukrainian and Russian origin. He referees in the Uzbekistan Super League and Uzbekistan Cup.",
+        "born": 1975,
         "highlights": [
-          "German Generalfeldmarschall during World War II.",
-          "Commanded a cavalry squadron during World War I.",
-          "Born into the Prussian noble family von Kleist."
+          "Uzbek professional football referee.",
+          "Referees in the Uzbekistan Super League.",
+          "Also referees in the Uzbekistan Cup."
         ]
       },
       {
-        "name": "Rikki Rockett",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RikkiRockett_%28cropped%29.JPG/330px-RikkiRockett_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American drummer (born 1961)",
-        "extract": "Richard Allan Ream, known professionally as Rikki Rockett, is an American musician, best known as the drummer for the band Poison. The band has sold more than 50 million albums worldwide and 15 million records in the United States alone.",
-        "born": 1961,
+        "name": "Adam von Trott zu Solz",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Adam_von_Trott_zu_Solz1943.jpg/330px-Adam_von_Trott_zu_Solz1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German noble and diplomat (1909–1944)",
+        "extract": "Friedrich Adam von Trott zu Solz was a German lawyer and diplomat who was involved in the conservative resistance to Nazism. A declared opponent of the Nazi regime from the beginning, he actively participated in the Kreisau Circle of Helmuth James Graf von Moltke and Peter Yorck von Wartenburg. Together with Claus von Stauffenberg and Fritz-Dietlof von der Schulenburg, he conspired in the 20 July plot and was supposed to have been appointed Secretary of State in the German Foreign Office and lead negotiator with the Western Allies if the plot had succeeded.",
+        "born": 1909,
         "highlights": [
-          "Drummer for the band Poison.",
-          "Poison sold over 50 million albums worldwide.",
-          "Poison sold 15 million records in the United States."
+          "German lawyer and diplomat.",
+          "Involved in conservative resistance to Nazism.",
+          "Participated in the 20 July plot."
         ]
       }
     ]
