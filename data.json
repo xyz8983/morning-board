@@ -1,40 +1,44 @@
 {
-  "generatedAt": "2026-08-09T19:30:10.286Z",
+  "generatedAt": "2026-08-10T14:19:39.933Z",
   "weather": {
     "location": "New York City",
-    "tempC": 33.1,
-    "condition": "Mostly clear",
-    "code": 1,
-    "highC": 33.5,
-    "lowC": 22.6,
-    "rainChance": 2
+    "tempC": 26.2,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 32.3,
+    "lowC": 21.9,
+    "rainChance": 25
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Asterisk Talley"
+          "Perseid",
+          "Meteor Shower"
         ],
-        "summary": "Asterisk Talley is buzzing due to discussions around disputed records or achievements."
+        "summary": "The Perseid meteor showers are buzzing as stargazers anticipate peak viewing this week."
       },
       {
         "keywords": [
-          "Michael Brennan"
+          "S&P 500",
+          "Market Index"
         ],
-        "summary": "Michael Brennan is buzzing due to recent public interest or news."
+        "summary": "The S&P 500 is buzzing as investors watch for market performance and economic indicators."
       },
       {
         "keywords": [
-          "Jared Padalecki"
+          "Google Stock",
+          "GOOGL"
         ],
-        "summary": "Jared Padalecki is buzzing due to recent show news or public appearances."
+        "summary": "GOOGL stock is buzzing as analysts discuss its recent performance and future growth prospects."
       },
       {
         "keywords": [
-          "Matt Olson"
+          "Broadcom Stock",
+          "AVGO"
         ],
-        "summary": "Matt Olson is buzzing due to his recent baseball performance or team news."
+        "summary": "Broadcom stock is buzzing due to recent earnings reports and strategic acquisition news."
       }
     ]
   },
@@ -44,98 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7757.64,
-        "changePct": 0.6184208478383842
+        "price": 7765.46,
+        "changePct": 0.1008038527180909
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26690.615,
-        "changePct": 1.2988075177240368
+        "price": 26692.4,
+        "changePct": 0.006687743987914307
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6523.86,
-        "changePct": 0.32756329814718005
+        "price": 6531.84,
+        "changePct": 0.12232022146398717
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10901.09,
-        "changePct": 0.3053947864812936
+        "price": 10841.81,
+        "changePct": -0.5437988311260677
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3940.037,
-        "changePct": 1.0175240683528375
+        "price": 3966.594,
+        "changePct": 0.6740292032790618
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4694.437,
-        "changePct": 0.9272011540834624
+        "price": 4702.025,
+        "changePct": 0.16164879426955378
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25668.03,
-        "changePct": 0.5394766218963333
+        "price": 25937.49,
+        "changePct": 1.049788394356726
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I tried to meditate, but my brain just kept buffering.",
-      "explanation": "It's funny because it uses a common tech term ('buffering') to humorously describe the inability to focus in a modern, overstimulated world, hitting on relatable anxiety."
+      "joke": "I asked my smart speaker for a life update, and it just played a 2-hour podcast on burnout. It gets me.",
+      "explanation": "Humor comes from the post-ironic idea that an AI 'understands' modern human struggles like burnout, delivered deadpan."
     },
     "zh": {
-      "joke": "我每天工作的状态就是，上午计划好了一堆事，下午开始执行，到下班时发现，唯一高效完成的就是从一个会议跳转到另一个会议。"
+      "joke": "我最近在研究一种新型的'能量守恒定律'，即我的精神能量总是守恒的：工作用掉多少，就得从躺平刷手机里补回来多少。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Whitney Houston",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whitney_Houston_%28cropped3%29.JPEG/330px-Whitney_Houston_%28cropped3%29.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer and actress (1963–2012)",
-        "extract": "Whitney Elizabeth Houston was an American singer, actress, film producer, and record producer. Commonly referred to as \"the Voice\", she is one of the most awarded entertainers of all time. Houston is one of the best-selling music artists of all time, with sales of more than 220 million records worldwide. A cultural icon, she broke down gender and racial barriers through her artistic achievements, Hollywood crossover, and music videos. Known for her vocal delivery, gospel singing style, crossover appeal, and live performances, Houston was ranked second on Rolling Stone's list of the greatest singers of all time in 2023.",
-        "born": 1963,
+        "name": "A. N. Sherwin-White",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/3/39/A._N._Sherwin-White_-_JRS_photograph.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "British historian and academic (1911–1993)",
+        "extract": "Adrian Nicholas Sherwin-White, FBA was a British academic and ancient historian. He was a fellow of St John's College, University of Oxford and President of the Society for the Promotion of Roman Studies. His most important works include a study of Roman citizenship based on his doctoral thesis, a treatment of the New Testament from the point of view of Roman law and society, and a commentary on the letters of Pliny the Younger.",
+        "born": 1911,
         "highlights": [
-          "\"the Voice\" and one of most awarded entertainers.",
-          "Best-selling music artist with over 220 million records.",
-          "Ranked second on Rolling Stone's greatest singers list."
+          "Fellow of St John's College, University of Oxford.",
+          "President of Society for the Promotion of Roman Studies.",
+          "Authored a study of Roman citizenship."
         ]
       },
       {
-        "name": "Stefano Okaka",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Okaka_Spezia.jpg/330px-Okaka_Spezia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian footballer (born 1989)",
-        "extract": "Stefano Chuka Okaka is an Italian footballer who plays as a forward.",
-        "born": 1989,
+        "name": "Frank Marshall (chess player)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d0/FrankMarshall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American chess player (1877–1944)",
+        "extract": "Frank James Marshall was the U.S. Chess Champion from 1909 to 1936, and one of the world's strongest chess players in the early part of the 20th century.",
+        "born": 1877,
         "highlights": [
-          "Italian footballer.",
-          "Plays as a forward."
+          "U.S. Chess Champion from 1909 to 1936.",
+          "One of the world's strongest chess players.",
+          "Prominent figure in early 20th-century chess."
         ]
       },
       {
-        "name": "Ime Udoka",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ImeUdoka2022.jpg/330px-ImeUdoka2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Nigerian-American basketball player and coach (born 1977)",
-        "extract": "Ime Sunday Udoka is an American professional basketball coach and former player who is the head coach for the Houston Rockets of the National Basketball Association (NBA). Born in the United States, he represented the Nigeria national team during his playing career. After retiring as a player, Udoka served as an assistant coach with the San Antonio Spurs, Philadelphia 76ers, and Brooklyn Nets before becoming the head coach of the Boston Celtics, whom he led to the 2022 NBA Finals. In April 2023, Udoka was hired by the Rockets.",
-        "born": 1977,
+        "name": "Abai Qunanbaiuly",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Abai_Kunanbaev.jpg/330px-Abai_Kunanbaev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Kazakh poet and composer (1845–1904)",
+        "extract": "Abai Qūnanbaiūly was a Kazakh poet, composer and Hanafi Maturidi theologian philosopher. He was also a cultural reformer toward European and Russian cultures on the basis of enlightened Islam. His name is also transliterated as Abay Kunanbayev ; among Kazakhs he is known as Abai.",
+        "born": 1845,
         "highlights": [
-          "Head coach for the Houston Rockets (NBA).",
-          "Led Boston Celtics to 2022 NBA Finals.",
-          "Former player for Nigeria national team."
+          "Kazakh poet and composer.",
+          "Hanafi Maturidi theologian philosopher.",
+          "Cultural reformer toward European and Russian cultures."
         ]
       }
     ]
