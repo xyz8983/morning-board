@@ -1,44 +1,43 @@
 {
-  "generatedAt": "2026-08-10T14:19:39.933Z",
+  "generatedAt": "2026-08-10T19:53:34.269Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.2,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 32.3,
+    "tempC": 31.5,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 31.5,
     "lowC": 21.9,
-    "rainChance": 25
+    "rainChance": 34
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Perseid",
-          "Meteor Shower"
+          "Brooks Nader"
         ],
-        "summary": "The Perseid meteor showers are buzzing as stargazers anticipate peak viewing this week."
+        "summary": "Brooks Nader is buzzing due to her recent Sports Illustrated Swimsuit feature and social media presence."
       },
       {
         "keywords": [
-          "S&P 500",
-          "Market Index"
+          "BBC News",
+          "UK Media"
         ],
-        "summary": "The S&P 500 is buzzing as investors watch for market performance and economic indicators."
+        "summary": "BBC is buzzing amidst recent controversies regarding impartiality and funding, sparking public debate."
       },
       {
         "keywords": [
-          "Google Stock",
-          "GOOGL"
+          "Texas Politics",
+          "Border Issues"
         ],
-        "summary": "GOOGL stock is buzzing as analysts discuss its recent performance and future growth prospects."
+        "summary": "Texas is buzzing due to ongoing debates over border policies and state legislative actions."
       },
       {
         "keywords": [
-          "Broadcom Stock",
-          "AVGO"
+          "Houston Weather",
+          "Storm Alert"
         ],
-        "summary": "Broadcom stock is buzzing due to recent earnings reports and strategic acquisition news."
+        "summary": "Houston weather is buzzing due to recent severe storms and flooding concerns in the area."
       }
     ]
   },
@@ -48,29 +47,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7765.46,
-        "changePct": 0.1008038527180909
+        "price": 7746.61,
+        "changePct": -0.14218241630187342
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26692.4,
-        "changePct": 0.006687743987914307
+        "price": 26590.07,
+        "changePct": -0.376705444966337
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6531.84,
-        "changePct": 0.12232022146398717
+        "price": 6535.62,
+        "changePct": 0.18026137899955272
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10841.81,
-        "changePct": -0.5437988311260677
+        "price": 10862.5,
+        "changePct": -0.354001297117996
       },
       {
         "region": "Asia",
@@ -97,50 +96,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I asked my smart speaker for a life update, and it just played a 2-hour podcast on burnout. It gets me.",
-      "explanation": "Humor comes from the post-ironic idea that an AI 'understands' modern human struggles like burnout, delivered deadpan."
+      "joke": "My default setting for any new app is 'immediately forget what I downloaded this for.'",
+      "explanation": "This is a relatable, self-deprecating observation on app overload and the fleeting nature of digital interests in modern life."
     },
     "zh": {
-      "joke": "我最近在研究一种新型的'能量守恒定律'，即我的精神能量总是守恒的：工作用掉多少，就得从躺平刷手机里补回来多少。"
+      "joke": "我睡前不是在刷手机，我是在对人类意志力进行极限挑战，每次都以失败告终。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "A. N. Sherwin-White",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/3/39/A._N._Sherwin-White_-_JRS_photograph.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "British historian and academic (1911–1993)",
-        "extract": "Adrian Nicholas Sherwin-White, FBA was a British academic and ancient historian. He was a fellow of St John's College, University of Oxford and President of the Society for the Promotion of Roman Studies. His most important works include a study of Roman citizenship based on his doctoral thesis, a treatment of the New Testament from the point of view of Roman law and society, and a commentary on the letters of Pliny the Younger.",
-        "born": 1911,
+        "name": "Camillo Benso, Count of Cavour",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Camillo_Benso_Cavour_di_Ciseri.jpg/330px-Camillo_Benso_Cavour_di_Ciseri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "First Prime Minister of the Kingdom of Italy from March to June in 1861",
+        "extract": "Camillo Paolo Filippo Giulio Benso, Count of Cavour, Isolabella and Leri, generally known as the Count of Cavour or simply Cavour, was an Italian politician, statesman, businessman, economist, and noble, and a leading figure in the movement towards Italian unification. He was one of the leaders of the Historical Right and Prime Minister of the Kingdom of Sardinia from 1852, a position he maintained until his death, throughout the Second Italian War of Independence and Giuseppe Garibaldi's campaigns to unite Italy. After the declaration of a united Kingdom of Italy, Cavour took office as the first Prime Minister of Italy; he died after only three months in office and did not live to see the Roman Question solved through the complete unification of the country after the Capture of Rome in 1870.",
+        "born": 1810,
         "highlights": [
-          "Fellow of St John's College, University of Oxford.",
-          "President of Society for the Promotion of Roman Studies.",
-          "Authored a study of Roman citizenship."
+          "Leading figure in Italian unification movement.",
+          "Prime Minister of Kingdom of Sardinia from 1852.",
+          "First Prime Minister of Italy."
         ]
       },
       {
-        "name": "Frank Marshall (chess player)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d0/FrankMarshall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American chess player (1877–1944)",
-        "extract": "Frank James Marshall was the U.S. Chess Champion from 1909 to 1936, and one of the world's strongest chess players in the early part of the 20th century.",
-        "born": 1877,
+        "name": "Wolfgang Paul",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/Wolfgang_Paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "German physicist (1913–1993)",
+        "extract": "Wolfgang Paul was a German physicist, who co-developed the non-magnetic quadrupole mass filter which laid the foundation for what is now called an ion trap. He shared one-half of the Nobel Prize in Physics in 1989 for this work with Hans Georg Dehmelt; the other half of the Prize in that year was awarded to Norman Foster Ramsey, Jr.",
+        "born": 1913,
         "highlights": [
-          "U.S. Chess Champion from 1909 to 1936.",
-          "One of the world's strongest chess players.",
-          "Prominent figure in early 20th-century chess."
+          "Co-developed non-magnetic quadrupole mass filter.",
+          "Shared Nobel Prize in Physics in 1989.",
+          "Laid foundation for the ion trap."
         ]
       },
       {
-        "name": "Abai Qunanbaiuly",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Abai_Kunanbaev.jpg/330px-Abai_Kunanbaev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Kazakh poet and composer (1845–1904)",
-        "extract": "Abai Qūnanbaiūly was a Kazakh poet, composer and Hanafi Maturidi theologian philosopher. He was also a cultural reformer toward European and Russian cultures on the basis of enlightened Islam. His name is also transliterated as Abay Kunanbayev ; among Kazakhs he is known as Abai.",
-        "born": 1845,
+        "name": "Su Yu",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Suyu1955.jpg/330px-Suyu1955.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Chinese military commander, general of the People's Liberation Army",
+        "extract": "Su Yu, courtesy name Yu (裕), was a Chinese general in the People's Liberation Army. He was considered by Mao Zedong to be among the best commanders of the PLA, only next to Peng Dehuai, Lin Biao and Liu Bocheng. Su Yu fought in the Second Sino-Japanese War and in the Chinese Civil War. He commanded the East China Field Army during the Chinese Civil War. His most notable accomplishments were the Battle of Menglianggu, the Battle of Huaihai, the Yangtze River crossing, and the capture of Shanghai.",
+        "born": 1907,
         "highlights": [
-          "Kazakh poet and composer.",
-          "Hanafi Maturidi theologian philosopher.",
-          "Cultural reformer toward European and Russian cultures."
+          "Chinese general in the People's Liberation Army.",
+          "Commanded the East China Field Army.",
+          "Notable for Battle of Huaihai, capture of Shanghai."
         ]
       }
     ]
