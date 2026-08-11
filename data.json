@@ -1,43 +1,44 @@
 {
-  "generatedAt": "2026-08-10T19:53:34.269Z",
+  "generatedAt": "2026-08-11T14:19:13.015Z",
   "weather": {
     "location": "New York City",
-    "tempC": 31.5,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 31.5,
-    "lowC": 21.9,
-    "rainChance": 34
+    "tempC": 25.9,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 31.7,
+    "lowC": 21.8,
+    "rainChance": 29
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Brooks Nader"
+          "Ohio",
+          "Tornado Warning"
         ],
-        "summary": "Brooks Nader is buzzing due to her recent Sports Illustrated Swimsuit feature and social media presence."
+        "summary": "Ohio is buzzing due to active tornado warnings across several regions."
       },
       {
         "keywords": [
-          "BBC News",
-          "UK Media"
+          "Ukraine",
+          "Conflict News"
         ],
-        "summary": "BBC is buzzing amidst recent controversies regarding impartiality and funding, sparking public debate."
+        "summary": "Ukraine news is buzzing as international attention remains focused on the ongoing conflict."
       },
       {
         "keywords": [
-          "Texas Politics",
-          "Border Issues"
+          "John Thune",
+          "GOP Support"
         ],
-        "summary": "Texas is buzzing due to ongoing debates over border policies and state legislative actions."
+        "summary": "John Thune is buzzing as he garners significant support within the Senate GOP."
       },
       {
         "keywords": [
-          "Houston Weather",
-          "Storm Alert"
+          "ONON Stock",
+          "Market Buzz"
         ],
-        "summary": "Houston weather is buzzing due to recent severe storms and flooding concerns in the area."
+        "summary": "ONON stock is buzzing due to recent market activity and investor interest."
       }
     ]
   },
@@ -47,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7746.61,
-        "changePct": -0.14218241630187342
+        "price": 7758.85,
+        "changePct": 0.07403480667758734
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26590.07,
-        "changePct": -0.376705444966337
+        "price": 26597.934,
+        "changePct": -0.027900396149538098
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6535.62,
-        "changePct": 0.18026137899955272
+        "price": 6566.95,
+        "changePct": 0.4793730357640121
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10862.5,
-        "changePct": -0.354001297117996
+        "price": 10869.13,
+        "changePct": 0.06103567318756455
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3966.594,
-        "changePct": 0.6740292032790618
+        "price": 3934.093,
+        "changePct": -0.15093755393346556
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4702.025,
-        "changePct": 0.16164879426955378
+        "price": 4663.789,
+        "changePct": -0.8131815547556611
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25937.49,
-        "changePct": 1.049788394356726
+        "price": 25652.82,
+        "changePct": -1.0975233147077912
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My default setting for any new app is 'immediately forget what I downloaded this for.'",
-      "explanation": "This is a relatable, self-deprecating observation on app overload and the fleeting nature of digital interests in modern life."
+      "joke": "I asked AI to write my to-do list. It replied, 'Have you considered delegating this task back to me?'",
+      "explanation": "It's funny because it plays on the expectation of AI's helpfulness and flips it with a deadpan, human-like sass, ironically delegating back."
     },
     "zh": {
-      "joke": "我睡前不是在刷手机，我是在对人类意志力进行极限挑战，每次都以失败告终。"
+      "joke": "我每天起床的动力，一半来自咖啡因，另一半来自对迟到的恐惧，这是一种典型的负反馈调节机制。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Camillo Benso, Count of Cavour",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Camillo_Benso_Cavour_di_Ciseri.jpg/330px-Camillo_Benso_Cavour_di_Ciseri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "First Prime Minister of the Kingdom of Italy from March to June in 1861",
-        "extract": "Camillo Paolo Filippo Giulio Benso, Count of Cavour, Isolabella and Leri, generally known as the Count of Cavour or simply Cavour, was an Italian politician, statesman, businessman, economist, and noble, and a leading figure in the movement towards Italian unification. He was one of the leaders of the Historical Right and Prime Minister of the Kingdom of Sardinia from 1852, a position he maintained until his death, throughout the Second Italian War of Independence and Giuseppe Garibaldi's campaigns to unite Italy. After the declaration of a united Kingdom of Italy, Cavour took office as the first Prime Minister of Italy; he died after only three months in office and did not live to see the Roman Question solved through the complete unification of the country after the Capture of Rome in 1870.",
-        "born": 1810,
+        "name": "Sophie Okonedo",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sophie_Okonedo_-_IFFR_2015_%28cropped%29.jpg/330px-Sophie_Okonedo_-_IFFR_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English actress and narrator (born 1968)",
+        "extract": "Sophie Okonedo is a British actress and narrator. The recipient of a Tony Award, she has been nominated for an Academy Award, three BAFTA TV Awards, an Emmy Award, two Laurence Olivier Awards, and a Golden Globe Award. She was appointed Officer of the Order of the British Empire (OBE) in the 2010 Birthday Honours and Commander of the Order of the British Empire (CBE) in 2019 New Year Honours, both for services to drama.",
+        "born": 1968,
         "highlights": [
-          "Leading figure in Italian unification movement.",
-          "Prime Minister of Kingdom of Sardinia from 1852.",
-          "First Prime Minister of Italy."
+          "Recipient of a Tony Award.",
+          "Nominated for an Academy Award.",
+          "Appointed OBE and CBE for services to drama."
         ]
       },
       {
-        "name": "Wolfgang Paul",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/Wolfgang_Paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "German physicist (1913–1993)",
-        "extract": "Wolfgang Paul was a German physicist, who co-developed the non-magnetic quadrupole mass filter which laid the foundation for what is now called an ion trap. He shared one-half of the Nobel Prize in Physics in 1989 for this work with Hans Georg Dehmelt; the other half of the Prize in that year was awarded to Norman Foster Ramsey, Jr.",
-        "born": 1913,
+        "name": "Joe Jackson (musician)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Joe-Jackson3.jpg/330px-Joe-Jackson3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English musician (born 1954)",
+        "extract": "Joe Jackson is a British musician, singer and songwriter. Having spent years studying music and playing clubs, he found early success with his hit new wave singles \"Is She Really Going Out with Him?\" and \"It's Different for Girls\". After he moved to more jazz-inflected pop music, Jackson achieved a worldwide hit with \"Steppin' Out\". Jackson is associated with the 1980s Second British Invasion of the US. He has also composed classical music. He has recorded 21 studio albums and has received five Grammy Award nominations.",
+        "born": 1954,
         "highlights": [
-          "Co-developed non-magnetic quadrupole mass filter.",
-          "Shared Nobel Prize in Physics in 1989.",
-          "Laid foundation for the ion trap."
+          "Hit new wave singles \"Is She Really Going Out with Him?\".",
+          "Achieved worldwide hit with \"Steppin' Out\".",
+          "Associated with 1980s Second British Invasion."
         ]
       },
       {
-        "name": "Su Yu",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Suyu1955.jpg/330px-Suyu1955.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Chinese military commander, general of the People's Liberation Army",
-        "extract": "Su Yu, courtesy name Yu (裕), was a Chinese general in the People's Liberation Army. He was considered by Mao Zedong to be among the best commanders of the PLA, only next to Peng Dehuai, Lin Biao and Liu Bocheng. Su Yu fought in the Second Sino-Japanese War and in the Chinese Civil War. He commanded the East China Field Army during the Chinese Civil War. His most notable accomplishments were the Battle of Menglianggu, the Battle of Huaihai, the Yangtze River crossing, and the capture of Shanghai.",
-        "born": 1907,
+        "name": "Jerry Falwell",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jerry_Falwell_portrait.jpg/330px-Jerry_Falwell_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American Baptist pastor, televangelist, and conservative activist (1933–2007)",
+        "extract": "Jerry Laymon Falwell was an American Baptist pastor, televangelist, and politically conservative activist. He was the founding pastor of the Thomas Road Baptist Church, a megachurch in Lynchburg, Virginia. He founded Lynchburg Christian Academy, later renamed Liberty Christian Academy, in 1967, founded Liberty University in 1971, and co-founded the Moral Majority in 1979.",
+        "born": 1933,
         "highlights": [
-          "Chinese general in the People's Liberation Army.",
-          "Commanded the East China Field Army.",
-          "Notable for Battle of Huaihai, capture of Shanghai."
+          "Founding pastor of Thomas Road Baptist Church.",
+          "Founded Lynchburg Christian Academy and Liberty University.",
+          "Co-founded the Moral Majority in 1979."
         ]
       }
     ]
