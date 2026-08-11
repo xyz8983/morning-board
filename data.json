@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-11T14:19:13.015Z",
+  "generatedAt": "2026-08-11T19:59:22.160Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.9,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 31.7,
+    "tempC": 32,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 31.9,
     "lowC": 21.8,
-    "rainChance": 29
+    "rainChance": 27
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Ohio",
-          "Tornado Warning"
+          "US Military",
+          "Ship Attack"
         ],
-        "summary": "Ohio is buzzing due to active tornado warnings across several regions."
+        "summary": "US forces are buzzing after engaging Houthi rebels attacking a commercial ship in the Red Sea."
       },
       {
         "keywords": [
-          "Ukraine",
-          "Conflict News"
+          "Zohran Mamdani",
+          "Grocery Stores"
         ],
-        "summary": "Ukraine news is buzzing as international attention remains focused on the ongoing conflict."
+        "summary": "Zohran Mamdani is buzzing for proposing public grocery stores to combat high food prices."
       },
       {
         "keywords": [
-          "John Thune",
-          "GOP Support"
+          "Toyota Camry",
+          "Recall"
         ],
-        "summary": "John Thune is buzzing as he garners significant support within the Senate GOP."
+        "summary": "Toyota Camry recall is buzzing due to a potential engine issue affecting thousands of vehicles."
       },
       {
         "keywords": [
-          "ONON Stock",
-          "Market Buzz"
+          "Montreal",
+          "Weather"
         ],
-        "summary": "ONON stock is buzzing due to recent market activity and investor interest."
+        "summary": "Montreal weather is buzzing with forecasts predicting significant snowfall and cold temperatures."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7758.85,
-        "changePct": 0.07403480667758734
+        "price": 7725.58,
+        "changePct": -0.3550833149536089
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26597.934,
-        "changePct": -0.027900396149538098
+        "price": 26442.27,
+        "changePct": -0.6129855727927257
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6566.95,
-        "changePct": 0.4793730357640121
+        "price": 6551.22,
+        "changePct": 0.23869196801528186
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10869.13,
-        "changePct": 0.06103567318756455
+        "price": 10844.19,
+        "changePct": -0.16856156501725653
       },
       {
         "region": "Asia",
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write my to-do list. It replied, 'Have you considered delegating this task back to me?'",
-      "explanation": "It's funny because it plays on the expectation of AI's helpfulness and flips it with a deadpan, human-like sass, ironically delegating back."
+      "joke": "My dating app bio says I'm 'looking for someone to split the emotional labor of processing the inevitable climate disaster'.",
+      "explanation": "It's dark humor about modern dating, blending personal seeking with global anxieties in a deadpan way."
     },
     "zh": {
-      "joke": "我每天起床的动力，一半来自咖啡因，另一半来自对迟到的恐惧，这是一种典型的负反馈调节机制。"
+      "joke": "办健身卡是对未来健康投资，至于今天不去，那是在优化我的资产配置，避免单一风险。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sophie Okonedo",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sophie_Okonedo_-_IFFR_2015_%28cropped%29.jpg/330px-Sophie_Okonedo_-_IFFR_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English actress and narrator (born 1968)",
-        "extract": "Sophie Okonedo is a British actress and narrator. The recipient of a Tony Award, she has been nominated for an Academy Award, three BAFTA TV Awards, an Emmy Award, two Laurence Olivier Awards, and a Golden Globe Award. She was appointed Officer of the Order of the British Empire (OBE) in the 2010 Birthday Honours and Commander of the Order of the British Empire (CBE) in 2019 New Year Honours, both for services to drama.",
-        "born": 1968,
+        "name": "Marc Bergevin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marc_Bergevin_-_Montreal_GM.jpg/330px-Marc_Bergevin_-_Montreal_GM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian ice hockey player and executive",
+        "extract": "Marc Bergevin is a Canadian professional ice hockey executive and former player. He is currently associate general manager of the Buffalo Sabres. Bergevin played as a defenceman in the NHL.",
+        "born": 1965,
         "highlights": [
-          "Recipient of a Tony Award.",
-          "Nominated for an Academy Award.",
-          "Appointed OBE and CBE for services to drama."
+          "Associate general manager of the Buffalo Sabres.",
+          "Former NHL defenceman.",
+          "Canadian ice hockey executive."
         ]
       },
       {
-        "name": "Joe Jackson (musician)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Joe-Jackson3.jpg/330px-Joe-Jackson3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English musician (born 1954)",
-        "extract": "Joe Jackson is a British musician, singer and songwriter. Having spent years studying music and playing clubs, he found early success with his hit new wave singles \"Is She Really Going Out with Him?\" and \"It's Different for Girls\". After he moved to more jazz-inflected pop music, Jackson achieved a worldwide hit with \"Steppin' Out\". Jackson is associated with the 1980s Second British Invasion of the US. He has also composed classical music. He has recorded 21 studio albums and has received five Grammy Award nominations.",
-        "born": 1954,
+        "name": "Andre Dubus",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Andre_dubus.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American writer",
+        "extract": "Andre Jules Dubus II was an American writer of short stories, novels, and essays.",
+        "born": 1936,
         "highlights": [
-          "Hit new wave singles \"Is She Really Going Out with Him?\".",
-          "Achieved worldwide hit with \"Steppin' Out\".",
-          "Associated with 1980s Second British Invasion."
+          "American writer.",
+          "Wrote short stories, novels, and essays."
         ]
       },
       {
-        "name": "Jerry Falwell",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jerry_Falwell_portrait.jpg/330px-Jerry_Falwell_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American Baptist pastor, televangelist, and conservative activist (1933–2007)",
-        "extract": "Jerry Laymon Falwell was an American Baptist pastor, televangelist, and politically conservative activist. He was the founding pastor of the Thomas Road Baptist Church, a megachurch in Lynchburg, Virginia. He founded Lynchburg Christian Academy, later renamed Liberty Christian Academy, in 1967, founded Liberty University in 1971, and co-founded the Moral Majority in 1979.",
-        "born": 1933,
+        "name": "Ben Gibbard",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ben_Gibbard_-_Death_Cab_for_Cutie_-_Palace_Theatre_St._Paul_%28cropped%29.jpg/330px-Ben_Gibbard_-_Death_Cab_for_Cutie_-_Palace_Theatre_St._Paul_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American musician (born 1976)",
+        "extract": "Benjamin Gibbard is an American musician. He is best known as the lead vocalist and guitarist of the indie rock band Death Cab for Cutie, with whom he has recorded eleven studio albums, and as a member of the indie pop supergroup The Postal Service. Gibbard has also released a solo album, Former Lives (2012), and a collaborative studio album, One Fast Move or I'm Gone (2009), with Jay Farrar.",
+        "born": 1976,
         "highlights": [
-          "Founding pastor of Thomas Road Baptist Church.",
-          "Founded Lynchburg Christian Academy and Liberty University.",
-          "Co-founded the Moral Majority in 1979."
+          "Lead vocalist and guitarist of Death Cab for Cutie.",
+          "Member of The Postal Service.",
+          "Released solo album Former Lives."
         ]
       }
     ]
