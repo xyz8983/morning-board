@@ -1,44 +1,45 @@
 {
-  "generatedAt": "2026-08-12T14:19:57.991Z",
+  "generatedAt": "2026-08-12T19:59:52.468Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.7,
+    "tempC": 30.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 31.3,
+    "highC": 30.7,
     "lowC": 21.3,
-    "rainChance": 6
+    "rainChance": 5
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Bob Iger",
-          "Disney CEO"
+          "Madjo",
+          "Music"
         ],
-        "summary": "Bob Iger is buzzing due to recent Disney earnings calls and strategic decisions."
+        "summary": "Madjo is buzzing due to recent music releases and growing online presence."
       },
       {
         "keywords": [
-          "Lakers",
-          "NBA"
+          "Astros",
+          "Giants",
+          "MLB"
         ],
-        "summary": "The Lakers are buzzing with playoff performance and trade deadline rumors."
+        "summary": "The Astros vs. Giants game is buzzing as a key matchup in MLB standings."
       },
       {
         "keywords": [
-          "Josh Kushner",
-          "Investor"
+          "Arby's",
+          "Fast Food"
         ],
-        "summary": "Josh Kushner is buzzing as a prominent venture capitalist and investor."
+        "summary": "Arby's is buzzing due to new menu items and viral marketing campaigns."
       },
       {
         "keywords": [
-          "Jared Kushner",
-          "Political Figure"
+          "Karoline Leavitt",
+          "Politics"
         ],
-        "summary": "Jared Kushner is buzzing due to his past political roles and business ventures."
+        "summary": "Karoline Leavitt is buzzing due to her role in recent political discussions."
       }
     ]
   },
@@ -48,29 +49,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7750.97,
-        "changePct": 0.2946352320074589
+        "price": 7749.28,
+        "changePct": 0.2727672679278477
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26610.02,
-        "changePct": 0.622318890833566
+        "price": 26587.336,
+        "changePct": 0.5365423043552477
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6551.19,
-        "changePct": -0.00045792997335847123
+        "price": 6533.99,
+        "changePct": -0.2630044480264817
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10831.92,
-        "changePct": -0.11314814661123086
+        "price": 10833.15,
+        "changePct": -0.10180566736658868
       },
       {
         "region": "Asia",
@@ -97,50 +98,49 @@
   },
   "joke": {
     "en": {
-      "joke": "I asked my smart speaker to play some 'chill vibes.' It suggested my to-do list.",
-      "explanation": "It's funny because it subverts expectations with a dry, relatable commentary on modern life's constant demands, delivered by an AI."
+      "joke": "I downloaded a productivity app, then spent an hour customizing it instead of being productive.",
+      "explanation": "It highlights the irony of intending to be productive with technology but getting sidetracked by the tech itself."
     },
     "zh": {
-      "joke": "我发现了一种高效治疗起床气的方法：打开银行APP看一眼余额。"
+      "joke": "我的生活哲学是：与其早睡早起，不如晚睡晚起，这样一天能少经历几个小时的清醒。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Dan Curtis",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Dan_Curtis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American television and film director, writer, and producer (1927–2006)",
-        "extract": "Daniel Mayer Cherkoss, known by his pen name Dan Curtis, was an American television and film director, screenwriter, and producer. He was best known as the creator of the gothic soap opera Dark Shadows (1966–71), and for directing the epic World War II miniseries The Winds of War (1983) and War and Remembrance (1988).",
-        "born": 1928,
+        "name": "Stefanos Tsitsipas",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tsitsipas_S._MCM22_%28cropped%29.jpg/330px-Tsitsipas_S._MCM22_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Greek tennis player (born 1998)",
+        "extract": "Stefanos Tsitsipas is a Greek professional tennis player. He has been ranked as high as world No. 3 in men's singles by the Association of Tennis Professionals (ATP), first achieved in August 2021 – making him the highest-ranked Greek men's tennis player. Tsitsipas has won thirteen ATP Tour singles titles, including the 2019 ATP Finals and three Masters 1000 events. He has contested two major finals, at the 2021 French Open and 2023 Australian Open, making him the first Greek tennis player to reach a Grand Slam final. He has a career-high doubles ranking of No. 64, achieved on 29 August 2022.",
+        "born": 1998,
         "highlights": [
-          "Creator of the gothic soap opera Dark Shadows.",
-          "Directed the epic miniseries The Winds of War.",
-          "Also directed War and Remembrance."
+          "Achieved world No. 3 ranking in men's singles.",
+          "Won 2019 ATP Finals and three Masters 1000 events.",
+          "Reached finals at 2021 French Open and 2023 Australian Open."
         ]
       },
       {
-        "name": "Pete Sampras",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pete_Sampras_Champions_Shootout_2.jpg/330px-Pete_Sampras_Champions_Shootout_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American former tennis player (born 1971)",
-        "extract": "Pete Sampras is an American former professional tennis player. One of the most successful tennis players of all time, he was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 286 weeks, and finished as the year-end No. 1 six consecutive times. Sampras won 64 ATP Tour-level singles titles, including 14 men's singles majors, which was an all-time record at the time of his retirement: seven Wimbledon Championships, two Australian Opens and an Open Era joint-record five US Opens. He also won five Tour Finals, two Grand Slam Cups, eleven Masters events, and was part of the winning United States Davis Cup teams in 1992 and 1995.",
-        "born": 1971,
+        "name": "Alexandros Tzorvas",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexandros_Tzorvas.jpg/330px-Alexandros_Tzorvas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Greek footballer",
+        "extract": "Alexandros Tzorvas is a Greek former professional footballer who played as a goalkeeper.",
+        "born": 1982,
         "highlights": [
-          "World No. 1 in men's singles for 286 weeks.",
-          "Won 14 men's singles majors, an all-time record.",
-          "Won seven Wimbledon Championships and five US Opens."
+          "Greek former professional footballer.",
+          "Played as a goalkeeper."
         ]
       },
       {
-        "name": "Sid Bernstein (impresario)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sid_bernstein.jpg/330px-Sid_bernstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American music producer and promoter",
-        "extract": "Sidney Bernstein was an American music promoter, talent manager, and author. Bernstein changed the American music scene in the 1960s by bringing the Beatles, the Rolling Stones, Herman's Hermits, the Moody Blues, and the Kinks to America. He was the first impresario to organize rock concerts at sports stadiums.",
-        "born": 1918,
+        "name": "Louise de Marillac",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Louise_de_Marillac_Le_Gras._Line_engraving_by_Sisco._Wellcome_L0006155.jpg/330px-Louise_de_Marillac_Le_Gras._Line_engraving_by_Sisco._Wellcome_L0006155.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French Roman Catholic saint",
+        "extract": "Louise de Marillac, also known as Louise Le Gras, was the co-founder, with Vincent de Paul, of the Daughters of Charity. She is venerated as a saint by the Catholic Church and the Episcopal Church in the United States of America.",
+        "born": 1591,
         "highlights": [
-          "Brought The Beatles and The Rolling Stones to America.",
-          "First impresario to organize rock concerts at stadiums.",
-          "Changed American music scene in the 1960s."
+          "Co-founder of the Daughters of Charity.",
+          "Venerated as a saint by the Catholic Church.",
+          "Also known as Louise Le Gras."
         ]
       }
     ]
