@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-11T19:59:22.160Z",
+  "generatedAt": "2026-08-12T14:19:57.991Z",
   "weather": {
     "location": "New York City",
-    "tempC": 32,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 31.9,
-    "lowC": 21.8,
-    "rainChance": 27
+    "tempC": 24.7,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 31.3,
+    "lowC": 21.3,
+    "rainChance": 6
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "US Military",
-          "Ship Attack"
+          "Bob Iger",
+          "Disney CEO"
         ],
-        "summary": "US forces are buzzing after engaging Houthi rebels attacking a commercial ship in the Red Sea."
+        "summary": "Bob Iger is buzzing due to recent Disney earnings calls and strategic decisions."
       },
       {
         "keywords": [
-          "Zohran Mamdani",
-          "Grocery Stores"
+          "Lakers",
+          "NBA"
         ],
-        "summary": "Zohran Mamdani is buzzing for proposing public grocery stores to combat high food prices."
+        "summary": "The Lakers are buzzing with playoff performance and trade deadline rumors."
       },
       {
         "keywords": [
-          "Toyota Camry",
-          "Recall"
+          "Josh Kushner",
+          "Investor"
         ],
-        "summary": "Toyota Camry recall is buzzing due to a potential engine issue affecting thousands of vehicles."
+        "summary": "Josh Kushner is buzzing as a prominent venture capitalist and investor."
       },
       {
         "keywords": [
-          "Montreal",
-          "Weather"
+          "Jared Kushner",
+          "Political Figure"
         ],
-        "summary": "Montreal weather is buzzing with forecasts predicting significant snowfall and cold temperatures."
+        "summary": "Jared Kushner is buzzing due to his past political roles and business ventures."
       }
     ]
   },
@@ -48,98 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7725.58,
-        "changePct": -0.3550833149536089
+        "price": 7750.97,
+        "changePct": 0.2946352320074589
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26442.27,
-        "changePct": -0.6129855727927257
+        "price": 26610.02,
+        "changePct": 0.622318890833566
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6551.22,
-        "changePct": 0.23869196801528186
+        "price": 6551.19,
+        "changePct": -0.00045792997335847123
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10844.19,
-        "changePct": -0.16856156501725653
+        "price": 10831.92,
+        "changePct": -0.11314814661123086
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3934.093,
-        "changePct": -0.15093755393346556
+        "price": 3946.675,
+        "changePct": -0.5020685273748979
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4663.789,
-        "changePct": -0.8131815547556611
+        "price": 4690.9165,
+        "changePct": 0.5816708759054904
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25652.82,
-        "changePct": -1.0975233147077912
+        "price": 25440.17,
+        "changePct": -0.8289536978780556
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My dating app bio says I'm 'looking for someone to split the emotional labor of processing the inevitable climate disaster'.",
-      "explanation": "It's dark humor about modern dating, blending personal seeking with global anxieties in a deadpan way."
+      "joke": "I asked my smart speaker to play some 'chill vibes.' It suggested my to-do list.",
+      "explanation": "It's funny because it subverts expectations with a dry, relatable commentary on modern life's constant demands, delivered by an AI."
     },
     "zh": {
-      "joke": "办健身卡是对未来健康投资，至于今天不去，那是在优化我的资产配置，避免单一风险。"
+      "joke": "我发现了一种高效治疗起床气的方法：打开银行APP看一眼余额。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Marc Bergevin",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marc_Bergevin_-_Montreal_GM.jpg/330px-Marc_Bergevin_-_Montreal_GM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian ice hockey player and executive",
-        "extract": "Marc Bergevin is a Canadian professional ice hockey executive and former player. He is currently associate general manager of the Buffalo Sabres. Bergevin played as a defenceman in the NHL.",
-        "born": 1965,
+        "name": "Dan Curtis",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Dan_Curtis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American television and film director, writer, and producer (1927–2006)",
+        "extract": "Daniel Mayer Cherkoss, known by his pen name Dan Curtis, was an American television and film director, screenwriter, and producer. He was best known as the creator of the gothic soap opera Dark Shadows (1966–71), and for directing the epic World War II miniseries The Winds of War (1983) and War and Remembrance (1988).",
+        "born": 1928,
         "highlights": [
-          "Associate general manager of the Buffalo Sabres.",
-          "Former NHL defenceman.",
-          "Canadian ice hockey executive."
+          "Creator of the gothic soap opera Dark Shadows.",
+          "Directed the epic miniseries The Winds of War.",
+          "Also directed War and Remembrance."
         ]
       },
       {
-        "name": "Andre Dubus",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Andre_dubus.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American writer",
-        "extract": "Andre Jules Dubus II was an American writer of short stories, novels, and essays.",
-        "born": 1936,
+        "name": "Pete Sampras",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pete_Sampras_Champions_Shootout_2.jpg/330px-Pete_Sampras_Champions_Shootout_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American former tennis player (born 1971)",
+        "extract": "Pete Sampras is an American former professional tennis player. One of the most successful tennis players of all time, he was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 286 weeks, and finished as the year-end No. 1 six consecutive times. Sampras won 64 ATP Tour-level singles titles, including 14 men's singles majors, which was an all-time record at the time of his retirement: seven Wimbledon Championships, two Australian Opens and an Open Era joint-record five US Opens. He also won five Tour Finals, two Grand Slam Cups, eleven Masters events, and was part of the winning United States Davis Cup teams in 1992 and 1995.",
+        "born": 1971,
         "highlights": [
-          "American writer.",
-          "Wrote short stories, novels, and essays."
+          "World No. 1 in men's singles for 286 weeks.",
+          "Won 14 men's singles majors, an all-time record.",
+          "Won seven Wimbledon Championships and five US Opens."
         ]
       },
       {
-        "name": "Ben Gibbard",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ben_Gibbard_-_Death_Cab_for_Cutie_-_Palace_Theatre_St._Paul_%28cropped%29.jpg/330px-Ben_Gibbard_-_Death_Cab_for_Cutie_-_Palace_Theatre_St._Paul_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American musician (born 1976)",
-        "extract": "Benjamin Gibbard is an American musician. He is best known as the lead vocalist and guitarist of the indie rock band Death Cab for Cutie, with whom he has recorded eleven studio albums, and as a member of the indie pop supergroup The Postal Service. Gibbard has also released a solo album, Former Lives (2012), and a collaborative studio album, One Fast Move or I'm Gone (2009), with Jay Farrar.",
-        "born": 1976,
+        "name": "Sid Bernstein (impresario)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sid_bernstein.jpg/330px-Sid_bernstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American music producer and promoter",
+        "extract": "Sidney Bernstein was an American music promoter, talent manager, and author. Bernstein changed the American music scene in the 1960s by bringing the Beatles, the Rolling Stones, Herman's Hermits, the Moody Blues, and the Kinks to America. He was the first impresario to organize rock concerts at sports stadiums.",
+        "born": 1918,
         "highlights": [
-          "Lead vocalist and guitarist of Death Cab for Cutie.",
-          "Member of The Postal Service.",
-          "Released solo album Former Lives."
+          "Brought The Beatles and The Rolling Stones to America.",
+          "First impresario to organize rock concerts at stadiums.",
+          "Changed American music scene in the 1960s."
         ]
       }
     ]
