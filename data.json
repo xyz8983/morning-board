@@ -1,45 +1,44 @@
 {
-  "generatedAt": "2026-08-12T19:59:52.468Z",
+  "generatedAt": "2026-08-13T14:21:49.773Z",
   "weather": {
     "location": "New York City",
-    "tempC": 30.7,
+    "tempC": 25.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 30.7,
-    "lowC": 21.3,
-    "rainChance": 5
+    "highC": 30.8,
+    "lowC": 22.1,
+    "rainChance": 44
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Madjo",
-          "Music"
+          "Netflix",
+          "Stock"
         ],
-        "summary": "Madjo is buzzing due to recent music releases and growing online presence."
+        "summary": "Netflix stock is buzzing due to recent market performance and investor interest."
       },
       {
         "keywords": [
-          "Astros",
-          "Giants",
-          "MLB"
+          "Pokemon",
+          "Bank"
         ],
-        "summary": "The Astros vs. Giants game is buzzing as a key matchup in MLB standings."
+        "summary": "Pokemon Bank is buzzing as players transfer creatures before service changes."
       },
       {
         "keywords": [
-          "Arby's",
-          "Fast Food"
+          "Will Poulter",
+          "Actor"
         ],
-        "summary": "Arby's is buzzing due to new menu items and viral marketing campaigns."
+        "summary": "Will Poulter is buzzing due to his recent film roles and upcoming projects."
       },
       {
         "keywords": [
-          "Karoline Leavitt",
-          "Politics"
+          "Jay DeBoy",
+          "Director"
         ],
-        "summary": "Karoline Leavitt is buzzing due to her role in recent political discussions."
+        "summary": "Jay DeBoy is buzzing for his recent work and contributions to the film industry."
       }
     ]
   },
@@ -49,98 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7749.28,
-        "changePct": 0.2727672679278477
+        "price": 7809.63,
+        "changePct": 0.7889268890753063
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26587.336,
-        "changePct": 0.5365423043552477
+        "price": 26837.658,
+        "changePct": 0.9371348983815787
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6533.99,
-        "changePct": -0.2630044480264817
+        "price": 6559.54,
+        "changePct": 0.39103212585265945
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10833.15,
-        "changePct": -0.10180566736658868
+        "price": 10789.84,
+        "changePct": -0.3997913810849059
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3946.675,
-        "changePct": -0.5020685273748979
+        "price": 3926.965,
+        "changePct": -0.18110922729271572
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4690.9165,
-        "changePct": 0.5816708759054904
+        "price": 4663.951,
+        "changePct": -0.5748450222893595
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25440.17,
-        "changePct": -0.8289536978780556
+        "price": 25396.51,
+        "changePct": -0.9990722260338086
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I downloaded a productivity app, then spent an hour customizing it instead of being productive.",
-      "explanation": "It highlights the irony of intending to be productive with technology but getting sidetracked by the tech itself."
+      "joke": "My main hobby is scrolling streaming services for an hour, then just going to bed.",
+      "explanation": "It's funny because it's a common, relatable modern experience presented as a 'hobby,' highlighting the ironic inefficiency of choice."
     },
     "zh": {
-      "joke": "我的生活哲学是：与其早睡早起，不如晚睡晚起，这样一天能少经历几个小时的清醒。"
+      "joke": "最近发现一个人生新哲学：只要我不主动开始，很多事情就不会有结尾，完美闭环。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Stefanos Tsitsipas",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tsitsipas_S._MCM22_%28cropped%29.jpg/330px-Tsitsipas_S._MCM22_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Greek tennis player (born 1998)",
-        "extract": "Stefanos Tsitsipas is a Greek professional tennis player. He has been ranked as high as world No. 3 in men's singles by the Association of Tennis Professionals (ATP), first achieved in August 2021 – making him the highest-ranked Greek men's tennis player. Tsitsipas has won thirteen ATP Tour singles titles, including the 2019 ATP Finals and three Masters 1000 events. He has contested two major finals, at the 2021 French Open and 2023 Australian Open, making him the first Greek tennis player to reach a Grand Slam final. He has a career-high doubles ranking of No. 64, achieved on 29 August 2022.",
-        "born": 1998,
+        "name": "Tom Niedenfuer",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tom_Niedenfuer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American baseball player (born 1959)",
+        "extract": "Thomas Edward Niedenfuer is an American former professional baseball right-handed pitcher. Exclusively a reliever during his ten-year career, he played his first six-plus seasons for the Los Angeles Dodgers, then finished out with the Baltimore Orioles, Seattle Mariners, and St. Louis Cardinals.",
+        "born": 1959,
         "highlights": [
-          "Achieved world No. 3 ranking in men's singles.",
-          "Won 2019 ATP Finals and three Masters 1000 events.",
-          "Reached finals at 2021 French Open and 2023 Australian Open."
+          "Former professional baseball right-handed pitcher.",
+          "Exclusively a reliever during his ten-year career.",
+          "Played for Los Angeles Dodgers, Baltimore Orioles, Seattle Mariners."
         ]
       },
       {
-        "name": "Alexandros Tzorvas",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexandros_Tzorvas.jpg/330px-Alexandros_Tzorvas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Greek footballer",
-        "extract": "Alexandros Tzorvas is a Greek former professional footballer who played as a goalkeeper.",
-        "born": 1982,
+        "name": "Janet Yellen",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Secretary_Janet_Yellen_portrait.jpg/330px-Secretary_Janet_Yellen_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American economist and government official (born 1946)",
+        "extract": "Janet Louise Yellen is an American economist who served as the 78th United States secretary of the treasury from 2021 to 2025 and as chair of the Federal Reserve from 2014 to 2018. She was the first woman to hold either position, and has also led the White House Council of Economic Advisers. Yellen is the Eugene E. and Catherine M. Trefethen Professor of Business Administration and Economics at the University of California, Berkeley.",
+        "born": 1946,
         "highlights": [
-          "Greek former professional footballer.",
-          "Played as a goalkeeper."
+          "78th US Secretary of the Treasury (2021-2025).",
+          "Chair of the Federal Reserve (2014-2018).",
+          "First woman to hold either position."
         ]
       },
       {
-        "name": "Louise de Marillac",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Louise_de_Marillac_Le_Gras._Line_engraving_by_Sisco._Wellcome_L0006155.jpg/330px-Louise_de_Marillac_Le_Gras._Line_engraving_by_Sisco._Wellcome_L0006155.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French Roman Catholic saint",
-        "extract": "Louise de Marillac, also known as Louise Le Gras, was the co-founder, with Vincent de Paul, of the Daughters of Charity. She is venerated as a saint by the Catholic Church and the Episcopal Church in the United States of America.",
-        "born": 1591,
+        "name": "Debi Mazar",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Debi_Mazar_2009.jpg/330px-Debi_Mazar_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1964)",
+        "extract": "Debi Mazar Corcos is an American actress and television personality. She began her career with supporting roles in Goodfellas (1990), Little Man Tate (1991), Singles (1992), and Batman Forever (1995), followed by lead roles on the legal drama series Civil Wars (1991–1993) and L.A. Law (1993–1994). She portrayed press agent Shauna Roberts on the HBO series Entourage. She starred as Maggie Amato on TV Land's Younger, and alongside her husband Gabriele Corcos in the Cooking Channel series Extra Virgin.",
+        "born": 1964,
         "highlights": [
-          "Co-founder of the Daughters of Charity.",
-          "Venerated as a saint by the Catholic Church.",
-          "Also known as Louise Le Gras."
+          "Actress in Goodfellas, Little Man Tate, Batman Forever.",
+          "Lead roles on Civil Wars and L.A. Law.",
+          "Portrayed Shauna Roberts on HBO's Entourage."
         ]
       }
     ]
