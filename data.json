@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-13T14:21:49.773Z",
+  "generatedAt": "2026-08-13T19:54:44.680Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.7,
+    "tempC": 30.6,
     "condition": "Overcast",
     "code": 3,
-    "highC": 30.8,
+    "highC": 30.4,
     "lowC": 22.1,
     "rainChance": 44
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Netflix",
-          "Stock"
+          "Mewtwo",
+          "10th Anniversary"
         ],
-        "summary": "Netflix stock is buzzing due to recent market performance and investor interest."
+        "summary": "Mewtwo's 10th anniversary is buzzing as fans celebrate the iconic Pokémon's enduring legacy."
       },
       {
         "keywords": [
-          "Pokemon",
-          "Bank"
+          "Braxton Ashcraft",
+          "Baseball Player"
         ],
-        "summary": "Pokemon Bank is buzzing as players transfer creatures before service changes."
+        "summary": "Braxton Ashcraft is buzzing due to his recent impressive performance in baseball."
       },
       {
         "keywords": [
-          "Will Poulter",
-          "Actor"
+          "Appropriations Bill",
+          "Government Funding"
         ],
-        "summary": "Will Poulter is buzzing due to his recent film roles and upcoming projects."
+        "summary": "The appropriations bill is buzzing as lawmakers debate key government funding priorities."
       },
       {
         "keywords": [
-          "Jay DeBoy",
-          "Director"
+          "Star Trek",
+          "Strange New Worlds"
         ],
-        "summary": "Jay DeBoy is buzzing for his recent work and contributions to the film industry."
+        "summary": "Star Trek: Strange New Worlds Season 4 is buzzing with anticipation for its upcoming production."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7809.63,
-        "changePct": 0.7889268890753063
+        "price": 7798.85,
+        "changePct": 0.6498031877137558
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26837.658,
-        "changePct": 0.9371348983815787
+        "price": 26806.648,
+        "changePct": 0.8205054759037064
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6559.54,
-        "changePct": 0.39103212585265945
+        "price": 6545.47,
+        "changePct": 0.17569662641051598
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10789.84,
-        "changePct": -0.3997913810849059
+        "price": 10772.67,
+        "changePct": -0.5582863710001206
       },
       {
         "region": "Asia",
@@ -97,50 +97,47 @@
   },
   "joke": {
     "en": {
-      "joke": "My main hobby is scrolling streaming services for an hour, then just going to bed.",
-      "explanation": "It's funny because it's a common, relatable modern experience presented as a 'hobby,' highlighting the ironic inefficiency of choice."
+      "joke": "I'm really enjoying this 'authentic' content where everyone's vacation looks exactly the same.",
+      "explanation": "It sarcastically points out the irony of curated social media 'authenticity' often leading to highly similar, idealized portrayals."
     },
     "zh": {
-      "joke": "最近发现一个人生新哲学：只要我不主动开始，很多事情就不会有结尾，完美闭环。"
+      "joke": "我本以为自己是来拯救世界的，结果发现我只是来拯救我的KPI。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Tom Niedenfuer",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tom_Niedenfuer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American baseball player (born 1959)",
-        "extract": "Thomas Edward Niedenfuer is an American former professional baseball right-handed pitcher. Exclusively a reliever during his ten-year career, he played his first six-plus seasons for the Los Angeles Dodgers, then finished out with the Baltimore Orioles, Seattle Mariners, and St. Louis Cardinals.",
-        "born": 1959,
+        "name": "Anders Jonas Ångström",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Anders_Jonas_%C3%85ngstr%C3%B6m_full_body.jpg/330px-Anders_Jonas_%C3%85ngstr%C3%B6m_full_body.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish physicist (1814–1874)",
+        "extract": "Anders Jonas Ångström was a Swedish physicist and one of the founders of the science of spectroscopy.",
+        "born": 1814,
         "highlights": [
-          "Former professional baseball right-handed pitcher.",
-          "Exclusively a reliever during his ten-year career.",
-          "Played for Los Angeles Dodgers, Baltimore Orioles, Seattle Mariners."
+          "Swedish physicist.",
+          "Founder of the science of spectroscopy."
         ]
       },
       {
-        "name": "Janet Yellen",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Secretary_Janet_Yellen_portrait.jpg/330px-Secretary_Janet_Yellen_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American economist and government official (born 1946)",
-        "extract": "Janet Louise Yellen is an American economist who served as the 78th United States secretary of the treasury from 2021 to 2025 and as chair of the Federal Reserve from 2014 to 2018. She was the first woman to hold either position, and has also led the White House Council of Economic Advisers. Yellen is the Eugene E. and Catherine M. Trefethen Professor of Business Administration and Economics at the University of California, Berkeley.",
-        "born": 1946,
+        "name": "Giovanni Agnelli",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Agnelli.jpg/330px-Agnelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian businessman (1866–1945)",
+        "extract": "Giovanni Agnelli was an Italian industrialist and principal founder of Fiat S.p.A., established in 1899. Under his leadership, Fiat became a cornerstone of Italy's automotive industry, significantly contributing to the country's industrialization during the early 20th century. Agnelli also served as a Senator from 1923 to 1944.",
+        "born": 1866,
         "highlights": [
-          "78th US Secretary of the Treasury (2021-2025).",
-          "Chair of the Federal Reserve (2014-2018).",
-          "First woman to hold either position."
+          "Principal founder of Fiat S.p.A.",
+          "Led Fiat to cornerstone of Italy's automotive industry.",
+          "Served as a Senator from 1923 to 1944."
         ]
       },
       {
-        "name": "Debi Mazar",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Debi_Mazar_2009.jpg/330px-Debi_Mazar_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (born 1964)",
-        "extract": "Debi Mazar Corcos is an American actress and television personality. She began her career with supporting roles in Goodfellas (1990), Little Man Tate (1991), Singles (1992), and Batman Forever (1995), followed by lead roles on the legal drama series Civil Wars (1991–1993) and L.A. Law (1993–1994). She portrayed press agent Shauna Roberts on the HBO series Entourage. She starred as Maggie Amato on TV Land's Younger, and alongside her husband Gabriele Corcos in the Cooking Channel series Extra Virgin.",
-        "born": 1964,
+        "name": "Regis Toomey",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Regis_Toomey.jpg/330px-Regis_Toomey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (1898–1991)",
+        "extract": "John Francis Regis Toomey was an American film and television actor.",
+        "born": 1898,
         "highlights": [
-          "Actress in Goodfellas, Little Man Tate, Batman Forever.",
-          "Lead roles on Civil Wars and L.A. Law.",
-          "Portrayed Shauna Roberts on HBO's Entourage."
+          "American film and television actor."
         ]
       }
     ]
