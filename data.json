@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-13T19:54:44.680Z",
+  "generatedAt": "2026-08-14T14:15:22.447Z",
   "weather": {
     "location": "New York City",
-    "tempC": 30.6,
+    "tempC": 25.8,
     "condition": "Overcast",
     "code": 3,
-    "highC": 30.4,
-    "lowC": 22.1,
-    "rainChance": 44
+    "highC": 31.8,
+    "lowC": 21,
+    "rainChance": 5
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Mewtwo",
-          "10th Anniversary"
+          "Ticketmaster",
+          "Concert Tickets"
         ],
-        "summary": "Mewtwo's 10th anniversary is buzzing as fans celebrate the iconic Pokémon's enduring legacy."
+        "summary": "Ticketmaster is buzzing due to ongoing issues with concert ticket pricing and fan frustration."
       },
       {
         "keywords": [
-          "Braxton Ashcraft",
-          "Baseball Player"
+          "AVGO Stock",
+          "Broadcom"
         ],
-        "summary": "Braxton Ashcraft is buzzing due to his recent impressive performance in baseball."
+        "summary": "AVGO stock is buzzing as Broadcom's earnings report and AI chip outlook drive investor interest."
       },
       {
         "keywords": [
-          "Appropriations Bill",
-          "Government Funding"
+          "Netanyahu",
+          "Israel Politics"
         ],
-        "summary": "The appropriations bill is buzzing as lawmakers debate key government funding priorities."
+        "summary": "Benjamin Netanyahu is buzzing amid ongoing political developments and international relations concerning Israel."
       },
       {
         "keywords": [
-          "Star Trek",
-          "Strange New Worlds"
+          "Flight 1009",
+          "LAX Return"
         ],
-        "summary": "Star Trek: Strange New Worlds Season 4 is buzzing with anticipation for its upcoming production."
+        "summary": "Flight 1009 returning to LAX is buzzing due to an unexpected mid-air incident or technical issue."
       }
     ]
   },
@@ -48,96 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7798.85,
-        "changePct": 0.6498031877137558
+        "price": 7804.25,
+        "changePct": 0.06744463065089477
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26806.648,
-        "changePct": 0.8205054759037064
+        "price": 26808.258,
+        "changePct": 0.019523915677428852
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6545.47,
-        "changePct": 0.17569662641051598
+        "price": 6549.13,
+        "changePct": 0.05591653464151321
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10772.67,
-        "changePct": -0.5582863710001206
+        "price": 10770.52,
+        "changePct": -0.01995791201252462
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3926.965,
-        "changePct": -0.18110922729271572
+        "price": 3927.177,
+        "changePct": -0.4941621818845131
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4663.951,
-        "changePct": -0.5748450222893595
+        "price": 4665.881,
+        "changePct": 0.04138122377358362
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25396.51,
-        "changePct": -0.9990722260338086
+        "price": 25116.85,
+        "changePct": -1.2710198819191758
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I'm really enjoying this 'authentic' content where everyone's vacation looks exactly the same.",
-      "explanation": "It sarcastically points out the irony of curated social media 'authenticity' often leading to highly similar, idealized portrayals."
+      "joke": "My phone's \"screen time\" report isn't a warning, it's just my daily itinerary.",
+      "explanation": "It's funny because it's a deadpan acknowledgment of excessive screen usage, humorously reinterpreting a warning as a daily schedule."
     },
     "zh": {
-      "joke": "我本以为自己是来拯救世界的，结果发现我只是来拯救我的KPI。"
+      "joke": "我的健身卡已经躺在钱包里一年了，每次看到它，我都会想：这张卡真结实，抗压能力一流。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Anders Jonas Ångström",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Anders_Jonas_%C3%85ngstr%C3%B6m_full_body.jpg/330px-Anders_Jonas_%C3%85ngstr%C3%B6m_full_body.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swedish physicist (1814–1874)",
-        "extract": "Anders Jonas Ångström was a Swedish physicist and one of the founders of the science of spectroscopy.",
-        "born": 1814,
+        "name": "Mark Gubicza",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mark_Gubicza_Royals.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American baseball player and analyst (born 1962)",
+        "extract": "Mark Steven Gubicza, nicknamed \"Gubie\", is an American former professional baseball pitcher and current sportscaster. Gubicza played in Major League Baseball (MLB) for the Kansas City Royals (1984–96) and Anaheim Angels (1997). He is a color commentator for Los Angeles Angels games on FanDuel Sports Network West.",
+        "born": 1962,
         "highlights": [
-          "Swedish physicist.",
-          "Founder of the science of spectroscopy."
+          "American former professional baseball pitcher.",
+          "Played in MLB for Kansas City Royals (1984–96).",
+          "Current sportscaster for Los Angeles Angels games."
         ]
       },
       {
-        "name": "Giovanni Agnelli",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Agnelli.jpg/330px-Agnelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian businessman (1866–1945)",
-        "extract": "Giovanni Agnelli was an Italian industrialist and principal founder of Fiat S.p.A., established in 1899. Under his leadership, Fiat became a cornerstone of Italy's automotive industry, significantly contributing to the country's industrialization during the early 20th century. Agnelli also served as a Senator from 1923 to 1944.",
-        "born": 1866,
+        "name": "Carle Vernet",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Carle_Vernet_by_Robert_Lefevre.jpg/330px-Carle_Vernet_by_Robert_Lefevre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French painter (1758–1836)",
+        "extract": "Antoine Charles Horace Vernet, better known as Carle Vernet, was a French painter, the youngest child of painter Claude-Joseph Vernet and the father of painter Horace Vernet.",
+        "born": 1758,
         "highlights": [
-          "Principal founder of Fiat S.p.A.",
-          "Led Fiat to cornerstone of Italy's automotive industry.",
-          "Served as a Senator from 1923 to 1944."
+          "French painter.",
+          "Son of painter Claude-Joseph Vernet.",
+          "Father of painter Horace Vernet."
         ]
       },
       {
-        "name": "Regis Toomey",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Regis_Toomey.jpg/330px-Regis_Toomey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (1898–1991)",
-        "extract": "John Francis Regis Toomey was an American film and television actor.",
-        "born": 1898,
+        "name": "Amaza Lee Meredith",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/Photo_of_Amaza_Lee_Meredith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American architect",
+        "extract": "Amaza Lee Meredith was an American architect, educator and artist. Meredith was unable to enter the profession as an architect because of \"both her race and her sex\" as an African-American woman, and worked primarily as an art teacher at Virginia State University, where she founded the art department. Sex and race wasn't the only factor that was challenging at the time. Amaza Lee Meredith lived authentically as an African-American Queer artist despite at the time heterosexual norms. She is best known for her residence, Azurest South, where she and her partner, Dr. Edna Meade Colson, resided together. Moreover, she co-founded the Azurest Syndicate Inc., a vacation destination for black middle class Americans on Sag Harbor, New York. As an educated black woman, Meredith is a rare example of a financially and socially independent black woman living in the time of Jim Crow Segregation Laws.",
+        "born": 1895,
         "highlights": [
-          "American film and television actor."
+          "American architect, educator and artist.",
+          "Founded the art department at Virginia State University.",
+          "Co-founded Azurest Syndicate Inc., a vacation destination."
         ]
       }
     ]
