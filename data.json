@@ -1,44 +1,43 @@
 {
-  "generatedAt": "2026-08-14T19:45:14.567Z",
+  "generatedAt": "2026-08-15T13:29:25.990Z",
   "weather": {
     "location": "New York City",
-    "tempC": 29.5,
-    "condition": "Overcast",
-    "code": 3,
+    "tempC": 22.4,
+    "condition": "Mostly clear",
+    "code": 1,
     "highC": 29.9,
-    "lowC": 21,
-    "rainChance": 7
+    "lowC": 19,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Jason Arday",
-          "Youngest Professor"
+          "Newcastle",
+          "Leverkusen"
         ],
-        "summary": "Jason Arday is buzzing for becoming the UK's youngest Black professor at age 37."
+        "summary": "Newcastle vs Leverkusen is buzzing due to their upcoming match, generating significant fan anticipation."
       },
       {
         "keywords": [
-          "OKC Thunder",
-          "NBA Playoffs"
+          "Spurs",
+          "Hoffenheim"
         ],
-        "summary": "The Oklahoma City Thunder are buzzing for their strong performance and playoff contention in the NBA."
+        "summary": "Spurs vs Hoffenheim is buzzing as fans eagerly await their highly anticipated football clash."
       },
       {
         "keywords": [
-          "BBC",
-          "Trump Lawsuit"
+          "Bayern Munich"
         ],
-        "summary": "The BBC is buzzing due to Donald Trump's defamation lawsuit against the broadcaster."
+        "summary": "Bayern Munich is buzzing due to recent transfer news and their strong pre-season performance."
       },
       {
         "keywords": [
-          "Lakers",
-          "Ownership Change"
+          "Middlesbrough",
+          "Lincoln City"
         ],
-        "summary": "The Lakers ownership change is buzzing amid rumors and speculation about potential new investors."
+        "summary": "Middlesbrough vs Lincoln City is buzzing as fans look forward to their upcoming cup fixture."
       }
     ]
   },
@@ -48,15 +47,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7783.31,
-        "changePct": -0.20105167463991339
+        "price": 7785.76,
+        "changePct": -0.16963735047742803
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26708.404,
-        "changePct": -0.3530235859571926
+        "price": 26729.164,
+        "changePct": -0.2755696418594572
       },
       {
         "region": "Europe",
@@ -77,7 +76,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3927.177,
-        "changePct": -0.4941621818845131
+        "changePct": 0.005271239658065498
       },
       {
         "region": "Asia",
@@ -91,56 +90,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 25116.85,
-        "changePct": -1.2710198819191758
+        "changePct": -1.1011359833047918
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone died, so I spent the next hour staring at my reflection in the dark screen, contemplating my existence.",
-      "explanation": "It's funny because it exaggerates modern phone dependence, leading to an absurd, existential crisis when technology fails."
+      "joke": "Sometimes I pause my existential dread just to make sure I haven't missed any vital updates on the dog park group chat.",
+      "explanation": "It's an absurdist, deadpan take on how trivial social media updates often interrupt or even take precedence over deeper thoughts."
     },
     "zh": {
-      "joke": "鉴于我与床铺的粘合度日益增加，我已申请将其列入国家一级保护文物。"
+      "joke": "我最近在反思，是继续P图营造岁月静好的假象，还是直接发一张生无可恋的脸，然后配文“已阅，勿回”。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Elena Baltacha",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Elena_Baltacha.jpg/330px-Elena_Baltacha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British tennis player (1983–2014)",
-        "extract": "Elena Sergeevna Baltacha was a Ukrainian-born British professional tennis player. Being a four-time winner of the AEGON Awards, she was also a long-term British No. 1, a position she held intermittently from 2002 to 2012. However, as a result of her absence from competition due to knee surgery, she dropped down the world rankings and at the time of her retirement on 18 November 2013, she was ranked as the world No. 221 and British No. 6. Her career-high ranking of world No. 49 was achieved in September 2010.",
-        "born": 1983,
+        "name": "Albert Ballin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albert_Ballin_2.jpg/330px-Albert_Ballin_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German businessman",
+        "extract": "Albert Ballin was a German shipping magnate. He was the general director of the Hamburg-Amerikanische Packetfahrt-Actien-Gesellschaft (HAPAG) or Hamburg-America Line, which for a time was the world's largest shipping company. Being the inventor of the concept of the cruise ship, he is known as the father of modern cruise ship travel. Albert Ballin was a risk-taker who was willing to challenge his colleagues, foreign competitors, and domestic politics in order to build a successful shipping company. He focused on British rivals and was determined to expand HAPAG's global reach, he also worked closely with the Kaiser and supported expansion of the German navy.",
+        "born": 1857,
         "highlights": [
-          "Ukrainian-born British professional tennis player.",
-          "Four-time winner of the AEGON Awards.",
-          "Long-term British No. 1 (2002-2012)."
+          "German shipping magnate.",
+          "General director of Hamburg-America Line.",
+          "Inventor of the cruise ship concept."
         ]
       },
       {
-        "name": "Kaikhosru Shapurji Sorabji",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sorabji_in_1917%2C_photo_by_Histed_%28cropped%29.jpg/330px-Sorabji_in_1917%2C_photo_by_Histed_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English composer and pianist (1892–1988)",
-        "extract": "Kaikhosru Shapurji Sorabji was an English composer, music critic, pianist and writer. His music, written over a period of seventy years, ranges from sets of miniatures to works lasting several hours. One of the most prolific 20th-century composers, he is best known for his piano pieces, notably nocturnes such as Gulistān and Villa Tasca, and large-scale, technically intricate compositions, which include seven symphonies for piano solo, four toccatas, Sequentia cyclica and 100 Transcendental Studies. He felt alienated from English society by reason of his homosexuality and mixed ancestry, and had a lifelong tendency to seclusion.",
-        "born": 1892,
+        "name": "Anthony Anderson",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/AnthonyAnderson-byPhilipRomano.jpg/330px-AnthonyAnderson-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor and comedian (born 1970)",
+        "extract": "Anthony Anderson is an American actor, comedian, and television host. He is known for his leading roles in television shows such as Andre \"Dre\" Johnson on the ABC sitcom Black-ish (2014–2022) and NYPD Detective Kevin Bernard on the NBC crime drama Law & Order. He has also acted in films such as Big Momma's House (2000), Barbershop (2002), Kangaroo Jack (2003), Agent Cody Banks 2 (2004), Hustle & Flow (2005), The Departed (2006), Transformers (2007), and Scream 4 (2011).",
+        "born": 1970,
         "highlights": [
-          "English composer, music critic, pianist, and writer.",
-          "Known for piano pieces like Gulistān and Villa Tasca.",
-          "Composed 100 Transcendental Studies and seven piano symphonies."
+          "American actor, comedian, and television host.",
+          "Leading role as Andre Johnson in Black-ish.",
+          "Played Detective Kevin Bernard on Law & Order."
         ]
       },
       {
-        "name": "Christopher Gorham",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Christopher_Gorham_by_Gage_Skidmore.jpg/330px-Christopher_Gorham_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (born 1974)",
-        "extract": "Christopher David Gorham is an American actor. He is best known for his work on television, particularly for playing Henry Grubstick on the ABC comedy-drama series Ugly Betty, Auggie Anderson on the action-drama series Covert Affairs, Bob Barnard on the dark comedy-drama series Insatiable, Harrison John on The WB’s teen comedy-drama series Popular, Henry Dunn in the limited slasher series Harper's Island, and Trevor Elliott on the legal drama series The Lincoln Lawyer.",
-        "born": 1974,
+        "name": "Alex Oxlade-Chamberlain",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alex_Oxlade-Chamberlain_%28cropped%29.jpg/330px-Alex_Oxlade-Chamberlain_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English footballer (born 1993)",
+        "extract": "Alexander Mark David Oxlade-Chamberlain is an English professional footballer who plays as a midfielder for Scottish Premiership club Celtic.",
+        "born": 1993,
         "highlights": [
-          "American actor known for television roles.",
-          "Played Henry Grubstick on Ugly Betty.",
-          "Played Auggie Anderson on Covert Affairs."
+          "English professional footballer.",
+          "Plays as a midfielder.",
+          "Plays for Scottish Premiership club Celtic."
         ]
       }
     ]
