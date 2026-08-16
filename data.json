@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-16T13:30:22.655Z",
+  "generatedAt": "2026-08-16T19:18:51.685Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.2,
-    "condition": "Light rain",
-    "code": 61,
-    "highC": 27.9,
+    "tempC": 26.7,
+    "condition": "Heavy drizzle",
+    "code": 55,
+    "highC": 27.8,
     "lowC": 20.5,
-    "rainChance": 67
+    "rainChance": 56
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "EFL Championship",
-          "Football"
+          "Scottie Scheffler",
+          "Golf"
         ],
-        "summary": "The EFL Championship is buzzing as teams battle for promotion and playoff spots."
+        "summary": "Scottie Scheffler is buzzing after his dominant performance and recent tournament wins in golf."
       },
       {
         "keywords": [
-          "Halo",
-          "Gaming News"
+          "Nancy Guthrie",
+          "Bible Teacher"
         ],
-        "summary": "Halo Studios is buzzing with updates and future plans for the popular game franchise."
+        "summary": "Nancy Guthrie is buzzing as her latest Bible study resources and teachings gain widespread attention."
       },
       {
         "keywords": [
-          "Nottm Forest",
-          "Brest Match"
+          "Andrew Painter",
+          "Phillies Prospect"
         ],
-        "summary": "Nottm Forest vs Brest is buzzing due to a recent or upcoming football friendly match."
+        "summary": "Andrew Painter is buzzing due to updates on his recovery and highly anticipated return to pitching."
       },
       {
         "keywords": [
-          "Premier League",
-          "Soccer"
+          "S. Epatha Merkerson",
+          "Actress"
         ],
-        "summary": "The Premier League is buzzing with intense title races and relegation battles."
+        "summary": "S. Epatha Merkerson is buzzing for her continued acclaimed performances and recent career milestones."
       }
     ]
   },
@@ -56,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 26729.164,
-        "changePct": -0.2755696418594572
+        "changePct": -0.2754766257508463
       },
       {
         "region": "Europe",
@@ -70,77 +70,77 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10750.11,
-        "changePct": -0.20941883488494023
+        "changePct": -0.20969673340945302
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3927.1765,
-        "changePct": 0.005390931948252681
+        "price": 3927.177,
+        "changePct": 0.005525902988573813
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4665.881,
-        "changePct": 0.04138122377358362
+        "changePct": 0.041402673699342724
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 25116.85,
-        "changePct": -1.101174925216102
+        "changePct": -1.1011359833047918
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone told me my screen time was up 10% this week. I thought, 'Oh, good, I'm consistent.'",
-      "explanation": "It's funny because it's a deadpan, ironic acceptance of an unhealthy habit, reframing a negative statistic as a positive."
+      "joke": "The scariest horror movie I've seen recently was my phone's screen time report.",
+      "explanation": "It's a deadpan, relatable observation that uses dark humor to highlight the alarming amount of time spent on phones, treating a mundane report as a terrifying revelation."
     },
     "zh": {
-      "joke": "我发现居家办公最大的好处，是让我的通勤时间从一个小时缩短到了…走到客厅的时间。而且现在，我可以在我的‘办公室’里，光明正大地穿着睡衣开会了。"
+      "joke": "远程办公的好处就是，我可以一边开会一边偷偷研究我家的椅子、沙发、床，到底哪个姿势最适合深度睡眠。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Joey Spampinato",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/JoeySpampinato.jpg/330px-JoeySpampinato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer-songwriter",
-        "extract": "Joseph Nicholas Spampinato is a multi-instrumentalist and was a founding member and bass player of NRBQ. He was also one of the band's lead singers and chief songwriters. Before NRBQ he played in several bands, including The Seven of Us, which in 1967 while in Miami, Florida, met another band, The Mersey-Beats USA. The bands merged to form NRBQ. On the group's first two albums, NRBQ and Boppin' the Blues Spampinato is credited as \"Jody St. Nicholas\".",
-        "born": 1948,
+        "name": "Kathie Lee Gifford",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kathie_Lee_Gifford_%2850091047183%29_%28cropped%29.jpg/330px-Kathie_Lee_Gifford_%2850091047183%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American television presenter (born 1953)",
+        "extract": "Kathryn Lee Gifford is an American television presenter, singer, songwriter, actress, and author. From 1985 to 2000, she and Regis Philbin hosted the talk show Live! with Regis and Kathie Lee. Gifford is also known for her 11-year run with Hoda Kotb, on the fourth hour of NBC's Today show (2008–2019). She has received 11 Daytime Emmy nominations and won her first Daytime Emmy in 2010 as part of the Today team.",
+        "born": 1953,
         "highlights": [
-          "Founding member and bass player of NRBQ.",
-          "Lead singer and chief songwriter for NRBQ.",
-          "Credited as \"Jody St. Nicholas\" on early albums."
+          "Co-hosted \"Live! with Regis and Kathie Lee\" (1985-2000).",
+          "Co-hosted NBC's \"Today\" show fourth hour (2008-2019).",
+          "Won a Daytime Emmy in 2010 for \"Today\" show."
         ]
       },
       {
-        "name": "Jeff Perry (American actor)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jeff_Perry_2_Peabody_2014_%28cropped%29.jpg/330px-Jeff_Perry_2_Peabody_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (born 1955)",
-        "extract": "Jeffrey Perry is an American actor of stage, television, and film. He is known for his role as Richard Katimski on the teen drama My So-Called Life, Terrance Steadman on Prison Break, Thatcher Grey on the medical drama series Grey's Anatomy, Cyrus Beene on the political drama series Scandal, all for ABC, and as Inspector Harvey Leek on the CBS crime drama Nash Bridges. He most recently starred on the ABC drama Alaska Daily, alongside Hilary Swank.",
-        "born": 1955,
+        "name": "Suzanne Farrell",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Suzanne_Farrell_1965c.jpg/330px-Suzanne_Farrell_1965c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American ballerina",
+        "extract": "Suzanne Farrell is a prominent American ballet dancer, teacher and coach, and the founder of Suzanne Farrell Ballet.",
+        "born": 1945,
         "highlights": [
-          "Known for Richard Katimski on My So-Called Life.",
-          "Played Thatcher Grey on Grey's Anatomy.",
-          "Starred as Cyrus Beene on Scandal."
+          "Prominent American ballet dancer.",
+          "Also a teacher and coach.",
+          "Founder of Suzanne Farrell Ballet."
         ]
       },
       {
-        "name": "James Casey (variety artist)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/James_Casey_%28variety_artist%29%2C_April_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "English comedian and radio producer",
-        "extract": "James Casey, known professionally as Jim Casey, was at various times during his long career a Variety comedian on the English music-halls, a scriptwriter for BBC Radio's variety shows and situation comedies, and a senior BBC Radio Light Entertainment producer.",
-        "born": 1922,
+        "name": "Reiner Kunze",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Reiner_Kunze_2009.jpg/330px-Reiner_Kunze_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German writer and GDR dissident (born 1933)",
+        "extract": "Reiner Kunze is a German writer and GDR dissident. He studied media and journalism at the University of Leipzig. In 1968, he left the GDR state party SED following the communist Warsaw Pact countries invasion of Czechoslovakia in response to the Prague Spring. He had to publish his work under various pseudonyms. In 1976, his most famous book The Lovely Years, which contained critical insights into the life, and the policies behind the Iron Curtain, was published in West Germany to great acclaim. In 1977, the GDR regime expatriated him, and he moved to West Germany (FRG). He now lives near Passau in Bavaria.",
+        "born": 1933,
         "highlights": [
-          "Variety comedian on English music-halls.",
-          "Scriptwriter for BBC Radio variety shows.",
-          "Senior BBC Radio Light Entertainment producer."
+          "German writer and GDR dissident.",
+          "Authored \"The Lovely Years,\" critical of Iron Curtain life.",
+          "Expatriated by GDR regime in 1977."
         ]
       }
     ]
