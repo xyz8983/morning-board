@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-15T19:20:12.643Z",
+  "generatedAt": "2026-08-16T13:30:22.655Z",
   "weather": {
     "location": "New York City",
-    "tempC": 29.5,
-    "condition": "Mostly clear",
-    "code": 1,
-    "highC": 29.4,
-    "lowC": 19,
-    "rainChance": 3
+    "tempC": 24.2,
+    "condition": "Light rain",
+    "code": 61,
+    "highC": 27.9,
+    "lowC": 20.5,
+    "rainChance": 67
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Fluminense",
-          "Palmeiras"
-        ],
-        "summary": "Why is the Fluminense vs Palmeiras match buzzing? It's a major football rivalry."
-      },
-      {
-        "keywords": [
-          "Corey Julks",
-          "MLB"
-        ],
-        "summary": "Why is Corey Julks buzzing? Fans are discussing his recent MLB performance."
-      },
-      {
-        "keywords": [
-          "Cobán Imperial",
-          "Mixco"
-        ],
-        "summary": "Why is Cobán Imperial vs Mixco buzzing? Fans are following this exciting football match."
-      },
-      {
-        "keywords": [
-          "Ceyair Wright",
+          "EFL Championship",
           "Football"
         ],
-        "summary": "Why is Ceyair Wright buzzing? People are discussing his recent college football plays."
+        "summary": "The EFL Championship is buzzing as teams battle for promotion and playoff spots."
+      },
+      {
+        "keywords": [
+          "Halo",
+          "Gaming News"
+        ],
+        "summary": "Halo Studios is buzzing with updates and future plans for the popular game franchise."
+      },
+      {
+        "keywords": [
+          "Nottm Forest",
+          "Brest Match"
+        ],
+        "summary": "Nottm Forest vs Brest is buzzing due to a recent or upcoming football friendly match."
+      },
+      {
+        "keywords": [
+          "Premier League",
+          "Soccer"
+        ],
+        "summary": "The Premier League is buzzing with intense title races and relegation battles."
       }
     ]
   },
@@ -76,8 +76,8 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3927.177,
-        "changePct": 0.005271239658065498
+        "price": 3927.1765,
+        "changePct": 0.005390931948252681
       },
       {
         "region": "Asia",
@@ -91,56 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 25116.85,
-        "changePct": -1.1011359833047918
+        "changePct": -1.101174925216102
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My boss said 'we're a family.' That explains why I can't afford rent and they still expect me to work for free on weekends.",
-      "explanation": "It uses dark humor to satirize corporate 'family' rhetoric, contrasting it with the reality of employee exploitation and low wages."
+      "joke": "My phone told me my screen time was up 10% this week. I thought, 'Oh, good, I'm consistent.'",
+      "explanation": "It's funny because it's a deadpan, ironic acceptance of an unhealthy habit, reframing a negative statistic as a positive."
     },
     "zh": {
-      "joke": "我的人生哲学就是：随心所欲不逾矩。但这不逾矩的'矩'，主要指的是我的银行卡余额。"
+      "joke": "我发现居家办公最大的好处，是让我的通勤时间从一个小时缩短到了…走到客厅的时间。而且现在，我可以在我的‘办公室’里，光明正大地穿着睡衣开会了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Rondell Sheridan",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/RondellSheridanSept2008.jpg/330px-RondellSheridanSept2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor and comedian",
-        "extract": "Rondell Jerome Sheridan is an American actor, comedian and television director, best known for his role of Victor Baxter in the Disney Channel sitcom That's So Raven, as well as its later spin-offs Cory in the House and Raven's Home. Sheridan is an alumnus of Marquette University. Sheridan also starred as Dr. Ron Aimes on the NBC/UPN sitcom Minor Adjustments.",
-        "born": 1958,
+        "name": "Joey Spampinato",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/JoeySpampinato.jpg/330px-JoeySpampinato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer-songwriter",
+        "extract": "Joseph Nicholas Spampinato is a multi-instrumentalist and was a founding member and bass player of NRBQ. He was also one of the band's lead singers and chief songwriters. Before NRBQ he played in several bands, including The Seven of Us, which in 1967 while in Miami, Florida, met another band, The Mersey-Beats USA. The bands merged to form NRBQ. On the group's first two albums, NRBQ and Boppin' the Blues Spampinato is credited as \"Jody St. Nicholas\".",
+        "born": 1948,
         "highlights": [
-          "Best known as Victor Baxter in That's So Raven.",
-          "Appeared in Cory in the House and Raven's Home.",
-          "Starred as Dr. Ron Aimes on Minor Adjustments."
+          "Founding member and bass player of NRBQ.",
+          "Lead singer and chief songwriter for NRBQ.",
+          "Credited as \"Jody St. Nicholas\" on early albums."
         ]
       },
       {
-        "name": "Gerty Cori",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gerty_Theresa_Cori.jpg/330px-Gerty_Theresa_Cori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Czech-American biochemist (1896–1957)",
-        "extract": "Gerty Theresa Cori was a Czech and American biochemist who in 1947 was the third woman to win a Nobel Prize in science, and the first woman to be awarded the Nobel Prize in Physiology or Medicine, for her role in the \"discovery of the course of the catalytic conversion of glycogen\".",
-        "born": 1896,
+        "name": "Jeff Perry (American actor)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jeff_Perry_2_Peabody_2014_%28cropped%29.jpg/330px-Jeff_Perry_2_Peabody_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (born 1955)",
+        "extract": "Jeffrey Perry is an American actor of stage, television, and film. He is known for his role as Richard Katimski on the teen drama My So-Called Life, Terrance Steadman on Prison Break, Thatcher Grey on the medical drama series Grey's Anatomy, Cyrus Beene on the political drama series Scandal, all for ABC, and as Inspector Harvey Leek on the CBS crime drama Nash Bridges. He most recently starred on the ABC drama Alaska Daily, alongside Hilary Swank.",
+        "born": 1955,
         "highlights": [
-          "Third woman to win a Nobel Prize in science.",
-          "First woman to win Nobel Prize in Physiology or Medicine.",
-          "Discovered catalytic conversion of glycogen."
+          "Known for Richard Katimski on My So-Called Life.",
+          "Played Thatcher Grey on Grey's Anatomy.",
+          "Starred as Cyrus Beene on Scandal."
         ]
       },
       {
-        "name": "Stylianos Gonatas",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Stylianos_Gonatas%2C_1922.png/330px-Stylianos_Gonatas%2C_1922.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Greek military officer and politician (1876–1966)",
-        "extract": "Stylianos Gonatas was an officer of the Hellenic Army, Venizelist politician, and Prime Minister of Greece from 1922 to 1924.",
-        "born": 1876,
+        "name": "James Casey (variety artist)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/James_Casey_%28variety_artist%29%2C_April_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "English comedian and radio producer",
+        "extract": "James Casey, known professionally as Jim Casey, was at various times during his long career a Variety comedian on the English music-halls, a scriptwriter for BBC Radio's variety shows and situation comedies, and a senior BBC Radio Light Entertainment producer.",
+        "born": 1922,
         "highlights": [
-          "Officer of the Hellenic Army.",
-          "Venizelist politician.",
-          "Prime Minister of Greece (1922-1924)."
+          "Variety comedian on English music-halls.",
+          "Scriptwriter for BBC Radio variety shows.",
+          "Senior BBC Radio Light Entertainment producer."
         ]
       }
     ]
