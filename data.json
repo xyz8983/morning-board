@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-16T19:18:51.685Z",
+  "generatedAt": "2026-08-17T13:38:28.553Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.7,
-    "condition": "Heavy drizzle",
-    "code": 55,
-    "highC": 27.8,
-    "lowC": 20.5,
-    "rainChance": 56
+    "tempC": 21.7,
+    "condition": "Light rain",
+    "code": 61,
+    "highC": 27.9,
+    "lowC": 19.9,
+    "rainChance": 69
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Scottie Scheffler",
-          "Golf"
+          "Notes App",
+          "Digital Notes"
         ],
-        "summary": "Scottie Scheffler is buzzing after his dominant performance and recent tournament wins in golf."
+        "summary": "Why is the 'Notes' app buzzing? People are sharing creative ways to use it for organization and quick thoughts."
       },
       {
         "keywords": [
-          "Nancy Guthrie",
-          "Bible Teacher"
+          "Diego Moreira",
+          "Football Transfer"
         ],
-        "summary": "Nancy Guthrie is buzzing as her latest Bible study resources and teachings gain widespread attention."
+        "summary": "Why is Diego Moreira buzzing? The young footballer is making headlines with his recent transfer to Chelsea."
       },
       {
         "keywords": [
-          "Andrew Painter",
-          "Phillies Prospect"
+          "Brad Pitt",
+          "Sobriety Journey"
         ],
-        "summary": "Andrew Painter is buzzing due to updates on his recovery and highly anticipated return to pitching."
+        "summary": "Why is Brad Pitt buzzing? He recently opened up about his journey with sobriety and restrained drinking."
       },
       {
         "keywords": [
-          "S. Epatha Merkerson",
-          "Actress"
+          "Angel Reese",
+          "WNBA Rebounding"
         ],
-        "summary": "S. Epatha Merkerson is buzzing for her continued acclaimed performances and recent career milestones."
+        "summary": "Why is Angel Reese buzzing? ESPN highlighted her impressive rebounding skills in the WNBA."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7785.76,
-        "changePct": -0.16963735047742803
+        "price": 7776.05,
+        "changePct": -0.12471486405951425
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26729.164,
-        "changePct": -0.2754766257508463
+        "price": 26744.904,
+        "changePct": 0.05888698950703419
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6539.59,
-        "changePct": -0.08983312122735432
+        "price": 6538.03,
+        "changePct": -0.02385470648772171
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10750.11,
-        "changePct": -0.20969673340945302
+        "price": 10735.19,
+        "changePct": -0.13878927750506806
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3927.177,
-        "changePct": 0.005525902988573813
+        "price": 3982.6536,
+        "changePct": 1.4126459556885222
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4665.881,
-        "changePct": 0.041402673699342724
+        "price": 4741.098,
+        "changePct": 1.612057726372078
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25116.85,
-        "changePct": -1.1011359833047918
+        "price": 25453.23,
+        "changePct": 1.3392602973700964
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "The scariest horror movie I've seen recently was my phone's screen time report.",
-      "explanation": "It's a deadpan, relatable observation that uses dark humor to highlight the alarming amount of time spent on phones, treating a mundane report as a terrifying revelation."
+      "joke": "My work-life balance is mostly me trying to remember if I already typed 'lol' into a professional email.",
+      "explanation": "It captures the relatable, slightly anxious blur between casual online communication and professional etiquette in modern work culture."
     },
     "zh": {
-      "joke": "远程办公的好处就是，我可以一边开会一边偷偷研究我家的椅子、沙发、床，到底哪个姿势最适合深度睡眠。"
+      "joke": "当代年轻人最大的矛盾是：既想躺平，又怕真躺平了被时代抛弃。最后发现最理想的状态是‘趴着’，既有躺的姿态，又能随时往前爬，完美诠释了‘积极废人’。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Kathie Lee Gifford",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kathie_Lee_Gifford_%2850091047183%29_%28cropped%29.jpg/330px-Kathie_Lee_Gifford_%2850091047183%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American television presenter (born 1953)",
-        "extract": "Kathryn Lee Gifford is an American television presenter, singer, songwriter, actress, and author. From 1985 to 2000, she and Regis Philbin hosted the talk show Live! with Regis and Kathie Lee. Gifford is also known for her 11-year run with Hoda Kotb, on the fourth hour of NBC's Today show (2008–2019). She has received 11 Daytime Emmy nominations and won her first Daytime Emmy in 2010 as part of the Today team.",
-        "born": 1953,
+        "name": "Garrett Wolfe",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Garrett_Wolfe.jpg/330px-Garrett_Wolfe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American gridiron football player (born 1984)",
+        "extract": "Garrett Wolfe is an American former professional football player who was a running back in the National Football League (NFL). He was selected by the Chicago Bears in the third round of the 2007 NFL draft. He played his college football for the Northern Illinois Huskies.",
+        "born": 1984,
         "highlights": [
-          "Co-hosted \"Live! with Regis and Kathie Lee\" (1985-2000).",
-          "Co-hosted NBC's \"Today\" show fourth hour (2008-2019).",
-          "Won a Daytime Emmy in 2010 for \"Today\" show."
+          "NFL running back",
+          "Drafted by Chicago Bears in 2007",
+          "Played college football for Northern Illinois Huskies"
         ]
       },
       {
-        "name": "Suzanne Farrell",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Suzanne_Farrell_1965c.jpg/330px-Suzanne_Farrell_1965c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American ballerina",
-        "extract": "Suzanne Farrell is a prominent American ballet dancer, teacher and coach, and the founder of Suzanne Farrell Ballet.",
-        "born": 1945,
+        "name": "Mohamed Abdelaziz (Sahrawi politician)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Mohamed_Abdelaziz%2C_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Sahrawi President from 1976 to 2016",
+        "extract": "Mohamed Abdelaziz was the 3rd Secretary General of the Polisario Front, from 1976, and the President of the Sahrawi Arab Democratic Republic from 1982, until his death in 2016.",
+        "born": 1947,
         "highlights": [
-          "Prominent American ballet dancer.",
-          "Also a teacher and coach.",
-          "Founder of Suzanne Farrell Ballet."
+          "3rd Secretary General of Polisario Front (1976)",
+          "President of Sahrawi Arab Democratic Republic (1982-2016)",
+          "Served as President until his death"
         ]
       },
       {
-        "name": "Reiner Kunze",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Reiner_Kunze_2009.jpg/330px-Reiner_Kunze_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German writer and GDR dissident (born 1933)",
-        "extract": "Reiner Kunze is a German writer and GDR dissident. He studied media and journalism at the University of Leipzig. In 1968, he left the GDR state party SED following the communist Warsaw Pact countries invasion of Czechoslovakia in response to the Prague Spring. He had to publish his work under various pseudonyms. In 1976, his most famous book The Lovely Years, which contained critical insights into the life, and the policies behind the Iron Curtain, was published in West Germany to great acclaim. In 1977, the GDR regime expatriated him, and he moved to West Germany (FRG). He now lives near Passau in Bavaria.",
-        "born": 1933,
+        "name": "John Brahm",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d0/John_Brahm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "German film and television director (1893–1982)",
+        "extract": "John Brahm was a German film and television director. His films include The Undying Monster (1942), The Lodger (1944), Hangover Square (1945), The Locket (1946), The Brasher Doubloon (1947), and the 3D horror film The Mad Magician (1954).",
+        "born": 1893,
         "highlights": [
-          "German writer and GDR dissident.",
-          "Authored \"The Lovely Years,\" critical of Iron Curtain life.",
-          "Expatriated by GDR regime in 1977."
+          "German film and television director",
+          "Directed films like The Lodger (1944)",
+          "Directed 3D horror film The Mad Magician (1954)"
         ]
       }
     ]
