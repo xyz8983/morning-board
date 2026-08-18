@@ -1,44 +1,45 @@
 {
-  "generatedAt": "2026-08-18T13:41:21.978Z",
+  "generatedAt": "2026-08-18T19:24:53.789Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.2,
+    "tempC": 28.9,
     "condition": "Drizzle",
     "code": 53,
-    "highC": 27.5,
+    "highC": 29.6,
     "lowC": 22.3,
-    "rainChance": 12
+    "rainChance": 21
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Jenny McCarthy",
-          "Masked Singer"
+          "Levski Sofia",
+          "AEK Match"
         ],
-        "summary": "Jenny McCarthy is buzzing due to her role as a judge on The Masked Singer and recent interviews."
+        "summary": "Why it's buzzing: Fans are anticipating or discussing the recent football match between Levski Sofia and AEK."
       },
       {
         "keywords": [
-          "Uzbekistan",
-          "Tourism Boom"
+          "House Dragon",
+          "Season 3"
         ],
-        "summary": "Uzbekistan is buzzing as a rising tourist destination, attracting global visitors with its Silk Road heritage."
+        "summary": "Why it's buzzing: Speculation and excitement are growing for the potential third season of House of the Dragon."
       },
       {
         "keywords": [
-          "Mauricio Umansky",
-          "Real Estate"
+          "Jordan Spieth",
+          "PGA Tour"
         ],
-        "summary": "Mauricio Umansky is buzzing due to his real estate ventures and recent reality TV show appearances."
+        "summary": "Why it's buzzing: Jordan Spieth's recent comments on the PGA Tour are generating significant discussion."
       },
       {
         "keywords": [
-          "Oswaldo Pirela",
-          "ICE Detention"
+          "Azzi Fudd",
+          "Paige Bueckers",
+          "Documentary"
         ],
-        "summary": "Oswaldo Pirela's ICE detention is buzzing due to public attention on immigration enforcement cases."
+        "summary": "Why it's buzzing: A new documentary featuring basketball stars Azzi Fudd and Paige Bueckers is creating buzz."
       }
     ]
   },
@@ -48,29 +49,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7711.32,
-        "changePct": -0.4356325193090911
+        "price": 7700.23,
+        "changePct": -0.5788205643339216
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26414.793,
-        "changePct": -0.8636433750386036
+        "price": 26299.105,
+        "changePct": -1.2978276151054753
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6493.69,
-        "changePct": -0.562901484583761
+        "price": 6468.17,
+        "changePct": -0.953686193141357
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10748.34,
-        "changePct": 0.26155984440734753
+        "price": 10728.04,
+        "changePct": 0.0721994720297156
       },
       {
         "region": "Asia",
@@ -97,50 +98,36 @@
   },
   "joke": {
     "en": {
-      "joke": "I just got a push notification that my coffee is done brewing. My life is officially optimized for digital anxiety.",
-      "explanation": "It's funny because it exaggerates modern life's tech obsession, where even simple tasks are gamified, leading to more, not less, stress."
+      "joke": "My dating app profile says 'looking for something real,' but 'something real' often means explaining basic memes.",
+      "explanation": "It highlights the often superficial reality of online dating, where 'real' connections can be challenged by basic internet culture gaps."
     },
     "zh": {
-      "joke": "最近悟出一个道理，人生最大的成就，可能就是能把每次点外卖的“不要香菜”贯彻得如此彻底。"
+      "joke": "我的人生理想，就是有一天能把所有社交平台的未读消息清零。这简直是信息时代下，个人精神秩序重建的里程碑式壮举。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Andi Deris",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Helloween_-_Andi_Deris_at_Masters_of_Rock_2018_by_vSpectrum_%28cropped%29.jpg/330px-Helloween_-_Andi_Deris_at_Masters_of_Rock_2018_by_vSpectrum_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German singer (born 1964)",
-        "extract": "Andreas \"Andi\" Deris is a German singer, best known as one of the three co-lead vocalists of the power metal band Helloween, and co-founder and former lead singer of the metal band Pink Cream 69.",
-        "born": 1964,
-        "highlights": [
-          "Co-lead vocalist for power metal band Helloween.",
-          "Co-founder and lead singer of Pink Cream 69."
-        ]
+        "name": "Sarah Dash",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sarah_Dash_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American singer (1945–2021)",
+        "extract": "Sarah Dash was an American singer. She first appeared on the music scene as a member of Patti LaBelle & The Bluebelles. Dash was later a member of Labelle, and worked as a singer, session musician, and sidewoman for The Rolling Stones, and Keith Richards.",
+        "born": 1945
       },
       {
-        "name": "Ernest MacMillan",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Portrait_photograph_of_Sir_Ernest_MacMillan_in_1940_by_Noel_Rubie.jpg/330px-Portrait_photograph_of_Sir_Ernest_MacMillan_in_1940_by_Noel_Rubie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian conductor (1893–1973)",
-        "extract": "Sir Ernest Alexander Campbell MacMillan was a Canadian conductor, composer and organist. He was Canada's only \"Musical Knight\", and is widely regarded as being Canada's pre-eminent musician from the 1920s through the 1950s. His contributions to the development of music in Canada were sustained and varied, as conductor, performer, composer, administrator, lecturer, adjudicator, writer, humourist, and statesman.",
-        "born": 1893,
-        "highlights": [
-          "Canadian conductor, composer and organist.",
-          "Canada's only \"Musical Knight\".",
-          "Pre-eminent Canadian musician from the 1920s through the 1950s."
-        ]
+        "name": "Roman Polanski",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_06.JPG/330px-2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Polish and French filmmaker (born 1933)",
+        "extract": "Raymond Roman Thierry Polański is a Polish and French filmmaker and actor. He is the recipient of numerous accolades, including an Academy Award, three British Academy Film Awards, ten César Awards, and two Golden Globe Awards as well as a Golden Bear and a Palme d'Or.",
+        "born": 1933
       },
       {
-        "name": "Isaac P. Rodman",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/IPRodman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American politician",
-        "extract": "Isaac Peace Rodman was a Rhode Island banker, politician, and a Union Army brigadier general in the American Civil War, who was mortally wounded at the Battle of Antietam.",
-        "born": 1822,
-        "highlights": [
-          "Rhode Island banker and politician.",
-          "Union Army brigadier general in the American Civil War.",
-          "Mortally wounded at the Battle of Antietam."
-        ]
+        "name": "Brook Taylor",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hans_Hysing_%281678-1753%29_%28attributed_to_studio_of%29_-_Brook_Taylor_%281685%E2%80%931731%29_-_RS.9685_-_Royal_Society.jpg/330px-Hans_Hysing_%281678-1753%29_%28attributed_to_studio_of%29_-_Brook_Taylor_%281685%E2%80%931731%29_-_RS.9685_-_Royal_Society.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English mathematician",
+        "extract": " Brook Taylor was an English mathematician and barrister best known for several results in mathematical analysis. Taylor's most famous developments are Taylor's theorem and the Taylor series, essential in the infinitesimal approach of functions in specific points.",
+        "born": 1685
       }
     ]
   }
