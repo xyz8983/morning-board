@@ -1,45 +1,44 @@
 {
-  "generatedAt": "2026-08-17T19:25:01.381Z",
+  "generatedAt": "2026-08-18T13:41:21.978Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.6,
-    "condition": "Light rain",
-    "code": 61,
-    "highC": 26.5,
-    "lowC": 19.9,
-    "rainChance": 69
+    "tempC": 23.2,
+    "condition": "Drizzle",
+    "code": 53,
+    "highC": 27.5,
+    "lowC": 22.3,
+    "rainChance": 12
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Puka",
-          "Suspension"
+          "Jenny McCarthy",
+          "Masked Singer"
         ],
-        "summary": "Puka Nacua's suspension is buzzing due to its impact on the Rams' upcoming season."
+        "summary": "Jenny McCarthy is buzzing due to her role as a judge on The Masked Singer and recent interviews."
       },
       {
         "keywords": [
-          "Karoline Leavitt",
-          "Departure"
+          "Uzbekistan",
+          "Tourism Boom"
         ],
-        "summary": "Karoline Leavitt's departure from the press secretary role is buzzing due to political speculation."
+        "summary": "Uzbekistan is buzzing as a rising tourist destination, attracting global visitors with its Silk Road heritage."
       },
       {
         "keywords": [
-          "Tropics",
-          "Weather"
+          "Mauricio Umansky",
+          "Real Estate"
         ],
-        "summary": "The tropics are buzzing due to increased hurricane activity and developing storm systems."
+        "summary": "Mauricio Umansky is buzzing due to his real estate ventures and recent reality TV show appearances."
       },
       {
         "keywords": [
-          "Usher",
-          "Chris Brown",
-          "Concert"
+          "Oswaldo Pirela",
+          "ICE Detention"
         ],
-        "summary": "The Usher and Chris Brown Baltimore concert is buzzing due to high demand and fan anticipation."
+        "summary": "Oswaldo Pirela's ICE detention is buzzing due to public attention on immigration enforcement cases."
       }
     ]
   },
@@ -49,99 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7753.57,
-        "changePct": -0.41344711370502696
+        "price": 7711.32,
+        "changePct": -0.4356325193090911
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26660.588,
-        "changePct": -0.2565587161648637
+        "price": 26414.793,
+        "changePct": -0.8636433750386036
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6530.45,
-        "changePct": -0.13976411365238994
+        "price": 6493.69,
+        "changePct": -0.562901484583761
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10720.3,
-        "changePct": -0.2772994880982735
+        "price": 10748.34,
+        "changePct": 0.26155984440734753
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3982.6536,
-        "changePct": 1.4126459556885222
+        "price": 3990.304,
+        "changePct": 1.6073620256774648
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4741.098,
-        "changePct": 1.612057726372078
+        "price": 4725.813,
+        "changePct": -0.3223936733642682
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25453.23,
-        "changePct": 1.3392602973700964
+        "price": 25471.15,
+        "changePct": 1.410808701745454
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My most productive hour today was spent scrolling for the right 'rainy day cafe sounds' playlist.",
-      "explanation": "It's funny because it highlights how modern life redefines 'productivity' and leisure, focusing on ambient digital experiences."
+      "joke": "I just got a push notification that my coffee is done brewing. My life is officially optimized for digital anxiety.",
+      "explanation": "It's funny because it exaggerates modern life's tech obsession, where even simple tasks are gamified, leading to more, not less, stress."
     },
     "zh": {
-      "joke": "每次打开健康码，我都感觉自己像在玩一个大型的赛博朋克生存游戏。"
+      "joke": "最近悟出一个道理，人生最大的成就，可能就是能把每次点外卖的“不要香菜”贯彻得如此彻底。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Pieter van der Hoog",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Van_der_Hoog_on_a_donkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Dutch physician and writer (1888–1957)",
-        "extract": "Pieter Henricus van der Hoog, also known after converting to Islam as Mohammed Abdul-Ali, was a Dutch bacteriologist, dermatologist, and Islamicist. Born in The Hague, Van der Hoog was pressured by his father to enter the Dutch military, for which he served as a doctor. During his time with the Royal Netherlands East Indies Army in the Dutch East Indies from 1913 through 1921, he practised in several areas but was censured and arrested. Returning to the Netherlands, he earned a doctoral degree from the University of Leiden in 1922. After some time practising medicine in the Netherlands, in 1926 he was sent to Curaçao; he was ultimately blacklisted by the Ministry of the Colonies for his continued attacks on the Governor of the Netherlands Antilles.",
-        "born": 1888,
+        "name": "Andi Deris",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Helloween_-_Andi_Deris_at_Masters_of_Rock_2018_by_vSpectrum_%28cropped%29.jpg/330px-Helloween_-_Andi_Deris_at_Masters_of_Rock_2018_by_vSpectrum_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German singer (born 1964)",
+        "extract": "Andreas \"Andi\" Deris is a German singer, best known as one of the three co-lead vocalists of the power metal band Helloween, and co-founder and former lead singer of the metal band Pink Cream 69.",
+        "born": 1964,
         "highlights": [
-          "Dutch bacteriologist, dermatologist, and Islamicist.",
-          "Served as a doctor in the Royal Netherlands East Indies Army.",
-          "Earned a doctoral degree from the University of Leiden in 1922."
+          "Co-lead vocalist for power metal band Helloween.",
+          "Co-founder and lead singer of Pink Cream 69."
         ]
       },
       {
-        "name": "Sarah Sjöström",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sarah_Sj%C3%B6str%C3%B6m_2013_%28cropped%29.jpg/330px-Sarah_Sj%C3%B6str%C3%B6m_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swedish swimmer (born 1993)",
-        "extract": "Sarah Fredrika Sjöström is a Swedish competitive swimmer specialising in the sprint freestyle and butterfly events. She is one of the most decorated swimmers of all time.",
-        "born": 1993,
+        "name": "Ernest MacMillan",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Portrait_photograph_of_Sir_Ernest_MacMillan_in_1940_by_Noel_Rubie.jpg/330px-Portrait_photograph_of_Sir_Ernest_MacMillan_in_1940_by_Noel_Rubie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian conductor (1893–1973)",
+        "extract": "Sir Ernest Alexander Campbell MacMillan was a Canadian conductor, composer and organist. He was Canada's only \"Musical Knight\", and is widely regarded as being Canada's pre-eminent musician from the 1920s through the 1950s. His contributions to the development of music in Canada were sustained and varied, as conductor, performer, composer, administrator, lecturer, adjudicator, writer, humourist, and statesman.",
+        "born": 1893,
         "highlights": [
-          "Swedish competitive swimmer.",
-          "Specializes in sprint freestyle and butterfly events.",
-          "One of the most decorated swimmers of all time."
+          "Canadian conductor, composer and organist.",
+          "Canada's only \"Musical Knight\".",
+          "Pre-eminent Canadian musician from the 1920s through the 1950s."
         ]
       },
       {
-        "name": "Lalla Carlsen",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Portrett_av_Lalla_Carlsen_%281889-1967%29_%2810532769096%29.jpg/330px-Portrett_av_Lalla_Carlsen_%281889-1967%29_%2810532769096%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Norwegian singer and actress (1889–1967)",
-        "extract": "Lalla Carlsen was a Norwegian singer and actress. She was a very popular singer in Norway.",
-        "born": 1889,
+        "name": "Isaac P. Rodman",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/IPRodman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American politician",
+        "extract": "Isaac Peace Rodman was a Rhode Island banker, politician, and a Union Army brigadier general in the American Civil War, who was mortally wounded at the Battle of Antietam.",
+        "born": 1822,
         "highlights": [
-          "Norwegian singer.",
-          "Norwegian actress.",
-          "Very popular singer in Norway."
+          "Rhode Island banker and politician.",
+          "Union Army brigadier general in the American Civil War.",
+          "Mortally wounded at the Battle of Antietam."
         ]
       }
     ]
