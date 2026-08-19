@@ -1,46 +1,13 @@
 {
-  "generatedAt": "2026-08-19T13:42:49.709Z",
+  "generatedAt": "2026-08-19T19:21:49.415Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.2,
+    "tempC": 31.3,
     "condition": "Overcast",
     "code": 3,
-    "highC": 31.3,
+    "highC": 31.5,
     "lowC": 20.7,
     "rainChance": 1
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "MRVL",
-          "Stock"
-        ],
-        "summary": "Marvell Technology stock is buzzing due to recent earnings reports and market analyst upgrades."
-      },
-      {
-        "keywords": [
-          "Iran",
-          "Europe Relations"
-        ],
-        "summary": "Tensions between Iran and European nations are buzzing over nuclear program and regional stability concerns."
-      },
-      {
-        "keywords": [
-          "Treasury Yield",
-          "Economy"
-        ],
-        "summary": "The 10-year treasury yield is buzzing as investors react to inflation data and Fed policy outlook."
-      },
-      {
-        "keywords": [
-          "Travel",
-          "Warning"
-        ],
-        "summary": "New travel warnings are buzzing due to geopolitical events and health advisories impacting global destinations."
-      }
-    ]
   },
   "market": {
     "indices": [
@@ -48,29 +15,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7714.79,
-        "changePct": 0.29941131808584437
+        "price": 7718.38,
+        "changePct": 0.3460846412264539
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26289.88,
-        "changePct": 0.0006466408340065058
+        "price": 26365.922,
+        "changePct": 0.2898928896515007
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6471.79,
-        "changePct": 0.05596637070454071
+        "price": 6444.46,
+        "changePct": -0.36656426779135426
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10728.18,
-        "changePct": 0.001304991405694031
+        "price": 10743.35,
+        "changePct": 0.1427101315804144
       },
       {
         "region": "Asia",
@@ -95,52 +62,43 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "My AI assistant just told me to subscribe to a premium AI assistant to manage my subscriptions.",
-      "explanation": "Funny because it's an absurd, recursive loop reflecting our reliance on tech to manage tech-induced problems."
-    },
-    "zh": {
-      "joke": "现在去餐厅，点菜前都会先问一句：这道菜里的‘健康’成分，是不是已经通过了‘好吃’委员会的审批？"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Fred Stone",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fred_A_Stone%2C_stage_actor_%28SAYRE_9102%29.jpg/330px-Fred_A_Stone%2C_stage_actor_%28SAYRE_9102%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (1873–1959)",
-        "extract": "Fred Andrew Stone was an American actor. Stone began his career as a performer in circuses and minstrel shows, went on to act in vaudeville, and became a star on Broadway and in feature films, which earned him a star on the Hollywood Walk of Fame.",
-        "born": 1873,
+        "name": "Lachlan Lewis",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lachlan_Lewis.jpg/330px-Lachlan_Lewis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian rugby league footballer (born 1996)",
+        "extract": "Lachlan Lewis is an Australian rugby league footballer who last played as a halfback or five-eighth for the Canterbury-Bankstown Bulldogs in the NRL.",
+        "born": 1996,
         "highlights": [
-          "American actor.",
-          "Star on Broadway and in feature films.",
-          "Earned a star on the Hollywood Walk of Fame."
+          "Australian rugby league footballer.",
+          "Played halfback or five-eighth.",
+          "Last played for Canterbury-Bankstown Bulldogs (NRL)."
         ]
       },
       {
-        "name": "Dennis Eichhorn",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dennis_Eichhorn.jpg/330px-Dennis_Eichhorn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American writer (1945–2015)",
-        "extract": "Dennis P. Eichhorn was an American writer, best known for his adult-oriented autobiographical comic book series Real Stuff. His stories, often involving sex, drugs, and alcohol, have been compared to those of Jack Kerouac, Ken Kesey, and Charles Bukowski.",
-        "born": 1945,
+        "name": "Patrick Chung",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Patrick_chung.jpg/330px-Patrick_chung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Jamaican-American gridiron football player (born 1987)",
+        "extract": "Patrick Christopher Chung is a Jamaican-American former professional football safety who played in the National Football League (NFL) for 12 seasons, primarily with the New England Patriots. He played college football for the Oregon Ducks and was selected in the second round of the 2009 NFL draft by the Patriots, where he spent 11 non-consecutive seasons. Chung was a member of the Philadelphia Eagles for one season in 2013 in between his Patriots tenure. A three-time Super Bowl winner with New England, Chung was named to the franchise's All-2010s Team and All-Dynasty Team in 2020.",
+        "born": 1987,
         "highlights": [
-          "American writer.",
-          "Best known for Real Stuff comic book series.",
-          "Stories compared to Kerouac, Kesey, Bukowski."
+          "Former NFL safety, primarily with New England Patriots.",
+          "Three-time Super Bowl winner with New England.",
+          "Named to Patriots' All-2010s and All-Dynasty Teams."
         ]
       },
       {
-        "name": "C. I. Scofield",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ScofieldCI.jpg/330px-ScofieldCI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American theologian, minister and writer (1843 – 1921)",
-        "extract": "Cyrus Ingerson Scofield was an American theologian, minister, and writer whose best-selling annotated Bible popularized futurism and dispensationalism among fundamentalist Christians.",
-        "born": 1843,
+        "name": "Satya Nadella",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/330px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Indian-American business executive (born 1967)",
+        "extract": "Satya Narayana Nadella is an Indian-American business executive. He is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
+        "born": 1967,
         "highlights": [
-          "American theologian, minister, and writer.",
-          "Best-selling annotated Bible popularized futurism.",
-          "Popularized dispensationalism among fundamentalist Christians."
+          "Chairman and CEO of Microsoft.",
+          "Became CEO in 2014, succeeding Steve Ballmer.",
+          "Became chairman in 2021, succeeding John W. Thompson."
         ]
       }
     ]
