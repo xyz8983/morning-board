@@ -1,45 +1,44 @@
 {
-  "generatedAt": "2026-08-18T19:24:53.789Z",
+  "generatedAt": "2026-08-19T13:42:49.709Z",
   "weather": {
     "location": "New York City",
-    "tempC": 28.9,
-    "condition": "Drizzle",
-    "code": 53,
-    "highC": 29.6,
-    "lowC": 22.3,
-    "rainChance": 21
+    "tempC": 25.2,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 31.3,
+    "lowC": 20.7,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Levski Sofia",
-          "AEK Match"
+          "MRVL",
+          "Stock"
         ],
-        "summary": "Why it's buzzing: Fans are anticipating or discussing the recent football match between Levski Sofia and AEK."
+        "summary": "Marvell Technology stock is buzzing due to recent earnings reports and market analyst upgrades."
       },
       {
         "keywords": [
-          "House Dragon",
-          "Season 3"
+          "Iran",
+          "Europe Relations"
         ],
-        "summary": "Why it's buzzing: Speculation and excitement are growing for the potential third season of House of the Dragon."
+        "summary": "Tensions between Iran and European nations are buzzing over nuclear program and regional stability concerns."
       },
       {
         "keywords": [
-          "Jordan Spieth",
-          "PGA Tour"
+          "Treasury Yield",
+          "Economy"
         ],
-        "summary": "Why it's buzzing: Jordan Spieth's recent comments on the PGA Tour are generating significant discussion."
+        "summary": "The 10-year treasury yield is buzzing as investors react to inflation data and Fed policy outlook."
       },
       {
         "keywords": [
-          "Azzi Fudd",
-          "Paige Bueckers",
-          "Documentary"
+          "Travel",
+          "Warning"
         ],
-        "summary": "Why it's buzzing: A new documentary featuring basketball stars Azzi Fudd and Paige Bueckers is creating buzz."
+        "summary": "New travel warnings are buzzing due to geopolitical events and health advisories impacting global destinations."
       }
     ]
   },
@@ -49,85 +48,100 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7700.23,
-        "changePct": -0.5788205643339216
+        "price": 7714.79,
+        "changePct": 0.29941131808584437
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26299.105,
-        "changePct": -1.2978276151054753
+        "price": 26289.88,
+        "changePct": 0.0006466408340065058
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6468.17,
-        "changePct": -0.953686193141357
+        "price": 6471.79,
+        "changePct": 0.05596637070454071
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10728.04,
-        "changePct": 0.0721994720297156
+        "price": 10728.18,
+        "changePct": 0.001304991405694031
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3990.304,
-        "changePct": 1.6073620256774648
+        "price": 3894.422,
+        "changePct": -2.2153089023640056
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4725.813,
-        "changePct": -0.3223936733642682
+        "price": 4588.6953,
+        "changePct": -2.9014729421717527
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25471.15,
-        "changePct": 1.410808701745454
+        "price": 25495.07,
+        "changePct": 0.1644979806075424
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My dating app profile says 'looking for something real,' but 'something real' often means explaining basic memes.",
-      "explanation": "It highlights the often superficial reality of online dating, where 'real' connections can be challenged by basic internet culture gaps."
+      "joke": "My AI assistant just told me to subscribe to a premium AI assistant to manage my subscriptions.",
+      "explanation": "Funny because it's an absurd, recursive loop reflecting our reliance on tech to manage tech-induced problems."
     },
     "zh": {
-      "joke": "我的人生理想，就是有一天能把所有社交平台的未读消息清零。这简直是信息时代下，个人精神秩序重建的里程碑式壮举。"
+      "joke": "现在去餐厅，点菜前都会先问一句：这道菜里的‘健康’成分，是不是已经通过了‘好吃’委员会的审批？"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sarah Dash",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sarah_Dash_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American singer (1945–2021)",
-        "extract": "Sarah Dash was an American singer. She first appeared on the music scene as a member of Patti LaBelle & The Bluebelles. Dash was later a member of Labelle, and worked as a singer, session musician, and sidewoman for The Rolling Stones, and Keith Richards.",
-        "born": 1945
+        "name": "Fred Stone",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fred_A_Stone%2C_stage_actor_%28SAYRE_9102%29.jpg/330px-Fred_A_Stone%2C_stage_actor_%28SAYRE_9102%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (1873–1959)",
+        "extract": "Fred Andrew Stone was an American actor. Stone began his career as a performer in circuses and minstrel shows, went on to act in vaudeville, and became a star on Broadway and in feature films, which earned him a star on the Hollywood Walk of Fame.",
+        "born": 1873,
+        "highlights": [
+          "American actor.",
+          "Star on Broadway and in feature films.",
+          "Earned a star on the Hollywood Walk of Fame."
+        ]
       },
       {
-        "name": "Roman Polanski",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_06.JPG/330px-2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Polish and French filmmaker (born 1933)",
-        "extract": "Raymond Roman Thierry Polański is a Polish and French filmmaker and actor. He is the recipient of numerous accolades, including an Academy Award, three British Academy Film Awards, ten César Awards, and two Golden Globe Awards as well as a Golden Bear and a Palme d'Or.",
-        "born": 1933
+        "name": "Dennis Eichhorn",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dennis_Eichhorn.jpg/330px-Dennis_Eichhorn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American writer (1945–2015)",
+        "extract": "Dennis P. Eichhorn was an American writer, best known for his adult-oriented autobiographical comic book series Real Stuff. His stories, often involving sex, drugs, and alcohol, have been compared to those of Jack Kerouac, Ken Kesey, and Charles Bukowski.",
+        "born": 1945,
+        "highlights": [
+          "American writer.",
+          "Best known for Real Stuff comic book series.",
+          "Stories compared to Kerouac, Kesey, Bukowski."
+        ]
       },
       {
-        "name": "Brook Taylor",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hans_Hysing_%281678-1753%29_%28attributed_to_studio_of%29_-_Brook_Taylor_%281685%E2%80%931731%29_-_RS.9685_-_Royal_Society.jpg/330px-Hans_Hysing_%281678-1753%29_%28attributed_to_studio_of%29_-_Brook_Taylor_%281685%E2%80%931731%29_-_RS.9685_-_Royal_Society.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English mathematician",
-        "extract": " Brook Taylor was an English mathematician and barrister best known for several results in mathematical analysis. Taylor's most famous developments are Taylor's theorem and the Taylor series, essential in the infinitesimal approach of functions in specific points.",
-        "born": 1685
+        "name": "C. I. Scofield",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ScofieldCI.jpg/330px-ScofieldCI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American theologian, minister and writer (1843 – 1921)",
+        "extract": "Cyrus Ingerson Scofield was an American theologian, minister, and writer whose best-selling annotated Bible popularized futurism and dispensationalism among fundamentalist Christians.",
+        "born": 1843,
+        "highlights": [
+          "American theologian, minister, and writer.",
+          "Best-selling annotated Bible popularized futurism.",
+          "Popularized dispensationalism among fundamentalist Christians."
+        ]
       }
     ]
   }
