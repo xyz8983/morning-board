@@ -1,13 +1,44 @@
 {
-  "generatedAt": "2026-08-19T19:21:49.415Z",
+  "generatedAt": "2026-08-20T13:45:18.294Z",
   "weather": {
     "location": "New York City",
-    "tempC": 31.3,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 31.5,
-    "lowC": 20.7,
-    "rainChance": 1
+    "tempC": 25.8,
+    "condition": "Heavy rain",
+    "code": 65,
+    "highC": 30.4,
+    "lowC": 18.1,
+    "rainChance": 89
+  },
+  "hotTopics": {
+    "headline": "Today's buzz",
+    "topics": [
+      {
+        "keywords": [
+          "Josh Charles"
+        ],
+        "summary": "Josh Charles is buzzing due to recent acting roles and public appearances."
+      },
+      {
+        "keywords": [
+          "Court TV",
+          "Streaming"
+        ],
+        "summary": "Court TV streaming is buzzing as it offers live coverage of high-profile legal trials."
+      },
+      {
+        "keywords": [
+          "Super El Niño",
+          "Climate 2026"
+        ],
+        "summary": "Super El Niño 2026 is buzzing due to predictions of its significant future global climate impact."
+      },
+      {
+        "keywords": [
+          "Jennifer Garner"
+        ],
+        "summary": "Jennifer Garner is buzzing for her recent projects and public engagements."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -15,90 +46,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7718.38,
-        "changePct": 0.3460846412264539
+        "price": 7694.38,
+        "changePct": -0.17644052008437303
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26365.922,
-        "changePct": 0.2898928896515007
+        "price": 26253.37,
+        "changePct": -0.2951643855229737
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6444.46,
-        "changePct": -0.36656426779135426
+        "price": 6419.72,
+        "changePct": -0.3838956250795223
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10743.35,
-        "changePct": 0.1427101315804144
+        "price": 10712.56,
+        "changePct": -0.28659589420432985
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3894.422,
-        "changePct": -2.2153089023640056
+        "price": 3903.721,
+        "changePct": -2.169736611282364
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4588.6953,
-        "changePct": -2.9014729421717527
+        "price": 4592.7505,
+        "changePct": 0.08837370395893983
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25495.07,
-        "changePct": 0.1644979806075424
+        "price": 25698.49,
+        "changePct": 0.8923411539307172
       }
     ]
+  },
+  "joke": {
+    "en": {
+      "joke": "I asked the AI to predict the future. It said, \"You will need to charge your phone.\"",
+      "explanation": "The humor is in the AI's mundane, obvious prediction, subverting the expectation of profound insight. It's deadpan and relatable."
+    },
+    "zh": {
+      "joke": "今天去健身房，教练问我目标是什么。我说，目标是让我的身体误以为我还在上学，因为坐着的时间比站着多。"
+    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Lachlan Lewis",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lachlan_Lewis.jpg/330px-Lachlan_Lewis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian rugby league footballer (born 1996)",
-        "extract": "Lachlan Lewis is an Australian rugby league footballer who last played as a halfback or five-eighth for the Canterbury-Bankstown Bulldogs in the NRL.",
-        "born": 1996,
+        "name": "Jacqueline Susann",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jacqueline_Susann_1951.jpg/330px-Jacqueline_Susann_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American novelist and actress (1918–1974)",
+        "extract": "Jacqueline Susann was an American novelist and actress. Her novel Valley of the Dolls (1966) is one of the best-selling books in publishing history. With her two subsequent works, The Love Machine (1969) and Once Is Not Enough (1973), Susann became the first author to have three novels top The New York Times Best Seller list consecutively.",
+        "born": 1918,
         "highlights": [
-          "Australian rugby league footballer.",
-          "Played halfback or five-eighth.",
-          "Last played for Canterbury-Bankstown Bulldogs (NRL)."
+          "American novelist and actress.",
+          "Valley of the Dolls is a best-selling book.",
+          "First author with three consecutive NYT bestsellers."
         ]
       },
       {
-        "name": "Patrick Chung",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Patrick_chung.jpg/330px-Patrick_chung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Jamaican-American gridiron football player (born 1987)",
-        "extract": "Patrick Christopher Chung is a Jamaican-American former professional football safety who played in the National Football League (NFL) for 12 seasons, primarily with the New England Patriots. He played college football for the Oregon Ducks and was selected in the second round of the 2009 NFL draft by the Patriots, where he spent 11 non-consecutive seasons. Chung was a member of the Philadelphia Eagles for one season in 2013 in between his Patriots tenure. A three-time Super Bowl winner with New England, Chung was named to the franchise's All-2010s Team and All-Dynasty Team in 2020.",
-        "born": 1987,
+        "name": "Mufaddal Saifuddin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Syedna_Mufaddal_Saifuddin.jpg/330px-Syedna_Mufaddal_Saifuddin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "53rd Da'i al-Mutlaq of the Dawoodi Bohra",
+        "extract": "Mufaddal Saifuddin is the 53rd al-Dai al-Mutlaq and leader of the Dawoodi Bohra community, a Tayyibi, Musta'li, Ismaili, Shia Muslim denomination. He succeeded his father, Syedna Mohammed Burhanuddin, upon the latter’s death in January 2014.",
+        "born": 1946,
         "highlights": [
-          "Former NFL safety, primarily with New England Patriots.",
-          "Three-time Super Bowl winner with New England.",
-          "Named to Patriots' All-2010s and All-Dynasty Teams."
+          "53rd al-Dai al-Mutlaq.",
+          "Leader of the Dawoodi Bohra community.",
+          "Succeeded his father in January 2014."
         ]
       },
       {
-        "name": "Satya Nadella",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/330px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Indian-American business executive (born 1967)",
-        "extract": "Satya Narayana Nadella is an Indian-American business executive. He is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
-        "born": 1967,
+        "name": "Roger Gale",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Official_portrait_of_Roger_Gale_MP%2C_2026_%28cropped%29.jpg/330px-Official_portrait_of_Roger_Gale_MP%2C_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British Conservative politician",
+        "extract": "Sir Roger James Gale is a British Conservative Party politician who has served as Member of Parliament (MP) for Herne Bay and Sandwich, previously North Thanet, since 1983. He had a career in journalism and broadcasting from 1964, around the same time as he joined the Conservative Party, until 1983.",
+        "born": 1943,
         "highlights": [
-          "Chairman and CEO of Microsoft.",
-          "Became CEO in 2014, succeeding Steve Ballmer.",
-          "Became chairman in 2021, succeeding John W. Thompson."
+          "British Conservative Party politician.",
+          "Served as Member of Parliament since 1983.",
+          "Had a career in journalism and broadcasting."
         ]
       }
     ]
