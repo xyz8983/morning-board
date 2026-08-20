@@ -1,44 +1,13 @@
 {
-  "generatedAt": "2026-08-20T13:45:18.294Z",
+  "generatedAt": "2026-08-20T19:28:58.382Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.8,
+    "tempC": 26.9,
     "condition": "Heavy rain",
     "code": 65,
-    "highC": 30.4,
-    "lowC": 18.1,
-    "rainChance": 89
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "Josh Charles"
-        ],
-        "summary": "Josh Charles is buzzing due to recent acting roles and public appearances."
-      },
-      {
-        "keywords": [
-          "Court TV",
-          "Streaming"
-        ],
-        "summary": "Court TV streaming is buzzing as it offers live coverage of high-profile legal trials."
-      },
-      {
-        "keywords": [
-          "Super El Niño",
-          "Climate 2026"
-        ],
-        "summary": "Super El Niño 2026 is buzzing due to predictions of its significant future global climate impact."
-      },
-      {
-        "keywords": [
-          "Jennifer Garner"
-        ],
-        "summary": "Jennifer Garner is buzzing for her recent projects and public engagements."
-      }
-    ]
+    "highC": 28.7,
+    "lowC": 20.4,
+    "rainChance": 94
   },
   "market": {
     "indices": [
@@ -46,29 +15,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7694.38,
-        "changePct": -0.17644052008437303
+        "price": 7654.43,
+        "changePct": -0.6947345478322372
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26253.37,
-        "changePct": -0.2951643855229737
+        "price": 26088.64,
+        "changePct": -0.9207746432069495
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6419.72,
-        "changePct": -0.3838956250795223
+        "price": 6422.06,
+        "changePct": -0.34758536789738215
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10712.56,
-        "changePct": -0.28659589420432985
+        "price": 10748.16,
+        "changePct": 0.04477188214104065
       },
       {
         "region": "Asia",
@@ -95,50 +64,48 @@
   },
   "joke": {
     "en": {
-      "joke": "I asked the AI to predict the future. It said, \"You will need to charge your phone.\"",
-      "explanation": "The humor is in the AI's mundane, obvious prediction, subverting the expectation of profound insight. It's deadpan and relatable."
+      "joke": "I asked ChatGPT for dating advice. It suggested I optimize my profile for 'maximum conversion rates.' I'm now pretty sure I'm a product.",
+      "explanation": "It's funny because it applies dehumanizing business/tech jargon to human connection, highlighting the absurd reality of modern dating apps and AI."
     },
     "zh": {
-      "joke": "今天去健身房，教练问我目标是什么。我说，目标是让我的身体误以为我还在上学，因为坐着的时间比站着多。"
+      "joke": "关于我为何总在深夜思考人生：这是我一天中唯一能保证无人打扰，且没有KPI压力的“战略规划会议”时间。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jacqueline Susann",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jacqueline_Susann_1951.jpg/330px-Jacqueline_Susann_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American novelist and actress (1918–1974)",
-        "extract": "Jacqueline Susann was an American novelist and actress. Her novel Valley of the Dolls (1966) is one of the best-selling books in publishing history. With her two subsequent works, The Love Machine (1969) and Once Is Not Enough (1973), Susann became the first author to have three novels top The New York Times Best Seller list consecutively.",
-        "born": 1918,
+        "name": "Egon Kaur",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Egon_Kaur_Rally_Estonia_2023.jpg/330px-Egon_Kaur_Rally_Estonia_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Estonian rally driver (born 1987)",
+        "extract": "Egon Kaur is an Estonian rally driver.",
+        "born": 1987,
         "highlights": [
-          "American novelist and actress.",
-          "Valley of the Dolls is a best-selling book.",
-          "First author with three consecutive NYT bestsellers."
+          "Estonian rally driver."
         ]
       },
       {
-        "name": "Mufaddal Saifuddin",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Syedna_Mufaddal_Saifuddin.jpg/330px-Syedna_Mufaddal_Saifuddin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "53rd Da'i al-Mutlaq of the Dawoodi Bohra",
-        "extract": "Mufaddal Saifuddin is the 53rd al-Dai al-Mutlaq and leader of the Dawoodi Bohra community, a Tayyibi, Musta'li, Ismaili, Shia Muslim denomination. He succeeded his father, Syedna Mohammed Burhanuddin, upon the latter’s death in January 2014.",
-        "born": 1946,
+        "name": "Eero Saarinen",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eero-Saarinen_%28cropped%29.jpg/330px-Eero-Saarinen_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American architect (1910–1961)",
+        "extract": "Eero Saarinen was a Finnish-American architect and industrial designer. Saarinen's work includes the General Motors Technical Center, the Dulles International Airport Main Terminal, the TWA Flight Center at John F. Kennedy International Airport, the Vivian Beaumont Theater at Lincoln Center, the Gateway Arch, and the IBM Thomas J. Watson Research Center. During his career, Saarinen was elected a Fellow of the American Institute of Architects and served on the National Institute of Arts and Letters.",
+        "born": 1910,
         "highlights": [
-          "53rd al-Dai al-Mutlaq.",
-          "Leader of the Dawoodi Bohra community.",
-          "Succeeded his father in January 2014."
+          "Finnish-American architect and industrial designer.",
+          "Designed the Gateway Arch.",
+          "Designed Dulles International Airport Main Terminal."
         ]
       },
       {
-        "name": "Roger Gale",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Official_portrait_of_Roger_Gale_MP%2C_2026_%28cropped%29.jpg/330px-Official_portrait_of_Roger_Gale_MP%2C_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British Conservative politician",
-        "extract": "Sir Roger James Gale is a British Conservative Party politician who has served as Member of Parliament (MP) for Herne Bay and Sandwich, previously North Thanet, since 1983. He had a career in journalism and broadcasting from 1964, around the same time as he joined the Conservative Party, until 1983.",
-        "born": 1943,
+        "name": "Bunty Afoa",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bunty_Afoa_Warriors.jpg/330px-Bunty_Afoa_Warriors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Samoan rugby league footballer",
+        "extract": "Iulio \"Bunty\" Afoa is a Samoan international rugby league footballer who plays for the Wests Tigers in the National Rugby League (NRL).",
+        "born": 1996,
         "highlights": [
-          "British Conservative Party politician.",
-          "Served as Member of Parliament since 1983.",
-          "Had a career in journalism and broadcasting."
+          "Samoan international rugby league footballer.",
+          "Plays for the Wests Tigers.",
+          "Plays in the National Rugby League (NRL)."
         ]
       }
     ]
