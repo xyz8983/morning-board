@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-21T13:43:50.448Z",
+  "generatedAt": "2026-08-21T19:23:12.483Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 24.4,
+    "tempC": 24.6,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 24.9,
     "lowC": 17.7,
     "rainChance": 33
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "NYT Games",
-          "Word Puzzles"
+          "Democratic Socialists",
+          "DSA"
         ],
-        "summary": "NYT Games are buzzing due to their engaging daily word puzzles like Wordle and Connections."
+        "summary": "Why it's buzzing: The Democratic Socialists of America are gaining attention for their progressive political activism."
       },
       {
         "keywords": [
-          "Andrew Haden",
-          "Content Creator"
+          "NBC Sports",
+          "Streaming"
         ],
-        "summary": "Andrew Haden is buzzing for his viral short-form video content and relatable humor."
+        "summary": "Why it's buzzing: NBC Sports is a popular destination for live sports streaming and broadcast coverage."
       },
       {
         "keywords": [
-          "Current Events",
-          "Global News"
+          "FotMob",
+          "Live Scores"
         ],
-        "summary": "Current events are always buzzing as people seek to stay informed on global and local happenings."
+        "summary": "Why it's buzzing: FotMob is a highly-rated app providing real-time football scores, stats, and news."
       },
       {
         "keywords": [
-          "Tesla Autopilot",
-          "Self-driving Tech"
+          "Cyberpunk 2077",
+          "Game Update"
         ],
-        "summary": "Tesla Autopilot is buzzing due to ongoing debates about its safety and advanced features."
+        "summary": "Why it's buzzing: Cyberpunk 2077 is seeing renewed interest due to recent game updates and expansions."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7667.56,
-        "changePct": 0.34549728051762485
+        "price": 7679.78,
+        "changePct": 0.5054206429390288
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26116.906,
-        "changePct": 0.19081475907276596
+        "price": 26187.26,
+        "changePct": 0.46070984471421755
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6454.98,
-        "changePct": 0.5126081039417127
+        "price": 6462.22,
+        "changePct": 0.6253445156227107
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10794.04,
-        "changePct": 0.4268637608669858
+        "price": 10816.56,
+        "changePct": 0.6363879957127512
       },
       {
         "region": "Asia",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone's low battery warning is just my mental health check-in for the day.",
-      "explanation": "It's a deadpan observation that our digital dependence often mirrors our internal state, highlighting modern anxiety with dark humor."
+      "joke": "My phone's weekly 'screen time' report is starting to feel less like data and more like a personal attack.",
+      "explanation": "This joke personifies the screen time report, highlighting the common, often embarrassing, realization of how much time we spend on our phones."
     },
     "zh": {
-      "joke": "为了提升工作效率，我决定每天在正式开始摸鱼前，先进行五分钟的冥想，确保每一次摸鱼都能高质量完成。"
+      "joke": "健身房里最能坚持的，除了私教，就是那群买了年卡但从来没来过的人。他们的坚持在于，永不踏入。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Ahmed Kathrada",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kathrada_coons_crop.jpg/330px-Kathrada_coons_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South African politician (1929–2017)",
-        "extract": "Ahmed Mohamed Kathrada OMSG, sometimes known by the nickname \"Kathy\", was a South African politician and anti-apartheid activist.",
-        "born": 1929,
+        "name": "Janet Baker",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Janet_Baker_%281967%29.jpg/330px-Janet_Baker_%281967%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English mezzo-soprano (born 1933)",
+        "extract": "Dame Janet Abbott Baker is an English mezzo-soprano best known as an opera, concert, and lieder singer.",
+        "born": 1933,
         "highlights": [
-          "South African politician.",
-          "Anti-apartheid activist.",
-          "Known by the nickname \"Kathy\"."
+          "English mezzo-soprano singer.",
+          "Best known for opera.",
+          "Also a concert and lieder singer."
         ]
       },
       {
-        "name": "William Murdoch",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/William_Murdoch_%281754-1839%29.jpg/330px-William_Murdoch_%281754-1839%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Scottish engineer and inventor (1754–1839)",
-        "extract": "William Murdoch was a Scottish chemist, inventor, and mechanical engineer.",
-        "born": 1754,
+        "name": "Robert Harvey (footballer)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Robert_Harvey.jpg/330px-Robert_Harvey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian rules footballer, born 1971",
+        "extract": "Robert Jeffrey Harvey is an Australian rules football coach and former player. He is currently an assistant coach for the St Kilda Football Club in the Australian Football League (AFL). As a player, he played his entire career with St Kilda in the AFL. Following retirement, Harvey embarked on a career in assistant coaching which has spanned across three decades, highlighted by a nine-game stint as caretaker head coach of the Collingwood Football Club in 2021.",
+        "born": 1971,
         "highlights": [
-          "Scottish chemist.",
-          "Inventor.",
-          "Mechanical engineer."
+          "Australian rules football coach and former player.",
+          "Played entire career with St Kilda in AFL.",
+          "Caretaker head coach for Collingwood Football Club in 2021."
         ]
       },
       {
-        "name": "Frank Pastore",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/1978_Nashville_Frank_Pastore.jpg/330px-1978_Nashville_Frank_Pastore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player (1957–2012)",
-        "extract": "Frank Enrico Pastore was an American Major League Baseball player and radio host. He pitched for the Cincinnati Reds from 1979 until 1985 and for the Minnesota Twins in 1986, and was in the Texas Rangers organization in 1987.",
-        "born": 1957,
+        "name": "Peter Weir",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PeterWeirApr2011.jpg/330px-PeterWeirApr2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian filmmaker (born 1944)",
+        "extract": "Peter Lindsay Weir is an Australian retired film director, screenwriter, and producer. He directed films crossing various genres over forty years, such as Homesdale (1971), Picnic at Hanging Rock (1975), The Plumber (1979), Gallipoli (1981), The Year of Living Dangerously (1982), Witness (1985), The Mosquito Coast (1986), Dead Poets Society (1989), Fearless (1993), The Truman Show (1998), Master and Commander: The Far Side of the World (2003), and The Way Back (2010). He has received six Academy Award nominations and he has won two AACTA Award for Best Direction and two BAFTA Award for Best Direction. In 2022, he was awarded the Academy Honorary Award for his lifetime career achievement. In 2024, he received an honorary life-time achievement award at the Venice Film Festival.",
+        "born": 1944,
         "highlights": [
-          "American Major League Baseball player.",
-          "Pitched for the Cincinnati Reds.",
-          "Radio host."
+          "Australian retired film director, screenwriter, and producer.",
+          "Directed films like \"The Truman Show\" and \"Dead Poets Society\".",
+          "Received Academy Honorary Award in 2022."
         ]
       }
     ]
