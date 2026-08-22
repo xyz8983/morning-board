@@ -1,44 +1,41 @@
 {
-  "generatedAt": "2026-08-22T13:31:29.997Z",
+  "generatedAt": "2026-08-22T19:20:07.298Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.6,
+    "tempC": 23.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 23.5,
+    "highC": 23.7,
     "lowC": 19.4,
-    "rainChance": 10
+    "rainChance": 13
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Everton",
-          "Palace"
+          "Tyanthony Smith"
         ],
-        "summary": "Everton vs Palace is buzzing due to a recent or anticipated football match."
+        "summary": "Tyanthony Smith is buzzing due to recent social media activity and viral content."
       },
       {
         "keywords": [
-          "Nottm Forest",
-          "Leeds"
+          "Reno Fire",
+          "Wildfire"
         ],
-        "summary": "Nottm Forest vs Leeds is buzzing due to a recent or anticipated football match."
+        "summary": "Reno fire is buzzing as emergency services respond to a significant blaze near the city."
       },
       {
         "keywords": [
-          "Preston",
-          "Wolves"
+          "Nolan Teasley"
         ],
-        "summary": "Preston vs Wolves is buzzing due to a recent or anticipated football match."
+        "summary": "Nolan Teasley is buzzing due to recent athletic achievements and public recognition."
       },
       {
         "keywords": [
-          "Ipswich Town",
-          "Sunderland"
+          "Nathaniel Brown"
         ],
-        "summary": "Ipswich Town vs Sunderland is buzzing due to a recent or anticipated football match."
+        "summary": "Nathaniel Brown is buzzing following new developments in a high-profile local case."
       }
     ]
   },
@@ -76,8 +73,8 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3905.203,
-        "changePct": 0.03798940497782051
+        "price": 3905.2,
+        "changePct": 0.03791255520375483
       },
       {
         "region": "Asia",
@@ -97,50 +94,49 @@
   },
   "joke": {
     "en": {
-      "joke": "My smart speaker just told me to 'seek professional help' after I asked it to organize my life.",
-      "explanation": "It's funny because it subverts the expectation of a helpful AI, implying even technology finds modern life overwhelming."
+      "joke": "My brain is 90% song lyrics I heard once and 10% trying to recall my password.",
+      "explanation": "A relatable, self-deprecating observation on how modern memory prioritizes trivial information over essential digital details like passwords."
     },
     "zh": {
-      "joke": "最新研究表明，咖啡真正的提神效果，其实来自你看到账单那一刻的心跳加速。"
+      "joke": "我已经完成了今日份的碳水摄入，接下来将进入蛋白质与脂肪的战略性部署阶段。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jean Regnault de Segrais",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jean_Renaud_de_Segrais.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "French poet and novelist (1624-1701)",
-        "extract": "Jean Regnault de Segrais was a French poet and novelist born in Caen. He was elected a member of the Académie française in 1662.",
-        "born": 1624,
+        "name": "Paul Molitor",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paul_Molitor_white_house.jpg/330px-Paul_Molitor_white_house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball player and manager (born 1956)",
+        "extract": "Paul Leo Molitor, nicknamed \"Mollie\" and \"the Ignitor\", is an American former professional baseball player and manager. During his 21-year playing career in Major League Baseball (MLB), he played for the Milwaukee Brewers (1978–1992), Toronto Blue Jays (1993–1995), and Minnesota Twins (1996–1998). He was known for his exceptional hitting and speed. He made seven All-Star Game appearances, and was the World Series Most Valuable Player in 1993. Molitor ranks tenth on the all-time MLB career hits list with 3,319. He is one of only five players in history with 3,000+ hits, a lifetime .300+ batting average, and 500+ career stolen bases.",
+        "born": 1956,
         "highlights": [
-          "French poet.",
-          "French novelist.",
-          "Elected to the Académie française in 1662."
+          "World Series Most Valuable Player in 1993.",
+          "Ranks tenth on all-time MLB career hits list.",
+          "One of five players with 3,000+ hits, .300+ average."
         ]
       },
       {
-        "name": "David Marks",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/David_Marks_2019_2_by_Glenn_Francis.jpg/330px-David_Marks_2019_2_by_Glenn_Francis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American guitarist (born 1948)",
-        "extract": "David Lee Marks is an American guitarist who was an early and latter-era member of the Beach Boys. While growing up in Hawthorne, California, Marks was a neighborhood friend of the original band members and was a frequent participant at their family get-togethers. Following his departure from the group, Marks fronted the Marksmen and performed and recorded as a session musician.",
-        "born": 1948,
+        "name": "Archibald Willard",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Archibald_Willard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American painter",
+        "extract": "Archibald MacNeal Willard was an American painter who was born and raised in Bedford, Ohio. His most famous work is \"The Spirit of '76\".",
+        "born": 1836,
         "highlights": [
-          "Early and latter-era member of the Beach Boys.",
-          "Fronted the band The Marksmen.",
-          "Performed and recorded as a session musician."
+          "American painter.",
+          "Famous for his work \"The Spirit of '76\"."
         ]
       },
       {
-        "name": "Christina Obergföll",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20150726_1723_DM_Leichtathletik_Frauen_Speerwurf_1480.jpg/330px-20150726_1723_DM_Leichtathletik_Frauen_Speerwurf_1480.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German javelin thrower",
-        "extract": "Christina Obergföll is a retired German track and field athlete who competed in the javelin throw. She was World Champion in 2013. Her personal best throw of 70.20 m is the German record. It also ranks her fifth on the overall list.",
-        "born": 1981,
+        "name": "Olli Määttä",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Olli_Maatta_2017-10-04.jpg/330px-Olli_Maatta_2017-10-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Finnish ice hockey player (born 1994)",
+        "extract": "Olli Määttä is a Finnish professional ice hockey player who is a defenceman for the Minnesota Wild of the National Hockey League (NHL). He was drafted in the first round, 22nd overall, by the Pittsburgh Penguins in the 2012 NHL entry draft. Määttä has also played for the Chicago Blackhawks, Los Angeles Kings, Detroit Red Wings, Utah Mammoth, and Calgary Flames.",
+        "born": 1994,
         "highlights": [
-          "Retired German javelin throw athlete.",
-          "World Champion in javelin throw (2013).",
-          "Holds German record for javelin throw (70.20 m)."
+          "Finnish professional ice hockey player.",
+          "Defenceman for the Minnesota Wild (NHL).",
+          "Drafted 22nd overall by Pittsburgh Penguins in 2012."
         ]
       }
     ]
