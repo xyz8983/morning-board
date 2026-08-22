@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-21T19:23:12.483Z",
+  "generatedAt": "2026-08-22T13:31:29.997Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.6,
+    "tempC": 21.6,
     "condition": "Overcast",
     "code": 3,
-    "highC": 24.9,
-    "lowC": 17.7,
-    "rainChance": 33
+    "highC": 23.5,
+    "lowC": 19.4,
+    "rainChance": 10
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Democratic Socialists",
-          "DSA"
+          "Everton",
+          "Palace"
         ],
-        "summary": "Why it's buzzing: The Democratic Socialists of America are gaining attention for their progressive political activism."
+        "summary": "Everton vs Palace is buzzing due to a recent or anticipated football match."
       },
       {
         "keywords": [
-          "NBC Sports",
-          "Streaming"
+          "Nottm Forest",
+          "Leeds"
         ],
-        "summary": "Why it's buzzing: NBC Sports is a popular destination for live sports streaming and broadcast coverage."
+        "summary": "Nottm Forest vs Leeds is buzzing due to a recent or anticipated football match."
       },
       {
         "keywords": [
-          "FotMob",
-          "Live Scores"
+          "Preston",
+          "Wolves"
         ],
-        "summary": "Why it's buzzing: FotMob is a highly-rated app providing real-time football scores, stats, and news."
+        "summary": "Preston vs Wolves is buzzing due to a recent or anticipated football match."
       },
       {
         "keywords": [
-          "Cyberpunk 2077",
-          "Game Update"
+          "Ipswich Town",
+          "Sunderland"
         ],
-        "summary": "Why it's buzzing: Cyberpunk 2077 is seeing renewed interest due to recent game updates and expansions."
+        "summary": "Ipswich Town vs Sunderland is buzzing due to a recent or anticipated football match."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7679.78,
-        "changePct": 0.5054206429390288
+        "price": 7674.37,
+        "changePct": 0.43461987446932193
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26187.26,
-        "changePct": 0.46070984471421755
+        "price": 26180.455,
+        "changePct": 0.4346042066866827
       },
       {
         "region": "Europe",
@@ -70,14 +70,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10816.56,
-        "changePct": 0.6363879957127512
+        "changePct": 0.6360134720232109
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3905.203,
-        "changePct": 0.27688333564432965
+        "changePct": 0.03798940497782051
       },
       {
         "region": "Asia",
@@ -91,56 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 26009.46,
-        "changePct": 2.0174857129409203
+        "changePct": 1.2100317139132601
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone's weekly 'screen time' report is starting to feel less like data and more like a personal attack.",
-      "explanation": "This joke personifies the screen time report, highlighting the common, often embarrassing, realization of how much time we spend on our phones."
+      "joke": "My smart speaker just told me to 'seek professional help' after I asked it to organize my life.",
+      "explanation": "It's funny because it subverts the expectation of a helpful AI, implying even technology finds modern life overwhelming."
     },
     "zh": {
-      "joke": "健身房里最能坚持的，除了私教，就是那群买了年卡但从来没来过的人。他们的坚持在于，永不踏入。"
+      "joke": "最新研究表明，咖啡真正的提神效果，其实来自你看到账单那一刻的心跳加速。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Janet Baker",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Janet_Baker_%281967%29.jpg/330px-Janet_Baker_%281967%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English mezzo-soprano (born 1933)",
-        "extract": "Dame Janet Abbott Baker is an English mezzo-soprano best known as an opera, concert, and lieder singer.",
-        "born": 1933,
+        "name": "Jean Regnault de Segrais",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jean_Renaud_de_Segrais.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "French poet and novelist (1624-1701)",
+        "extract": "Jean Regnault de Segrais was a French poet and novelist born in Caen. He was elected a member of the Académie française in 1662.",
+        "born": 1624,
         "highlights": [
-          "English mezzo-soprano singer.",
-          "Best known for opera.",
-          "Also a concert and lieder singer."
+          "French poet.",
+          "French novelist.",
+          "Elected to the Académie française in 1662."
         ]
       },
       {
-        "name": "Robert Harvey (footballer)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Robert_Harvey.jpg/330px-Robert_Harvey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian rules footballer, born 1971",
-        "extract": "Robert Jeffrey Harvey is an Australian rules football coach and former player. He is currently an assistant coach for the St Kilda Football Club in the Australian Football League (AFL). As a player, he played his entire career with St Kilda in the AFL. Following retirement, Harvey embarked on a career in assistant coaching which has spanned across three decades, highlighted by a nine-game stint as caretaker head coach of the Collingwood Football Club in 2021.",
-        "born": 1971,
+        "name": "David Marks",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/David_Marks_2019_2_by_Glenn_Francis.jpg/330px-David_Marks_2019_2_by_Glenn_Francis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American guitarist (born 1948)",
+        "extract": "David Lee Marks is an American guitarist who was an early and latter-era member of the Beach Boys. While growing up in Hawthorne, California, Marks was a neighborhood friend of the original band members and was a frequent participant at their family get-togethers. Following his departure from the group, Marks fronted the Marksmen and performed and recorded as a session musician.",
+        "born": 1948,
         "highlights": [
-          "Australian rules football coach and former player.",
-          "Played entire career with St Kilda in AFL.",
-          "Caretaker head coach for Collingwood Football Club in 2021."
+          "Early and latter-era member of the Beach Boys.",
+          "Fronted the band The Marksmen.",
+          "Performed and recorded as a session musician."
         ]
       },
       {
-        "name": "Peter Weir",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PeterWeirApr2011.jpg/330px-PeterWeirApr2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian filmmaker (born 1944)",
-        "extract": "Peter Lindsay Weir is an Australian retired film director, screenwriter, and producer. He directed films crossing various genres over forty years, such as Homesdale (1971), Picnic at Hanging Rock (1975), The Plumber (1979), Gallipoli (1981), The Year of Living Dangerously (1982), Witness (1985), The Mosquito Coast (1986), Dead Poets Society (1989), Fearless (1993), The Truman Show (1998), Master and Commander: The Far Side of the World (2003), and The Way Back (2010). He has received six Academy Award nominations and he has won two AACTA Award for Best Direction and two BAFTA Award for Best Direction. In 2022, he was awarded the Academy Honorary Award for his lifetime career achievement. In 2024, he received an honorary life-time achievement award at the Venice Film Festival.",
-        "born": 1944,
+        "name": "Christina Obergföll",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20150726_1723_DM_Leichtathletik_Frauen_Speerwurf_1480.jpg/330px-20150726_1723_DM_Leichtathletik_Frauen_Speerwurf_1480.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German javelin thrower",
+        "extract": "Christina Obergföll is a retired German track and field athlete who competed in the javelin throw. She was World Champion in 2013. Her personal best throw of 70.20 m is the German record. It also ranks her fifth on the overall list.",
+        "born": 1981,
         "highlights": [
-          "Australian retired film director, screenwriter, and producer.",
-          "Directed films like \"The Truman Show\" and \"Dead Poets Society\".",
-          "Received Academy Honorary Award in 2022."
+          "Retired German javelin throw athlete.",
+          "World Champion in javelin throw (2013).",
+          "Holds German record for javelin throw (70.20 m)."
         ]
       }
     ]
