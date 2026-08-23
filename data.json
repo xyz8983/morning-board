@@ -1,41 +1,44 @@
 {
-  "generatedAt": "2026-08-22T19:20:07.298Z",
+  "generatedAt": "2026-08-23T13:31:43.583Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.5,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 23.7,
-    "lowC": 19.4,
-    "rainChance": 13
+    "tempC": 22.3,
+    "condition": "Rain showers",
+    "code": 81,
+    "highC": 25.4,
+    "lowC": 19.5,
+    "rainChance": 52
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Tyanthony Smith"
+          "Liverpool FC",
+          "Football"
         ],
-        "summary": "Tyanthony Smith is buzzing due to recent social media activity and viral content."
+        "summary": "Liverpool FC is buzzing due to recent match results and transfer rumors."
       },
       {
         "keywords": [
-          "Reno Fire",
-          "Wildfire"
+          "Isack Hadjar",
+          "F2 Racing"
         ],
-        "summary": "Reno fire is buzzing as emergency services respond to a significant blaze near the city."
+        "summary": "Isack Hadjar is buzzing after impressive performances in recent Formula 2 races."
       },
       {
         "keywords": [
-          "Nolan Teasley"
+          "Sling TV",
+          "Streaming"
         ],
-        "summary": "Nolan Teasley is buzzing due to recent athletic achievements and public recognition."
+        "summary": "Sling TV is buzzing with new channel additions and competitive streaming bundles."
       },
       {
         "keywords": [
-          "Nathaniel Brown"
+          "John Stones",
+          "Man City"
         ],
-        "summary": "Nathaniel Brown is buzzing following new developments in a high-profile local case."
+        "summary": "John Stones is buzzing following key defensive plays for Manchester City."
       }
     ]
   },
@@ -67,14 +70,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10816.56,
-        "changePct": 0.6360134720232109
+        "changePct": 0.6363879957127512
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3905.2,
-        "changePct": 0.03791255520375483
+        "price": 3905.203,
+        "changePct": 0.037963778661435355
       },
       {
         "region": "Asia",
@@ -88,55 +91,54 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 26009.46,
-        "changePct": 1.2100317139132601
+        "changePct": 1.210071097562532
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My brain is 90% song lyrics I heard once and 10% trying to recall my password.",
-      "explanation": "A relatable, self-deprecating observation on how modern memory prioritizes trivial information over essential digital details like passwords."
+      "joke": "My streaming service just recommended a show I finished last week. Truly, it understands me on a spiritual level.",
+      "explanation": "It's sarcastic about algorithms' poor personalization, highlighting a common, relatable frustration with modern tech."
     },
     "zh": {
-      "joke": "我已经完成了今日份的碳水摄入，接下来将进入蛋白质与脂肪的战略性部署阶段。"
+      "joke": "经过慎重考量，我决定今天中午继续执行“外卖随机盲盒”策略，以应对日益复杂的饮食决策挑战。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Paul Molitor",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paul_Molitor_white_house.jpg/330px-Paul_Molitor_white_house.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player and manager (born 1956)",
-        "extract": "Paul Leo Molitor, nicknamed \"Mollie\" and \"the Ignitor\", is an American former professional baseball player and manager. During his 21-year playing career in Major League Baseball (MLB), he played for the Milwaukee Brewers (1978–1992), Toronto Blue Jays (1993–1995), and Minnesota Twins (1996–1998). He was known for his exceptional hitting and speed. He made seven All-Star Game appearances, and was the World Series Most Valuable Player in 1993. Molitor ranks tenth on the all-time MLB career hits list with 3,319. He is one of only five players in history with 3,000+ hits, a lifetime .300+ batting average, and 500+ career stolen bases.",
-        "born": 1956,
+        "name": "Valeria Lukyanova",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Valeria_Lukyanova_%28cropped%29.jpg/330px-Valeria_Lukyanova_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Ukrainian model (born 1985)",
+        "extract": "Valeria Valeryevna Lukyanova is a Ukrainian model best known for her resemblance to a Barbie doll. She currently has property in Mexico and lives in Moscow. To enhance the Barbie effect Lukyanova uses makeup and contact lenses over her naturally green/gray/blue eyes. She has stated that she has had breast implants, but that the rest of her body is natural and slender due to daily gym workouts and a particular diet.",
+        "born": 1985,
         "highlights": [
-          "World Series Most Valuable Player in 1993.",
-          "Ranks tenth on all-time MLB career hits list.",
-          "One of five players with 3,000+ hits, .300+ average."
+          "Ukrainian model known for Barbie doll resemblance.",
+          "Uses makeup and contact lenses for Barbie effect.",
+          "Stated she has had breast implants."
         ]
       },
       {
-        "name": "Archibald Willard",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Archibald_Willard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American painter",
-        "extract": "Archibald MacNeal Willard was an American painter who was born and raised in Bedford, Ohio. His most famous work is \"The Spirit of '76\".",
-        "born": 1836,
+        "name": "Moritz Cantor",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Moritz_Cantor_%28HeidICON_28790%29_%28cropped%29.jpg/330px-Moritz_Cantor_%28HeidICON_28790%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German historian of mathematics",
+        "extract": "Moritz Benedikt Cantor was a German historian of mathematics.",
+        "born": 1829,
         "highlights": [
-          "American painter.",
-          "Famous for his work \"The Spirit of '76\"."
+          "German historian of mathematics."
         ]
       },
       {
-        "name": "Olli Määttä",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Olli_Maatta_2017-10-04.jpg/330px-Olli_Maatta_2017-10-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Finnish ice hockey player (born 1994)",
-        "extract": "Olli Määttä is a Finnish professional ice hockey player who is a defenceman for the Minnesota Wild of the National Hockey League (NHL). He was drafted in the first round, 22nd overall, by the Pittsburgh Penguins in the 2012 NHL entry draft. Määttä has also played for the Chicago Blackhawks, Los Angeles Kings, Detroit Red Wings, Utah Mammoth, and Calgary Flames.",
-        "born": 1994,
+        "name": "Peter Thomson (golfer)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Peter_Thomson_-_Australian_golfer.jpg/330px-Peter_Thomson_-_Australian_golfer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian professional golfer (1929–2018)",
+        "extract": "Peter William Thomson was an Australian professional golfer, often cited as the greatest and most successful golfer in Australian golf history. In the late 1940s, Thomson turned professional and immediately had success on the Australasian circuits, then posted his first international win at the 1950 New Zealand Open followed by the 1951 Australian Open.",
+        "born": 1929,
         "highlights": [
-          "Finnish professional ice hockey player.",
-          "Defenceman for the Minnesota Wild (NHL).",
-          "Drafted 22nd overall by Pittsburgh Penguins in 2012."
+          "Greatest and most successful golfer in Australian history.",
+          "Won 1950 New Zealand Open.",
+          "Won 1951 Australian Open."
         ]
       }
     ]
