@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-23T13:31:43.583Z",
+  "generatedAt": "2026-08-23T19:19:50.633Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.3,
-    "condition": "Rain showers",
-    "code": 81,
-    "highC": 25.4,
-    "lowC": 19.5,
+    "tempC": 25.9,
+    "condition": "Rain",
+    "code": 63,
+    "highC": 26.3,
+    "lowC": 19.9,
     "rainChance": 52
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Liverpool FC",
-          "Football"
+          "Kalshi",
+          "Prediction Market"
         ],
-        "summary": "Liverpool FC is buzzing due to recent match results and transfer rumors."
+        "summary": "Kalshi is buzzing as a platform for event-based prediction markets."
       },
       {
         "keywords": [
-          "Isack Hadjar",
-          "F2 Racing"
+          "WNBA",
+          "Storm Wings"
         ],
-        "summary": "Isack Hadjar is buzzing after impressive performances in recent Formula 2 races."
+        "summary": "The WNBA matchup between Storm and Wings is buzzing with fan excitement."
       },
       {
         "keywords": [
-          "Sling TV",
-          "Streaming"
+          "MLB",
+          "Giants Red Sox"
         ],
-        "summary": "Sling TV is buzzing with new channel additions and competitive streaming bundles."
+        "summary": "The MLB game between Giants and Red Sox is buzzing with baseball fans."
       },
       {
         "keywords": [
-          "John Stones",
-          "Man City"
+          "La Liga",
+          "Elche Barcelone"
         ],
-        "summary": "John Stones is buzzing following key defensive plays for Manchester City."
+        "summary": "The La Liga match between Elche and Barcelone is buzzing among football fans."
       }
     ]
   },
@@ -56,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 26180.455,
-        "changePct": 0.4346042066866827
+        "changePct": 0.4344732077093091
       },
       {
         "region": "Europe",
@@ -70,75 +70,77 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10816.56,
-        "changePct": 0.6363879957127512
+        "changePct": 0.6360134720232109
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3905.203,
-        "changePct": 0.037963778661435355
+        "changePct": 0.03798940497782051
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4618.895,
-        "changePct": 0.5692558304658687
+        "changePct": 0.5692667791628204
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 26009.46,
-        "changePct": 1.210071097562532
+        "changePct": 1.2100317139132601
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My streaming service just recommended a show I finished last week. Truly, it understands me on a spiritual level.",
-      "explanation": "It's sarcastic about algorithms' poor personalization, highlighting a common, relatable frustration with modern tech."
+      "joke": "My therapist asked if I have a support system. I showed her my phone, fully charged.",
+      "explanation": "It's dark humor about modern dependence on phones and superficial connections, implying the phone *is* the support system in a detached, ironic way."
     },
     "zh": {
-      "joke": "经过慎重考量，我决定今天中午继续执行“外卖随机盲盒”策略，以应对日益复杂的饮食决策挑战。"
+      "joke": "老板问我最近工作状态怎么样。我说，就像在玩一个大型开放世界游戏，每天都在努力完成任务，但主线剧情是什么我忘了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Valeria Lukyanova",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Valeria_Lukyanova_%28cropped%29.jpg/330px-Valeria_Lukyanova_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Ukrainian model (born 1985)",
-        "extract": "Valeria Valeryevna Lukyanova is a Ukrainian model best known for her resemblance to a Barbie doll. She currently has property in Mexico and lives in Moscow. To enhance the Barbie effect Lukyanova uses makeup and contact lenses over her naturally green/gray/blue eyes. She has stated that she has had breast implants, but that the rest of her body is natural and slender due to daily gym workouts and a particular diet.",
-        "born": 1985,
+        "name": "Carlos Cuéllar",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Carlos_Cuellar.jpg/330px-Carlos_Cuellar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Spanish footballer (born 1981)",
+        "extract": "Carlos Javier Cuéllar Jiménez is a Spanish former professional footballer, and the current manager of Elche Ilicitano. Mainly a central defender, he could also operate as a right-back.",
+        "born": 1981,
         "highlights": [
-          "Ukrainian model known for Barbie doll resemblance.",
-          "Uses makeup and contact lenses for Barbie effect.",
-          "Stated she has had breast implants."
+          "Former professional footballer.",
+          "Current manager of Elche Ilicitano.",
+          "Played mainly as a central defender."
         ]
       },
       {
-        "name": "Moritz Cantor",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Moritz_Cantor_%28HeidICON_28790%29_%28cropped%29.jpg/330px-Moritz_Cantor_%28HeidICON_28790%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German historian of mathematics",
-        "extract": "Moritz Benedikt Cantor was a German historian of mathematics.",
-        "born": 1829,
+        "name": "Tex Williams",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tex_Williams_1967.JPG/330px-Tex_Williams_1967.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer-songwriter (1917–1985)",
+        "extract": "Sollie Paul \"Tex\" Williams was an American Western swing singer and musician. He is best known for his talking blues style; his biggest hit was the novelty song, \"Smoke! Smoke! Smoke! \", which held the number-one position on the Hot Country Songs chart for 16 weeks in 1947. \"Smoke\" was the number-five song on Billboard's Top 100 list for 1947, and was number one on the country chart that year.",
+        "born": 1917,
         "highlights": [
-          "German historian of mathematics."
+          "American Western swing singer.",
+          "Known for his talking blues style.",
+          "Hit song \"Smoke! Smoke! Smoke!\" was number-one."
         ]
       },
       {
-        "name": "Peter Thomson (golfer)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Peter_Thomson_-_Australian_golfer.jpg/330px-Peter_Thomson_-_Australian_golfer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian professional golfer (1929–2018)",
-        "extract": "Peter William Thomson was an Australian professional golfer, often cited as the greatest and most successful golfer in Australian golf history. In the late 1940s, Thomson turned professional and immediately had success on the Australasian circuits, then posted his first international win at the 1950 New Zealand Open followed by the 1951 Australian Open.",
-        "born": 1929,
+        "name": "Boryana Kaleyn",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Boryana_Kaleyn_2024_Sofia_World_Cup_Clubs_QF_1.jpg/330px-Boryana_Kaleyn_2024_Sofia_World_Cup_Clubs_QF_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Bulgarian rhythmic gymnast",
+        "extract": "Boryana Nikolaeva Kaleyn is a Bulgarian retired individual rhythmic gymnast. She is the 2024 Paris Olympic all-around silver medalist. She is the 2023 European all-around champion, the 2024 European champion with hoop, the 2021 and 2022 European all-around silver medalist, and the 2022 European champion with ball, ribbon, and in the team competition. Kaleyn is also the 2023 World Team all-around champion and the 2022 World Cup Series all-around champion in Sofia and runner-up in Baku. She competed at the 2020 Summer Olympics, finishing fifth in the all-around.",
+        "born": 2000,
         "highlights": [
-          "Greatest and most successful golfer in Australian history.",
-          "Won 1950 New Zealand Open.",
-          "Won 1951 Australian Open."
+          "2024 Paris Olympic all-around silver medalist.",
+          "2023 European all-around champion.",
+          "Multiple European and World Team champion."
         ]
       }
     ]
