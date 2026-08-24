@@ -1,42 +1,44 @@
 {
-  "generatedAt": "2026-08-24T13:50:40.927Z",
+  "generatedAt": "2026-08-24T19:26:05.292Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.7,
+    "tempC": 27.1,
     "condition": "Mostly clear",
     "code": 1,
-    "highC": 26.9,
+    "highC": 27.2,
     "lowC": 17.6,
-    "rainChance": 7
+    "rainChance": 5
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Gordon Ramsay"
+          "Adam Brubaker",
+          "Coach Fired"
         ],
-        "summary": "Gordon Ramsay is buzzing for his latest culinary ventures and TV appearances."
+        "summary": "Adam Brubaker, Royal High coach, is buzzing due to his recent firing."
       },
       {
         "keywords": [
-          "Dana Brown"
+          "Joao Pedro",
+          "Footballer"
         ],
-        "summary": "Dana Brown is buzzing due to recent UFC fight announcements and organizational news."
+        "summary": "Joao Pedro is buzzing, likely due to recent football performance or transfer news."
       },
       {
         "keywords": [
-          "Lindsay Clancy",
-          "Trial Live"
+          "Morgan Rogers",
+          "Football Transfer"
         ],
-        "summary": "Lindsay Clancy trial live is buzzing as public interest follows the ongoing legal proceedings."
+        "summary": "Morgan Rogers is buzzing due to recent transfer speculation or club performance."
       },
       {
         "keywords": [
-          "MSTR",
-          "MicroStrategy"
+          "FotMob App",
+          "Football Scores"
         ],
-        "summary": "MSTR is buzzing due to MicroStrategy's significant Bitcoin holdings and investment strategy."
+        "summary": "FotMob is buzzing as a popular app for live football scores and match updates."
       }
     ]
   },
@@ -46,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7647.54,
-        "changePct": -0.3496052444695777
+        "price": 7659.59,
+        "changePct": -0.19258909851883277
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25933.32,
-        "changePct": -0.9439675513660937
+        "price": 26039.178,
+        "changePct": -0.5396277490211757
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6443.84,
-        "changePct": -0.28442238116313134
+        "price": 6447.98,
+        "changePct": -0.2203577098891819
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10823.05,
-        "changePct": 0.060000591685339714
+        "price": 10854.32,
+        "changePct": 0.34909435162380853
       },
       {
         "region": "Asia",
@@ -95,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I just spent two hours scrolling through 'how to be more productive' TikToks. Feeling incredibly accomplished.",
-      "explanation": "It's funny because the user is performing the opposite of productivity while consuming content about it, highlighting modern digital irony."
+      "joke": "My boss asked if I was 'burning the midnight oil.' I replied, 'Just burning my life away, same as you.'",
+      "explanation": "This joke uses dark humor to comment on modern work-life balance, delivered with a deadpan, relatable resignation."
     },
     "zh": {
-      "joke": "我的养生秘诀就是：在熬夜和暴饮暴食之后，立刻转发一篇朋友圈养生文。这样心理上就赢了。"
+      "joke": "我办健身卡的目的不是为了健身，是为了证明我曾经有过一个想变健康的梦想。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Oscar Hijuelos",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hijuelos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American novelist",
-        "extract": "Oscar Jerome Hijuelos was an American novelist of Cuban descent. During a year-long convalescence from a childhood illness spent in a Connecticut hospital, he lost his knowledge of Spanish, his parents' native language. He was educated in New York City, and wrote short stories and advertising copy.",
-        "born": 1951,
+        "name": "Todd Young",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sen._Todd_Young_official_photo_%28slight_crop_2%29.jpg/330px-Sen._Todd_Young_official_photo_%28slight_crop_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American politician and attorney (born 1972)",
+        "extract": "Todd Christopher Young is an American politician and attorney serving as the senior United States senator from Indiana, a seat he has held since 2017. From 2011 to 2017, he was the U.S. representative for Indiana's 9th congressional district. Young is a member of the Republican Party.",
+        "born": 1972,
         "highlights": [
-          "American novelist of Cuban descent.",
-          "Wrote short stories.",
-          "Also wrote advertising copy."
+          "Senior US Senator from Indiana since 2017.",
+          "Served as US Representative for Indiana's 9th district.",
+          "Member of the Republican Party."
         ]
       },
       {
-        "name": "Carlo Gambino",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carlo_Gambino.jpg/330px-Carlo_Gambino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American mobster (1902–1976)",
-        "extract": "Carlo Gambino was a Sicilian crime boss who was the leader and namesake of the Gambino crime family of New York City. Following the Apalachin Meeting in 1957, and the imprisonment of Vito Genovese in 1959, Gambino took over the Commission of the American Mafia and played a powerful role in organized crime until his death from a heart attack in 1976. During a criminal career that spanned over fifty years, Gambino served only twenty-two months in prison, for a tax evasion charge in 1937.",
-        "born": 1902,
+        "name": "Vladimir Masorin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/VladimirMasorin.jpg/330px-VladimirMasorin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Russian admiral (born 1947)",
+        "extract": "Admiral of the Fleet Vladimir Vasilyevich Masorin is a retired Russian naval officer who was Commander-in-Chief of the Russian Navy from 2005 to 2007. He was previously the Chief of the Main Staff and First Deputy Commander-in-Chief in 2005, and commanded the Black Sea Fleet from 2002 to 2005 and the Caspian Flotilla from 1996 to 2002. He was commissioned from the Nakhimov Black Sea Higher Naval School in Crimea in 1970, and commanded two destroyers, a destroyer brigade, and a squadron before reaching higher command. Masorin also graduated from the Grechko Naval Academy and the Russian General Staff Academy. As the head of the Russian navy he oversaw increased cooperation with NATO countries, for which he was made a Commander of the Legion of Merit by the United States.",
+        "born": 1947,
         "highlights": [
-          "Sicilian crime boss.",
-          "Leader of the Gambino crime family.",
-          "Took over the Commission of the American Mafia."
+          "Commander-in-Chief of the Russian Navy (2005-2007).",
+          "Commanded the Black Sea Fleet (2002-2005).",
+          "Awarded Commander of the Legion of Merit by the US."
         ]
       },
       {
-        "name": "Zonia Baber",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Portrait_of_Baber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American geologist and geographer",
-        "extract": "Mary Arizona \"Zonia\" Baber was an American geographer and geologist best known for developing methods for teaching geography. Her teachings emphasized experiential learning through field work and experimentation.",
-        "born": 1862,
+        "name": "Joe Manchin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Senator_Manchin_%28cropped_2%29.jpg/330px-Senator_Manchin_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American politician and businessman (born 1947)",
+        "extract": "Joseph Manchin III is an American politician and businessman from West Virginia. Manchin served from 2001 to 2005 as the 27th secretary of state of West Virginia, from 2005 to 2010 as the 34th governor of West Virginia, and from 2010 to 2025 as a United States senator from West Virginia. Manchin was a Democrat throughout his political career until he became an independent in 2024.",
+        "born": 1947,
         "highlights": [
-          "American geographer and geologist.",
-          "Developed methods for teaching geography.",
-          "Emphasized experiential learning and field work."
+          "Served as US Senator from West Virginia (2010-2025).",
+          "Was 34th governor of West Virginia (2005-2010).",
+          "Served as West Virginia's 27th secretary of state."
         ]
       }
     ]
