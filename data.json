@@ -1,44 +1,42 @@
 {
-  "generatedAt": "2026-08-23T19:19:50.633Z",
+  "generatedAt": "2026-08-24T13:50:40.927Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.9,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 26.3,
-    "lowC": 19.9,
-    "rainChance": 52
+    "tempC": 22.7,
+    "condition": "Mostly clear",
+    "code": 1,
+    "highC": 26.9,
+    "lowC": 17.6,
+    "rainChance": 7
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Kalshi",
-          "Prediction Market"
+          "Gordon Ramsay"
         ],
-        "summary": "Kalshi is buzzing as a platform for event-based prediction markets."
+        "summary": "Gordon Ramsay is buzzing for his latest culinary ventures and TV appearances."
       },
       {
         "keywords": [
-          "WNBA",
-          "Storm Wings"
+          "Dana Brown"
         ],
-        "summary": "The WNBA matchup between Storm and Wings is buzzing with fan excitement."
+        "summary": "Dana Brown is buzzing due to recent UFC fight announcements and organizational news."
       },
       {
         "keywords": [
-          "MLB",
-          "Giants Red Sox"
+          "Lindsay Clancy",
+          "Trial Live"
         ],
-        "summary": "The MLB game between Giants and Red Sox is buzzing with baseball fans."
+        "summary": "Lindsay Clancy trial live is buzzing as public interest follows the ongoing legal proceedings."
       },
       {
         "keywords": [
-          "La Liga",
-          "Elche Barcelone"
+          "MSTR",
+          "MicroStrategy"
         ],
-        "summary": "The La Liga match between Elche and Barcelone is buzzing among football fans."
+        "summary": "MSTR is buzzing due to MicroStrategy's significant Bitcoin holdings and investment strategy."
       }
     ]
   },
@@ -48,99 +46,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7674.37,
-        "changePct": 0.43461987446932193
+        "price": 7647.54,
+        "changePct": -0.3496052444695777
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26180.455,
-        "changePct": 0.4344732077093091
+        "price": 25933.32,
+        "changePct": -0.9439675513660937
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6462.22,
-        "changePct": 0.6253445156227107
+        "price": 6443.84,
+        "changePct": -0.28442238116313134
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10816.56,
-        "changePct": 0.6360134720232109
+        "price": 10823.05,
+        "changePct": 0.060000591685339714
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3905.203,
-        "changePct": 0.03798940497782051
+        "price": 3882.0078,
+        "changePct": -0.5939461373911872
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4618.895,
-        "changePct": 0.5692667791628204
+        "price": 4563.126,
+        "changePct": -1.207409997412806
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 26009.46,
-        "changePct": 1.2100317139132601
+        "price": 25517.33,
+        "changePct": -1.8921192519952255
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My therapist asked if I have a support system. I showed her my phone, fully charged.",
-      "explanation": "It's dark humor about modern dependence on phones and superficial connections, implying the phone *is* the support system in a detached, ironic way."
+      "joke": "I just spent two hours scrolling through 'how to be more productive' TikToks. Feeling incredibly accomplished.",
+      "explanation": "It's funny because the user is performing the opposite of productivity while consuming content about it, highlighting modern digital irony."
     },
     "zh": {
-      "joke": "老板问我最近工作状态怎么样。我说，就像在玩一个大型开放世界游戏，每天都在努力完成任务，但主线剧情是什么我忘了。"
+      "joke": "我的养生秘诀就是：在熬夜和暴饮暴食之后，立刻转发一篇朋友圈养生文。这样心理上就赢了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Carlos Cuéllar",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Carlos_Cuellar.jpg/330px-Carlos_Cuellar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Spanish footballer (born 1981)",
-        "extract": "Carlos Javier Cuéllar Jiménez is a Spanish former professional footballer, and the current manager of Elche Ilicitano. Mainly a central defender, he could also operate as a right-back.",
-        "born": 1981,
+        "name": "Oscar Hijuelos",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hijuelos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American novelist",
+        "extract": "Oscar Jerome Hijuelos was an American novelist of Cuban descent. During a year-long convalescence from a childhood illness spent in a Connecticut hospital, he lost his knowledge of Spanish, his parents' native language. He was educated in New York City, and wrote short stories and advertising copy.",
+        "born": 1951,
         "highlights": [
-          "Former professional footballer.",
-          "Current manager of Elche Ilicitano.",
-          "Played mainly as a central defender."
+          "American novelist of Cuban descent.",
+          "Wrote short stories.",
+          "Also wrote advertising copy."
         ]
       },
       {
-        "name": "Tex Williams",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tex_Williams_1967.JPG/330px-Tex_Williams_1967.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer-songwriter (1917–1985)",
-        "extract": "Sollie Paul \"Tex\" Williams was an American Western swing singer and musician. He is best known for his talking blues style; his biggest hit was the novelty song, \"Smoke! Smoke! Smoke! \", which held the number-one position on the Hot Country Songs chart for 16 weeks in 1947. \"Smoke\" was the number-five song on Billboard's Top 100 list for 1947, and was number one on the country chart that year.",
-        "born": 1917,
+        "name": "Carlo Gambino",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carlo_Gambino.jpg/330px-Carlo_Gambino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American mobster (1902–1976)",
+        "extract": "Carlo Gambino was a Sicilian crime boss who was the leader and namesake of the Gambino crime family of New York City. Following the Apalachin Meeting in 1957, and the imprisonment of Vito Genovese in 1959, Gambino took over the Commission of the American Mafia and played a powerful role in organized crime until his death from a heart attack in 1976. During a criminal career that spanned over fifty years, Gambino served only twenty-two months in prison, for a tax evasion charge in 1937.",
+        "born": 1902,
         "highlights": [
-          "American Western swing singer.",
-          "Known for his talking blues style.",
-          "Hit song \"Smoke! Smoke! Smoke!\" was number-one."
+          "Sicilian crime boss.",
+          "Leader of the Gambino crime family.",
+          "Took over the Commission of the American Mafia."
         ]
       },
       {
-        "name": "Boryana Kaleyn",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Boryana_Kaleyn_2024_Sofia_World_Cup_Clubs_QF_1.jpg/330px-Boryana_Kaleyn_2024_Sofia_World_Cup_Clubs_QF_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Bulgarian rhythmic gymnast",
-        "extract": "Boryana Nikolaeva Kaleyn is a Bulgarian retired individual rhythmic gymnast. She is the 2024 Paris Olympic all-around silver medalist. She is the 2023 European all-around champion, the 2024 European champion with hoop, the 2021 and 2022 European all-around silver medalist, and the 2022 European champion with ball, ribbon, and in the team competition. Kaleyn is also the 2023 World Team all-around champion and the 2022 World Cup Series all-around champion in Sofia and runner-up in Baku. She competed at the 2020 Summer Olympics, finishing fifth in the all-around.",
-        "born": 2000,
+        "name": "Zonia Baber",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Portrait_of_Baber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American geologist and geographer",
+        "extract": "Mary Arizona \"Zonia\" Baber was an American geographer and geologist best known for developing methods for teaching geography. Her teachings emphasized experiential learning through field work and experimentation.",
+        "born": 1862,
         "highlights": [
-          "2024 Paris Olympic all-around silver medalist.",
-          "2023 European all-around champion.",
-          "Multiple European and World Team champion."
+          "American geographer and geologist.",
+          "Developed methods for teaching geography.",
+          "Emphasized experiential learning and field work."
         ]
       }
     ]
