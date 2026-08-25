@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-24T19:26:05.292Z",
+  "generatedAt": "2026-08-25T13:50:20.946Z",
   "weather": {
     "location": "New York City",
-    "tempC": 27.1,
-    "condition": "Mostly clear",
-    "code": 1,
-    "highC": 27.2,
-    "lowC": 17.6,
-    "rainChance": 5
+    "tempC": 20.7,
+    "condition": "Partly cloudy",
+    "code": 2,
+    "highC": 26.4,
+    "lowC": 16.7,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Adam Brubaker",
-          "Coach Fired"
+          "Prince Harry",
+          "Royal News"
         ],
-        "summary": "Adam Brubaker, Royal High coach, is buzzing due to his recent firing."
+        "summary": "Prince Harry news is buzzing due to recent public appearances and ongoing discussions about his royal role."
       },
       {
         "keywords": [
-          "Joao Pedro",
+          "Brandon Williams",
           "Footballer"
         ],
-        "summary": "Joao Pedro is buzzing, likely due to recent football performance or transfer news."
+        "summary": "Brandon Williams is buzzing as fans discuss his recent performance and potential future in football."
       },
       {
         "keywords": [
-          "Morgan Rogers",
-          "Football Transfer"
+          "Blaze Berlowitz",
+          "Rising Star"
         ],
-        "summary": "Morgan Rogers is buzzing due to recent transfer speculation or club performance."
+        "summary": "Blaze Berlowitz is buzzing due to recent achievements and growing recognition in his field."
       },
       {
         "keywords": [
-          "FotMob App",
-          "Football Scores"
+          "College Admissions",
+          "Higher Ed"
         ],
-        "summary": "FotMob is buzzing as a popular app for live football scores and match updates."
+        "summary": "College is buzzing with discussions around application deadlines, financial aid, and campus life."
       }
     ]
   },
@@ -48,99 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7659.59,
-        "changePct": -0.19258909851883277
+        "price": 7684.98,
+        "changePct": 0.41971236897055336
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26039.178,
-        "changePct": -0.5396277490211757
+        "price": 26225.828,
+        "changePct": 0.9454780374786408
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6447.98,
-        "changePct": -0.2203577098891819
+        "price": 6460.74,
+        "changePct": 0.19789143266573747
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10854.32,
-        "changePct": 0.34909435162380853
+        "price": 10843.75,
+        "changePct": 0.25100308784645486
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3882.0078,
-        "changePct": -0.5939461373911872
+        "price": 3889.445,
+        "changePct": -0.4034364437160621
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4563.126,
-        "changePct": -1.207409997412806
+        "price": 4552.0327,
+        "changePct": -0.24311839700259363
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25517.33,
-        "changePct": -1.8921192519952255
+        "price": 25511.1,
+        "changePct": -1.9162229185489974
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My boss asked if I was 'burning the midnight oil.' I replied, 'Just burning my life away, same as you.'",
-      "explanation": "This joke uses dark humor to comment on modern work-life balance, delivered with a deadpan, relatable resignation."
+      "joke": "My smart home thinks my emotional support is a 'critical system failure'.",
+      "explanation": "It's funny because it personifies smart tech with an overly literal, unhelpful response to a human emotional state, highlighting tech's detachment."
     },
     "zh": {
-      "joke": "我办健身卡的目的不是为了健身，是为了证明我曾经有过一个想变健康的梦想。"
+      "joke": "领导要求我提高工作积极性，我思考了一下，决定从调整呼吸频率开始，争取每一次呼吸都饱含对工作的热情。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Todd Young",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sen._Todd_Young_official_photo_%28slight_crop_2%29.jpg/330px-Sen._Todd_Young_official_photo_%28slight_crop_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American politician and attorney (born 1972)",
-        "extract": "Todd Christopher Young is an American politician and attorney serving as the senior United States senator from Indiana, a seat he has held since 2017. From 2011 to 2017, he was the U.S. representative for Indiana's 9th congressional district. Young is a member of the Republican Party.",
-        "born": 1972,
+        "name": "Deanna Nolan",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Deanna_Nolan.jpg/330px-Deanna_Nolan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American-Russian basketball player (born 1979)",
+        "extract": "Deanna Nicole \"Tweety\" Nolan is a retired American-Russian professional basketball player for UMMC Ekaterinburg of the Russian Premier League as well as the Russia women's national basketball team. Her primary position is shooting guard, but occasionally plays the point guard position. Her original name was Deana, but was legally changed to Deanna in 2000. She went to Flint Northern High School where she graduated and took that school to the state championship, which they won. Nolan was inducted in October 2024 into the Michigan Sports Hall of Fame in Detroit.",
+        "born": 1979,
         "highlights": [
-          "Senior US Senator from Indiana since 2017.",
-          "Served as US Representative for Indiana's 9th district.",
-          "Member of the Republican Party."
+          "Retired American-Russian professional basketball player.",
+          "Inducted into Michigan Sports Hall of Fame (2024).",
+          "Led Flint Northern High School to state championship."
         ]
       },
       {
-        "name": "Vladimir Masorin",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/VladimirMasorin.jpg/330px-VladimirMasorin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Russian admiral (born 1947)",
-        "extract": "Admiral of the Fleet Vladimir Vasilyevich Masorin is a retired Russian naval officer who was Commander-in-Chief of the Russian Navy from 2005 to 2007. He was previously the Chief of the Main Staff and First Deputy Commander-in-Chief in 2005, and commanded the Black Sea Fleet from 2002 to 2005 and the Caspian Flotilla from 1996 to 2002. He was commissioned from the Nakhimov Black Sea Higher Naval School in Crimea in 1970, and commanded two destroyers, a destroyer brigade, and a squadron before reaching higher command. Masorin also graduated from the Grechko Naval Academy and the Russian General Staff Academy. As the head of the Russian navy he oversaw increased cooperation with NATO countries, for which he was made a Commander of the Legion of Merit by the United States.",
-        "born": 1947,
+        "name": "Rebeka Jančová",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2020-01-10_Women%27s_Super_G_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93344.jpg/330px-2020-01-10_Women%27s_Super_G_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93344.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Slovak alpine skier (born 2003)",
+        "extract": "Rebeka Jančová is a Slovak alpine ski racer. She competed at the 2022 Winter Olympics in Beijing.",
+        "born": 2003,
         "highlights": [
-          "Commander-in-Chief of the Russian Navy (2005-2007).",
-          "Commanded the Black Sea Fleet (2002-2005).",
-          "Awarded Commander of the Legion of Merit by the US."
+          "Slovak alpine ski racer.",
+          "Competed at 2022 Winter Olympics in Beijing."
         ]
       },
       {
-        "name": "Joe Manchin",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Senator_Manchin_%28cropped_2%29.jpg/330px-Senator_Manchin_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American politician and businessman (born 1947)",
-        "extract": "Joseph Manchin III is an American politician and businessman from West Virginia. Manchin served from 2001 to 2005 as the 27th secretary of state of West Virginia, from 2005 to 2010 as the 34th governor of West Virginia, and from 2010 to 2025 as a United States senator from West Virginia. Manchin was a Democrat throughout his political career until he became an independent in 2024.",
-        "born": 1947,
+        "name": "Alexander Skarsgård",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alexander_Skarsg%C3%A5rd_at_NYFF_2025_04_%28cropped%29.jpg/330px-Alexander_Skarsg%C3%A5rd_at_NYFF_2025_04_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish actor (born 1976)",
+        "extract": "Alexander Johan Hjalmar Skarsgård is a Swedish actor. A son of actor Stellan Skarsgård, he began acting at the age of seven but quit at thirteen. After serving in the Swedish Navy, Skarsgård returned to acting and gained his first role in the American comedy film Zoolander (2001). He played Brad Colbert in the miniseries Generation Kill (2008) and had his international breakthrough portraying vampire Eric Northman in the television series True Blood (2008–2014).",
+        "born": 1976,
         "highlights": [
-          "Served as US Senator from West Virginia (2010-2025).",
-          "Was 34th governor of West Virginia (2005-2010).",
-          "Served as West Virginia's 27th secretary of state."
+          "Swedish actor, son of Stellan Skarsgård.",
+          "First American film role in Zoolander (2001).",
+          "Breakthrough as Eric Northman in True Blood."
         ]
       }
     ]
