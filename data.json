@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-25T13:50:20.946Z",
+  "generatedAt": "2026-08-25T19:28:28.779Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.7,
-    "condition": "Partly cloudy",
-    "code": 2,
-    "highC": 26.4,
+    "tempC": 25.5,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 26,
     "lowC": 16.7,
-    "rainChance": 1
+    "rainChance": 2
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Prince Harry",
-          "Royal News"
+          "Nottm Forest",
+          "Leeds Match"
         ],
-        "summary": "Prince Harry news is buzzing due to recent public appearances and ongoing discussions about his royal role."
+        "summary": "The football match between Nottingham Forest and Leeds United is buzzing due to recent rivalry and league standings."
       },
       {
         "keywords": [
-          "Brandon Williams",
-          "Footballer"
+          "Prince",
+          "Music Icon"
         ],
-        "summary": "Brandon Williams is buzzing as fans discuss his recent performance and potential future in football."
+        "summary": "Prince is buzzing as fans celebrate his enduring musical legacy and influence on pop culture."
       },
       {
         "keywords": [
-          "Blaze Berlowitz",
-          "Rising Star"
+          "Princess Diana",
+          "Legacy"
         ],
-        "summary": "Blaze Berlowitz is buzzing due to recent achievements and growing recognition in his field."
+        "summary": "Princess Diana's enduring impact and public memory are buzzing, often related to new documentaries or anniversaries."
       },
       {
         "keywords": [
-          "College Admissions",
-          "Higher Ed"
+          "Plymouth Argyle",
+          "Coventry City"
         ],
-        "summary": "College is buzzing with discussions around application deadlines, financial aid, and campus life."
+        "summary": "The football clash between Plymouth Argyle and Coventry City is buzzing with fan anticipation."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7684.98,
-        "changePct": 0.41971236897055336
+        "price": 7669.46,
+        "changePct": 0.2169123700159204
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26225.828,
-        "changePct": 0.9454780374786408
+        "price": 26099.34,
+        "changePct": 0.45861479617298145
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6460.74,
-        "changePct": 0.19789143266573747
+        "price": 6455.63,
+        "changePct": 0.11864180720164372
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10843.75,
-        "changePct": 0.25100308784645486
+        "price": 10886.16,
+        "changePct": 0.6430856276463905
       },
       {
         "region": "Asia",
@@ -97,49 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My smart home thinks my emotional support is a 'critical system failure'.",
-      "explanation": "It's funny because it personifies smart tech with an overly literal, unhelpful response to a human emotional state, highlighting tech's detachment."
+      "joke": "My screen time report is just a gentle reminder that I peaked in kindergarten.",
+      "explanation": "It's a self-deprecating observation on how much time is spent on devices, ironically comparing it to a past peak of productivity/joy."
     },
     "zh": {
-      "joke": "领导要求我提高工作积极性，我思考了一下，决定从调整呼吸频率开始，争取每一次呼吸都饱含对工作的热情。"
+      "joke": "我的人生哲学就是：万事皆可‘加购物车’，但‘付款’这个步骤，属于哲学辩证范畴。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Deanna Nolan",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Deanna_Nolan.jpg/330px-Deanna_Nolan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American-Russian basketball player (born 1979)",
-        "extract": "Deanna Nicole \"Tweety\" Nolan is a retired American-Russian professional basketball player for UMMC Ekaterinburg of the Russian Premier League as well as the Russia women's national basketball team. Her primary position is shooting guard, but occasionally plays the point guard position. Her original name was Deana, but was legally changed to Deanna in 2000. She went to Flint Northern High School where she graduated and took that school to the state championship, which they won. Nolan was inducted in October 2024 into the Michigan Sports Hall of Fame in Detroit.",
-        "born": 1979,
+        "name": "Pat Ingoldsby",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/PAT_INGOLDSBY_3_BW.jpg/330px-PAT_INGOLDSBY_3_BW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Irish poet and television presenter (1942–2025)",
+        "extract": "Patrick Ingoldsby was an Irish poet and television presenter. He hosted children's television shows, wrote plays for the stage and for radio, published books of short stories and was a newspaper columnist. From the mid-1990s, he withdrew from the mass media and was most widely known for his collections of poetry, and his selling of them on the streets of Dublin.",
+        "born": 1942,
         "highlights": [
-          "Retired American-Russian professional basketball player.",
-          "Inducted into Michigan Sports Hall of Fame (2024).",
-          "Led Flint Northern High School to state championship."
+          "Irish poet and television presenter.",
+          "Hosted children's television shows.",
+          "Known for selling poetry on Dublin streets."
         ]
       },
       {
-        "name": "Rebeka Jančová",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2020-01-10_Women%27s_Super_G_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93344.jpg/330px-2020-01-10_Women%27s_Super_G_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93344.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Slovak alpine skier (born 2003)",
-        "extract": "Rebeka Jančová is a Slovak alpine ski racer. She competed at the 2022 Winter Olympics in Beijing.",
-        "born": 2003,
+        "name": "Ong Seong-wu",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20211022%E2%80%94Ong_Seong-wu_%EC%98%B9%EC%84%B1%EC%9A%B0_interview%2C_Marie_Claire_Korea_screenshot.jpg/330px-20211022%E2%80%94Ong_Seong-wu_%EC%98%B9%EC%84%B1%EC%9A%B0_interview%2C_Marie_Claire_Korea_screenshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "South Korean singer and actor (born 1995)",
+        "extract": "Ong Seong-wu is a South Korean singer and actor. He is known for his participation in the survival reality show Produce 101 Season 2, where he finished in fifth place, and is a former member of the show's derivative boy group Wanna One. Following Wanna One's disbandment, Ong made his acting debut with the drama At Eighteen (2019) directed by Shim Na-yeon. He also established his career as a solo artist with the release of his first extended play, Layers, on March 25, 2020.",
+        "born": 1995,
         "highlights": [
-          "Slovak alpine ski racer.",
-          "Competed at 2022 Winter Olympics in Beijing."
+          "South Korean singer and actor.",
+          "Member of boy group Wanna One.",
+          "Made acting debut in drama At Eighteen."
         ]
       },
       {
-        "name": "Alexander Skarsgård",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alexander_Skarsg%C3%A5rd_at_NYFF_2025_04_%28cropped%29.jpg/330px-Alexander_Skarsg%C3%A5rd_at_NYFF_2025_04_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swedish actor (born 1976)",
-        "extract": "Alexander Johan Hjalmar Skarsgård is a Swedish actor. A son of actor Stellan Skarsgård, he began acting at the age of seven but quit at thirteen. After serving in the Swedish Navy, Skarsgård returned to acting and gained his first role in the American comedy film Zoolander (2001). He played Brad Colbert in the miniseries Generation Kill (2008) and had his international breakthrough portraying vampire Eric Northman in the television series True Blood (2008–2014).",
-        "born": 1976,
+        "name": "Marvin Harrison",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Marvin_Harrison_2022.jpg/330px-Marvin_Harrison_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player (born 1972)",
+        "extract": "Marvin Darnell Harrison Sr. is an American former professional football wide receiver who played his entire 13-year career for the Indianapolis Colts of the National Football League (NFL). He played college football for the Syracuse Orange and was selected by the Colts in the first round of the 1996 NFL draft.",
+        "born": 1972,
         "highlights": [
-          "Swedish actor, son of Stellan Skarsgård.",
-          "First American film role in Zoolander (2001).",
-          "Breakthrough as Eric Northman in True Blood."
+          "American former professional football wide receiver.",
+          "Played entire 13-year career for Indianapolis Colts.",
+          "Selected by Colts in 1996 NFL draft."
         ]
       }
     ]
