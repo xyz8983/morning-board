@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-26T13:54:02.059Z",
+  "generatedAt": "2026-08-26T21:37:39.501Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.3,
+    "tempC": 25.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 28,
+    "highC": 27.8,
     "lowC": 17.3,
     "rainChance": 0
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Byron Scott",
-          "Lakers"
+          "Boy abandoned",
+          "Mt Fuji"
         ],
-        "summary": "Byron Scott is buzzing due to recent comments on the Lakers' coaching search and past experiences."
+        "summary": "A story about a boy abandoned while hiking Mt Fuji is buzzing due to safety concerns and public outcry."
       },
       {
         "keywords": [
-          "Meta Stock",
-          "Tech Market"
+          "Matt Gogel",
+          "Golf gambling"
         ],
-        "summary": "Meta stock is buzzing as investors react to its latest earnings report and future outlook."
+        "summary": "Matt Gogel's golf gambling violation is buzzing as it raises questions about integrity in professional sports."
       },
       {
         "keywords": [
-          "Patrick McEnroe",
-          "Tennis Analyst"
+          "Carabao Cup",
+          "Draw"
         ],
-        "summary": "Patrick McEnroe is buzzing for his commentary on current tennis events and player performances."
+        "summary": "The Carabao Cup draw is buzzing as fans eagerly anticipate upcoming football matchups."
       },
       {
         "keywords": [
-          "US Open",
-          "Tickets NYC"
+          "MRVL Stock",
+          "Market buzz"
         ],
-        "summary": "US Open NYC tickets are buzzing as fans eagerly secure seats for the upcoming tennis tournament."
+        "summary": "MRVL stock is buzzing due to recent market performance and investor interest."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7681.14,
-        "changePct": 0.05027822353751045
+        "price": 7675.7,
+        "changePct": -0.02058020548944323
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26137.914,
-        "changePct": -0.051182925941837154
+        "price": 26130.197,
+        "changePct": -0.08069197633356169
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6490.05,
-        "changePct": 0.533178016707898
+        "price": 6470.74,
+        "changePct": 0.23405926299988805
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10903.59,
-        "changePct": 0.16011155448753547
+        "price": 10878.12,
+        "changePct": -0.0738552437222956
       },
       {
         "region": "Asia",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone battery died today. It was fine, I needed a break from staring at nothing.",
-      "explanation": "It's anti-climactic and uses deadpan delivery to subvert the expectation of modern phone dependency, highlighting aimless scrolling."
+      "joke": "My screen time report basically says: 'You could've learned a new language, but you chose endless scrolling.'",
+      "explanation": "The humor comes from the relatable, self-deprecating irony of spending too much time on phones instead of doing something productive."
     },
     "zh": {
-      "joke": "健身房的私教问我梦想是什么，我说我的梦想是下次再看到他的时候，他还能认出我。"
+      "joke": "当代年轻人普遍患有“数字失忆症”，主要表现为：手机不在身边焦虑万分，一旦拿到手，就忘了原本要干嘛。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Lee de Forest",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lee_De_Forest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American inventor (1873–1961)",
-        "extract": "Lee de Forest was an American inventor, electrical engineer, and early pioneer in electronics of fundamental importance. He invented the first practical electronic amplifier,\nthe three-element \"Audion\" triode vacuum tube in 1908. This helped start the Electronic Age, and enabled the development of the electronic oscillator. These made radio broadcasting and long-distance telephone lines possible, and led to the development of talking motion pictures, among countless other applications.",
-        "born": 1873,
+        "name": "Otto Binder",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Otto_Binder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American writer (1911–1974)",
+        "extract": "Otto Oscar Binder was an American author of science fiction and non-fiction books and stories, and comic books. He is best known as the co-creator of Supergirl and for his many scripts for Captain Marvel Adventures and other stories involving the entire superhero Marvel Family. He was prolific in the comic book field and is credited with writing over 4,400 stories across a variety of publishers under his own name, as well as more than 160 stories under the pen-name Eando Binder.",
+        "born": 1911,
         "highlights": [
-          "Invented the \"Audion\" triode vacuum tube in 1908.",
-          "Pioneered electronics, enabling radio broadcasting and long-distance telephony.",
-          "His inventions led to talking motion pictures."
+          "Co-creator of Supergirl.",
+          "Wrote many scripts for Captain Marvel Adventures.",
+          "Authored over 4,400 comic book stories."
         ]
       },
       {
-        "name": "Hellmuth Walter",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hellmuth_Walter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "German rocket scientist",
-        "extract": "Hellmuth Walter was a German engineer who pioneered research into rocket engines and gas turbines. His most noteworthy contributions were rocket motors for the Messerschmitt Me 163 and Bachem Ba 349 interceptor aircraft, so-called Starthilfe jettisonable rocket propulsion units used for a variety of Luftwaffe aircraft during World War II, and a revolutionary new propulsion system for submarines known as air-independent propulsion (AIP).",
-        "born": 1900,
+        "name": "Jimmy Rushing",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jimmy_Rushing_1946_%28Gottlieb_07551%29.jpg/330px-Jimmy_Rushing_1946_%28Gottlieb_07551%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American blues and jazz singer (1901–1972)",
+        "extract": "James Andrew Rushing was an American singer and pianist from Oklahoma City, Oklahoma, U.S., best known as the featured vocalist of the Count Basie Orchestra from 1935 to 1948.",
+        "born": 1901,
         "highlights": [
-          "Pioneered research into rocket engines and gas turbines.",
-          "Developed rocket motors for Me 163 and Ba 349 aircraft.",
-          "Invented air-independent propulsion (AIP) for submarines."
+          "Featured vocalist of the Count Basie Orchestra (1935-1948).",
+          "American singer and pianist.",
+          "From Oklahoma City, Oklahoma."
         ]
       },
       {
-        "name": "James Franck",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/James_Franck_1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "German–American physicist (1882–1964)",
-        "extract": "James Franck was a German–American physicist who shared the 1925 Nobel Prize in Physics with Gustav Hertz \"for their discovery of the laws governing the impact of an electron upon an atom.\"",
-        "born": 1882,
+        "name": "Colin Kazim-Richards",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Colin_Kazim_Richards_Bursaspor.JPG/330px-Colin_Kazim_Richards_Bursaspor.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Turkish footballer (born 1986)",
+        "extract": "Colin Kazım-Richards, also known as Colin Kâzım, Kâzım or Kâzım Kâzım, is a professional football coach and former player who played as a forward. He is the head coach of EFL League Two club Crawley Town. Born in England, Kazim-Richards represented the Turkey national team.",
+        "born": 1986,
         "highlights": [
-          "Shared 1925 Nobel Prize in Physics with Gustav Hertz.",
-          "Awarded for electron impact upon atom discovery.",
-          "German-American physicist."
+          "Professional football coach and former player.",
+          "Head coach of EFL League Two club Crawley Town.",
+          "Represented the Turkey national team."
         ]
       }
     ]
