@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-25T19:28:28.779Z",
+  "generatedAt": "2026-08-26T13:54:02.059Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.5,
+    "tempC": 21.3,
     "condition": "Overcast",
     "code": 3,
-    "highC": 26,
-    "lowC": 16.7,
-    "rainChance": 2
+    "highC": 28,
+    "lowC": 17.3,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Nottm Forest",
-          "Leeds Match"
+          "Byron Scott",
+          "Lakers"
         ],
-        "summary": "The football match between Nottingham Forest and Leeds United is buzzing due to recent rivalry and league standings."
+        "summary": "Byron Scott is buzzing due to recent comments on the Lakers' coaching search and past experiences."
       },
       {
         "keywords": [
-          "Prince",
-          "Music Icon"
+          "Meta Stock",
+          "Tech Market"
         ],
-        "summary": "Prince is buzzing as fans celebrate his enduring musical legacy and influence on pop culture."
+        "summary": "Meta stock is buzzing as investors react to its latest earnings report and future outlook."
       },
       {
         "keywords": [
-          "Princess Diana",
-          "Legacy"
+          "Patrick McEnroe",
+          "Tennis Analyst"
         ],
-        "summary": "Princess Diana's enduring impact and public memory are buzzing, often related to new documentaries or anniversaries."
+        "summary": "Patrick McEnroe is buzzing for his commentary on current tennis events and player performances."
       },
       {
         "keywords": [
-          "Plymouth Argyle",
-          "Coventry City"
+          "US Open",
+          "Tickets NYC"
         ],
-        "summary": "The football clash between Plymouth Argyle and Coventry City is buzzing with fan anticipation."
+        "summary": "US Open NYC tickets are buzzing as fans eagerly secure seats for the upcoming tennis tournament."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7669.46,
-        "changePct": 0.2169123700159204
+        "price": 7681.14,
+        "changePct": 0.05027822353751045
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26099.34,
-        "changePct": 0.45861479617298145
+        "price": 26137.914,
+        "changePct": -0.051182925941837154
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6455.63,
-        "changePct": 0.11864180720164372
+        "price": 6490.05,
+        "changePct": 0.533178016707898
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10886.16,
-        "changePct": 0.6430856276463905
+        "price": 10903.59,
+        "changePct": 0.16011155448753547
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3889.445,
-        "changePct": -0.4034364437160621
+        "price": 3912.5234,
+        "changePct": 0.5933648936218306
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4552.0327,
-        "changePct": -0.24311839700259363
+        "price": 4590.7935,
+        "changePct": 0.8515053066292784
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25511.1,
-        "changePct": -1.9162229185489974
+        "price": 25652.97,
+        "changePct": 0.5561108693862775
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My screen time report is just a gentle reminder that I peaked in kindergarten.",
-      "explanation": "It's a self-deprecating observation on how much time is spent on devices, ironically comparing it to a past peak of productivity/joy."
+      "joke": "My phone battery died today. It was fine, I needed a break from staring at nothing.",
+      "explanation": "It's anti-climactic and uses deadpan delivery to subvert the expectation of modern phone dependency, highlighting aimless scrolling."
     },
     "zh": {
-      "joke": "我的人生哲学就是：万事皆可‘加购物车’，但‘付款’这个步骤，属于哲学辩证范畴。"
+      "joke": "健身房的私教问我梦想是什么，我说我的梦想是下次再看到他的时候，他还能认出我。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Pat Ingoldsby",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/PAT_INGOLDSBY_3_BW.jpg/330px-PAT_INGOLDSBY_3_BW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Irish poet and television presenter (1942–2025)",
-        "extract": "Patrick Ingoldsby was an Irish poet and television presenter. He hosted children's television shows, wrote plays for the stage and for radio, published books of short stories and was a newspaper columnist. From the mid-1990s, he withdrew from the mass media and was most widely known for his collections of poetry, and his selling of them on the streets of Dublin.",
-        "born": 1942,
+        "name": "Lee de Forest",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lee_De_Forest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American inventor (1873–1961)",
+        "extract": "Lee de Forest was an American inventor, electrical engineer, and early pioneer in electronics of fundamental importance. He invented the first practical electronic amplifier,\nthe three-element \"Audion\" triode vacuum tube in 1908. This helped start the Electronic Age, and enabled the development of the electronic oscillator. These made radio broadcasting and long-distance telephone lines possible, and led to the development of talking motion pictures, among countless other applications.",
+        "born": 1873,
         "highlights": [
-          "Irish poet and television presenter.",
-          "Hosted children's television shows.",
-          "Known for selling poetry on Dublin streets."
+          "Invented the \"Audion\" triode vacuum tube in 1908.",
+          "Pioneered electronics, enabling radio broadcasting and long-distance telephony.",
+          "His inventions led to talking motion pictures."
         ]
       },
       {
-        "name": "Ong Seong-wu",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20211022%E2%80%94Ong_Seong-wu_%EC%98%B9%EC%84%B1%EC%9A%B0_interview%2C_Marie_Claire_Korea_screenshot.jpg/330px-20211022%E2%80%94Ong_Seong-wu_%EC%98%B9%EC%84%B1%EC%9A%B0_interview%2C_Marie_Claire_Korea_screenshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South Korean singer and actor (born 1995)",
-        "extract": "Ong Seong-wu is a South Korean singer and actor. He is known for his participation in the survival reality show Produce 101 Season 2, where he finished in fifth place, and is a former member of the show's derivative boy group Wanna One. Following Wanna One's disbandment, Ong made his acting debut with the drama At Eighteen (2019) directed by Shim Na-yeon. He also established his career as a solo artist with the release of his first extended play, Layers, on March 25, 2020.",
-        "born": 1995,
+        "name": "Hellmuth Walter",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hellmuth_Walter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "German rocket scientist",
+        "extract": "Hellmuth Walter was a German engineer who pioneered research into rocket engines and gas turbines. His most noteworthy contributions were rocket motors for the Messerschmitt Me 163 and Bachem Ba 349 interceptor aircraft, so-called Starthilfe jettisonable rocket propulsion units used for a variety of Luftwaffe aircraft during World War II, and a revolutionary new propulsion system for submarines known as air-independent propulsion (AIP).",
+        "born": 1900,
         "highlights": [
-          "South Korean singer and actor.",
-          "Member of boy group Wanna One.",
-          "Made acting debut in drama At Eighteen."
+          "Pioneered research into rocket engines and gas turbines.",
+          "Developed rocket motors for Me 163 and Ba 349 aircraft.",
+          "Invented air-independent propulsion (AIP) for submarines."
         ]
       },
       {
-        "name": "Marvin Harrison",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Marvin_Harrison_2022.jpg/330px-Marvin_Harrison_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player (born 1972)",
-        "extract": "Marvin Darnell Harrison Sr. is an American former professional football wide receiver who played his entire 13-year career for the Indianapolis Colts of the National Football League (NFL). He played college football for the Syracuse Orange and was selected by the Colts in the first round of the 1996 NFL draft.",
-        "born": 1972,
+        "name": "James Franck",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/James_Franck_1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "German–American physicist (1882–1964)",
+        "extract": "James Franck was a German–American physicist who shared the 1925 Nobel Prize in Physics with Gustav Hertz \"for their discovery of the laws governing the impact of an electron upon an atom.\"",
+        "born": 1882,
         "highlights": [
-          "American former professional football wide receiver.",
-          "Played entire 13-year career for Indianapolis Colts.",
-          "Selected by Colts in 1996 NFL draft."
+          "Shared 1925 Nobel Prize in Physics with Gustav Hertz.",
+          "Awarded for electron impact upon atom discovery.",
+          "German-American physicist."
         ]
       }
     ]
