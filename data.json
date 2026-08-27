@@ -1,44 +1,42 @@
 {
-  "generatedAt": "2026-08-26T21:37:39.501Z",
+  "generatedAt": "2026-08-27T22:49:35.185Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.9,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 27.8,
-    "lowC": 17.3,
-    "rainChance": 0
+    "tempC": 23.1,
+    "condition": "Heavy rain",
+    "code": 65,
+    "highC": 24.9,
+    "lowC": 21.3,
+    "rainChance": 73
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Boy abandoned",
-          "Mt Fuji"
+          "Internacional",
+          "Grêmio"
         ],
-        "summary": "A story about a boy abandoned while hiking Mt Fuji is buzzing due to safety concerns and public outcry."
+        "summary": "Why is the classic football rivalry between Internacional and Grêmio buzzing today?"
       },
       {
         "keywords": [
-          "Matt Gogel",
-          "Golf gambling"
+          "Astros",
+          "Yankees"
         ],
-        "summary": "Matt Gogel's golf gambling violation is buzzing as it raises questions about integrity in professional sports."
+        "summary": "Why is the MLB matchup between the Astros and Yankees generating buzz?"
       },
       {
         "keywords": [
-          "Carabao Cup",
-          "Draw"
+          "Steve Carell"
         ],
-        "summary": "The Carabao Cup draw is buzzing as fans eagerly anticipate upcoming football matchups."
+        "summary": "Why is actor Steve Carell currently a trending topic?"
       },
       {
         "keywords": [
-          "MRVL Stock",
-          "Market buzz"
+          "Sean McDermott"
         ],
-        "summary": "MRVL stock is buzzing due to recent market performance and investor interest."
+        "summary": "Why is Bills coach Sean McDermott currently buzzing in sports discussions?"
       }
     ]
   },
@@ -48,99 +46,97 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7675.7,
-        "changePct": -0.02058020548944323
+        "price": 7730.99,
+        "changePct": 0.7203251820680845
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26130.197,
-        "changePct": -0.08069197633356169
+        "price": 26541.352,
+        "changePct": 1.573486032271394
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6470.74,
-        "changePct": 0.23405926299988805
+        "price": 6424.73,
+        "changePct": -0.7110469590804177
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10878.12,
-        "changePct": -0.0738552437222956
+        "price": 10792.54,
+        "changePct": -0.7867168223921038
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3912.5234,
-        "changePct": 0.5933648936218306
+        "price": 3956.571,
+        "changePct": 1.7257195747470748
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4590.7935,
-        "changePct": 0.8515053066292784
+        "price": 4630.277,
+        "changePct": 0.8600582883982971
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25652.97,
-        "changePct": 0.5561108693862775
+        "price": 25565.74,
+        "changePct": 0.21418127795353026
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My screen time report basically says: 'You could've learned a new language, but you chose endless scrolling.'",
-      "explanation": "The humor comes from the relatable, self-deprecating irony of spending too much time on phones instead of doing something productive."
+      "joke": "I spent 30 minutes looking for my AirPods before realizing they were on my head during the entire search.",
+      "explanation": "This joke highlights the common, slightly absurd forgetfulness caused by modern tech integration, presented with deadpan irony."
     },
     "zh": {
-      "joke": "当代年轻人普遍患有“数字失忆症”，主要表现为：手机不在身边焦虑万分，一旦拿到手，就忘了原本要干嘛。"
+      "joke": "说好要戒糖的，结果今天发现自己点了个低卡代餐，然后又点了一份全糖奶茶庆祝成功下单。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Otto Binder",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Otto_Binder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American writer (1911–1974)",
-        "extract": "Otto Oscar Binder was an American author of science fiction and non-fiction books and stories, and comic books. He is best known as the co-creator of Supergirl and for his many scripts for Captain Marvel Adventures and other stories involving the entire superhero Marvel Family. He was prolific in the comic book field and is credited with writing over 4,400 stories across a variety of publishers under his own name, as well as more than 160 stories under the pen-name Eando Binder.",
-        "born": 1911,
+        "name": "Scott Dibble (politician)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scott_Dibble_Minneapolis_Bonding_%28cropped%29.jpg/330px-Scott_Dibble_Minneapolis_Bonding_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American politician (born 1965)",
+        "extract": "David Scott Dibble is an American politician serving as a member of the Minnesota Senate since 2003. A member of the Minnesota Democratic–Farmer–Labor Party (DFL), Dibble represents District 61, which includes parts of Minneapolis in Hennepin County. From 2001 to 2003, he served in the Minnesota House of Representatives.",
+        "born": 1965,
         "highlights": [
-          "Co-creator of Supergirl.",
-          "Wrote many scripts for Captain Marvel Adventures.",
-          "Authored over 4,400 comic book stories."
+          "Member of the Minnesota Senate since 2003.",
+          "Represents District 61 in Minneapolis.",
+          "Served in the Minnesota House of Representatives (2001-2003)."
         ]
       },
       {
-        "name": "Jimmy Rushing",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jimmy_Rushing_1946_%28Gottlieb_07551%29.jpg/330px-Jimmy_Rushing_1946_%28Gottlieb_07551%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American blues and jazz singer (1901–1972)",
-        "extract": "James Andrew Rushing was an American singer and pianist from Oklahoma City, Oklahoma, U.S., best known as the featured vocalist of the Count Basie Orchestra from 1935 to 1948.",
-        "born": 1901,
+        "name": "Franz Wagner",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93138.jpg/330px-2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93138.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German basketball player (born 2001)",
+        "extract": "Franz Jacob Wagner is a German professional basketball player for the Orlando Magic of the National Basketball Association (NBA). He played college basketball for the Michigan Wolverines.",
+        "born": 2001,
         "highlights": [
-          "Featured vocalist of the Count Basie Orchestra (1935-1948).",
-          "American singer and pianist.",
-          "From Oklahoma City, Oklahoma."
+          "German professional basketball player.",
+          "Plays for the Orlando Magic (NBA).",
+          "Played college basketball for Michigan Wolverines."
         ]
       },
       {
-        "name": "Colin Kazim-Richards",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Colin_Kazim_Richards_Bursaspor.JPG/330px-Colin_Kazim_Richards_Bursaspor.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Turkish footballer (born 1986)",
-        "extract": "Colin Kazım-Richards, also known as Colin Kâzım, Kâzım or Kâzım Kâzım, is a professional football coach and former player who played as a forward. He is the head coach of EFL League Two club Crawley Town. Born in England, Kazim-Richards represented the Turkey national team.",
-        "born": 1986,
+        "name": "Marianne Sägebrecht",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Marianne_S%C3%A4gebrecht_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "German actress (born 1945)",
+        "extract": "Marianne Sägebrecht is a German film actress.",
+        "born": 1945,
         "highlights": [
-          "Professional football coach and former player.",
-          "Head coach of EFL League Two club Crawley Town.",
-          "Represented the Turkey national team."
+          "German film actress."
         ]
       }
     ]
