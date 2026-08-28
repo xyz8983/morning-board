@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-27T22:49:35.185Z",
+  "generatedAt": "2026-08-28T02:25:02.341Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.1,
+    "tempC": 21.5,
     "condition": "Heavy rain",
     "code": 65,
     "highC": 24.9,
@@ -14,29 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Internacional",
-          "Grêmio"
+          "Vaccinations",
+          "Public Health"
         ],
-        "summary": "Why is the classic football rivalry between Internacional and Grêmio buzzing today?"
+        "summary": "Vaccinations are buzzing as discussions highlight their importance for community well-being and disease prevention."
       },
       {
         "keywords": [
-          "Astros",
-          "Yankees"
+          "Flu Shots",
+          "Seasonal Health"
         ],
-        "summary": "Why is the MLB matchup between the Astros and Yankees generating buzz?"
+        "summary": "Flu shots are buzzing as seasonal campaigns emphasize their role in protecting against influenza viruses."
       },
       {
         "keywords": [
-          "Steve Carell"
+          "Immunizations",
+          "Disease Prevention"
         ],
-        "summary": "Why is actor Steve Carell currently a trending topic?"
+        "summary": "Immunizations are buzzing due to ongoing conversations about their critical role in preventing infectious diseases."
       },
       {
         "keywords": [
-          "Sean McDermott"
+          "Justin Herbert",
+          "NFL Quarterback"
         ],
-        "summary": "Why is Bills coach Sean McDermott currently buzzing in sports discussions?"
+        "summary": "Justin Herbert is buzzing due to recent standout performances or significant news in the NFL season."
       }
     ]
   },
@@ -74,69 +76,71 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3956.571,
-        "changePct": 1.7257195747470748
+        "price": 3967.615,
+        "changePct": 0.2791305906048412
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4630.277,
-        "changePct": 0.8600582883982971
+        "price": 4642.873,
+        "changePct": 0.2720355607234632
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25565.74,
-        "changePct": 0.21418127795353026
+        "price": 25604.28,
+        "changePct": 0.15074861905032763
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I spent 30 minutes looking for my AirPods before realizing they were on my head during the entire search.",
-      "explanation": "This joke highlights the common, slightly absurd forgetfulness caused by modern tech integration, presented with deadpan irony."
+      "joke": "My top skill on LinkedIn is 'efficiently opening an app, forgetting why I opened it, and then closing it.'",
+      "explanation": "It's self-deprecating humor about common phone habits, framed as a professional skill, highlighting a relatable modern brain fog."
     },
     "zh": {
-      "joke": "说好要戒糖的，结果今天发现自己点了个低卡代餐，然后又点了一份全糖奶茶庆祝成功下单。"
+      "joke": "每天下班都觉得自己像个被榨干的柠檬，第二天早上又奇迹般地自动充满能量，准备好再次被榨。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Scott Dibble (politician)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scott_Dibble_Minneapolis_Bonding_%28cropped%29.jpg/330px-Scott_Dibble_Minneapolis_Bonding_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American politician (born 1965)",
-        "extract": "David Scott Dibble is an American politician serving as a member of the Minnesota Senate since 2003. A member of the Minnesota Democratic–Farmer–Labor Party (DFL), Dibble represents District 61, which includes parts of Minneapolis in Hennepin County. From 2001 to 2003, he served in the Minnesota House of Representatives.",
-        "born": 1965,
+        "name": "Nancy Kulp",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nancy_Kulp_Circa_1960s.jpg/330px-Nancy_Kulp_Circa_1960s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress and educator (1921–1991)",
+        "extract": "Nancy Jane Kulp was an American character actor, writer and comedian widely known as Miss Jane Hathaway on the CBS television series The Beverly Hillbillies.",
+        "born": 1921,
         "highlights": [
-          "Member of the Minnesota Senate since 2003.",
-          "Represents District 61 in Minneapolis.",
-          "Served in the Minnesota House of Representatives (2001-2003)."
+          "Known as Miss Jane Hathaway.",
+          "Starred in The Beverly Hillbillies.",
+          "American character actor, writer, and comedian."
         ]
       },
       {
-        "name": "Franz Wagner",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93138.jpg/330px-2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93138.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German basketball player (born 2001)",
-        "extract": "Franz Jacob Wagner is a German professional basketball player for the Orlando Magic of the National Basketball Association (NBA). He played college basketball for the Michigan Wolverines.",
-        "born": 2001,
+        "name": "Max Collins (actress)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Max_Collins_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American-Filipino actress and model",
+        "extract": "Isabelle \"Max\" Abiera Collins is a Filipino actress and model. She is currently an exclusive artist of GMA Network, where she has appeared in several of the network's television shows.",
+        "born": 1992,
         "highlights": [
-          "German professional basketball player.",
-          "Plays for the Orlando Magic (NBA).",
-          "Played college basketball for Michigan Wolverines."
+          "Filipino actress and model.",
+          "Exclusive artist of GMA Network.",
+          "Appeared in several GMA Network television shows."
         ]
       },
       {
-        "name": "Marianne Sägebrecht",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Marianne_S%C3%A4gebrecht_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "German actress (born 1945)",
-        "extract": "Marianne Sägebrecht is a German film actress.",
-        "born": 1945,
+        "name": "Godfrey Hounsfield",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Godfrey_Hounsfield.jpg/330px-Godfrey_Hounsfield.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British electrical engineer (1919–2004)",
+        "extract": "Sir Godfrey Newbold Hounsfield was a British electrical engineer who shared the 1979 Nobel Prize for Physiology or Medicine with Allan MacLeod Cormack for his part in developing the diagnostic technique of X-ray computed tomography (CT).",
+        "born": 1919,
         "highlights": [
-          "German film actress."
+          "Shared 1979 Nobel Prize.",
+          "Nobel Prize for Physiology or Medicine.",
+          "Developed X-ray computed tomography (CT)."
         ]
       }
     ]
