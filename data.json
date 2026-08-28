@@ -1,44 +1,46 @@
 {
-  "generatedAt": "2026-08-28T02:25:02.341Z",
+  "generatedAt": "2026-08-28T22:53:49.578Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.5,
-    "condition": "Heavy rain",
-    "code": 65,
-    "highC": 24.9,
-    "lowC": 21.3,
-    "rainChance": 73
+    "tempC": 25.9,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 28.1,
+    "lowC": 20.4,
+    "rainChance": 22
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Vaccinations",
-          "Public Health"
+          "Eagles",
+          "2026 Schedule"
         ],
-        "summary": "Vaccinations are buzzing as discussions highlight their importance for community well-being and disease prevention."
+        "summary": "Eagles 2026 schedule is buzzing as fans anticipate future matchups."
       },
       {
         "keywords": [
-          "Flu Shots",
-          "Seasonal Health"
+          "Sun",
+          "Fever",
+          "WNBA"
         ],
-        "summary": "Flu shots are buzzing as seasonal campaigns emphasize their role in protecting against influenza viruses."
+        "summary": "Sun vs. Fever is buzzing due to a highly anticipated WNBA matchup."
       },
       {
         "keywords": [
-          "Immunizations",
-          "Disease Prevention"
+          "Fire",
+          "Dream",
+          "WNBA"
         ],
-        "summary": "Immunizations are buzzing due to ongoing conversations about their critical role in preventing infectious diseases."
+        "summary": "Fire vs. Dream is buzzing as fans look forward to this WNBA game."
       },
       {
         "keywords": [
-          "Justin Herbert",
-          "NFL Quarterback"
+          "Cowboys",
+          "Schedule"
         ],
-        "summary": "Justin Herbert is buzzing due to recent standout performances or significant news in the NFL season."
+        "summary": "Cowboys schedule is buzzing as fans eagerly await upcoming games."
       }
     ]
   },
@@ -48,99 +50,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7730.99,
-        "changePct": 0.7203251820680845
+        "price": 7711.76,
+        "changePct": -0.24873916535915275
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26541.352,
-        "changePct": 1.573486032271394
+        "price": 26402.424,
+        "changePct": -0.5234398006552187
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6424.73,
-        "changePct": -0.7110469590804177
+        "price": 6485.67,
+        "changePct": 0.9485223503555872
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10792.54,
-        "changePct": -0.7867168223921038
+        "price": 10824.26,
+        "changePct": 0.29390671704713944
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3967.615,
-        "changePct": 0.2791305906048412
+        "price": 3952.179,
+        "changePct": 1.0136433807367147
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4642.873,
-        "changePct": 0.2720355607234632
+        "price": 4609.176,
+        "changePct": -0.45571787605794767
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25604.28,
-        "changePct": 0.15074861905032763
+        "price": 25584.79,
+        "changePct": -0.2658948271157336
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My top skill on LinkedIn is 'efficiently opening an app, forgetting why I opened it, and then closing it.'",
-      "explanation": "It's self-deprecating humor about common phone habits, framed as a professional skill, highlighting a relatable modern brain fog."
+      "joke": "My Wi-Fi went out. I stared at the wall.",
+      "explanation": "Humor comes from the deadpan, relatable anti-climax, subverting expectations of a clever solution or observation."
     },
     "zh": {
-      "joke": "每天下班都觉得自己像个被榨干的柠檬，第二天早上又奇迹般地自动充满能量，准备好再次被榨。"
+      "joke": "我的人生哲学很简单：能躺着绝不坐着，能坐着绝不站着。这不叫懒惰，这叫对重力的深刻理解与顺从。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Nancy Kulp",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nancy_Kulp_Circa_1960s.jpg/330px-Nancy_Kulp_Circa_1960s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress and educator (1921–1991)",
-        "extract": "Nancy Jane Kulp was an American character actor, writer and comedian widely known as Miss Jane Hathaway on the CBS television series The Beverly Hillbillies.",
-        "born": 1921,
+        "name": "Maurizio Costanzo",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Costanzobau_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Italian television presenter (1938–2023)",
+        "extract": "Maurizio Costanzo was an Italian television host, journalist, screenwriter, and film director.",
+        "born": 1938,
         "highlights": [
-          "Known as Miss Jane Hathaway.",
-          "Starred in The Beverly Hillbillies.",
-          "American character actor, writer, and comedian."
+          "Italian television host.",
+          "Journalist and screenwriter.",
+          "Also a film director."
         ]
       },
       {
-        "name": "Max Collins (actress)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Max_Collins_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American-Filipino actress and model",
-        "extract": "Isabelle \"Max\" Abiera Collins is a Filipino actress and model. She is currently an exclusive artist of GMA Network, where she has appeared in several of the network's television shows.",
-        "born": 1992,
+        "name": "Jack Vance",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jack_Vance_Boat_Skipper.jpg/330px-Jack_Vance_Boat_Skipper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American writer (1916–2013)",
+        "extract": "John Holbrook Vance was an American writer of fantasy, science fiction, and mysteries. He wrote several mystery novels under pen names, including Ellery Queen.",
+        "born": 1916,
         "highlights": [
-          "Filipino actress and model.",
-          "Exclusive artist of GMA Network.",
-          "Appeared in several GMA Network television shows."
+          "American writer of fantasy and science fiction.",
+          "Also wrote mystery novels.",
+          "Used pen names, including Ellery Queen."
         ]
       },
       {
-        "name": "Godfrey Hounsfield",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Godfrey_Hounsfield.jpg/330px-Godfrey_Hounsfield.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British electrical engineer (1919–2004)",
-        "extract": "Sir Godfrey Newbold Hounsfield was a British electrical engineer who shared the 1979 Nobel Prize for Physiology or Medicine with Allan MacLeod Cormack for his part in developing the diagnostic technique of X-ray computed tomography (CT).",
-        "born": 1919,
+        "name": "Kezia Dugdale",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kezia_Dugdale_MSP_-_May_2016.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Former Scottish politician (born 1981)",
+        "extract": "Kezia Alexandra Ross Dugdale is a Scottish former politician who served as Leader of the Scottish Labour Party from 2015 to 2017. A former member of the Scottish Labour Party and Co-operative Party, she was a Member of the Scottish Parliament (MSP) for the Lothian region from 2011 to 2019.",
+        "born": 1981,
         "highlights": [
-          "Shared 1979 Nobel Prize.",
-          "Nobel Prize for Physiology or Medicine.",
-          "Developed X-ray computed tomography (CT)."
+          "Scottish former politician.",
+          "Leader of the Scottish Labour Party (2015-2017).",
+          "Member of Scottish Parliament (MSP) for Lothian (2011-2019)."
         ]
       }
     ]
