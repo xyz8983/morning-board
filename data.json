@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-29T16:58:42.588Z",
+  "generatedAt": "2026-08-29T21:29:55.392Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.8,
+    "tempC": 24.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 26.3,
+    "highC": 25.6,
     "lowC": 16,
     "rainChance": 0
   },
@@ -14,30 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Nico González",
-          "Footballer"
+          "Adam Scott",
+          "Golfer"
         ],
-        "summary": "Nico González is buzzing due to recent transfer rumors and strong performances on the field."
+        "summary": "Adam Scott is buzzing due to recent golf tournament performance."
       },
       {
         "keywords": [
-          "Disney+ Technology"
+          "Tyrone Taylor",
+          "Baseball"
         ],
-        "summary": "Disney+ is buzzing with new content releases and subscription strategy changes."
+        "summary": "Tyrone Taylor is buzzing for his recent MLB performance and contributions."
       },
       {
         "keywords": [
-          "Fantasy Pros",
-          "Sports Advice"
+          "Jaguares",
+          "América FC"
         ],
-        "summary": "Fantasy Pros is buzzing as fantasy sports enthusiasts seek expert advice for upcoming drafts."
+        "summary": "Jaguares vs. América is buzzing after a significant soccer match result."
       },
       {
         "keywords": [
-          "Sassuolo",
-          "Torino Match"
+          "Pete Crow-Armstrong",
+          "Stats"
         ],
-        "summary": "Sassuolo vs Torino is buzzing due to an anticipated Serie A match and its league implications."
+        "summary": "Pete Crow-Armstrong's impressive baseball stats are why he's buzzing."
       }
     ]
   },
@@ -96,49 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My therapist told me to embrace detachment. So I left my phone on silent for an hour. The existential dread was immaculate.",
-      "explanation": "It's a dry, ironic take on modern phone dependency and the anxiety of disconnecting, using internet slang ('immaculate')."
+      "joke": "My phone notified me I've spent 8 hours on screen today. Great, I was worried I wasn't being productive enough.",
+      "explanation": "It uses sarcasm to ironically praise excessive screen time, highlighting the modern paradox of digital 'productivity' and actual output."
     },
     "zh": {
-      "joke": "我的人生哲学就是：万事皆可静音，唯有快递电话不能。"
+      "joke": "今天老板问我周末有什么计划？我说：计划活着。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jean-Baptiste Colbert",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Colbert1666.jpg/330px-Colbert1666.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French statesman (1619–1683)",
-        "extract": "Jean-Baptiste Colbert was a French statesman who served as First Minister of State from 1661 until his death in 1683 under the rule of King Louis XIV. His lasting impact on the organization of the country's politics and markets, known as Colbertism, a doctrine often characterized as a variant of mercantilism, earned him the nickname le Grand Colbert.",
-        "born": 1619,
+        "name": "Henry Blanco",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Henry_Blanco_from_Nationals_vs._Braves_at_Nationals_Park%2C_April_6th%2C_2021_%28All-Pro_Reels_Photography%29_%2851101619492%29_%28cropped%29.png/330px-Henry_Blanco_from_Nationals_vs._Braves_at_Nationals_Park%2C_April_6th%2C_2021_%28All-Pro_Reels_Photography%29_%2851101619492%29_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Venezuelan baseball player and coach (born 1971)",
+        "extract": "Henry Ramón Blanco is a Venezuelan former professional baseball catcher who currently serves as the manager for the Sultanes de Monterrey of the Mexican League. He played in Major League Baseball (MLB) from 1997 to 2013, appearing for the Los Angeles Dodgers, Colorado Rockies, Milwaukee Brewers, Atlanta Braves, Minnesota Twins, Chicago Cubs, San Diego Padres, New York Mets, Arizona Diamondbacks, Toronto Blue Jays, and Seattle Mariners. He later served as quality assurance coach for the Cubs. Although a light-hitting player, he was regarded as one of the best defensive catchers of his era.",
+        "born": 1971,
         "highlights": [
-          "Served as First Minister of State under King Louis XIV.",
-          "Created Colbertism, a doctrine impacting politics and markets.",
-          "Earned the nickname \"le Grand Colbert\"."
+          "Former MLB professional baseball catcher (1997-2013).",
+          "Currently manages Sultanes de Monterrey.",
+          "Regarded as one of the best defensive catchers."
         ]
       },
       {
-        "name": "Kevin Kaesviharn",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kevin_Kaesviharn_in_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American football player (born 1976)",
-        "extract": "Kevin Robert Kaesviharn is an American former professional football player who was a safety in the National Football League (NFL). He was signed by the Iowa Barnstormers as a street free agent in 1998. He played college football for the Augustana Vikings.",
-        "born": 1976,
+        "name": "Hyacinth (Bichurin)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Iakinf_Bichurin.jpg/330px-Iakinf_Bichurin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Russian sinologist, historian, and missionary (1777–1853)",
+        "extract": "Nikita Yakovlevich Bichurin, better known under his archimandrite monastic name Hyacinth, sometimes known as Joacinth or Iakinf, was one of the founding fathers of Russian Sinology. He translated many works from Chinese into Russian, which were then translated into other European languages.",
+        "born": 1777,
         "highlights": [
-          "Former professional football safety in the NFL.",
-          "Signed by Iowa Barnstormers as a street free agent.",
-          "Played college football for the Augustana Vikings."
+          "Founding father of Russian Sinology.",
+          "Translated many works from Chinese.",
+          "His translations were translated into other European languages."
         ]
       },
       {
-        "name": "Néstor Araujo",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_43_%28cropped%29.jpg/330px-XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_43_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican footballer (born 1991)",
-        "extract": "Néstor Alejandro Araujo Razo is a Mexican professional footballer who plays as a centre-back. He is an Olympic gold medalist.",
-        "born": 1991,
+        "name": "Werner Forssmann",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Werner_Forssmann_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "German physician, Nobel prize winner (1904–1979)",
+        "extract": "Werner Theodor Otto Forßmann was a German researcher and physician from Germany who shared the 1956 Nobel Prize in Medicine for developing a procedure that allowed cardiac catheterization. In 1929, he put himself under local anesthesia and inserted a catheter into a vein of his arm. Not knowing if the catheter might pierce a vein, he put his life at risk. Forssmann was nevertheless successful; he safely passed the catheter into his heart.",
+        "born": 1904,
         "highlights": [
-          "Mexican professional footballer, plays as centre-back.",
-          "Is an Olympic gold medalist."
+          "Shared 1956 Nobel Prize in Medicine.",
+          "Developed procedure for cardiac catheterization.",
+          "Performed first cardiac catheterization on himself."
         ]
       }
     ]
