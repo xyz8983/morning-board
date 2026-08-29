@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-28T22:53:49.578Z",
+  "generatedAt": "2026-08-29T01:58:28.832Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.9,
+    "tempC": 22.3,
     "condition": "Light drizzle",
     "code": 51,
     "highC": 28.1,
-    "lowC": 20.4,
+    "lowC": 20.7,
     "rainChance": 22
   },
   "hotTopics": {
@@ -14,33 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Eagles",
-          "2026 Schedule"
+          "Ohio State",
+          "Football"
         ],
-        "summary": "Eagles 2026 schedule is buzzing as fans anticipate future matchups."
+        "summary": "Ohio State football is buzzing due to recent team performance and upcoming season expectations."
       },
       {
         "keywords": [
-          "Sun",
-          "Fever",
+          "Cody Bellinger",
+          "MLB"
+        ],
+        "summary": "Cody Bellinger is buzzing as a top free agent in MLB, with contract talks ongoing."
+      },
+      {
+        "keywords": [
+          "Michael Harris II",
+          "Braves"
+        ],
+        "summary": "Michael Harris II is buzzing for his impressive performance and potential with the Atlanta Braves."
+      },
+      {
+        "keywords": [
+          "Kelsey Mitchell",
           "WNBA"
         ],
-        "summary": "Sun vs. Fever is buzzing due to a highly anticipated WNBA matchup."
-      },
-      {
-        "keywords": [
-          "Fire",
-          "Dream",
-          "WNBA"
-        ],
-        "summary": "Fire vs. Dream is buzzing as fans look forward to this WNBA game."
-      },
-      {
-        "keywords": [
-          "Cowboys",
-          "Schedule"
-        ],
-        "summary": "Cowboys schedule is buzzing as fans eagerly await upcoming games."
+        "summary": "Kelsey Mitchell is buzzing for her scoring prowess and leadership on the Indiana Fever."
       }
     ]
   },
@@ -79,7 +77,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3952.179,
-        "changePct": 1.0136433807367147
+        "changePct": -0.11100521133071606
       },
       {
         "region": "Asia",
@@ -99,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My Wi-Fi went out. I stared at the wall.",
-      "explanation": "Humor comes from the deadpan, relatable anti-climax, subverting expectations of a clever solution or observation."
+      "joke": "I opened social media, saw everyone else's highlight reels, and immediately closed it. My thumb just needed a workout.",
+      "explanation": "It's funny because it uses deadpan humor to satirize the fleeting, often discouraging nature of social media comparison, ironically calling the avoidance a 'thumb workout'."
     },
     "zh": {
-      "joke": "我的人生哲学很简单：能躺着绝不坐着，能坐着绝不站着。这不叫懒惰，这叫对重力的深刻理解与顺从。"
+      "joke": "我跟AI聊天，它什么都懂，就是不能帮我把快递拆了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Maurizio Costanzo",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Costanzobau_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Italian television presenter (1938–2023)",
-        "extract": "Maurizio Costanzo was an Italian television host, journalist, screenwriter, and film director.",
-        "born": 1938,
+        "name": "Lenny Henry",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sir_Lenny_Henry_signing_books_%282%29_-_Copy.jpg/330px-Sir_Lenny_Henry_signing_books_%282%29_-_Copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British comedian and actor (born 1958)",
+        "extract": "Sir Lenworth George Henry is a British comedian, actor, presenter and writer. He gained success as a stand-up comedian and impressionist in the late 1970s and early 1980s, becoming a regular cast member of the children's entertainment show Tiswas and the sketch comedy show Three of a Kind. In 1984, he began The Lenny Henry Show, which ran until 2005 and varied between sketch show and sitcom during its run. He was the most prominent black British comedian of the late 1970s and 1980s, and much of his material served to celebrate and parody his African-Caribbean roots.",
+        "born": 1958,
         "highlights": [
-          "Italian television host.",
-          "Journalist and screenwriter.",
-          "Also a film director."
+          "Regular cast member of Tiswas and Three of a Kind.",
+          "Began The Lenny Henry Show (1984-2005).",
+          "Prominent black British comedian of late 1970s and 1980s."
         ]
       },
       {
-        "name": "Jack Vance",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jack_Vance_Boat_Skipper.jpg/330px-Jack_Vance_Boat_Skipper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American writer (1916–2013)",
-        "extract": "John Holbrook Vance was an American writer of fantasy, science fiction, and mysteries. He wrote several mystery novels under pen names, including Ellery Queen.",
-        "born": 1916,
+        "name": "Charles Townshend",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CharlesTownshend.jpg/330px-CharlesTownshend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British politician (1725–1767)",
+        "extract": "Charles Townshend was a British politician who held various titles in the Parliament of Great Britain. His establishment of the controversial Townshend Acts is considered one of the key causes of the American Revolution.",
+        "born": 1725,
         "highlights": [
-          "American writer of fantasy and science fiction.",
-          "Also wrote mystery novels.",
-          "Used pen names, including Ellery Queen."
+          "British politician.",
+          "Established the controversial Townshend Acts.",
+          "Townshend Acts were a key cause of American Revolution."
         ]
       },
       {
-        "name": "Kezia Dugdale",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kezia_Dugdale_MSP_-_May_2016.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Former Scottish politician (born 1981)",
-        "extract": "Kezia Alexandra Ross Dugdale is a Scottish former politician who served as Leader of the Scottish Labour Party from 2015 to 2017. A former member of the Scottish Labour Party and Co-operative Party, she was a Member of the Scottish Parliament (MSP) for the Lothian region from 2011 to 2019.",
-        "born": 1981,
+        "name": "Sterling Morrison",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sterling_Morrison_circa_1966.jpg/330px-Sterling_Morrison_circa_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American musician (1942–1995)",
+        "extract": "Holmes Sterling Morrison Jr. was an American musician, best known as one of the founding members of the rock band the Velvet Underground. He usually played electric guitar, occasionally played bass guitar, and provided backing vocals.",
+        "born": 1942,
         "highlights": [
-          "Scottish former politician.",
-          "Leader of the Scottish Labour Party (2015-2017).",
-          "Member of Scottish Parliament (MSP) for Lothian (2011-2019)."
+          "American musician.",
+          "Founding member of the Velvet Underground.",
+          "Played electric guitar and bass guitar."
         ]
       }
     ]
