@@ -1,44 +1,43 @@
 {
-  "generatedAt": "2026-08-29T01:58:28.832Z",
+  "generatedAt": "2026-08-29T16:58:42.588Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.3,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 28.1,
-    "lowC": 20.7,
-    "rainChance": 22
+    "tempC": 23.8,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 26.3,
+    "lowC": 16,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Ohio State",
-          "Football"
+          "Nico González",
+          "Footballer"
         ],
-        "summary": "Ohio State football is buzzing due to recent team performance and upcoming season expectations."
+        "summary": "Nico González is buzzing due to recent transfer rumors and strong performances on the field."
       },
       {
         "keywords": [
-          "Cody Bellinger",
-          "MLB"
+          "Disney+ Technology"
         ],
-        "summary": "Cody Bellinger is buzzing as a top free agent in MLB, with contract talks ongoing."
+        "summary": "Disney+ is buzzing with new content releases and subscription strategy changes."
       },
       {
         "keywords": [
-          "Michael Harris II",
-          "Braves"
+          "Fantasy Pros",
+          "Sports Advice"
         ],
-        "summary": "Michael Harris II is buzzing for his impressive performance and potential with the Atlanta Braves."
+        "summary": "Fantasy Pros is buzzing as fantasy sports enthusiasts seek expert advice for upcoming drafts."
       },
       {
         "keywords": [
-          "Kelsey Mitchell",
-          "WNBA"
+          "Sassuolo",
+          "Torino Match"
         ],
-        "summary": "Kelsey Mitchell is buzzing for her scoring prowess and leadership on the Indiana Fever."
+        "summary": "Sassuolo vs Torino is buzzing due to an anticipated Serie A match and its league implications."
       }
     ]
   },
@@ -70,14 +69,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10824.26,
-        "changePct": 0.29390671704713944
+        "changePct": 0.29427843409775506
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3952.179,
-        "changePct": -0.11100521133071606
+        "changePct": -0.11097996496965999
       },
       {
         "region": "Asia",
@@ -91,56 +90,55 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 25584.79,
-        "changePct": -0.2658948271157336
+        "changePct": 0.07467035911396967
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I opened social media, saw everyone else's highlight reels, and immediately closed it. My thumb just needed a workout.",
-      "explanation": "It's funny because it uses deadpan humor to satirize the fleeting, often discouraging nature of social media comparison, ironically calling the avoidance a 'thumb workout'."
+      "joke": "My therapist told me to embrace detachment. So I left my phone on silent for an hour. The existential dread was immaculate.",
+      "explanation": "It's a dry, ironic take on modern phone dependency and the anxiety of disconnecting, using internet slang ('immaculate')."
     },
     "zh": {
-      "joke": "我跟AI聊天，它什么都懂，就是不能帮我把快递拆了。"
+      "joke": "我的人生哲学就是：万事皆可静音，唯有快递电话不能。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Lenny Henry",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sir_Lenny_Henry_signing_books_%282%29_-_Copy.jpg/330px-Sir_Lenny_Henry_signing_books_%282%29_-_Copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British comedian and actor (born 1958)",
-        "extract": "Sir Lenworth George Henry is a British comedian, actor, presenter and writer. He gained success as a stand-up comedian and impressionist in the late 1970s and early 1980s, becoming a regular cast member of the children's entertainment show Tiswas and the sketch comedy show Three of a Kind. In 1984, he began The Lenny Henry Show, which ran until 2005 and varied between sketch show and sitcom during its run. He was the most prominent black British comedian of the late 1970s and 1980s, and much of his material served to celebrate and parody his African-Caribbean roots.",
-        "born": 1958,
+        "name": "Jean-Baptiste Colbert",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Colbert1666.jpg/330px-Colbert1666.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French statesman (1619–1683)",
+        "extract": "Jean-Baptiste Colbert was a French statesman who served as First Minister of State from 1661 until his death in 1683 under the rule of King Louis XIV. His lasting impact on the organization of the country's politics and markets, known as Colbertism, a doctrine often characterized as a variant of mercantilism, earned him the nickname le Grand Colbert.",
+        "born": 1619,
         "highlights": [
-          "Regular cast member of Tiswas and Three of a Kind.",
-          "Began The Lenny Henry Show (1984-2005).",
-          "Prominent black British comedian of late 1970s and 1980s."
+          "Served as First Minister of State under King Louis XIV.",
+          "Created Colbertism, a doctrine impacting politics and markets.",
+          "Earned the nickname \"le Grand Colbert\"."
         ]
       },
       {
-        "name": "Charles Townshend",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CharlesTownshend.jpg/330px-CharlesTownshend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British politician (1725–1767)",
-        "extract": "Charles Townshend was a British politician who held various titles in the Parliament of Great Britain. His establishment of the controversial Townshend Acts is considered one of the key causes of the American Revolution.",
-        "born": 1725,
+        "name": "Kevin Kaesviharn",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kevin_Kaesviharn_in_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American football player (born 1976)",
+        "extract": "Kevin Robert Kaesviharn is an American former professional football player who was a safety in the National Football League (NFL). He was signed by the Iowa Barnstormers as a street free agent in 1998. He played college football for the Augustana Vikings.",
+        "born": 1976,
         "highlights": [
-          "British politician.",
-          "Established the controversial Townshend Acts.",
-          "Townshend Acts were a key cause of American Revolution."
+          "Former professional football safety in the NFL.",
+          "Signed by Iowa Barnstormers as a street free agent.",
+          "Played college football for the Augustana Vikings."
         ]
       },
       {
-        "name": "Sterling Morrison",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sterling_Morrison_circa_1966.jpg/330px-Sterling_Morrison_circa_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American musician (1942–1995)",
-        "extract": "Holmes Sterling Morrison Jr. was an American musician, best known as one of the founding members of the rock band the Velvet Underground. He usually played electric guitar, occasionally played bass guitar, and provided backing vocals.",
-        "born": 1942,
+        "name": "Néstor Araujo",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_43_%28cropped%29.jpg/330px-XXIII_Memorial_Quinocho_%28RC_Celta_vs_Mainz_05%29_-_43_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican footballer (born 1991)",
+        "extract": "Néstor Alejandro Araujo Razo is a Mexican professional footballer who plays as a centre-back. He is an Olympic gold medalist.",
+        "born": 1991,
         "highlights": [
-          "American musician.",
-          "Founding member of the Velvet Underground.",
-          "Played electric guitar and bass guitar."
+          "Mexican professional footballer, plays as centre-back.",
+          "Is an Olympic gold medalist."
         ]
       }
     ]
