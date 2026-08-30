@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-30T17:12:54.746Z",
+  "generatedAt": "2026-08-30T21:49:36.640Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.8,
-    "condition": "Drizzle",
-    "code": 53,
-    "highC": 26,
+    "tempC": 25,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 26.1,
     "lowC": 18,
-    "rainChance": 23
+    "rainChance": 21
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Football Match",
-          "Deportivo Valencia"
+          "Tank Dell",
+          "NFL"
         ],
-        "summary": "Deportivo vs Valencia is buzzing due to a highly anticipated football match."
+        "summary": "Tank Dell is buzzing due to his impressive performance and potential impact in the NFL."
       },
       {
         "keywords": [
-          "Netflix Show",
-          "Stranger Things"
+          "Walter Rouse",
+          "Football"
         ],
-        "summary": "Stranger Things is buzzing as fans anticipate news or updates about the popular series."
+        "summary": "Walter Rouse is buzzing as a top prospect in college football, drawing attention for his skills."
       },
       {
         "keywords": [
-          "Football Player",
-          "Arda Güler"
+          "Coby Mayo",
+          "Baseball"
         ],
-        "summary": "Arda Güler is buzzing due to recent news or performance from the football player."
+        "summary": "Coby Mayo is buzzing as a rising star in baseball, making waves with his recent play."
       },
       {
         "keywords": [
-          "Fantasy Sports",
-          "FantasyPros"
+          "Scottie Scheffler",
+          "Golf"
         ],
-        "summary": "FantasyPros is buzzing as a go-to resource for fantasy sports advice and tools."
+        "summary": "Scottie Scheffler is buzzing due to his dominant recent golf performances and major wins."
       }
     ]
   },
@@ -70,77 +70,77 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10824.26,
-        "changePct": 0.29390671704713944
+        "changePct": 0.29427843409775506
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3952.179,
-        "changePct": -0.11100521133071606
+        "changePct": -0.11097996496965999
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4609.176,
-        "changePct": -0.45571787605794767
+        "changePct": -0.45578237169241087
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 25584.79,
-        "changePct": 0.0745137828985168
+        "changePct": 0.07467035911396967
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I really appreciate the delivery app notifying me every 30 seconds that my food is still 'on its way.' What would I do without that crucial update?",
-      "explanation": "It's funny because it's a sarcastic take on excessive, unhelpful notifications from delivery apps, highlighting their often-pointless updates."
+      "joke": "I asked AI to write my obituary. It responded: 'Finally, some peace and quiet.'",
+      "explanation": "It's dark humor implying death brings peace from modern life's constant demands, delivered by an AI in a deadpan, almost sarcastic tone."
     },
     "zh": {
-      "joke": "为了响应提倡的‘早睡早起’，我决定把每天熬夜的时间从凌晨三点提前到凌晨一点。进步就是从这里开始的。"
+      "joke": "我不是在摸鱼，我是在进行一项长期的、高度个人化的‘工作效率与生命价值权衡’的哲学实验。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Adam Wainwright",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Adam_Wainright_%28cropped%29.jpg/330px-Adam_Wainright_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player (born 1981)",
-        "extract": "Adam Parrish Wainwright, nicknamed \"Waino\" and \"Uncle Charlie\", is an American former professional baseball pitcher who spent his entire 18-year Major League Baseball (MLB) career with the St. Louis Cardinals.",
-        "born": 1981,
+        "name": "Craig Whittaker",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Official_portrait_of_Craig_Whittaker_MP_crop_2.jpg/330px-Official_portrait_of_Craig_Whittaker_MP_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British politician (born 1962)",
+        "extract": "Craig Whittaker is a British Conservative Party politician who served as the Member of Parliament (MP) for Calder Valley from 2010 to 2024. He served as Government Deputy Chief Whip and Treasurer of the Household from September to October 2022. He previously served as a Lord Commissioner of the Treasury from January 2018 to April 2019 and again from July to September 2022.",
+        "born": 1962,
         "highlights": [
-          "Former MLB pitcher.",
-          "Played 18 years with St. Louis Cardinals.",
-          "Spent entire MLB career with one team."
+          "MP for Calder Valley (2010-2024).",
+          "Served as Government Deputy Chief Whip.",
+          "Served as a Lord Commissioner of the Treasury."
         ]
       },
       {
-        "name": "Vladimir Malakhov (ice hockey)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vladimir_Malakhov_%28hockey%29.JPG/330px-Vladimir_Malakhov_%28hockey%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Russian ice hockey player (born 1968)",
-        "extract": "Vladimir Igorevich Malakhov is a Russian former professional ice hockey player of the National Hockey League (NHL). He has also played in the Russian Super League. Currently, Malakhov is a Player Development coach for the New York Islanders.",
-        "born": 1968,
+        "name": "Marcelo H. del Pilar",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/M.H.delPilaryGatmaitan.jpg/330px-M.H.delPilaryGatmaitan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Filipino writer, lawyer, and journalist",
+        "extract": "Marcelo Hilario del Pilar y Gatmaitán, commonly known as Marcelo H. del Pilar and also known by his nom de plume Pláridel, was a Filipino writer, lawyer, journalist, and freemason. Del Pilar, along with José Rizal and Graciano López Jaena, became known as the leaders of the Reform Movement in Spain.",
+        "born": 1850,
         "highlights": [
-          "Former NHL ice hockey player.",
-          "Played in Russian Super League.",
-          "Currently a coach for New York Islanders."
+          "Filipino writer, lawyer, journalist, and freemason.",
+          "Known by his nom de plume Pláridel.",
+          "Leader of the Reform Movement in Spain."
         ]
       },
       {
-        "name": "Mikal Bridges",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mikal_Bridges%2C_April_2024.jpg/330px-Mikal_Bridges%2C_April_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball player (born 1996)",
-        "extract": "Mikal Bridges is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA). He played college basketball for the Villanova Wildcats, winning national championships in 2016 and 2018. As of June 2026, Bridges holds the active record for the most consecutive games played and has the eighth-longest consecutive game streak of all time, having not missed a game in his NBA career since being drafted.",
-        "born": 1996,
+        "name": "Andrew Onderdonk",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Andrew_Onderdonk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American construction contractor",
+        "extract": "Andrew Onderdonk was an American construction contractor who worked on several major projects in the West, including the San Francisco seawall in California and the Canadian Pacific Railway in British Columbia. He was born in New York City to an established ethnic Dutch family. He received his education at the Rensselaer Polytechnic Institute.",
+        "born": 1848,
         "highlights": [
-          "NBA player for the New York Knicks.",
-          "Won two college national championships with Villanova.",
-          "Holds active record for most consecutive games played."
+          "American construction contractor.",
+          "Worked on the San Francisco seawall.",
+          "Worked on the Canadian Pacific Railway."
         ]
       }
     ]
