@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-29T21:29:55.392Z",
+  "generatedAt": "2026-08-30T17:12:54.746Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.9,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 25.6,
-    "lowC": 16,
-    "rainChance": 0
+    "tempC": 21.8,
+    "condition": "Drizzle",
+    "code": 53,
+    "highC": 26,
+    "lowC": 18,
+    "rainChance": 23
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Adam Scott",
-          "Golfer"
+          "Football Match",
+          "Deportivo Valencia"
         ],
-        "summary": "Adam Scott is buzzing due to recent golf tournament performance."
+        "summary": "Deportivo vs Valencia is buzzing due to a highly anticipated football match."
       },
       {
         "keywords": [
-          "Tyrone Taylor",
-          "Baseball"
+          "Netflix Show",
+          "Stranger Things"
         ],
-        "summary": "Tyrone Taylor is buzzing for his recent MLB performance and contributions."
+        "summary": "Stranger Things is buzzing as fans anticipate news or updates about the popular series."
       },
       {
         "keywords": [
-          "Jaguares",
-          "América FC"
+          "Football Player",
+          "Arda Güler"
         ],
-        "summary": "Jaguares vs. América is buzzing after a significant soccer match result."
+        "summary": "Arda Güler is buzzing due to recent news or performance from the football player."
       },
       {
         "keywords": [
-          "Pete Crow-Armstrong",
-          "Stats"
+          "Fantasy Sports",
+          "FantasyPros"
         ],
-        "summary": "Pete Crow-Armstrong's impressive baseball stats are why he's buzzing."
+        "summary": "FantasyPros is buzzing as a go-to resource for fantasy sports advice and tools."
       }
     ]
   },
@@ -56,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 26402.424,
-        "changePct": -0.5234398006552187
+        "changePct": -0.5236197035574702
       },
       {
         "region": "Europe",
@@ -70,14 +70,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10824.26,
-        "changePct": 0.29427843409775506
+        "changePct": 0.29390671704713944
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3952.179,
-        "changePct": -0.11097996496965999
+        "changePct": -0.11100521133071606
       },
       {
         "region": "Asia",
@@ -91,56 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 25584.79,
-        "changePct": 0.07467035911396967
+        "changePct": 0.0745137828985168
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone notified me I've spent 8 hours on screen today. Great, I was worried I wasn't being productive enough.",
-      "explanation": "It uses sarcasm to ironically praise excessive screen time, highlighting the modern paradox of digital 'productivity' and actual output."
+      "joke": "I really appreciate the delivery app notifying me every 30 seconds that my food is still 'on its way.' What would I do without that crucial update?",
+      "explanation": "It's funny because it's a sarcastic take on excessive, unhelpful notifications from delivery apps, highlighting their often-pointless updates."
     },
     "zh": {
-      "joke": "今天老板问我周末有什么计划？我说：计划活着。"
+      "joke": "为了响应提倡的‘早睡早起’，我决定把每天熬夜的时间从凌晨三点提前到凌晨一点。进步就是从这里开始的。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Henry Blanco",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Henry_Blanco_from_Nationals_vs._Braves_at_Nationals_Park%2C_April_6th%2C_2021_%28All-Pro_Reels_Photography%29_%2851101619492%29_%28cropped%29.png/330px-Henry_Blanco_from_Nationals_vs._Braves_at_Nationals_Park%2C_April_6th%2C_2021_%28All-Pro_Reels_Photography%29_%2851101619492%29_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Venezuelan baseball player and coach (born 1971)",
-        "extract": "Henry Ramón Blanco is a Venezuelan former professional baseball catcher who currently serves as the manager for the Sultanes de Monterrey of the Mexican League. He played in Major League Baseball (MLB) from 1997 to 2013, appearing for the Los Angeles Dodgers, Colorado Rockies, Milwaukee Brewers, Atlanta Braves, Minnesota Twins, Chicago Cubs, San Diego Padres, New York Mets, Arizona Diamondbacks, Toronto Blue Jays, and Seattle Mariners. He later served as quality assurance coach for the Cubs. Although a light-hitting player, he was regarded as one of the best defensive catchers of his era.",
-        "born": 1971,
+        "name": "Adam Wainwright",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Adam_Wainright_%28cropped%29.jpg/330px-Adam_Wainright_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball player (born 1981)",
+        "extract": "Adam Parrish Wainwright, nicknamed \"Waino\" and \"Uncle Charlie\", is an American former professional baseball pitcher who spent his entire 18-year Major League Baseball (MLB) career with the St. Louis Cardinals.",
+        "born": 1981,
         "highlights": [
-          "Former MLB professional baseball catcher (1997-2013).",
-          "Currently manages Sultanes de Monterrey.",
-          "Regarded as one of the best defensive catchers."
+          "Former MLB pitcher.",
+          "Played 18 years with St. Louis Cardinals.",
+          "Spent entire MLB career with one team."
         ]
       },
       {
-        "name": "Hyacinth (Bichurin)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Iakinf_Bichurin.jpg/330px-Iakinf_Bichurin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Russian sinologist, historian, and missionary (1777–1853)",
-        "extract": "Nikita Yakovlevich Bichurin, better known under his archimandrite monastic name Hyacinth, sometimes known as Joacinth or Iakinf, was one of the founding fathers of Russian Sinology. He translated many works from Chinese into Russian, which were then translated into other European languages.",
-        "born": 1777,
+        "name": "Vladimir Malakhov (ice hockey)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vladimir_Malakhov_%28hockey%29.JPG/330px-Vladimir_Malakhov_%28hockey%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Russian ice hockey player (born 1968)",
+        "extract": "Vladimir Igorevich Malakhov is a Russian former professional ice hockey player of the National Hockey League (NHL). He has also played in the Russian Super League. Currently, Malakhov is a Player Development coach for the New York Islanders.",
+        "born": 1968,
         "highlights": [
-          "Founding father of Russian Sinology.",
-          "Translated many works from Chinese.",
-          "His translations were translated into other European languages."
+          "Former NHL ice hockey player.",
+          "Played in Russian Super League.",
+          "Currently a coach for New York Islanders."
         ]
       },
       {
-        "name": "Werner Forssmann",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Werner_Forssmann_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "German physician, Nobel prize winner (1904–1979)",
-        "extract": "Werner Theodor Otto Forßmann was a German researcher and physician from Germany who shared the 1956 Nobel Prize in Medicine for developing a procedure that allowed cardiac catheterization. In 1929, he put himself under local anesthesia and inserted a catheter into a vein of his arm. Not knowing if the catheter might pierce a vein, he put his life at risk. Forssmann was nevertheless successful; he safely passed the catheter into his heart.",
-        "born": 1904,
+        "name": "Mikal Bridges",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mikal_Bridges%2C_April_2024.jpg/330px-Mikal_Bridges%2C_April_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player (born 1996)",
+        "extract": "Mikal Bridges is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA). He played college basketball for the Villanova Wildcats, winning national championships in 2016 and 2018. As of June 2026, Bridges holds the active record for the most consecutive games played and has the eighth-longest consecutive game streak of all time, having not missed a game in his NBA career since being drafted.",
+        "born": 1996,
         "highlights": [
-          "Shared 1956 Nobel Prize in Medicine.",
-          "Developed procedure for cardiac catheterization.",
-          "Performed first cardiac catheterization on himself."
+          "NBA player for the New York Knicks.",
+          "Won two college national championships with Villanova.",
+          "Holds active record for most consecutive games played."
         ]
       }
     ]
