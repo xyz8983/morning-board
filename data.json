@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T19:24:10.375Z",
+  "generatedAt": "2026-08-31T23:05:55.520Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.1,
+    "tempC": 22.4,
     "condition": "Overcast",
     "code": 3,
     "highC": 25.6,
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Jake Moody",
-          "Kicker"
+          "MLB",
+          "Baseball Rivalry"
         ],
-        "summary": "Jake Moody is buzzing for his recent performance on the field."
+        "summary": "Tigers vs Twins is buzzing as a key MLB matchup."
       },
       {
         "keywords": [
-          "Fox News",
-          "Media"
+          "Wind Power",
+          "Energy Tech"
         ],
-        "summary": "Fox News is buzzing due to its recent news coverage and political commentary."
+        "summary": "Turbine technology is buzzing due to advancements in renewable energy."
       },
       {
         "keywords": [
-          "Barcelona",
-          "Rayo Match"
+          "Tennis Star",
+          "Sports Comeback"
         ],
-        "summary": "The Barcelona vs Rayo Vallecano football match is buzzing with fan anticipation."
+        "summary": "Naomi Osaka is buzzing with her return to professional tennis."
       },
       {
         "keywords": [
-          "Mariners",
-          "Rookie Card"
+          "MLB Player",
+          "Braves Star"
         ],
-        "summary": "The Seattle Mariners Jimothy rookie card is buzzing among sports memorabilia collectors."
+        "summary": "Michael Harris II is buzzing for his recent performance with the Braves."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7680.62,
-        "changePct": -0.4037988734089277
+        "price": 7686.14,
+        "changePct": -0.33221988236148287
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26309.61,
-        "changePct": -0.35153590443058746
+        "price": 26370.889,
+        "changePct": -0.11943979083132615
       },
       {
         "region": "Europe",
@@ -95,52 +95,43 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "My therapist asked if I felt seen. I told her only by the algorithm trying to sell me weighted blankets.",
-      "explanation": "It uses the serious context of therapy to highlight the pervasive, impersonal 'seeing' by algorithms, satirizing modern digital life."
-    },
-    "zh": {
-      "joke": "领导问我，你这周末加班吗？我说，不了，我已经达到了人机融合的境界，工作和生活已经无法分清了。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sara Ramirez",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sara_Ram%C3%ADrez3.jpg/330px-Sara_Ram%C3%ADrez3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican-American actor (born 1975)",
-        "extract": "Sara Elena Ramírez Vargas is a Mexican and American actor, singer and activist. Born in Mazatlán, Sinaloa, Ramírez moved from Mexico to the United States at eight years old, eventually graduating with a fine arts degree from the Juilliard School.",
-        "born": 1975,
+        "name": "Athena (wrestler)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Athena_-_August_29_2025_%28cropped1%29.jpg/330px-Athena_-_August_29_2025_%28cropped1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American professional wrestler (born 1988)",
+        "extract": "Adrienne Palmer is an American professional wrestler. She is signed to All Elite Wrestling (AEW), where she performs under the ring name Athena. She primarily appears in AEW's sister promotion Ring of Honor (ROH), where she is the leader of the M.I.T stable and the current ROH Women's World Champion in her first reign; at 1360 days, she is the longest-reigning champion in ROH history. She also makes appearances on the independent circuit and is the co-owner of Metroplex Wrestling.",
+        "born": 1988,
         "highlights": [
-          "Mexican and American actor, singer, and activist.",
-          "Graduated with a fine arts degree from Juilliard School.",
-          "Born in Mazatlán, Sinaloa, Mexico."
+          "Current ROH Women's World Champion.",
+          "Longest-reigning champion in ROH history.",
+          "Leader of the M.I.T stable."
         ]
       },
       {
-        "name": "Altiero Spinelli",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altiero_Spinelli_1970.jpg/330px-Altiero_Spinelli_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian politician (1907–1986)",
-        "extract": "Altiero Spinelli was an Italian politician, political theorist and European federalist, referred to as one of the founding fathers of the European Union. A communist and militant anti-fascist in his youth, Spinelli spent 10 years imprisoned by the Italian fascist regime. Having grown disillusioned with Stalinism, he broke with the Communist Party of Italy in 1937. Interned in Ventotene during World War II, he, along with fellow democratic socialists, drafted the manifesto For a Free and United Europe in 1941, considered a precursor of the European integration process.",
-        "born": 1907,
+        "name": "Bernard Lovell",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sir_Bernard_Lovell.jpg/330px-Sir_Bernard_Lovell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English physicist and radio astronomer (1913–2012)",
+        "extract": "Sir Alfred Charles Bernard Lovell was an English physicist and radio astronomer. He was the first director of Jodrell Bank Observatory, from 1945 to 1980.",
+        "born": 1913,
         "highlights": [
-          "One of the founding fathers of the European Union.",
-          "Imprisoned for 10 years by Italian fascist regime.",
-          "Drafted \"For a Free and United Europe\" manifesto in 1941."
+          "English physicist and radio astronomer.",
+          "First director of Jodrell Bank Observatory.",
+          "Directed Jodrell Bank Observatory from 1945 to 1980."
         ]
       },
       {
-        "name": "Jerome Corsi",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Jerome_Corsi.jpg/330px-Jerome_Corsi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American conservative author (born 1946)",
-        "extract": "Jerome Robert Corsi is an American conspiracy theorist and author. His two New York Times best-selling books, Unfit for Command (2004) and The Obama Nation (2008), attacked Democratic presidential candidates and have been criticized for inaccuracies.",
-        "born": 1946,
+        "name": "Théophile Gautier",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Th%C3%A9ophile_Gautier_by_Nadar_c1856-1.jpg/330px-Th%C3%A9ophile_Gautier_by_Nadar_c1856-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French poet, dramatist and novelist (1811–1872)",
+        "extract": "Pierre Jules Théophile Gautier was a French poet, dramatist, novelist, journalist, and art and literary critic.",
+        "born": 1811,
         "highlights": [
-          "American conspiracy theorist and author.",
-          "Authored NYT best-seller \"Unfit for Command\" (2004).",
-          "Authored NYT best-seller \"The Obama Nation\" (2008)."
+          "French poet and dramatist.",
+          "Novelist and journalist.",
+          "Art and literary critic."
         ]
       }
     ]
