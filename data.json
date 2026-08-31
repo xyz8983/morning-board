@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-30T21:49:36.640Z",
+  "generatedAt": "2026-08-31T19:24:10.375Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25,
+    "tempC": 25.1,
     "condition": "Overcast",
     "code": 3,
-    "highC": 26.1,
-    "lowC": 18,
-    "rainChance": 21
+    "highC": 25.6,
+    "lowC": 20.7,
+    "rainChance": 17
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Tank Dell",
-          "NFL"
+          "Jake Moody",
+          "Kicker"
         ],
-        "summary": "Tank Dell is buzzing due to his impressive performance and potential impact in the NFL."
+        "summary": "Jake Moody is buzzing for his recent performance on the field."
       },
       {
         "keywords": [
-          "Walter Rouse",
-          "Football"
+          "Fox News",
+          "Media"
         ],
-        "summary": "Walter Rouse is buzzing as a top prospect in college football, drawing attention for his skills."
+        "summary": "Fox News is buzzing due to its recent news coverage and political commentary."
       },
       {
         "keywords": [
-          "Coby Mayo",
-          "Baseball"
+          "Barcelona",
+          "Rayo Match"
         ],
-        "summary": "Coby Mayo is buzzing as a rising star in baseball, making waves with his recent play."
+        "summary": "The Barcelona vs Rayo Vallecano football match is buzzing with fan anticipation."
       },
       {
         "keywords": [
-          "Scottie Scheffler",
-          "Golf"
+          "Mariners",
+          "Rookie Card"
         ],
-        "summary": "Scottie Scheffler is buzzing due to his dominant recent golf performances and major wins."
+        "summary": "The Seattle Mariners Jimothy rookie card is buzzing among sports memorabilia collectors."
       }
     ]
   },
@@ -48,22 +48,22 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7711.76,
-        "changePct": -0.24873916535915275
+        "price": 7680.62,
+        "changePct": -0.4037988734089277
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26402.424,
-        "changePct": -0.5236197035574702
+        "price": 26309.61,
+        "changePct": -0.35153590443058746
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6485.67,
-        "changePct": 0.9485223503555872
+        "price": 6420.16,
+        "changePct": -1.0100729762692247
       },
       {
         "region": "Europe",
@@ -76,71 +76,71 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3952.179,
-        "changePct": -0.11097996496965999
+        "price": 3986.298,
+        "changePct": 0.863295918529998
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4609.176,
-        "changePct": -0.45578237169241087
+        "price": 4625.0864,
+        "changePct": 0.34518315127152016
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25584.79,
-        "changePct": 0.07467035911396967
+        "price": 25566.99,
+        "changePct": -0.06957258589966644
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write my obituary. It responded: 'Finally, some peace and quiet.'",
-      "explanation": "It's dark humor implying death brings peace from modern life's constant demands, delivered by an AI in a deadpan, almost sarcastic tone."
+      "joke": "My therapist asked if I felt seen. I told her only by the algorithm trying to sell me weighted blankets.",
+      "explanation": "It uses the serious context of therapy to highlight the pervasive, impersonal 'seeing' by algorithms, satirizing modern digital life."
     },
     "zh": {
-      "joke": "我不是在摸鱼，我是在进行一项长期的、高度个人化的‘工作效率与生命价值权衡’的哲学实验。"
+      "joke": "领导问我，你这周末加班吗？我说，不了，我已经达到了人机融合的境界，工作和生活已经无法分清了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Craig Whittaker",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Official_portrait_of_Craig_Whittaker_MP_crop_2.jpg/330px-Official_portrait_of_Craig_Whittaker_MP_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British politician (born 1962)",
-        "extract": "Craig Whittaker is a British Conservative Party politician who served as the Member of Parliament (MP) for Calder Valley from 2010 to 2024. He served as Government Deputy Chief Whip and Treasurer of the Household from September to October 2022. He previously served as a Lord Commissioner of the Treasury from January 2018 to April 2019 and again from July to September 2022.",
-        "born": 1962,
+        "name": "Sara Ramirez",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sara_Ram%C3%ADrez3.jpg/330px-Sara_Ram%C3%ADrez3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican-American actor (born 1975)",
+        "extract": "Sara Elena Ramírez Vargas is a Mexican and American actor, singer and activist. Born in Mazatlán, Sinaloa, Ramírez moved from Mexico to the United States at eight years old, eventually graduating with a fine arts degree from the Juilliard School.",
+        "born": 1975,
         "highlights": [
-          "MP for Calder Valley (2010-2024).",
-          "Served as Government Deputy Chief Whip.",
-          "Served as a Lord Commissioner of the Treasury."
+          "Mexican and American actor, singer, and activist.",
+          "Graduated with a fine arts degree from Juilliard School.",
+          "Born in Mazatlán, Sinaloa, Mexico."
         ]
       },
       {
-        "name": "Marcelo H. del Pilar",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/M.H.delPilaryGatmaitan.jpg/330px-M.H.delPilaryGatmaitan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Filipino writer, lawyer, and journalist",
-        "extract": "Marcelo Hilario del Pilar y Gatmaitán, commonly known as Marcelo H. del Pilar and also known by his nom de plume Pláridel, was a Filipino writer, lawyer, journalist, and freemason. Del Pilar, along with José Rizal and Graciano López Jaena, became known as the leaders of the Reform Movement in Spain.",
-        "born": 1850,
+        "name": "Altiero Spinelli",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altiero_Spinelli_1970.jpg/330px-Altiero_Spinelli_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian politician (1907–1986)",
+        "extract": "Altiero Spinelli was an Italian politician, political theorist and European federalist, referred to as one of the founding fathers of the European Union. A communist and militant anti-fascist in his youth, Spinelli spent 10 years imprisoned by the Italian fascist regime. Having grown disillusioned with Stalinism, he broke with the Communist Party of Italy in 1937. Interned in Ventotene during World War II, he, along with fellow democratic socialists, drafted the manifesto For a Free and United Europe in 1941, considered a precursor of the European integration process.",
+        "born": 1907,
         "highlights": [
-          "Filipino writer, lawyer, journalist, and freemason.",
-          "Known by his nom de plume Pláridel.",
-          "Leader of the Reform Movement in Spain."
+          "One of the founding fathers of the European Union.",
+          "Imprisoned for 10 years by Italian fascist regime.",
+          "Drafted \"For a Free and United Europe\" manifesto in 1941."
         ]
       },
       {
-        "name": "Andrew Onderdonk",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Andrew_Onderdonk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American construction contractor",
-        "extract": "Andrew Onderdonk was an American construction contractor who worked on several major projects in the West, including the San Francisco seawall in California and the Canadian Pacific Railway in British Columbia. He was born in New York City to an established ethnic Dutch family. He received his education at the Rensselaer Polytechnic Institute.",
-        "born": 1848,
+        "name": "Jerome Corsi",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Jerome_Corsi.jpg/330px-Jerome_Corsi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American conservative author (born 1946)",
+        "extract": "Jerome Robert Corsi is an American conspiracy theorist and author. His two New York Times best-selling books, Unfit for Command (2004) and The Obama Nation (2008), attacked Democratic presidential candidates and have been criticized for inaccuracies.",
+        "born": 1946,
         "highlights": [
-          "American construction contractor.",
-          "Worked on the San Francisco seawall.",
-          "Worked on the Canadian Pacific Railway."
+          "American conspiracy theorist and author.",
+          "Authored NYT best-seller \"Unfit for Command\" (2004).",
+          "Authored NYT best-seller \"The Obama Nation\" (2008)."
         ]
       }
     ]
