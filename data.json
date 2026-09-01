@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-01T17:09:58.124Z",
+  "generatedAt": "2026-09-01T21:34:36.594Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.8,
+    "tempC": 26.2,
     "condition": "Heavy rain showers",
     "code": 82,
-    "highC": 26.3,
-    "lowC": 21.4,
-    "rainChance": 47
+    "highC": 27.8,
+    "lowC": 20.7,
+    "rainChance": 49
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Tacko Fall",
-          "NBA Player"
+          "Severe Weather",
+          "Thunderstorm Watch"
         ],
-        "summary": "Tacko Fall is buzzing for his impressive height and recent NBA performance."
+        "summary": "Severe thunderstorm watches are buzzing due to potential hazardous weather conditions across various regions."
       },
       {
         "keywords": [
-          "Trump PAC",
-          "Campaign Funds"
+          "Golf",
+          "Presidents Cup"
         ],
-        "summary": "Donald Trump's Super PAC funds are buzzing due to recent financial disclosures and political scrutiny."
+        "summary": "The 2026 Presidents Cup is buzzing as golf fans anticipate the next international team competition."
       },
       {
         "keywords": [
-          "Victor Oladipo",
-          "Basketball News"
+          "NFL",
+          "Falcons Logo"
         ],
-        "summary": "Victor Oladipo is buzzing as fans anticipate his return to the court after injury."
+        "summary": "The Falcons logo is buzzing as fans discuss potential changes or new merchandise designs."
       },
       {
         "keywords": [
-          "Street Fighter",
-          "Movie Adaptation"
+          "Tennis",
+          "Reese Brantmeier"
         ],
-        "summary": "A new Street Fighter movie is buzzing as fans discuss potential casting and plot details."
+        "summary": "Reese Brantmeier is buzzing as a rising tennis player making waves in recent tournaments."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7632.92,
-        "changePct": -0.6924151784901167
+        "price": 7631.47,
+        "changePct": -0.7112803045481877
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26122.295,
-        "changePct": -0.9426834264100878
+        "price": 26099.773,
+        "changePct": -1.0280882074168913
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I spend hours every night scrolling through streaming services. It's my new favorite form of quiet contemplation.",
-      "explanation": "Sarcastic take on the paradox of endless content leading to decision paralysis, framed as a profound activity."
+      "joke": "My phone notified me I had 'too many unread notifications for one human'. I think it's trying to outsource my emotional labor.",
+      "explanation": "It's funny due to the absurd personification of the phone and the deadpan implication of tech demanding a new kind of 'labor'."
     },
     "zh": {
-      "joke": "经本人严谨测算，我的个人存款增速已显著落后于我购物车里商品的膨胀速度。"
+      "joke": "最近工作压力大到，我开始认真思考，是不是我呼吸的方式有问题，才导致吸入这么多烦恼。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Josh Okogie",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Josh_Okogie_%28cropped%29.jpg/330px-Josh_Okogie_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Nigerian basketball player (born 1998)",
-        "extract": "Joshua Aloiye Okogie is a Nigerian-American professional basketball player for the Utah Jazz of the National Basketball Association (NBA). He played college basketball for the Georgia Tech Yellow Jackets, and was selected 20th overall in the 2018 NBA draft by the Minnesota Timberwolves, where he spent his first four seasons before signing with the Phoenix Suns in 2022. He also represents the Nigeria national team.",
-        "born": 1998,
+        "name": "Seiji Ozawa",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Seiji_Ozawa_1963.jpg/330px-Seiji_Ozawa_1963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese conductor (1935–2024)",
+        "extract": "Seiji Ozawa  was a Japanese conductor known internationally for his work as music director of the Toronto Symphony Orchestra, the San Francisco Symphony, and especially the Boston Symphony Orchestra (BSO), where he served from 1973 for 29 years. After conducting the Vienna New Year's Concert in 2002, he was director of the Vienna State Opera until 2010. In Japan, he founded the Saito Kinen Orchestra in 1984, their festival in 1992, and the Tokyo Opera Nomori in 2005.",
+        "born": 1935,
         "highlights": [
-          "Professional basketball player for the Utah Jazz.",
-          "Selected 20th overall in the 2018 NBA draft.",
-          "Represents the Nigeria national team."
+          "Music director of Boston Symphony Orchestra for 29 years.",
+          "Conducted the Vienna New Year's Concert in 2002.",
+          "Director of the Vienna State Opera until 2010."
         ]
       },
       {
-        "name": "Henri II, Prince of Condé",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Henri%2C_Prince_of_Cond%C3%A9.jpg/330px-Henri%2C_Prince_of_Cond%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Prince of Condé (1588–1646)",
-        "extract": "Henri II de Bourbon, Prince of Condé was a French prince who was the head of the House of Bourbon-Condé, the senior-most cadet branch of the House of Bourbon. From the age of 2 to 12, Henri was the presumptive heir to the French throne. Henri was the father of general Louis, le Grand Condé.",
-        "born": 1588,
-        "highlights": [
-          "French prince, head of the House of Bourbon-Condé.",
-          "Presumptive heir to the French throne from age 2 to 12.",
-          "Father of general Louis, le Grand Condé."
-        ]
-      },
-      {
-        "name": "Bill Kaulitz",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2023-09-28-Bill_Kaulitz-Deutscher_Fernsehpreis_2023_-0348_%28cropped%29_%28cropped%29.jpg/330px-2023-09-28-Bill_Kaulitz-Deutscher_Fernsehpreis_2023_-0348_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German singer (born 1989)",
-        "extract": "Bill Kaulitz, also known as Billy for his solo project, is a German singer and songwriter. He is best known for his work as the lead vocalist of the pop rock band Tokio Hotel.",
+        "name": "Jefferson Montero",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PRESENTACI%C3%93N_JEFFERSON_MONTERO_%2826670049648%29.jpg/330px-PRESENTACI%C3%93N_JEFFERSON_MONTERO_%2826670049648%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Ecuadorian footballer (born 1989)",
+        "extract": "Jefferson Antonio Montero Vite is an Ecuadorian professional footballer who plays as a winger. He has represented the Ecuador national team at senior international level.",
         "born": 1989,
         "highlights": [
-          "German singer and songwriter.",
-          "Lead vocalist of the pop rock band Tokio Hotel.",
-          "Also known as Billy for his solo project."
+          "Ecuadorian professional footballer.",
+          "Plays as a winger.",
+          "Represented the Ecuador national team."
+        ]
+      },
+      {
+        "name": "Mikhail Iakovlev",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2024_UEC_Track_Elite_European_Championships_201.jpg/330px-2024_UEC_Track_Elite_European_Championships_201.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Israeli cyclist (born 2000)",
+        "extract": "Mikhail Sergeyevich Yakovlev, also known as Mikhail Iakovlev, is an Olympic Israeli unofficial world-record-holding racing cyclist. Born in Russia, he and his family moved to Israel, and he represents Israel internationally. He won the bronze medal in the keirin event at the 2021 UCI Track Cycling World Championships, and bronze medals in the Sprint at the 2021 European Championship, and in the 2024 European Championship. In 2022, Yakovlev set a new unofficial world record in the 200m flying trial in 9.099 seconds.",
+        "born": 2000,
+        "highlights": [
+          "Olympic Israeli racing cyclist.",
+          "Won bronze in keirin at 2021 World Championships.",
+          "Set unofficial world record in 200m flying trial."
         ]
       }
     ]
