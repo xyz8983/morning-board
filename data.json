@@ -1,46 +1,13 @@
 {
-  "generatedAt": "2026-09-01T21:34:36.594Z",
+  "generatedAt": "2026-09-02T17:01:07.058Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.2,
-    "condition": "Heavy rain showers",
-    "code": 82,
-    "highC": 27.8,
-    "lowC": 20.7,
-    "rainChance": 49
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "Severe Weather",
-          "Thunderstorm Watch"
-        ],
-        "summary": "Severe thunderstorm watches are buzzing due to potential hazardous weather conditions across various regions."
-      },
-      {
-        "keywords": [
-          "Golf",
-          "Presidents Cup"
-        ],
-        "summary": "The 2026 Presidents Cup is buzzing as golf fans anticipate the next international team competition."
-      },
-      {
-        "keywords": [
-          "NFL",
-          "Falcons Logo"
-        ],
-        "summary": "The Falcons logo is buzzing as fans discuss potential changes or new merchandise designs."
-      },
-      {
-        "keywords": [
-          "Tennis",
-          "Reese Brantmeier"
-        ],
-        "summary": "Reese Brantmeier is buzzing as a rising tennis player making waves in recent tournaments."
-      }
-    ]
+    "tempC": 22.6,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 22.9,
+    "lowC": 18.9,
+    "rainChance": 8
   },
   "market": {
     "indices": [
@@ -48,99 +15,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7631.47,
-        "changePct": -0.7112803045481877
+        "price": 7668.48,
+        "changePct": 0.4849655439908603
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26099.773,
-        "changePct": -1.0280882074168913
+        "price": 26218.066,
+        "changePct": 0.4532338269761881
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6368.98,
-        "changePct": -0.7971763943577777
+        "price": 6362.15,
+        "changePct": -0.10723852170991159
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10789.28,
-        "changePct": -0.3231629691082768
+        "price": 10756.45,
+        "changePct": -0.30428351104058776
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3979.888,
-        "changePct": 0.70108142847745
+        "price": 3941.386,
+        "changePct": -1.1267089782505133
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4611.4395,
-        "changePct": -0.29506259601982204
+        "price": 4547.956,
+        "changePct": -1.376652561526618
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25329.73,
-        "changePct": -0.9969591319846147
+        "price": 25311.21,
+        "changePct": -1.000469355027969
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone notified me I had 'too many unread notifications for one human'. I think it's trying to outsource my emotional labor.",
-      "explanation": "It's funny due to the absurd personification of the phone and the deadpan implication of tech demanding a new kind of 'labor'."
+      "joke": "I asked AI to write me a joke about dating apps. It responded with \"Have you tried turning it off and on again?\"",
+      "explanation": "It's funny because it's a deadpan jab at both dating app frustration and the generic, unhelpful nature of early AI interactions."
     },
     "zh": {
-      "joke": "最近工作压力大到，我开始认真思考，是不是我呼吸的方式有问题，才导致吸入这么多烦恼。"
+      "joke": "我的会议日程是这样的：周一，为上周没完成的工作开会；周三，为这周开会耽误的工作开会；周五，为下周要开的会做准备会。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Seiji Ozawa",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Seiji_Ozawa_1963.jpg/330px-Seiji_Ozawa_1963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese conductor (1935–2024)",
-        "extract": "Seiji Ozawa  was a Japanese conductor known internationally for his work as music director of the Toronto Symphony Orchestra, the San Francisco Symphony, and especially the Boston Symphony Orchestra (BSO), where he served from 1973 for 29 years. After conducting the Vienna New Year's Concert in 2002, he was director of the Vienna State Opera until 2010. In Japan, he founded the Saito Kinen Orchestra in 1984, their festival in 1992, and the Tokyo Opera Nomori in 2005.",
-        "born": 1935,
+        "name": "Albert Spalding",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AGSpalding.jpg/330px-AGSpalding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Baseball player",
+        "extract": "Albert Goodwill Spalding was an American pitcher, manager, and executive in the early years of professional baseball, and the co-founder of the Spalding sporting goods company. He was born and raised in Byron, Illinois, and graduated from Rockford Central High School in Rockford, Illinois. He played major league baseball from 1871 to 1878. Spalding set a trend when he started wearing a baseball glove.",
+        "born": 1850,
         "highlights": [
-          "Music director of Boston Symphony Orchestra for 29 years.",
-          "Conducted the Vienna New Year's Concert in 2002.",
-          "Director of the Vienna State Opera until 2010."
+          "American pitcher, manager, and executive in baseball.",
+          "Co-founder of Spalding sporting goods company.",
+          "Set trend by wearing a baseball glove."
         ]
       },
       {
-        "name": "Jefferson Montero",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PRESENTACI%C3%93N_JEFFERSON_MONTERO_%2826670049648%29.jpg/330px-PRESENTACI%C3%93N_JEFFERSON_MONTERO_%2826670049648%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Ecuadorian footballer (born 1989)",
-        "extract": "Jefferson Antonio Montero Vite is an Ecuadorian professional footballer who plays as a winger. He has represented the Ecuador national team at senior international level.",
+        "name": "Zedd",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zedd_2014_Divergent_Premiere_%28cropped%29.jpg/330px-Zedd_2014_Divergent_Premiere_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German music producer (born 1989)",
+        "extract": "Anton Zaslavski, known professionally as Zedd, is a German record producer and DJ. His stage name was derived from zed, the English pronunciation for the letter Z, the first letter of his surname. Raised in Kaiserslautern, Zedd rose to mainstream success with his 2012 single \"Clarity\", which peaked at number eight on the Billboard Hot 100 and won Best Dance Recording at the 56th Grammy Awards. It served as the third single for his debut studio album of the same name (2012), of which its deluxe edition spawned the US top 20 single \"Stay the Night\".",
         "born": 1989,
         "highlights": [
-          "Ecuadorian professional footballer.",
-          "Plays as a winger.",
-          "Represented the Ecuador national team."
+          "German record producer and DJ.",
+          "Rose to success with 2012 single 'Clarity'.",
+          "'Clarity' won Best Dance Recording at Grammy Awards."
         ]
       },
       {
-        "name": "Mikhail Iakovlev",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2024_UEC_Track_Elite_European_Championships_201.jpg/330px-2024_UEC_Track_Elite_European_Championships_201.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Israeli cyclist (born 2000)",
-        "extract": "Mikhail Sergeyevich Yakovlev, also known as Mikhail Iakovlev, is an Olympic Israeli unofficial world-record-holding racing cyclist. Born in Russia, he and his family moved to Israel, and he represents Israel internationally. He won the bronze medal in the keirin event at the 2021 UCI Track Cycling World Championships, and bronze medals in the Sprint at the 2021 European Championship, and in the 2024 European Championship. In 2022, Yakovlev set a new unofficial world record in the 200m flying trial in 9.099 seconds.",
-        "born": 2000,
+        "name": "Lucretia Peabody Hale",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/LucretiaPeabodyHale_ca1850s_SmithCollege.jpg/330px-LucretiaPeabodyHale_ca1850s_SmithCollege.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American author and novelist",
+        "extract": "Lucretia Peabody Hale was an American writer and editor, best known for her humorous The Peterkin Papers stories.",
+        "born": 1820,
         "highlights": [
-          "Olympic Israeli racing cyclist.",
-          "Won bronze in keirin at 2021 World Championships.",
-          "Set unofficial world record in 200m flying trial."
+          "American writer and editor.",
+          "Best known for The Peterkin Papers stories."
         ]
       }
     ]
