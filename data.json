@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-09-02T17:01:07.058Z",
+  "generatedAt": "2026-09-02T21:34:25.116Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.6,
-    "condition": "Overcast",
-    "code": 3,
+    "tempC": 20.1,
+    "condition": "Light rain",
+    "code": 61,
     "highC": 22.9,
     "lowC": 18.9,
-    "rainChance": 8
+    "rainChance": 14
+  },
+  "hotTopics": {
+    "headline": "Today's buzz",
+    "topics": [
+      {
+        "keywords": [
+          "Trump",
+          "Strait Hormuz"
+        ],
+        "summary": "Discussions about Trump's past actions and potential future policies regarding the Strait of Hormuz are buzzing."
+      },
+      {
+        "keywords": [
+          "Oil Tankers",
+          "Shipping"
+        ],
+        "summary": "Tanker activity and security concerns, especially in key shipping lanes, are currently a hot topic."
+      },
+      {
+        "keywords": [
+          "Harry Kane",
+          "Soccer"
+        ],
+        "summary": "Harry Kane is buzzing due to his recent performance or transfer speculation in the football world."
+      },
+      {
+        "keywords": [
+          "Shams Charania",
+          "NBA News"
+        ],
+        "summary": "Shams Charania is buzzing for breaking major NBA news and trade updates."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -15,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7668.48,
-        "changePct": 0.4849655439908603
+        "price": 7666.6,
+        "changePct": 0.46033070954875155
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26218.066,
-        "changePct": 0.4532338269761881
+        "price": 26217.828,
+        "changePct": 0.4523219416506047
       },
       {
         "region": "Europe",
@@ -64,49 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write me a joke about dating apps. It responded with \"Have you tried turning it off and on again?\"",
-      "explanation": "It's funny because it's a deadpan jab at both dating app frustration and the generic, unhelpful nature of early AI interactions."
+      "joke": "My phone's battery life is the only thing more dependable than my motivation to do adulting tasks.",
+      "explanation": "It's a relatable, self-deprecating observation about procrastination and our reliance on tech, stated with ironic seriousness."
     },
     "zh": {
-      "joke": "我的会议日程是这样的：周一，为上周没完成的工作开会；周三，为这周开会耽误的工作开会；周五，为下周要开的会做准备会。"
+      "joke": "我的人生目标很明确：致力于实现“沙发-床-电脑椅”三点一线生活模式，并在其中探索人类躺平的极限。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Albert Spalding",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AGSpalding.jpg/330px-AGSpalding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Baseball player",
-        "extract": "Albert Goodwill Spalding was an American pitcher, manager, and executive in the early years of professional baseball, and the co-founder of the Spalding sporting goods company. He was born and raised in Byron, Illinois, and graduated from Rockford Central High School in Rockford, Illinois. He played major league baseball from 1871 to 1878. Spalding set a trend when he started wearing a baseball glove.",
-        "born": 1850,
+        "name": "Salma Hayek",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg/330px-MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican and American actress (born 1966)",
+        "extract": "Salma Valgarma Hayek Pinault is a Mexican and American actress and film producer. She began her career in Mexico with starring roles in the telenovela Teresa (1989–1991) as well as the romantic drama Midaq Alley (1995). She soon established herself in Hollywood with appearances in films such as Desperado (1995), From Dusk till Dawn (1996), Wild Wild West (1999), and Dogma (1999).",
+        "born": 1966,
         "highlights": [
-          "American pitcher, manager, and executive in baseball.",
-          "Co-founder of Spalding sporting goods company.",
-          "Set trend by wearing a baseball glove."
+          "Mexican and American actress and film producer.",
+          "Starred in the telenovela Teresa.",
+          "Appeared in Hollywood films Desperado and From Dusk till Dawn."
         ]
       },
       {
-        "name": "Zedd",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zedd_2014_Divergent_Premiere_%28cropped%29.jpg/330px-Zedd_2014_Divergent_Premiere_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German music producer (born 1989)",
-        "extract": "Anton Zaslavski, known professionally as Zedd, is a German record producer and DJ. His stage name was derived from zed, the English pronunciation for the letter Z, the first letter of his surname. Raised in Kaiserslautern, Zedd rose to mainstream success with his 2012 single \"Clarity\", which peaked at number eight on the Billboard Hot 100 and won Best Dance Recording at the 56th Grammy Awards. It served as the third single for his debut studio album of the same name (2012), of which its deluxe edition spawned the US top 20 single \"Stay the Night\".",
-        "born": 1989,
+        "name": "Ramón Valdés",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ram%C3%B3n_Vald%C3%A9s_circa_1950s_photograph.jpg/330px-Ram%C3%B3n_Vald%C3%A9s_circa_1950s_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican actor (1924–1988)",
+        "extract": "Ramón Esteban Gómez-Valdés y Castillo was a Mexican actor and comedian. He is best remembered for his portrayal of Don Ramón in the Mexican sitcom El Chavo del Ocho. He is also recognized as one of Mexico's best comedians.",
+        "born": 1923,
         "highlights": [
-          "German record producer and DJ.",
-          "Rose to success with 2012 single 'Clarity'.",
-          "'Clarity' won Best Dance Recording at Grammy Awards."
+          "Mexican actor and comedian.",
+          "Best known as Don Ramón in El Chavo del Ocho.",
+          "Recognized as one of Mexico's best comedians."
         ]
       },
       {
-        "name": "Lucretia Peabody Hale",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/LucretiaPeabodyHale_ca1850s_SmithCollege.jpg/330px-LucretiaPeabodyHale_ca1850s_SmithCollege.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American author and novelist",
-        "extract": "Lucretia Peabody Hale was an American writer and editor, best known for her humorous The Peterkin Papers stories.",
-        "born": 1820,
+        "name": "Choi Ye-bin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/240814_Choi_Ye-bin.png/330px-240814_Choi_Ye-bin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "South Korean actress (born 1998)",
+        "extract": "Choi Ye-bin is a South Korean actress. She is best known for role in The Penthouse: War in Life (2020–2021), where she rose to prominence for playing the villainous soprano student Ha Eun-byeol.",
+        "born": 1998,
         "highlights": [
-          "American writer and editor.",
-          "Best known for The Peterkin Papers stories."
+          "South Korean actress.",
+          "Best known for The Penthouse: War in Life.",
+          "Played villainous soprano student Ha Eun-byeol in The Penthouse."
         ]
       }
     ]
