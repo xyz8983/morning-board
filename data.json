@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-02T21:34:25.116Z",
+  "generatedAt": "2026-09-03T16:56:42.954Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.1,
+    "tempC": 26,
     "condition": "Light rain",
     "code": 61,
-    "highC": 22.9,
-    "lowC": 18.9,
-    "rainChance": 14
+    "highC": 27.7,
+    "lowC": 20,
+    "rainChance": 80
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Trump",
-          "Strait Hormuz"
+          "Keith Mackenzie",
+          "eBay Truck"
         ],
-        "summary": "Discussions about Trump's past actions and potential future policies regarding the Strait of Hormuz are buzzing."
+        "summary": "Keith Mackenzie's 'Betty' truck sale on eBay is buzzing due to its unique story and high bids."
       },
       {
         "keywords": [
-          "Oil Tankers",
-          "Shipping"
+          "Iran",
+          "Middle East"
         ],
-        "summary": "Tanker activity and security concerns, especially in key shipping lanes, are currently a hot topic."
+        "summary": "Iran news is buzzing due to recent geopolitical developments and regional tensions."
       },
       {
         "keywords": [
-          "Harry Kane",
-          "Soccer"
+          "JD Vance",
+          "Politics"
         ],
-        "summary": "Harry Kane is buzzing due to his recent performance or transfer speculation in the football world."
+        "summary": "JD Vance is buzzing due to his political activities and recent public statements."
       },
       {
         "keywords": [
-          "Shams Charania",
-          "NBA News"
+          "Chicago Weather",
+          "Forecast"
         ],
-        "summary": "Shams Charania is buzzing for breaking major NBA news and trade updates."
+        "summary": "Chicago weather is buzzing as residents prepare for upcoming significant changes."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7666.6,
-        "changePct": 0.46033070954875155
+        "price": 7745.08,
+        "changePct": 1.0236610753136925
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26217.828,
-        "changePct": 0.4523219416506047
+        "price": 26576.545,
+        "changePct": 1.3682178401658478
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6362.15,
-        "changePct": -0.10723852170991159
+        "price": 6382.59,
+        "changePct": 0.32127504067022167
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10756.45,
-        "changePct": -0.30428351104058776
+        "price": 10831.52,
+        "changePct": 0.6979068372929703
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3941.386,
-        "changePct": -1.1267089782505133
+        "price": 3942.088,
+        "changePct": -0.9498252464264008
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4547.956,
-        "changePct": -1.376652561526618
+        "price": 4552.579,
+        "changePct": 0.10165005993900539
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25311.21,
-        "changePct": -1.000469355027969
+        "price": 25213.31,
+        "changePct": -0.4595001125161349
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone's battery life is the only thing more dependable than my motivation to do adulting tasks.",
-      "explanation": "It's a relatable, self-deprecating observation about procrastination and our reliance on tech, stated with ironic seriousness."
+      "joke": "My 'productivity app' usage is off the charts, mostly because it also logs my 'research' into cat videos.",
+      "explanation": "The humor comes from the deadpan irony of 'productivity apps' being used for trivial things, a relatable modern digital habit."
     },
     "zh": {
-      "joke": "我的人生目标很明确：致力于实现“沙发-床-电脑椅”三点一线生活模式，并在其中探索人类躺平的极限。"
+      "joke": "我发现坚持健康饮食和规律运动真的很有用，至少让我每次想吃垃圾食品和躺平的时候，罪恶感更强烈了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Salma Hayek",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg/330px-MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican and American actress (born 1966)",
-        "extract": "Salma Valgarma Hayek Pinault is a Mexican and American actress and film producer. She began her career in Mexico with starring roles in the telenovela Teresa (1989–1991) as well as the romantic drama Midaq Alley (1995). She soon established herself in Hollywood with appearances in films such as Desperado (1995), From Dusk till Dawn (1996), Wild Wild West (1999), and Dogma (1999).",
-        "born": 1966,
+        "name": "Brian Lochore",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brian_Lochore.jpg/330px-Brian_Lochore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "New Zealand rugby union player and coach (1940–2019)",
+        "extract": "Sir Brian James Lochore was a New Zealand rugby union player and coach who represented and captained the New Zealand national team, the All Blacks. He played at number 8 and lock, as well as captaining the side 46 times. In 1999, Lochore was inducted into the International Rugby Hall of Fame.",
+        "born": 1940,
         "highlights": [
-          "Mexican and American actress and film producer.",
-          "Starred in the telenovela Teresa.",
-          "Appeared in Hollywood films Desperado and From Dusk till Dawn."
+          "New Zealand rugby union player and coach.",
+          "Represented and captained the All Blacks.",
+          "Inducted into the International Rugby Hall of Fame."
         ]
       },
       {
-        "name": "Ramón Valdés",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ram%C3%B3n_Vald%C3%A9s_circa_1950s_photograph.jpg/330px-Ram%C3%B3n_Vald%C3%A9s_circa_1950s_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican actor (1924–1988)",
-        "extract": "Ramón Esteban Gómez-Valdés y Castillo was a Mexican actor and comedian. He is best remembered for his portrayal of Don Ramón in the Mexican sitcom El Chavo del Ocho. He is also recognized as one of Mexico's best comedians.",
-        "born": 1923,
+        "name": "Tanitoluwa Adewumi",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tanitoluwa_%E2%80%9CTani%E2%80%9D_Adewumi_receiving_Tribeca_Disruptive_Innovation_award.jpg/330px-Tanitoluwa_%E2%80%9CTani%E2%80%9D_Adewumi_receiving_Tribeca_Disruptive_Innovation_award.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American chess player (born 2010)",
+        "extract": "Tanitoluwa Emmanuel \"Tani\" Adewumi is a Nigerian-American chess player who currently holds the title of International Master (IM). A chess prodigy, he won the 2019 K-3 New York State chess championship at the age of 8 after having played the game for only a year while living with his refugee family in a homeless shelter in Manhattan.",
+        "born": 2010,
         "highlights": [
-          "Mexican actor and comedian.",
-          "Best known as Don Ramón in El Chavo del Ocho.",
-          "Recognized as one of Mexico's best comedians."
+          "Nigerian-American chess player, International Master (IM).",
+          "Won 2019 K-3 New York State chess championship.",
+          "Won championship at age 8, after playing one year."
         ]
       },
       {
-        "name": "Choi Ye-bin",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/240814_Choi_Ye-bin.png/330px-240814_Choi_Ye-bin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South Korean actress (born 1998)",
-        "extract": "Choi Ye-bin is a South Korean actress. She is best known for role in The Penthouse: War in Life (2020–2021), where she rose to prominence for playing the villainous soprano student Ha Eun-byeol.",
-        "born": 1998,
+        "name": "Michal Rozsíval",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michal_Rozs%C3%ADval_%288396558193%29.jpg/330px-Michal_Rozs%C3%ADval_%288396558193%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Czech ice hockey player (born 1978)",
+        "extract": "Michal Rozsíval is a Czech former professional ice hockey defenceman. He last played for the Chicago Blackhawks of the National Hockey League (NHL). He joined the team in 2012, previously playing for the Pittsburgh Penguins from 1999 until 2004, the New York Rangers from 2005 to 2011, and the Phoenix Coyotes in 2011–12. He is a two time Stanley Cup winner with the Blackhawks in 2013 and 2015.",
+        "born": 1978,
         "highlights": [
-          "South Korean actress.",
-          "Best known for The Penthouse: War in Life.",
-          "Played villainous soprano student Ha Eun-byeol in The Penthouse."
+          "Czech former professional ice hockey defenceman.",
+          "Played for Chicago Blackhawks, Pittsburgh Penguins, New York Rangers.",
+          "Two-time Stanley Cup winner with Blackhawks (2013, 2015)."
         ]
       }
     ]
