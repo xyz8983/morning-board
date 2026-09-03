@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-03T16:56:42.954Z",
+  "generatedAt": "2026-09-03T21:33:33.098Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26,
+    "tempC": 28,
     "condition": "Light rain",
     "code": 61,
-    "highC": 27.7,
+    "highC": 30,
     "lowC": 20,
     "rainChance": 80
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Keith Mackenzie",
-          "eBay Truck"
+          "Nasdaq",
+          "Stock Market"
         ],
-        "summary": "Keith Mackenzie's 'Betty' truck sale on eBay is buzzing due to its unique story and high bids."
+        "summary": "The Nasdaq Composite is buzzing due to recent market performance and tech sector movements."
       },
       {
         "keywords": [
-          "Iran",
-          "Middle East"
+          "Ignacio Buse",
+          "Tennis Player"
         ],
-        "summary": "Iran news is buzzing due to recent geopolitical developments and regional tensions."
+        "summary": "Ignacio Buse is buzzing as a rising tennis talent making headlines in recent tournaments."
       },
       {
         "keywords": [
-          "JD Vance",
-          "Politics"
+          "Mike Tomlin",
+          "George Pickens"
         ],
-        "summary": "JD Vance is buzzing due to his political activities and recent public statements."
+        "summary": "Mike Tomlin's comments on trading George Pickens are buzzing, sparking debate among football fans."
       },
       {
         "keywords": [
-          "Chicago Weather",
-          "Forecast"
+          "D'Andre Swift",
+          "NFL Player"
         ],
-        "summary": "Chicago weather is buzzing as residents prepare for upcoming significant changes."
+        "summary": "D'Andre Swift is buzzing due to his recent performance and contract situation in the NFL."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7745.08,
-        "changePct": 1.0236610753136925
+        "price": 7747.71,
+        "changePct": 1.0579657214410516
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26576.545,
-        "changePct": 1.3682178401658478
+        "price": 26584.06,
+        "changePct": 1.3968815418271872
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My 'productivity app' usage is off the charts, mostly because it also logs my 'research' into cat videos.",
-      "explanation": "The humor comes from the deadpan irony of 'productivity apps' being used for trivial things, a relatable modern digital habit."
+      "joke": "Saw a post today that said 'live, laugh, love.' Immediately hit 'report'.",
+      "explanation": "It's a deadpan, exaggerated rejection of a saccharine internet phrase, playing on relatable online annoyance and anti-humor."
     },
     "zh": {
-      "joke": "我发现坚持健康饮食和规律运动真的很有用，至少让我每次想吃垃圾食品和躺平的时候，罪恶感更强烈了。"
+      "joke": "朋友圈里个个都是生活家，只有我，努力把外卖盒子拆整齐，争取在垃圾分类上赢过他们。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Brian Lochore",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brian_Lochore.jpg/330px-Brian_Lochore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "New Zealand rugby union player and coach (1940–2019)",
-        "extract": "Sir Brian James Lochore was a New Zealand rugby union player and coach who represented and captained the New Zealand national team, the All Blacks. He played at number 8 and lock, as well as captaining the side 46 times. In 1999, Lochore was inducted into the International Rugby Hall of Fame.",
-        "born": 1940,
+        "name": "Stephen Woolley",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Stephen_Woolley.jpg/330px-Stephen_Woolley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English film producer (born 1956)",
+        "extract": "Stephen Woolley is an English filmmaker and actor. His career has spanned four decades, for which he was awarded the BAFTA award for Outstanding British Contribution to Cinema in February 2019. As a producer, he has been Oscar-nominated for The Crying Game (1992), and has produced multi-Academy Award nominated films including Mona Lisa (1986), Little Voice (1998), Michael Collins (1996), The End of the Affair (1999), Interview with the Vampire (1994), and Carol (2016). He runs the production company Number 9 Films with his partner Elizabeth Karlsen.",
+        "born": 1956,
         "highlights": [
-          "New Zealand rugby union player and coach.",
-          "Represented and captained the All Blacks.",
-          "Inducted into the International Rugby Hall of Fame."
+          "English filmmaker and actor.",
+          "Awarded BAFTA for Outstanding British Contribution to Cinema.",
+          "Oscar-nominated producer for The Crying Game."
         ]
       },
       {
-        "name": "Tanitoluwa Adewumi",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tanitoluwa_%E2%80%9CTani%E2%80%9D_Adewumi_receiving_Tribeca_Disruptive_Innovation_award.jpg/330px-Tanitoluwa_%E2%80%9CTani%E2%80%9D_Adewumi_receiving_Tribeca_Disruptive_Innovation_award.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American chess player (born 2010)",
-        "extract": "Tanitoluwa Emmanuel \"Tani\" Adewumi is a Nigerian-American chess player who currently holds the title of International Master (IM). A chess prodigy, he won the 2019 K-3 New York State chess championship at the age of 8 after having played the game for only a year while living with his refugee family in a homeless shelter in Manhattan.",
-        "born": 2010,
+        "name": "Kelvin Wilson",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kelvin_Wilson_2012.jpg/330px-Kelvin_Wilson_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English footballer",
+        "extract": "Kelvin James Wilson is an English professional footballer who plays as a centre back for Ilkeston Town.",
+        "born": 1985,
         "highlights": [
-          "Nigerian-American chess player, International Master (IM).",
-          "Won 2019 K-3 New York State chess championship.",
-          "Won championship at age 8, after playing one year."
+          "English professional footballer.",
+          "Plays as a centre back.",
+          "Currently plays for Ilkeston Town."
         ]
       },
       {
-        "name": "Michal Rozsíval",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michal_Rozs%C3%ADval_%288396558193%29.jpg/330px-Michal_Rozs%C3%ADval_%288396558193%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Czech ice hockey player (born 1978)",
-        "extract": "Michal Rozsíval is a Czech former professional ice hockey defenceman. He last played for the Chicago Blackhawks of the National Hockey League (NHL). He joined the team in 2012, previously playing for the Pittsburgh Penguins from 1999 until 2004, the New York Rangers from 2005 to 2011, and the Phoenix Coyotes in 2011–12. He is a two time Stanley Cup winner with the Blackhawks in 2013 and 2015.",
-        "born": 1978,
+        "name": "Neilson Powless",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tour_des_Alpes-Maritimes_et_du_Var_2023%2C_Neilson_Powless_%28cropped%29.jpg/330px-Tour_des_Alpes-Maritimes_et_du_Var_2023%2C_Neilson_Powless_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American and Oneida Nation cyclist (born 1996)",
+        "extract": "Neilson Hunter Powless is an American and Oneida Nation professional road racing cyclist who currently rides for UCI WorldTeam EF Education–EasyPost. Powless is the first US Native American to compete in the Tour de France.",
+        "born": 1996,
         "highlights": [
-          "Czech former professional ice hockey defenceman.",
-          "Played for Chicago Blackhawks, Pittsburgh Penguins, New York Rangers.",
-          "Two-time Stanley Cup winner with Blackhawks (2013, 2015)."
+          "American and Oneida Nation professional cyclist.",
+          "Rides for UCI WorldTeam EF Education–EasyPost.",
+          "First US Native American to compete in Tour de France."
         ]
       }
     ]
