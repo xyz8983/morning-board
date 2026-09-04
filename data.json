@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-04T16:44:45.780Z",
+  "generatedAt": "2026-09-04T21:12:44.361Z",
   "weather": {
     "location": "New York City",
-    "tempC": 28.3,
+    "tempC": 29.3,
     "condition": "Rain",
     "code": 63,
-    "highC": 30,
-    "lowC": 21.9,
+    "highC": 30.3,
+    "lowC": 21.3,
     "rainChance": 35
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Jessica Pegula",
-          "Tennis Star"
+          "Ligue 1",
+          "Football"
         ],
-        "summary": "Why it's buzzing: Jessica Pegula is a top American tennis player, often discussed for her recent tournament performances."
+        "summary": "Ligue 1 is buzzing due to recent match results and ongoing season developments."
       },
       {
         "keywords": [
-          "Andrea Yates",
-          "True Crime"
+          "College Football",
+          "Tonight's Games"
         ],
-        "summary": "Why it's buzzing: Andrea Yates' tragic 2001 case, involving infanticide and mental illness, remains a true crime topic."
+        "summary": "College football is buzzing with anticipation for tonight's key matchups and rivalries."
       },
       {
         "keywords": [
-          "Turkish Football",
-          "Derby Match"
+          "Linda Nosková",
+          "Tennis"
         ],
-        "summary": "Why it's buzzing: This is a highly anticipated football match between two major Turkish clubs, generating significant fan interest."
+        "summary": "Linda Nosková is buzzing after her recent impressive performance in a major tennis tournament."
       },
       {
         "keywords": [
-          "Leylah Fernandez",
-          "Tennis Player"
+          "Troy Parrott",
+          "Football"
         ],
-        "summary": "Why it's buzzing: Leylah Fernandez is a young Canadian tennis player known for her exciting matches and rising career."
+        "summary": "Troy Parrott is buzzing due to his recent goal-scoring form and club contributions."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7724.91,
-        "changePct": -0.2942805035294323
+        "price": 7718.6,
+        "changePct": -0.3757239235851583
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26514.527,
-        "changePct": -0.2615589943748362
+        "price": 26506.99,
+        "changePct": -0.28991057046967134
       },
       {
         "region": "Europe",
@@ -97,48 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone's weekly screen time report is just a polite way of asking 'Are you even living?'",
-      "explanation": "It's funny because it highlights the often-absurd disconnect between perceived and actual time spent on devices, a common modern experience."
+      "joke": "My last 'digital detox' was very successful. I got 200 likes on the photo of my untouched phone.",
+      "explanation": "It satirizes the performative nature of unplugging on social media, highlighting the irony of seeking validation for 'detoxing'."
     },
     "zh": {
-      "joke": "我发现我的人生哲学很简单：在床上思考怎么爬起来，在工位上思考怎么躺下去。"
+      "joke": "每次刷短视频，总能看到有人在教你如何高效利用碎片时间。我寻思，我碎片时间就是用来刷短视频的啊。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "James Bay (singer)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/James_Bay_%40_Hotel_Cafe_06_23_2022_%2852301405881%29.jpg/330px-James_Bay_%40_Hotel_Cafe_06_23_2022_%2852301405881%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English singer-songwriter and guitarist (born 1990)",
-        "extract": "James Michael Bay is an English singer-songwriter and guitarist.",
-        "born": 1990,
+        "name": "François-René de Chateaubriand",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Anne-Louis_Girodet-Trioson_006.jpg/330px-Anne-Louis_Girodet-Trioson_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French writer, politician and historian (1768–1848)",
+        "extract": "François-René, vicomte de Chateaubriand was a French writer, politician, diplomat and historian who influenced French literature of the 19th century. Descended from an old aristocratic family from Brittany, Chateaubriand was a royalist by political disposition. He served as Minister of Foreign Affairs from 1822 to 1824 and as the French ambassador to Sweden, Prussia, the United Kingdom, and the Papal States.",
+        "born": 1768,
         "highlights": [
-          "English singer-songwriter.",
-          "Also a guitarist."
+          "Influenced French literature of the 19th century.",
+          "Served as Minister of Foreign Affairs (1822-1824).",
+          "French ambassador to Sweden, UK, and Papal States."
         ]
       },
       {
-        "name": "Per Olof Sundman",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Po-sundman.jpeg/330px-Po-sundman.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swedish politician (1922–1992)",
-        "extract": "Per Olof Sundman was a Swedish writer and politician.",
-        "born": 1922,
+        "name": "Richard Garcia",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Richard_Garcia-Australia.jpg/330px-Richard_Garcia-Australia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian soccer player (born 1981)",
+        "extract": "Richard Garcia is an Australian soccer manager and former player. He is currently an assistant coach for Australia's U23 team, having previously managed A-League Men's side Perth Glory.",
+        "born": 1981,
         "highlights": [
-          "Swedish writer.",
-          "Also a politician."
+          "Australian soccer manager and former player.",
+          "Assistant coach for Australia's U23 team.",
+          "Managed A-League Men's side Perth Glory."
         ]
       },
       {
-        "name": "Jacqueline Hewitt",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jnh_mit.jpg/330px-Jnh_mit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American astrophysicist",
-        "extract": "Jacqueline Nina Hewitt is an American astrophysicist. She was the first person to discover an Einstein ring. She is a Fellow of the American Astronomical Society.",
-        "born": 1958,
+        "name": "Konstantin Kalser",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/Konstantin_Kalser_1957_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American film producer (1920–1994)",
+        "extract": "Konstantin Kalser was a German-American film producer and advertising executive. He won the Academy Award for Best Live Action Short Film in 1957 with Crashing the Water Barrier.",
+        "born": 1920,
         "highlights": [
-          "American astrophysicist.",
-          "First to discover an Einstein ring.",
-          "Fellow of the American Astronomical Society."
+          "German-American film producer and advertising executive.",
+          "Won Academy Award for Best Live Action Short Film.",
+          "Award for \"Crashing the Water Barrier\" in 1957."
         ]
       }
     ]
