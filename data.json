@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-03T21:33:33.098Z",
+  "generatedAt": "2026-09-04T16:44:45.780Z",
   "weather": {
     "location": "New York City",
-    "tempC": 28,
-    "condition": "Light rain",
-    "code": 61,
+    "tempC": 28.3,
+    "condition": "Rain",
+    "code": 63,
     "highC": 30,
-    "lowC": 20,
-    "rainChance": 80
+    "lowC": 21.9,
+    "rainChance": 35
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Nasdaq",
-          "Stock Market"
+          "Jessica Pegula",
+          "Tennis Star"
         ],
-        "summary": "The Nasdaq Composite is buzzing due to recent market performance and tech sector movements."
+        "summary": "Why it's buzzing: Jessica Pegula is a top American tennis player, often discussed for her recent tournament performances."
       },
       {
         "keywords": [
-          "Ignacio Buse",
+          "Andrea Yates",
+          "True Crime"
+        ],
+        "summary": "Why it's buzzing: Andrea Yates' tragic 2001 case, involving infanticide and mental illness, remains a true crime topic."
+      },
+      {
+        "keywords": [
+          "Turkish Football",
+          "Derby Match"
+        ],
+        "summary": "Why it's buzzing: This is a highly anticipated football match between two major Turkish clubs, generating significant fan interest."
+      },
+      {
+        "keywords": [
+          "Leylah Fernandez",
           "Tennis Player"
         ],
-        "summary": "Ignacio Buse is buzzing as a rising tennis talent making headlines in recent tournaments."
-      },
-      {
-        "keywords": [
-          "Mike Tomlin",
-          "George Pickens"
-        ],
-        "summary": "Mike Tomlin's comments on trading George Pickens are buzzing, sparking debate among football fans."
-      },
-      {
-        "keywords": [
-          "D'Andre Swift",
-          "NFL Player"
-        ],
-        "summary": "D'Andre Swift is buzzing due to his recent performance and contract situation in the NFL."
+        "summary": "Why it's buzzing: Leylah Fernandez is a young Canadian tennis player known for her exciting matches and rising career."
       }
     ]
   },
@@ -48,99 +48,97 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7747.71,
-        "changePct": 1.0579657214410516
+        "price": 7724.91,
+        "changePct": -0.2942805035294323
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26584.06,
-        "changePct": 1.3968815418271872
+        "price": 26514.527,
+        "changePct": -0.2615589943748362
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6382.59,
-        "changePct": 0.32127504067022167
+        "price": 6392.93,
+        "changePct": 0.1620031993281747
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10831.52,
-        "changePct": 0.6979068372929703
+        "price": 10831.09,
+        "changePct": -0.003969895268626112
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3942.088,
-        "changePct": -0.9498252464264008
+        "price": 3930.116,
+        "changePct": -0.2860412189608206
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4552.579,
-        "changePct": 0.10165005993900539
+        "price": 4548.05,
+        "changePct": -0.09947329629848987
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25213.31,
-        "changePct": -0.4595001125161349
+        "price": 25650.87,
+        "changePct": 1.3419750940295136
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "Saw a post today that said 'live, laugh, love.' Immediately hit 'report'.",
-      "explanation": "It's a deadpan, exaggerated rejection of a saccharine internet phrase, playing on relatable online annoyance and anti-humor."
+      "joke": "My phone's weekly screen time report is just a polite way of asking 'Are you even living?'",
+      "explanation": "It's funny because it highlights the often-absurd disconnect between perceived and actual time spent on devices, a common modern experience."
     },
     "zh": {
-      "joke": "朋友圈里个个都是生活家，只有我，努力把外卖盒子拆整齐，争取在垃圾分类上赢过他们。"
+      "joke": "我发现我的人生哲学很简单：在床上思考怎么爬起来，在工位上思考怎么躺下去。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Stephen Woolley",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Stephen_Woolley.jpg/330px-Stephen_Woolley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English film producer (born 1956)",
-        "extract": "Stephen Woolley is an English filmmaker and actor. His career has spanned four decades, for which he was awarded the BAFTA award for Outstanding British Contribution to Cinema in February 2019. As a producer, he has been Oscar-nominated for The Crying Game (1992), and has produced multi-Academy Award nominated films including Mona Lisa (1986), Little Voice (1998), Michael Collins (1996), The End of the Affair (1999), Interview with the Vampire (1994), and Carol (2016). He runs the production company Number 9 Films with his partner Elizabeth Karlsen.",
-        "born": 1956,
+        "name": "James Bay (singer)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/James_Bay_%40_Hotel_Cafe_06_23_2022_%2852301405881%29.jpg/330px-James_Bay_%40_Hotel_Cafe_06_23_2022_%2852301405881%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English singer-songwriter and guitarist (born 1990)",
+        "extract": "James Michael Bay is an English singer-songwriter and guitarist.",
+        "born": 1990,
         "highlights": [
-          "English filmmaker and actor.",
-          "Awarded BAFTA for Outstanding British Contribution to Cinema.",
-          "Oscar-nominated producer for The Crying Game."
+          "English singer-songwriter.",
+          "Also a guitarist."
         ]
       },
       {
-        "name": "Kelvin Wilson",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kelvin_Wilson_2012.jpg/330px-Kelvin_Wilson_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English footballer",
-        "extract": "Kelvin James Wilson is an English professional footballer who plays as a centre back for Ilkeston Town.",
-        "born": 1985,
+        "name": "Per Olof Sundman",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Po-sundman.jpeg/330px-Po-sundman.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish politician (1922–1992)",
+        "extract": "Per Olof Sundman was a Swedish writer and politician.",
+        "born": 1922,
         "highlights": [
-          "English professional footballer.",
-          "Plays as a centre back.",
-          "Currently plays for Ilkeston Town."
+          "Swedish writer.",
+          "Also a politician."
         ]
       },
       {
-        "name": "Neilson Powless",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tour_des_Alpes-Maritimes_et_du_Var_2023%2C_Neilson_Powless_%28cropped%29.jpg/330px-Tour_des_Alpes-Maritimes_et_du_Var_2023%2C_Neilson_Powless_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American and Oneida Nation cyclist (born 1996)",
-        "extract": "Neilson Hunter Powless is an American and Oneida Nation professional road racing cyclist who currently rides for UCI WorldTeam EF Education–EasyPost. Powless is the first US Native American to compete in the Tour de France.",
-        "born": 1996,
+        "name": "Jacqueline Hewitt",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jnh_mit.jpg/330px-Jnh_mit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American astrophysicist",
+        "extract": "Jacqueline Nina Hewitt is an American astrophysicist. She was the first person to discover an Einstein ring. She is a Fellow of the American Astronomical Society.",
+        "born": 1958,
         "highlights": [
-          "American and Oneida Nation professional cyclist.",
-          "Rides for UCI WorldTeam EF Education–EasyPost.",
-          "First US Native American to compete in Tour de France."
+          "American astrophysicist.",
+          "First to discover an Einstein ring.",
+          "Fellow of the American Astronomical Society."
         ]
       }
     ]
