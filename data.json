@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-05T15:47:57.042Z",
+  "generatedAt": "2026-09-05T20:55:32.753Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.1,
+    "tempC": 23.8,
     "condition": "Overcast",
     "code": 3,
-    "highC": 26.7,
+    "highC": 26.6,
     "lowC": 19.1,
-    "rainChance": 1
+    "rainChance": 2
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Atletico Madrid",
-          "Football"
+          "Argentina",
+          "Australia"
         ],
-        "summary": "Atletico Madrid is buzzing due to recent match performance and league standings."
+        "summary": "Argentina vs Australia is buzzing due to their recent high-stakes World Cup match."
       },
       {
         "keywords": [
-          "Inter Napoli",
-          "Serie A"
+          "Kellen Moore",
+          "NFL Coach"
         ],
-        "summary": "The Inter vs. Napoli match is buzzing due to its high stakes and intense rivalry."
+        "summary": "Kellen Moore is buzzing as a top NFL offensive coordinator candidate for head coaching roles."
       },
       {
         "keywords": [
-          "Chip Kelly",
-          "Coaching"
+          "Michael Zheng",
+          "Tennis Player"
         ],
-        "summary": "Chip Kelly is buzzing amid speculation about his coaching future and potential new roles."
+        "summary": "Michael Zheng is buzzing for his impressive performance and rising profile in collegiate tennis."
       },
       {
         "keywords": [
-          "DraftKings",
-          "Sports Betting"
+          "UND Football",
+          "College Sports"
         ],
-        "summary": "DraftKings is buzzing as new sports betting regulations and market expansions emerge."
+        "summary": "UND Football is buzzing due to their strong season performance and playoff contention."
       }
     ]
   },
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "Asked AI to write a joke about its own existential dread. It just sent me a screenshot of my bank account.",
-      "explanation": "It's an absurd twist that links AI's 'dread' to a common human anxiety, subverting expectations with deadpan humor."
+      "joke": "My biggest flex is having 8 streaming subscriptions and still spending 30 minutes just looking for something to watch.",
+      "explanation": "It highlights the common modern paradox where an abundance of streaming content leads to decision paralysis rather than easy entertainment."
     },
     "zh": {
-      "joke": "我不是在摸鱼，我是在对办公室环境进行一次‘沉浸式用户体验与数据收集’。"
+      "joke": "现在点外卖的心理活动是：先点进去看看，然后假装自己做了个很健康的饭，再默默退出，最后还是点了外卖。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Arthur Koestler",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arthur_Koestler_%281969%29.jpg/330px-Arthur_Koestler_%281969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Hungarian-British author and journalist (1905–1983)",
-        "extract": "Arthur Koestler was an Austro-Hungarian-born author and journalist. Koestler was born in Budapest, and was educated in Austria, apart from his early school years. In 1931, Koestler joined the Communist Party of Germany but resigned in 1938 after becoming disillusioned with Stalinism.",
-        "born": 1905,
+        "name": "Luis Alcoriza",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Luis_Alcoriza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Mexican screenwriter, film director and actor",
+        "extract": "Luis Alcoriza de la Vega was a Mexican screenwriter, film director, and actor.",
+        "born": 1918,
         "highlights": [
-          "Austro-Hungarian-born author and journalist.",
-          "Joined Communist Party of Germany in 1931.",
-          "Resigned from Communist Party in 1938 due to Stalinism."
+          "Mexican screenwriter.",
+          "Film director.",
+          "Actor."
         ]
       },
       {
-        "name": "Goffredo Mameli",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Induno_Domenico_Goffredo_Mameli.jpg/330px-Induno_Domenico_Goffredo_Mameli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian poet and writer (1827–1849)",
-        "extract": "Goffredo Mameli was an Italian patriot, poet and writer who was a notable figure in the Risorgimento. He is famously the lyricist of \"Il Canto degli Italiani\"—the national anthem of Italy.",
-        "born": 1827,
+        "name": "Denni Avdić",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Denni_Avdi%C4%87_%28training_2016%2C_1%2C_cropped%29.jpg/330px-Denni_Avdi%C4%87_%28training_2016%2C_1%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish footballer (born 1988)",
+        "extract": "Denni Robin Avdić is a Swedish professional footballer who plays as a centre-forward for Vasalunds IF.",
+        "born": 1988,
         "highlights": [
-          "Italian patriot, poet, and writer.",
-          "Notable figure in the Risorgimento.",
-          "Lyricist of \"Il Canto degli Italiani\", Italy's national anthem."
+          "Swedish professional footballer.",
+          "Plays as a centre-forward.",
+          "Plays for Vasalunds IF."
         ]
       },
       {
-        "name": "Archie Jackson",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Archie_Jackson_PIC-15611-2084_%28cropped%29.jpg/330px-Archie_Jackson_PIC-15611-2084_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian cricketer (1909–1933)",
-        "extract": "Archibald Jackson, occasionally known as Archibald Alexander Jackson, was an Australian international cricketer who played eight Test matches as a specialist batsman between 1929 and 1931. A teenage prodigy, he played first grade cricket at only 15 years of age and was selected for New South Wales at 17. In 1929, aged 19, Jackson made his Test debut against England, scoring 164 runs in the first innings to become the youngest player to score a Test century.",
-        "born": 1909,
+        "name": "Jonathan Kozol",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jonathan_Kozol_%285991655898%29.jpg/330px-Jonathan_Kozol_%285991655898%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American activist and educator",
+        "extract": "Jonathan Kozol is an American writer, progressive activist, and educator, best known for his books on public education in the United States.",
+        "born": 1936,
         "highlights": [
-          "Australian international cricketer, played eight Test matches.",
-          "Youngest player to score a Test century (164 runs).",
-          "Made Test debut against England aged 19."
+          "American writer.",
+          "Progressive activist and educator.",
+          "Known for books on public education."
         ]
       }
     ]
