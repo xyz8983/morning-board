@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-04T21:12:44.361Z",
+  "generatedAt": "2026-09-05T15:47:57.042Z",
   "weather": {
     "location": "New York City",
-    "tempC": 29.3,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 30.3,
-    "lowC": 21.3,
-    "rainChance": 35
+    "tempC": 24.1,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 26.7,
+    "lowC": 19.1,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Ligue 1",
+          "Atletico Madrid",
           "Football"
         ],
-        "summary": "Ligue 1 is buzzing due to recent match results and ongoing season developments."
+        "summary": "Atletico Madrid is buzzing due to recent match performance and league standings."
       },
       {
         "keywords": [
-          "College Football",
-          "Tonight's Games"
+          "Inter Napoli",
+          "Serie A"
         ],
-        "summary": "College football is buzzing with anticipation for tonight's key matchups and rivalries."
+        "summary": "The Inter vs. Napoli match is buzzing due to its high stakes and intense rivalry."
       },
       {
         "keywords": [
-          "Linda Nosková",
-          "Tennis"
+          "Chip Kelly",
+          "Coaching"
         ],
-        "summary": "Linda Nosková is buzzing after her recent impressive performance in a major tennis tournament."
+        "summary": "Chip Kelly is buzzing amid speculation about his coaching future and potential new roles."
       },
       {
         "keywords": [
-          "Troy Parrott",
-          "Football"
+          "DraftKings",
+          "Sports Betting"
         ],
-        "summary": "Troy Parrott is buzzing due to his recent goal-scoring form and club contributions."
+        "summary": "DraftKings is buzzing as new sports betting regulations and market expansions emerge."
       }
     ]
   },
@@ -56,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 26506.99,
-        "changePct": -0.28991057046967134
+        "changePct": -0.2900606001331508
       },
       {
         "region": "Europe",
@@ -70,77 +70,77 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10831.09,
-        "changePct": -0.003969895268626112
+        "changePct": -0.003785255966392969
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3930.116,
-        "changePct": -0.2860412189608206
+        "changePct": -0.3037475044963499
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4548.05,
-        "changePct": -0.09947329629848987
+        "changePct": -0.09950401750215801
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 25650.87,
-        "changePct": 1.3419750940295136
+        "changePct": 1.7354729448346695
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My last 'digital detox' was very successful. I got 200 likes on the photo of my untouched phone.",
-      "explanation": "It satirizes the performative nature of unplugging on social media, highlighting the irony of seeking validation for 'detoxing'."
+      "joke": "Asked AI to write a joke about its own existential dread. It just sent me a screenshot of my bank account.",
+      "explanation": "It's an absurd twist that links AI's 'dread' to a common human anxiety, subverting expectations with deadpan humor."
     },
     "zh": {
-      "joke": "每次刷短视频，总能看到有人在教你如何高效利用碎片时间。我寻思，我碎片时间就是用来刷短视频的啊。"
+      "joke": "我不是在摸鱼，我是在对办公室环境进行一次‘沉浸式用户体验与数据收集’。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "François-René de Chateaubriand",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Anne-Louis_Girodet-Trioson_006.jpg/330px-Anne-Louis_Girodet-Trioson_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French writer, politician and historian (1768–1848)",
-        "extract": "François-René, vicomte de Chateaubriand was a French writer, politician, diplomat and historian who influenced French literature of the 19th century. Descended from an old aristocratic family from Brittany, Chateaubriand was a royalist by political disposition. He served as Minister of Foreign Affairs from 1822 to 1824 and as the French ambassador to Sweden, Prussia, the United Kingdom, and the Papal States.",
-        "born": 1768,
+        "name": "Arthur Koestler",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arthur_Koestler_%281969%29.jpg/330px-Arthur_Koestler_%281969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Hungarian-British author and journalist (1905–1983)",
+        "extract": "Arthur Koestler was an Austro-Hungarian-born author and journalist. Koestler was born in Budapest, and was educated in Austria, apart from his early school years. In 1931, Koestler joined the Communist Party of Germany but resigned in 1938 after becoming disillusioned with Stalinism.",
+        "born": 1905,
         "highlights": [
-          "Influenced French literature of the 19th century.",
-          "Served as Minister of Foreign Affairs (1822-1824).",
-          "French ambassador to Sweden, UK, and Papal States."
+          "Austro-Hungarian-born author and journalist.",
+          "Joined Communist Party of Germany in 1931.",
+          "Resigned from Communist Party in 1938 due to Stalinism."
         ]
       },
       {
-        "name": "Richard Garcia",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Richard_Garcia-Australia.jpg/330px-Richard_Garcia-Australia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian soccer player (born 1981)",
-        "extract": "Richard Garcia is an Australian soccer manager and former player. He is currently an assistant coach for Australia's U23 team, having previously managed A-League Men's side Perth Glory.",
-        "born": 1981,
+        "name": "Goffredo Mameli",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Induno_Domenico_Goffredo_Mameli.jpg/330px-Induno_Domenico_Goffredo_Mameli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian poet and writer (1827–1849)",
+        "extract": "Goffredo Mameli was an Italian patriot, poet and writer who was a notable figure in the Risorgimento. He is famously the lyricist of \"Il Canto degli Italiani\"—the national anthem of Italy.",
+        "born": 1827,
         "highlights": [
-          "Australian soccer manager and former player.",
-          "Assistant coach for Australia's U23 team.",
-          "Managed A-League Men's side Perth Glory."
+          "Italian patriot, poet, and writer.",
+          "Notable figure in the Risorgimento.",
+          "Lyricist of \"Il Canto degli Italiani\", Italy's national anthem."
         ]
       },
       {
-        "name": "Konstantin Kalser",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/Konstantin_Kalser_1957_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American film producer (1920–1994)",
-        "extract": "Konstantin Kalser was a German-American film producer and advertising executive. He won the Academy Award for Best Live Action Short Film in 1957 with Crashing the Water Barrier.",
-        "born": 1920,
+        "name": "Archie Jackson",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Archie_Jackson_PIC-15611-2084_%28cropped%29.jpg/330px-Archie_Jackson_PIC-15611-2084_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian cricketer (1909–1933)",
+        "extract": "Archibald Jackson, occasionally known as Archibald Alexander Jackson, was an Australian international cricketer who played eight Test matches as a specialist batsman between 1929 and 1931. A teenage prodigy, he played first grade cricket at only 15 years of age and was selected for New South Wales at 17. In 1929, aged 19, Jackson made his Test debut against England, scoring 164 runs in the first innings to become the youngest player to score a Test century.",
+        "born": 1909,
         "highlights": [
-          "German-American film producer and advertising executive.",
-          "Won Academy Award for Best Live Action Short Film.",
-          "Award for \"Crashing the Water Barrier\" in 1957."
+          "Australian international cricketer, played eight Test matches.",
+          "Youngest player to score a Test century (164 runs).",
+          "Made Test debut against England aged 19."
         ]
       }
     ]
