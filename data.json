@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-05T20:55:32.753Z",
+  "generatedAt": "2026-09-06T15:59:33.419Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.8,
+    "tempC": 21.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 26.6,
-    "lowC": 19.1,
-    "rainChance": 2
+    "highC": 22.8,
+    "lowC": 17.6,
+    "rainChance": 9
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Argentina",
-          "Australia"
+          "Aryna Sabalenka",
+          "Tennis"
         ],
-        "summary": "Argentina vs Australia is buzzing due to their recent high-stakes World Cup match."
+        "summary": "Aryna Sabalenka is buzzing after her impressive performance and recent Grand Slam victory."
       },
       {
         "keywords": [
-          "Kellen Moore",
-          "NFL Coach"
+          "Blue Owl",
+          "Investment"
         ],
-        "summary": "Kellen Moore is buzzing as a top NFL offensive coordinator candidate for head coaching roles."
+        "summary": "Blue Owl is buzzing due to its strong financial performance and growth in alternative asset management."
       },
       {
         "keywords": [
-          "Michael Zheng",
-          "Tennis Player"
+          "Xabi Alonso",
+          "Football"
         ],
-        "summary": "Michael Zheng is buzzing for his impressive performance and rising profile in collegiate tennis."
+        "summary": "Xabi Alonso is buzzing as a highly sought-after manager for top European football clubs."
       },
       {
         "keywords": [
-          "UND Football",
-          "College Sports"
+          "Ben Crump",
+          "Civil Rights"
         ],
-        "summary": "UND Football is buzzing due to their strong season performance and playoff contention."
+        "summary": "Ben Crump is buzzing for his high-profile advocacy in significant civil rights cases."
       }
     ]
   },
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "My biggest flex is having 8 streaming subscriptions and still spending 30 minutes just looking for something to watch.",
-      "explanation": "It highlights the common modern paradox where an abundance of streaming content leads to decision paralysis rather than easy entertainment."
+      "joke": "My current relationship status is 'ignored by the algorithm'.",
+      "explanation": "It applies a personal, relatable dating status to an impersonal tech system, creating a dry, self-deprecating comment on digital life."
     },
     "zh": {
-      "joke": "现在点外卖的心理活动是：先点进去看看，然后假装自己做了个很健康的饭，再默默退出，最后还是点了外卖。"
+      "joke": "最近感觉自己像个充电宝，每天都在为各种设备续命，就是忘了给自己充一下。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Luis Alcoriza",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Luis_Alcoriza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Mexican screenwriter, film director and actor",
-        "extract": "Luis Alcoriza de la Vega was a Mexican screenwriter, film director, and actor.",
-        "born": 1918,
+        "name": "Joseph Yobo",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JosephYobo%2713_%28cropped%29.JPG/330px-JosephYobo%2713_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Nigerian footballer (born 1980)",
+        "extract": "Joseph Michael Yobo is a Nigerian former professional footballer who played as a centre back.",
+        "born": 1980,
         "highlights": [
-          "Mexican screenwriter.",
-          "Film director.",
-          "Actor."
+          "Nigerian former professional footballer.",
+          "Played as a centre back."
         ]
       },
       {
-        "name": "Denni Avdić",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Denni_Avdi%C4%87_%28training_2016%2C_1%2C_cropped%29.jpg/330px-Denni_Avdi%C4%87_%28training_2016%2C_1%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swedish footballer (born 1988)",
-        "extract": "Denni Robin Avdić is a Swedish professional footballer who plays as a centre-forward for Vasalunds IF.",
-        "born": 1988,
+        "name": "Yevgeny Svetlanov",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Yevgeny_Svetlanov_1967.jpg/330px-Yevgeny_Svetlanov_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Soviet and Russian conductor (1928–2002)",
+        "extract": "Yevgeny Fyodorovich Svetlanov was a Soviet and Russian conductor, composer, and pianist.",
+        "born": 1928,
         "highlights": [
-          "Swedish professional footballer.",
-          "Plays as a centre-forward.",
-          "Plays for Vasalunds IF."
+          "Soviet and Russian conductor.",
+          "Also a composer.",
+          "Also a pianist."
         ]
       },
       {
-        "name": "Jonathan Kozol",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jonathan_Kozol_%285991655898%29.jpg/330px-Jonathan_Kozol_%285991655898%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American activist and educator",
-        "extract": "Jonathan Kozol is an American writer, progressive activist, and educator, best known for his books on public education in the United States.",
-        "born": 1936,
+        "name": "Peter II of Yugoslavia",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kralj_Petar_II.jpg/330px-Kralj_Petar_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "King of Yugoslavia from 1934 to 1945",
+        "extract": "Peter II Karađorđević was the last King of Yugoslavia, reigning from October 1934 until he was deposed in November 1945. He was the last reigning member of the Karađorđević dynasty.",
+        "born": 1923,
         "highlights": [
-          "American writer.",
-          "Progressive activist and educator.",
-          "Known for books on public education."
+          "Last King of Yugoslavia.",
+          "Reigned from October 1934 to November 1945.",
+          "Last reigning member of the Karađorđević dynasty."
         ]
       }
     ]
