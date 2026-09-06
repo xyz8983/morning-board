@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-06T15:59:33.419Z",
+  "generatedAt": "2026-09-06T21:01:35.444Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.5,
+    "tempC": 21.9,
     "condition": "Overcast",
     "code": 3,
     "highC": 22.8,
-    "lowC": 17.6,
+    "lowC": 17.2,
     "rainChance": 9
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Aryna Sabalenka",
-          "Tennis"
+          "Dutton Ranch",
+          "Season 2"
         ],
-        "summary": "Aryna Sabalenka is buzzing after her impressive performance and recent Grand Slam victory."
+        "summary": "Fans are eagerly discussing the potential plot and release date for Dutton Ranch's second season."
       },
       {
         "keywords": [
-          "Blue Owl",
-          "Investment"
+          "Anna Wintour",
+          "Fashion Icon"
         ],
-        "summary": "Blue Owl is buzzing due to its strong financial performance and growth in alternative asset management."
+        "summary": "Anna Wintour is buzzing due to her continued influence in fashion and recent public appearances."
       },
       {
         "keywords": [
-          "Xabi Alonso",
-          "Football"
+          "Brett Baty",
+          "Mets Player"
         ],
-        "summary": "Xabi Alonso is buzzing as a highly sought-after manager for top European football clubs."
+        "summary": "Brett Baty is a trending topic as fans discuss his recent performance and future with the Mets."
       },
       {
         "keywords": [
-          "Ben Crump",
-          "Civil Rights"
+          "NASCAR Race",
+          "TV Channel"
         ],
-        "summary": "Ben Crump is buzzing for his high-profile advocacy in significant civil rights cases."
+        "summary": "NASCAR fans are actively searching for today's race channel and start time."
       }
     ]
   },
@@ -97,50 +97,36 @@
   },
   "joke": {
     "en": {
-      "joke": "My current relationship status is 'ignored by the algorithm'.",
-      "explanation": "It applies a personal, relatable dating status to an impersonal tech system, creating a dry, self-deprecating comment on digital life."
+      "joke": "My phone's battery life and my motivation to cook dinner have a lot in common.",
+      "explanation": "It's a deadpan comparison of two common modern frustrations, highlighting a shared tendency to rapidly deplete."
     },
     "zh": {
-      "joke": "最近感觉自己像个充电宝，每天都在为各种设备续命，就是忘了给自己充一下。"
+      "joke": "周末本想好好充实一下自己，结果发现充实的是我的睡眠时间，以及外卖APP的订单列表。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Joseph Yobo",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JosephYobo%2713_%28cropped%29.JPG/330px-JosephYobo%2713_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Nigerian footballer (born 1980)",
-        "extract": "Joseph Michael Yobo is a Nigerian former professional footballer who played as a centre back.",
-        "born": 1980,
-        "highlights": [
-          "Nigerian former professional footballer.",
-          "Played as a centre back."
-        ]
+        "name": "John M. Hayes (scientist)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dr_John_Hayes_ForMemRS_%28cropped%29.jpg/330px-Dr_John_Hayes_ForMemRS_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American oceanographer (1940–2017)",
+        "extract": "John Michael Hayes was an American oceanographer. He worked at Indiana University Bloomington, and Woods Hole Oceanographic Institution in Woods Hole, Massachusetts.",
+        "born": 1940
       },
       {
-        "name": "Yevgeny Svetlanov",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Yevgeny_Svetlanov_1967.jpg/330px-Yevgeny_Svetlanov_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Soviet and Russian conductor (1928–2002)",
-        "extract": "Yevgeny Fyodorovich Svetlanov was a Soviet and Russian conductor, composer, and pianist.",
-        "born": 1928,
-        "highlights": [
-          "Soviet and Russian conductor.",
-          "Also a composer.",
-          "Also a pianist."
-        ]
+        "name": "CeCe Peniston",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CCP_March_14%2C_2012.jpg/330px-CCP_March_14%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer (born 1969)",
+        "extract": "Cecilia Veronica \"CeCe\" Peniston is an American singer and former beauty queen. In the early 1990s, she scored five number one hits on the U.S. Billboard Hot Dance Music/Club Play. Her signature song \"Finally\" reached the No. 5 US Hot 100 and No. 2 in the UK.",
+        "born": 1969
       },
       {
-        "name": "Peter II of Yugoslavia",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kralj_Petar_II.jpg/330px-Kralj_Petar_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "King of Yugoslavia from 1934 to 1945",
-        "extract": "Peter II Karađorđević was the last King of Yugoslavia, reigning from October 1934 until he was deposed in November 1945. He was the last reigning member of the Karađorđević dynasty.",
-        "born": 1923,
-        "highlights": [
-          "Last King of Yugoslavia.",
-          "Reigned from October 1934 to November 1945.",
-          "Last reigning member of the Karađorđević dynasty."
-        ]
+        "name": "Samuel Peter",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Samuel_Peter_%28while_boxing_vs._Jameel_McCline%2C_2007%29.jpg/330px-Samuel_Peter_%28while_boxing_vs._Jameel_McCline%2C_2007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Nigerian boxer (born 1980)",
+        "extract": "Samuel Okon Peter is a Nigerian former professional boxer who competed from 2001 to 2019. He held the World Boxing Council (WBC) heavyweight title in 2008. At regional level, he held multiple heavyweight championships, including the NABF title twice between 2004 and 2007; and the USBA title in 2005.",
+        "born": 1980
       }
     ]
   }
