@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-07T18:07:10.409Z",
+  "generatedAt": "2026-09-07T21:55:02.731Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.6,
+    "tempC": 26.4,
     "condition": "Overcast",
     "code": 3,
-    "highC": 27.1,
+    "highC": 27.3,
     "lowC": 15,
     "rainChance": 0
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Michael J. Fox",
-          "Parkinson's"
+          "Karen Khachanov",
+          "Tennis Player"
         ],
-        "summary": "Michael J. Fox is buzzing for his continued advocacy and candidness about living with Parkinson's disease."
+        "summary": "Karen Khachanov is buzzing due to his recent strong performance in tennis tournaments."
       },
       {
         "keywords": [
-          "Social Security",
-          "COLA Forecast"
+          "Ballon d'Or",
+          "Football Award"
         ],
-        "summary": "Social Security 2027 COLA forecast is buzzing as people anticipate future cost-of-living adjustments for benefits."
+        "summary": "The Ballon d'Or is buzzing as the prestigious football award ceremony approaches, honoring top players."
       },
       {
         "keywords": [
-          "Andrew Garfield",
-          "Actor"
+          "Donald Trump",
+          "Map Controversy"
         ],
-        "summary": "Andrew Garfield is buzzing due to recent film projects and his acclaimed performances in various roles."
+        "summary": "Donald Trump's North America flag map is buzzing due to recent discussions and interpretations online."
       },
       {
         "keywords": [
-          "Alexander Blockx",
-          "Tennis"
+          "Hershey Park",
+          "Theme Park"
         ],
-        "summary": "Alexander Blockx is buzzing as a rising talent in the tennis world, gaining attention for his recent matches."
+        "summary": "Hershey Park closing is buzzing as rumors circulate about its seasonal operations or specific ride closures."
       }
     ]
   },
@@ -97,51 +97,36 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone's battery life is truly inspirational. It starts the day at 100% and just keeps going... down.",
-      "explanation": "A sarcastic observation on the consistently disappointing battery performance of modern phones, despite constant use."
+      "joke": "I spent an hour scrolling through streaming options, then just turned off the TV and went to sleep.",
+      "explanation": "It's funny because it's a common, relatable modern experience of choice paralysis, delivered in a deadpan, anticlimactic way."
     },
     "zh": {
-      "joke": "我每天都在认真思考一个问题：公司到底是真的离不开我，还是只是需要我的电脑屏幕一直亮着？"
+      "joke": "我最近终于明白了一个道理，存钱最好的方式不是少花钱，而是把钱都还给花呗。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Tsugumi Aritomo",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tsugumi_Aritomo_Tainan_2024.jpg/330px-Tsugumi_Aritomo_Tainan_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese singer, dancer, model, and actress (born 2004)",
-        "extract": "Tsugumi Aritomo  is a Japanese singer, dancer, model, and actress. She is best known as a member of the girl group @onefive, and is a former member of the idol group Sakura Gakuin. She is represented by the talent agency Amuse Inc. and is signed with the record label Avex Trax.",
-        "born": 2004,
-        "highlights": [
-          "Member of the girl group @onefive.",
-          "Former member of idol group Sakura Gakuin.",
-          "Japanese singer, dancer, model, and actress."
-        ]
+        "name": "Antonio McDyess",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/34McDeezy_against_celtics.JPG/330px-34McDeezy_against_celtics.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player (born 1974)",
+        "extract": "Antonio Keithflen McDyess is an American former professional basketball player. Listed at 6 ft 9 in (2.06 m) and 240 pounds (110 kg), McDyess played as a power forward. He played college basketball for the Alabama Crimson Tide.",
+        "born": 1974
       },
       {
-        "name": "Albert Bassermann",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Albert_Bassermann_1918_%28cropped%29.jpg/330px-Albert_Bassermann_1918_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German actor",
-        "extract": "Albert Bassermann was a German stage and screen actor. He was considered to be one of the greatest German-speaking actors of his generation and received the famous Iffland-Ring. Bassermann was nominated for the Academy Award for Best Supporting Actor for his performance in Foreign Correspondent (1940). He was married to Elsa Schiff with whom he frequently performed.",
-        "born": 1867,
-        "highlights": [
-          "German stage and screen actor.",
-          "Received the famous Iffland-Ring.",
-          "Nominated for Academy Award for Foreign Correspondent."
-        ]
+        "name": "Gracie Abrams",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Gracie_Abrams_%40_El_Rey_Theatre_03_05_2022_%2852297976119%29_%28cropped%29_3.jpg/330px-Gracie_Abrams_%40_El_Rey_Theatre_03_05_2022_%2852297976119%29_%28cropped%29_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer (born 1999)",
+        "extract": "Gracie Madigan Abrams is an American singer and songwriter. She signed with Interscope Records in 2019 and gained recognition after releasing her debut extended play, Minor (2020), and its follow-up, This Is What It Feels Like (2021), alongside various singles including \"I Miss You, I'm Sorry\". Abrams released her debut album, Good Riddance (2023), and was nominated for the Grammy Award for Best New Artist. She also performed as an opening act on Olivia Rodrigo's Sour Tour (2022) and Taylor Swift's Eras Tour (2023–2024).",
+        "born": 1999
       },
       {
-        "name": "Giuseppe Zangara",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Giuseppe_Zangara_in_1933.jpg/330px-Giuseppe_Zangara_in_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Attempted assassin of Franklin D. Roosevelt (1900–1933)",
-        "extract": "Giuseppe Zangara was an Italian-born American man who attempted to assassinate the President-elect of the United States, Franklin D. Roosevelt, on February 15, 1933, 17 days before Roosevelt's inauguration. During a night speech by Roosevelt in Miami, Florida, Zangara fired five shots with a handgun he had purchased a few days before. He missed his target and instead killed Anton Cermak, the mayor of Chicago, and injured four bystanders.",
-        "born": 1900,
-        "highlights": [
-          "Attempted to assassinate President-elect Franklin D. Roosevelt.",
-          "Killed Chicago Mayor Anton Cermak.",
-          "Injured four bystanders during the attempt."
-        ]
+        "name": "Eazy-E",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Eazy_E_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American rapper (1964–1995)",
+        "extract": "Eric Lynn Wright, known professionally as Eazy-E, was an American rapper, entrepreneur, and record executive. Dubbed the \"Godfather of Gangsta Rap\", he propelled West Coast rap and gangsta rap by leading the group N.W.A and its label, Ruthless Records.",
+        "born": 1964
       }
     ]
   }
