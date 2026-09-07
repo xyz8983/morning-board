@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-06T21:01:35.444Z",
+  "generatedAt": "2026-09-07T18:07:10.409Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.9,
+    "tempC": 26.6,
     "condition": "Overcast",
     "code": 3,
-    "highC": 22.8,
-    "lowC": 17.2,
-    "rainChance": 9
+    "highC": 27.1,
+    "lowC": 15,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Dutton Ranch",
-          "Season 2"
+          "Michael J. Fox",
+          "Parkinson's"
         ],
-        "summary": "Fans are eagerly discussing the potential plot and release date for Dutton Ranch's second season."
+        "summary": "Michael J. Fox is buzzing for his continued advocacy and candidness about living with Parkinson's disease."
       },
       {
         "keywords": [
-          "Anna Wintour",
-          "Fashion Icon"
+          "Social Security",
+          "COLA Forecast"
         ],
-        "summary": "Anna Wintour is buzzing due to her continued influence in fashion and recent public appearances."
+        "summary": "Social Security 2027 COLA forecast is buzzing as people anticipate future cost-of-living adjustments for benefits."
       },
       {
         "keywords": [
-          "Brett Baty",
-          "Mets Player"
+          "Andrew Garfield",
+          "Actor"
         ],
-        "summary": "Brett Baty is a trending topic as fans discuss his recent performance and future with the Mets."
+        "summary": "Andrew Garfield is buzzing due to recent film projects and his acclaimed performances in various roles."
       },
       {
         "keywords": [
-          "NASCAR Race",
-          "TV Channel"
+          "Alexander Blockx",
+          "Tennis"
         ],
-        "summary": "NASCAR fans are actively searching for today's race channel and start time."
+        "summary": "Alexander Blockx is buzzing as a rising talent in the tennis world, gaining attention for his recent matches."
       }
     ]
   },
@@ -62,71 +62,86 @@
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6392.93,
-        "changePct": 0.1620031993281747
+        "price": 6403.99,
+        "changePct": 0.17300361493086097
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10831.09,
-        "changePct": -0.003785255966392969
+        "price": 10822.13,
+        "changePct": -0.0827248227094498
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3930.116,
-        "changePct": -0.3037475044963499
+        "price": 3932.6992,
+        "changePct": 0.06571560919377152
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4548.05,
-        "changePct": -0.09950401750215801
+        "price": 4575.024,
+        "changePct": 0.593089345983447
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25650.87,
-        "changePct": 1.7354729448346695
+        "price": 25413.12,
+        "changePct": -0.926869147128343
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone's battery life and my motivation to cook dinner have a lot in common.",
-      "explanation": "It's a deadpan comparison of two common modern frustrations, highlighting a shared tendency to rapidly deplete."
+      "joke": "My phone's battery life is truly inspirational. It starts the day at 100% and just keeps going... down.",
+      "explanation": "A sarcastic observation on the consistently disappointing battery performance of modern phones, despite constant use."
     },
     "zh": {
-      "joke": "周末本想好好充实一下自己，结果发现充实的是我的睡眠时间，以及外卖APP的订单列表。"
+      "joke": "我每天都在认真思考一个问题：公司到底是真的离不开我，还是只是需要我的电脑屏幕一直亮着？"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "John M. Hayes (scientist)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dr_John_Hayes_ForMemRS_%28cropped%29.jpg/330px-Dr_John_Hayes_ForMemRS_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American oceanographer (1940–2017)",
-        "extract": "John Michael Hayes was an American oceanographer. He worked at Indiana University Bloomington, and Woods Hole Oceanographic Institution in Woods Hole, Massachusetts.",
-        "born": 1940
+        "name": "Tsugumi Aritomo",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tsugumi_Aritomo_Tainan_2024.jpg/330px-Tsugumi_Aritomo_Tainan_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese singer, dancer, model, and actress (born 2004)",
+        "extract": "Tsugumi Aritomo  is a Japanese singer, dancer, model, and actress. She is best known as a member of the girl group @onefive, and is a former member of the idol group Sakura Gakuin. She is represented by the talent agency Amuse Inc. and is signed with the record label Avex Trax.",
+        "born": 2004,
+        "highlights": [
+          "Member of the girl group @onefive.",
+          "Former member of idol group Sakura Gakuin.",
+          "Japanese singer, dancer, model, and actress."
+        ]
       },
       {
-        "name": "CeCe Peniston",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CCP_March_14%2C_2012.jpg/330px-CCP_March_14%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer (born 1969)",
-        "extract": "Cecilia Veronica \"CeCe\" Peniston is an American singer and former beauty queen. In the early 1990s, she scored five number one hits on the U.S. Billboard Hot Dance Music/Club Play. Her signature song \"Finally\" reached the No. 5 US Hot 100 and No. 2 in the UK.",
-        "born": 1969
+        "name": "Albert Bassermann",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Albert_Bassermann_1918_%28cropped%29.jpg/330px-Albert_Bassermann_1918_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German actor",
+        "extract": "Albert Bassermann was a German stage and screen actor. He was considered to be one of the greatest German-speaking actors of his generation and received the famous Iffland-Ring. Bassermann was nominated for the Academy Award for Best Supporting Actor for his performance in Foreign Correspondent (1940). He was married to Elsa Schiff with whom he frequently performed.",
+        "born": 1867,
+        "highlights": [
+          "German stage and screen actor.",
+          "Received the famous Iffland-Ring.",
+          "Nominated for Academy Award for Foreign Correspondent."
+        ]
       },
       {
-        "name": "Samuel Peter",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Samuel_Peter_%28while_boxing_vs._Jameel_McCline%2C_2007%29.jpg/330px-Samuel_Peter_%28while_boxing_vs._Jameel_McCline%2C_2007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Nigerian boxer (born 1980)",
-        "extract": "Samuel Okon Peter is a Nigerian former professional boxer who competed from 2001 to 2019. He held the World Boxing Council (WBC) heavyweight title in 2008. At regional level, he held multiple heavyweight championships, including the NABF title twice between 2004 and 2007; and the USBA title in 2005.",
-        "born": 1980
+        "name": "Giuseppe Zangara",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Giuseppe_Zangara_in_1933.jpg/330px-Giuseppe_Zangara_in_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Attempted assassin of Franklin D. Roosevelt (1900–1933)",
+        "extract": "Giuseppe Zangara was an Italian-born American man who attempted to assassinate the President-elect of the United States, Franklin D. Roosevelt, on February 15, 1933, 17 days before Roosevelt's inauguration. During a night speech by Roosevelt in Miami, Florida, Zangara fired five shots with a handgun he had purchased a few days before. He missed his target and instead killed Anton Cermak, the mayor of Chicago, and injured four bystanders.",
+        "born": 1900,
+        "highlights": [
+          "Attempted to assassinate President-elect Franklin D. Roosevelt.",
+          "Killed Chicago Mayor Anton Cermak.",
+          "Injured four bystanders during the attempt."
+        ]
       }
     ]
   }
