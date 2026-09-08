@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-07T21:55:02.731Z",
+  "generatedAt": "2026-09-08T17:04:58.390Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.4,
+    "tempC": 27.8,
     "condition": "Overcast",
     "code": 3,
-    "highC": 27.3,
-    "lowC": 15,
-    "rainChance": 0
+    "highC": 28.9,
+    "lowC": 16.2,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Karen Khachanov",
-          "Tennis Player"
+          "South Park",
+          "New Movie"
         ],
-        "summary": "Karen Khachanov is buzzing due to his recent strong performance in tennis tournaments."
+        "summary": "South Park is buzzing with its new streaming movie \"The End of Obesity\" now available."
       },
       {
         "keywords": [
-          "Ballon d'Or",
-          "Football Award"
+          "Detention",
+          "Immigration News"
         ],
-        "summary": "The Ballon d'Or is buzzing as the prestigious football award ceremony approaches, honoring top players."
+        "summary": "Detention is buzzing due to recent developments in immigration policies and legal cases."
       },
       {
         "keywords": [
-          "Donald Trump",
-          "Map Controversy"
+          "VIX Index",
+          "Market Fear"
         ],
-        "summary": "Donald Trump's North America flag map is buzzing due to recent discussions and interpretations online."
+        "summary": "The VIX is buzzing as it reflects current market volatility and investor fear."
       },
       {
         "keywords": [
-          "Hershey Park",
-          "Theme Park"
+          "Club Brugge",
+          "Football Match"
         ],
-        "summary": "Hershey Park closing is buzzing as rumors circulate about its seasonal operations or specific ride closures."
+        "summary": "Club Brugge is buzzing following recent football match results and league performance."
       }
     ]
   },
@@ -48,85 +48,100 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7718.6,
-        "changePct": -0.3757239235851583
+        "price": 7692.97,
+        "changePct": -0.3320550358873385
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26506.99,
-        "changePct": -0.2900606001331508
+        "price": 26490.275,
+        "changePct": -0.06305883844223785
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6403.99,
-        "changePct": 0.17300361493086097
+        "price": 6413.17,
+        "changePct": 0.14334813139933528
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10822.13,
-        "changePct": -0.0827248227094498
+        "price": 10811.66,
+        "changePct": -0.17948315498887935
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3932.6992,
-        "changePct": 0.06571560919377152
+        "price": 3940.551,
+        "changePct": 0.26541174315288185
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4575.024,
-        "changePct": 0.593089345983447
+        "price": 4558.7373,
+        "changePct": -0.3560002871241618
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25413.12,
-        "changePct": -0.926869147128343
+        "price": 25317.18,
+        "changePct": -1.301006982211155
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I spent an hour scrolling through streaming options, then just turned off the TV and went to sleep.",
-      "explanation": "It's funny because it's a common, relatable modern experience of choice paralysis, delivered in a deadpan, anticlimactic way."
+      "joke": "My AI assistant just told me to 'have a productive day.' The sarcasm was palpable, even for a machine.",
+      "explanation": "It's funny because AI usually sounds neutral, but the user's perception of sarcasm reflects their own lack of productivity, applying human emotion to a machine."
     },
     "zh": {
-      "joke": "我最近终于明白了一个道理，存钱最好的方式不是少花钱，而是把钱都还给花呗。"
+      "joke": "我的人生哲学就是：能躺着绝不坐着，能坐着绝不站着。但这套理论在工作上，似乎不太适用。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Antonio McDyess",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/34McDeezy_against_celtics.JPG/330px-34McDeezy_against_celtics.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball player (born 1974)",
-        "extract": "Antonio Keithflen McDyess is an American former professional basketball player. Listed at 6 ft 9 in (2.06 m) and 240 pounds (110 kg), McDyess played as a power forward. He played college basketball for the Alabama Crimson Tide.",
-        "born": 1974
+        "name": "Nick Hundley",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/MG_7621_Nick_Hundley.jpg/330px-MG_7621_Nick_Hundley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball player (born 1983)",
+        "extract": "Nicholas John Hundley is an American former professional baseball catcher and current front office executive. He played in Major League Baseball (MLB) for the San Diego Padres, Baltimore Orioles, Colorado Rockies, San Francisco Giants, and Oakland Athletics. He was drafted in 2005 by the Padres in the second round, and made his major-league debut in 2008.",
+        "born": 1983,
+        "highlights": [
+          "Former professional baseball catcher.",
+          "Played in Major League Baseball (MLB).",
+          "Currently a front office executive."
+        ]
       },
       {
-        "name": "Gracie Abrams",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Gracie_Abrams_%40_El_Rey_Theatre_03_05_2022_%2852297976119%29_%28cropped%29_3.jpg/330px-Gracie_Abrams_%40_El_Rey_Theatre_03_05_2022_%2852297976119%29_%28cropped%29_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer (born 1999)",
-        "extract": "Gracie Madigan Abrams is an American singer and songwriter. She signed with Interscope Records in 2019 and gained recognition after releasing her debut extended play, Minor (2020), and its follow-up, This Is What It Feels Like (2021), alongside various singles including \"I Miss You, I'm Sorry\". Abrams released her debut album, Good Riddance (2023), and was nominated for the Grammy Award for Best New Artist. She also performed as an opening act on Olivia Rodrigo's Sour Tour (2022) and Taylor Swift's Eras Tour (2023–2024).",
-        "born": 1999
+        "name": "Bernardino of Siena",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Saint_Bernardino_of_Siena.PNG/330px-Saint_Bernardino_of_Siena.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian Franciscan missionary and saint",
+        "extract": "Bernardino of Siena, OFM, was an Italian Catholic priest and Franciscan missionary preacher in the Republic of Siena. He was a systematizer of scholastic economics.",
+        "born": 1380,
+        "highlights": [
+          "Italian Catholic priest.",
+          "Franciscan missionary preacher.",
+          "Systematizer of scholastic economics."
+        ]
       },
       {
-        "name": "Eazy-E",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Eazy_E_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American rapper (1964–1995)",
-        "extract": "Eric Lynn Wright, known professionally as Eazy-E, was an American rapper, entrepreneur, and record executive. Dubbed the \"Godfather of Gangsta Rap\", he propelled West Coast rap and gangsta rap by leading the group N.W.A and its label, Ruthless Records.",
-        "born": 1964
+        "name": "Eduard Mörike",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eduard_M%C3%B6rike.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "19th-century German poet",
+        "extract": "Eduard Friedrich Mörike was a German Lutheran pastor who was also a Romantic poet and writer of novellas and novels. Many of his poems were set to music and became established folk songs, while others were used by composers Hugo Wolf and Ignaz Lachner in their symphonic works.",
+        "born": 1804,
+        "highlights": [
+          "German Lutheran pastor.",
+          "Romantic poet and writer.",
+          "Many poems became established folk songs."
+        ]
       }
     ]
   }
