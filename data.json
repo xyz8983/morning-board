@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-09T17:02:27.106Z",
+  "generatedAt": "2026-09-09T21:29:20.684Z",
   "weather": {
     "location": "New York City",
-    "tempC": 27.1,
+    "tempC": 29,
     "condition": "Overcast",
     "code": 3,
-    "highC": 29.8,
+    "highC": 29.3,
     "lowC": 18.8,
-    "rainChance": 4
+    "rainChance": 3
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Barcelona",
-          "Match"
+          "Karen Khachanov",
+          "Tennis"
         ],
-        "summary": "Barcelona matches are buzzing due to recent game outcomes and upcoming fixtures."
+        "summary": "Karen Khachanov is buzzing due to his recent strong performance in tennis tournaments."
       },
       {
         "keywords": [
-          "Treasury Yield",
-          "Economy"
+          "Leo Bernal",
+          "Viral Content"
         ],
-        "summary": "The 10-year treasury yield is buzzing due to its impact on interest rates and economic outlook."
+        "summary": "Leo Bernal is buzzing due to recent viral content or public interest."
       },
       {
         "keywords": [
-          "iPhone 18",
-          "Release Date"
+          "SDGE",
+          "Power Outage"
         ],
-        "summary": "iPhone 18 Pro Max release date is buzzing as tech enthusiasts anticipate new features and launch details."
+        "summary": "SDGE power outage is buzzing due to widespread service disruptions impacting residents."
       },
       {
         "keywords": [
-          "CNN",
-          "News Updates"
+          "Thursday Night",
+          "Football"
         ],
-        "summary": "CNN news is buzzing as people seek real-time updates on current global and national events."
+        "summary": "Thursday Night Football is buzzing as fans anticipate the next game."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7642.38,
-        "changePct": -0.4058111531604834
+        "price": 7636.36,
+        "changePct": -0.4842627633732728
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26271.354,
-        "changePct": -0.5679408806766304
+        "price": 26253.34,
+        "changePct": -0.6361204314137341
       },
       {
         "region": "Europe",
@@ -97,49 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My therapist told me to live in the moment. So I unfollowed everyone and just watched my food delivery app for an hour.",
-      "explanation": "It's funny because it takes the advice 'live in the moment' to an absurd, hyper-modern extreme, highlighting internet-era distraction."
+      "joke": "My smart home just asked if I'm sure I want to turn off the lights. It's becoming self-aware and judging my bedtime.",
+      "explanation": "This joke uses deadpan sarcasm to imply AI is developing sentience and a judgmental personality, reflecting modern anxieties about technology."
     },
     "zh": {
-      "joke": "周末最完美的计划，就是躺着什么也不干，但每过一小时都得挣扎一下，假装自己正要起来做点有意义的事。"
+      "joke": "每次领完工资，我都觉得自己是世界上最有钱的人，直到我打开了购物APP。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Luka Modrić",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg/330px-Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Croatian footballer (born 1985)",
-        "extract": "Luka Modrić is a Croatian professional footballer who plays as a central midfielder for Serie A club AC Milan and captains the Croatia national team. He is widely regarded as one of the greatest midfielders of all time and as the greatest Croatian footballer in history. With 34 major trophies, he is the most decorated Croatian player and ranks joint-third on all-time match appearances in international football. In addition, he is also one of a select number of players who have amassed over 1,100 career appearances.",
-        "born": 1985,
+        "name": "Anton Oliver",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Around_or_Through-_I_think_around-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "NZ international rugby union player",
+        "extract": "Anton David Oliver is a retired New Zealand rugby union player. Previously, he played as a hooker for Marlborough and Otago in the National Provincial Championship and Air New Zealand Cup, and spent twelve seasons with the Highlanders in Super Rugby. He earned 59 caps for his country and for a period was All Blacks captain.",
+        "born": 1975,
         "highlights": [
-          "Plays central midfielder for AC Milan.",
-          "Captains the Croatia national team.",
-          "Most decorated Croatian player with 34 major trophies."
+          "Retired New Zealand rugby union player.",
+          "Played hooker for Highlanders in Super Rugby.",
+          "Earned 59 caps; was All Blacks captain."
         ]
       },
       {
-        "name": "John McFee",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/John-McFee-2010-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American musician (born 1950)",
-        "extract": "John McFee is an American singer, songwriter, guitarist, record producer, and multi-instrumentalist, and long-time member of The Doobie Brothers.",
-        "born": 1950,
+        "name": "Edwin Jackson (baseball)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Edwin_Jackson_on_June_23%2C_2012.jpg/330px-Edwin_Jackson_on_June_23%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball player (born 1983)",
+        "extract": "Edwin Jackson Jr. is an American former professional baseball pitcher. He played in Major League Baseball (MLB) from 2003 to 2019 for the Los Angeles Dodgers, Tampa Bay Devil Rays / Rays, Detroit Tigers, Arizona Diamondbacks, Chicago White Sox, St. Louis Cardinals, Washington Nationals, Chicago Cubs, Atlanta Braves, Miami Marlins, San Diego Padres, Baltimore Orioles, Oakland Athletics, and Toronto Blue Jays.",
+        "born": 1983,
         "highlights": [
-          "Singer, songwriter, guitarist, record producer.",
-          "Multi-instrumentalist.",
-          "Long-time member of The Doobie Brothers."
+          "American former professional baseball pitcher.",
+          "Played in Major League Baseball (MLB).",
+          "Played for 14 MLB teams, 2003-2019."
         ]
       },
       {
-        "name": "Danilo D'Ambrosio",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Danilo_DAmbrosio_20140802.jpg/330px-Danilo_DAmbrosio_20140802.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian footballer (born 1988)",
-        "extract": "Danilo D'Ambrosio is an Italian former professional footballer who primarily played as a centre-back or right-back.",
-        "born": 1988,
+        "name": "James Agate",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/James_Evershed_Agate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "English diarist and theatre critic (1877–1947)",
+        "extract": "James Evershed Agate was an English diarist and theatre critic between the two world wars. He took up journalism in his late twenties and was on the staff of The Manchester Guardian in 1907–1914. He later became a drama critic for The Saturday Review (1921–1923), The Sunday Times (1923–1947) and the BBC (1925–1932). The nine volumes of Agate's diaries and letters cover the British theatre of his time and non-theatrical interests such as sports, social gossip and private preoccupations with health and finances. He published three novels, translated a play briefly staged in London, and regularly published collections of theatre essays and reviews.",
+        "born": 1877,
         "highlights": [
-          "Italian former professional footballer.",
-          "Played as a centre-back or right-back."
+          "English diarist and theatre critic.",
+          "Drama critic for The Sunday Times and BBC.",
+          "Published nine volumes of diaries and letters."
         ]
       }
     ]
