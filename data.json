@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-08T21:32:56.176Z",
+  "generatedAt": "2026-09-09T17:02:27.106Z",
   "weather": {
     "location": "New York City",
-    "tempC": 27.3,
+    "tempC": 27.1,
     "condition": "Overcast",
     "code": 3,
-    "highC": 28.1,
-    "lowC": 16.2,
-    "rainChance": 0
+    "highC": 29.8,
+    "lowC": 18.8,
+    "rainChance": 4
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Baker Mayfield",
-          "NFL Buzz"
+          "Barcelona",
+          "Match"
         ],
-        "summary": "Baker Mayfield is buzzing due to his strong performance and leadership in recent NFL games."
+        "summary": "Barcelona matches are buzzing due to recent game outcomes and upcoming fixtures."
       },
       {
         "keywords": [
-          "Stephen Curry",
-          "NBA Star"
+          "Treasury Yield",
+          "Economy"
         ],
-        "summary": "Stephen Curry is buzzing due to his continued stellar play and impact on the NBA season."
+        "summary": "The 10-year treasury yield is buzzing due to its impact on interest rates and economic outlook."
       },
       {
         "keywords": [
-          "Xylitol",
-          "Heart Risk"
+          "iPhone 18",
+          "Release Date"
         ],
-        "summary": "Xylitol is buzzing due to new studies linking the sweetener to increased cardiovascular event risk."
+        "summary": "iPhone 18 Pro Max release date is buzzing as tech enthusiasts anticipate new features and launch details."
       },
       {
         "keywords": [
-          "Tiafoe",
-          "Relationship"
+          "CNN",
+          "News Updates"
         ],
-        "summary": "Frances Tiafoe's girlfriend is buzzing due to their public appearances and shared social media spotlight."
+        "summary": "CNN news is buzzing as people seek real-time updates on current global and national events."
       }
     ]
   },
@@ -48,99 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7673.52,
-        "changePct": -0.5840437385017999
+        "price": 7642.38,
+        "changePct": -0.4058111531604834
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26421.412,
-        "changePct": -0.3228506895728309
+        "price": 26271.354,
+        "changePct": -0.5679408806766304
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6413.17,
-        "changePct": 0.14334813139933528
+        "price": 6311.56,
+        "changePct": -1.5843958603935289
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10811.66,
-        "changePct": -0.17948315498887935
+        "price": 10670.06,
+        "changePct": -1.3096971232909689
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3940.551,
-        "changePct": 0.26541174315288185
+        "price": 3951.507,
+        "changePct": 0.47822106949424686
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4558.7373,
-        "changePct": -0.3560002871241618
+        "price": 4572.5996,
+        "changePct": 0.30408200972667976
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25317.18,
-        "changePct": -1.301006982211155
+        "price": 25274.96,
+        "changePct": -0.5435779184751149
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked the AI to tell me a funny story. It gave me a step-by-step guide to filing my taxes.",
-      "explanation": "It's anti-humor because it subverts the expectation of a creative story with a dry, mundane, and universally disliked task."
+      "joke": "My therapist told me to live in the moment. So I unfollowed everyone and just watched my food delivery app for an hour.",
+      "explanation": "It's funny because it takes the advice 'live in the moment' to an absurd, hyper-modern extreme, highlighting internet-era distraction."
     },
     "zh": {
-      "joke": "我最近社交媒体戒断成功了，现在唯一关注的账号是小区垃圾分类指南。"
+      "joke": "周末最完美的计划，就是躺着什么也不干，但每过一小时都得挣扎一下，假装自己正要起来做点有意义的事。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Rie Kaneto",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Kazan_2015_-_50m_breast_W_Heat_5_RIE_KANETO.JPG/330px-Kazan_2015_-_50m_breast_W_Heat_5_RIE_KANETO.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese swimmer (born 1988)",
-        "extract": "Rie Kaneto  is a Japanese competitive swimmer who specializes in breaststroke events. She won the gold medal in the 200 meter breaststroke at the 2016 Summer Olympics.",
+        "name": "Luka Modrić",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg/330px-Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Croatian footballer (born 1985)",
+        "extract": "Luka Modrić is a Croatian professional footballer who plays as a central midfielder for Serie A club AC Milan and captains the Croatia national team. He is widely regarded as one of the greatest midfielders of all time and as the greatest Croatian footballer in history. With 34 major trophies, he is the most decorated Croatian player and ranks joint-third on all-time match appearances in international football. In addition, he is also one of a select number of players who have amassed over 1,100 career appearances.",
+        "born": 1985,
+        "highlights": [
+          "Plays central midfielder for AC Milan.",
+          "Captains the Croatia national team.",
+          "Most decorated Croatian player with 34 major trophies."
+        ]
+      },
+      {
+        "name": "John McFee",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/John-McFee-2010-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American musician (born 1950)",
+        "extract": "John McFee is an American singer, songwriter, guitarist, record producer, and multi-instrumentalist, and long-time member of The Doobie Brothers.",
+        "born": 1950,
+        "highlights": [
+          "Singer, songwriter, guitarist, record producer.",
+          "Multi-instrumentalist.",
+          "Long-time member of The Doobie Brothers."
+        ]
+      },
+      {
+        "name": "Danilo D'Ambrosio",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Danilo_DAmbrosio_20140802.jpg/330px-Danilo_DAmbrosio_20140802.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian footballer (born 1988)",
+        "extract": "Danilo D'Ambrosio is an Italian former professional footballer who primarily played as a centre-back or right-back.",
         "born": 1988,
         "highlights": [
-          "Japanese competitive swimmer.",
-          "Specializes in breaststroke events.",
-          "Won 2016 Summer Olympics gold in 200m breaststroke."
-        ]
-      },
-      {
-        "name": "Kelly Groucutt",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kelly_Groucutt_Electric_Light_Orchestra_%28cropped%29.jpg/330px-Kelly_Groucutt_Electric_Light_Orchestra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British bassist (1945–2009)",
-        "extract": "Kelly Groucutt was an English musician best known as the bassist and secondary vocalist for the rock band Electric Light Orchestra (ELO) between 1974 and 1982.",
-        "born": 1945,
-        "highlights": [
-          "English musician.",
-          "Bassist for Electric Light Orchestra (ELO).",
-          "Secondary vocalist for ELO (1974-1982)."
-        ]
-      },
-      {
-        "name": "Sivananda Saraswati",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Swami_Shivananda_Liebe.jpg/330px-Swami_Shivananda_Liebe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Hindu spiritual teacher (1887-1963)",
-        "extract": "Swami Sivananda Saraswati, also called Swami Sivananda, was a yoga guru, a Hindu spiritual teacher, and a proponent of Vedanta. Sivananda was born in Pattamadai, in the Tirunelveli district of modern Tamil Nadu, and was named Kuppuswami. He studied medicine and served in British Malaya as a physician for several years before taking up monasticism.",
-        "born": 1887,
-        "highlights": [
-          "Yoga guru and Hindu spiritual teacher.",
-          "Proponent of Vedanta.",
-          "Served as a physician in British Malaya."
+          "Italian former professional footballer.",
+          "Played as a centre-back or right-back."
         ]
       }
     ]
