@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-09T21:29:20.684Z",
+  "generatedAt": "2026-09-10T16:54:02.384Z",
   "weather": {
     "location": "New York City",
-    "tempC": 29,
+    "tempC": 30.1,
     "condition": "Overcast",
     "code": 3,
-    "highC": 29.3,
-    "lowC": 18.8,
-    "rainChance": 3
+    "highC": 32.2,
+    "lowC": 21.6,
+    "rainChance": 20
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Karen Khachanov",
-          "Tennis"
-        ],
-        "summary": "Karen Khachanov is buzzing due to his recent strong performance in tennis tournaments."
-      },
-      {
-        "keywords": [
-          "Leo Bernal",
-          "Viral Content"
-        ],
-        "summary": "Leo Bernal is buzzing due to recent viral content or public interest."
-      },
-      {
-        "keywords": [
-          "SDGE",
-          "Power Outage"
-        ],
-        "summary": "SDGE power outage is buzzing due to widespread service disruptions impacting residents."
-      },
-      {
-        "keywords": [
-          "Thursday Night",
+          "Fenerbahçe",
           "Football"
         ],
-        "summary": "Thursday Night Football is buzzing as fans anticipate the next game."
+        "summary": "Fenerbahçe is buzzing due to recent match results or transfer news in Turkish football."
+      },
+      {
+        "keywords": [
+          "Wingstop",
+          "Pass"
+        ],
+        "summary": "Wingstop Pass is buzzing as a new loyalty program offering deals and discounts to customers."
+      },
+      {
+        "keywords": [
+          "PSV",
+          "Football"
+        ],
+        "summary": "PSV is buzzing due to recent Eredivisie performance or Champions League news."
+      },
+      {
+        "keywords": [
+          "No Contest",
+          "Legal Plea"
+        ],
+        "summary": "\"No contest plea\" is buzzing due to recent high-profile legal cases or discussions."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7636.36,
-        "changePct": -0.4842627633732728
+        "price": 7603.41,
+        "changePct": -0.4314883007087123
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26253.34,
-        "changePct": -0.6361204314137341
+        "price": 26149.744,
+        "changePct": -0.3946012202637888
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6311.56,
-        "changePct": -1.5843958603935289
+        "price": 6268.97,
+        "changePct": -0.6747935534162733
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10670.06,
-        "changePct": -1.3096971232909689
+        "price": 10608.92,
+        "changePct": -1.8755607351295418
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3951.507,
-        "changePct": 0.47822106949424686
+        "price": 3934.404,
+        "changePct": -0.15596807552245717
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4572.5996,
-        "changePct": 0.30408200972667976
+        "price": 4548.3896,
+        "changePct": -0.529458122683629
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25274.96,
-        "changePct": -0.5435779184751149
+        "price": 24954.47,
+        "changePct": -1.4327413774035025
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My smart home just asked if I'm sure I want to turn off the lights. It's becoming self-aware and judging my bedtime.",
-      "explanation": "This joke uses deadpan sarcasm to imply AI is developing sentience and a judgmental personality, reflecting modern anxieties about technology."
+      "joke": "My dating app profile says 'looking for someone who exists.'",
+      "explanation": "It's an anti-joke that deadpans the frustration of online dating, highlighting the elusive search for a genuine connection."
     },
     "zh": {
-      "joke": "每次领完工资，我都觉得自己是世界上最有钱的人，直到我打开了购物APP。"
+      "joke": "我办健身卡的目的不是为了健身，主要是为了证明我有过办健身卡的决心。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Anton Oliver",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Around_or_Through-_I_think_around-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "NZ international rugby union player",
-        "extract": "Anton David Oliver is a retired New Zealand rugby union player. Previously, he played as a hooker for Marlborough and Otago in the National Provincial Championship and Air New Zealand Cup, and spent twelve seasons with the Highlanders in Super Rugby. He earned 59 caps for his country and for a period was All Blacks captain.",
-        "born": 1975,
+        "name": "John Golding (art historian)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/John_Golding_art_historian.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "British artist and curator (1929–2012)",
+        "extract": "Harold John Golding was a British artist, art scholar, and curator. Born in East Sussex, Golding spent most of his childhood in Mexico, where both his parents were settled. There, he met several artistic and cultural figures, including Leonora Carrington, Diego Rivera, Juan O'Gorman and José Orozco, who influenced his later artistic practice. He was sent to board at Ridley College in St. Catharines, Canada, and – despite wishing to train as an artist – subsequently read art and archaeology at the University of Toronto. While at Toronto he made frequent visits to the Museum of Modern Art in New York City, and on the encouragement of his professor, Peter H. Brieger, he moved in 1951 to the Courtauld Institute of Art in London for postgraduate study.",
+        "born": 1929,
         "highlights": [
-          "Retired New Zealand rugby union player.",
-          "Played hooker for Highlanders in Super Rugby.",
-          "Earned 59 caps; was All Blacks captain."
+          "British artist, art scholar, and curator.",
+          "Met influential artists like Diego Rivera in Mexico.",
+          "Studied at University of Toronto and Courtauld Institute."
         ]
       },
       {
-        "name": "Edwin Jackson (baseball)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Edwin_Jackson_on_June_23%2C_2012.jpg/330px-Edwin_Jackson_on_June_23%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player (born 1983)",
-        "extract": "Edwin Jackson Jr. is an American former professional baseball pitcher. He played in Major League Baseball (MLB) from 2003 to 2019 for the Los Angeles Dodgers, Tampa Bay Devil Rays / Rays, Detroit Tigers, Arizona Diamondbacks, Chicago White Sox, St. Louis Cardinals, Washington Nationals, Chicago Cubs, Atlanta Braves, Miami Marlins, San Diego Padres, Baltimore Orioles, Oakland Athletics, and Toronto Blue Jays.",
-        "born": 1983,
+        "name": "Alex Horne",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/AlexHorne-byPhilipRomano_%28cropped%29.jpg/330px-AlexHorne-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English comedian and musician",
+        "extract": "Alexander James Jeffery Horne is an English comedian. He is the creator of the BAFTA award-winning TV series Taskmaster, in which he takes the role of assistant to the Taskmaster Greg Davies. He is the host and bandleader of comedic band The Horne Section. Horne hosts the band's eponymous podcast and television series, and has appeared with them on BBC Radio 4, TV channel Dave, and 8 Out of 10 Cats Does Countdown.",
+        "born": 1978,
         "highlights": [
-          "American former professional baseball pitcher.",
-          "Played in Major League Baseball (MLB).",
-          "Played for 14 MLB teams, 2003-2019."
+          "Creator of BAFTA award-winning TV series Taskmaster.",
+          "Assistant to the Taskmaster Greg Davies.",
+          "Host and bandleader of The Horne Section."
         ]
       },
       {
-        "name": "James Agate",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/James_Evershed_Agate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "English diarist and theatre critic (1877–1947)",
-        "extract": "James Evershed Agate was an English diarist and theatre critic between the two world wars. He took up journalism in his late twenties and was on the staff of The Manchester Guardian in 1907–1914. He later became a drama critic for The Saturday Review (1921–1923), The Sunday Times (1923–1947) and the BBC (1925–1932). The nine volumes of Agate's diaries and letters cover the British theatre of his time and non-theatrical interests such as sports, social gossip and private preoccupations with health and finances. He published three novels, translated a play briefly staged in London, and regularly published collections of theatre essays and reviews.",
-        "born": 1877,
+        "name": "Tim Hunter (ice hockey)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Tim_Hunter.jpg/330px-Tim_Hunter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian ice hockey player and coach",
+        "extract": "Timothy Robert Hunter is a Canadian former professional ice hockey player, and most recently the head coach of the Moose Jaw Warriors of the Western Hockey League (WHL), having previously served as an assistant coach in the National Hockey League (NHL), most recently for the Washington Capitals. Chosen in the 3rd round of the 1979 NHL entry draft by the Atlanta Flames, Hunter went on to a 16-season playing career with the Calgary Flames, Quebec Nordiques, Vancouver Canucks, and San Jose Sharks.",
+        "born": 1960,
         "highlights": [
-          "English diarist and theatre critic.",
-          "Drama critic for The Sunday Times and BBC.",
-          "Published nine volumes of diaries and letters."
+          "Canadian former professional ice hockey player.",
+          "Head coach of the Moose Jaw Warriors (WHL).",
+          "Played 16 seasons in NHL for multiple teams."
         ]
       }
     ]
