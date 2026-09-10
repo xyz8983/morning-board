@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-10T16:54:02.384Z",
+  "generatedAt": "2026-09-10T21:22:36.150Z",
   "weather": {
     "location": "New York City",
-    "tempC": 30.1,
+    "tempC": 30.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 32.2,
+    "highC": 31.4,
     "lowC": 21.6,
     "rainChance": 20
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Fenerbahçe",
-          "Football"
+          "JD Vance",
+          "GOP Convention"
         ],
-        "summary": "Fenerbahçe is buzzing due to recent match results or transfer news in Turkish football."
+        "summary": "JD Vance is buzzing after his appearance at the GOP midterm convention, drawing significant attention."
       },
       {
         "keywords": [
-          "Wingstop",
-          "Pass"
+          "Flags",
+          "Half Staff"
         ],
-        "summary": "Wingstop Pass is buzzing as a new loyalty program offering deals and discounts to customers."
+        "summary": "\"Half staff\" is trending as flags are lowered in mourning, a common practice for national remembrance."
       },
       {
         "keywords": [
-          "PSV",
-          "Football"
+          "WarDogs",
+          "Servers Down"
         ],
-        "summary": "PSV is buzzing due to recent Eredivisie performance or Champions League news."
+        "summary": "WarDogs servers are buzzing due to reported outages, impacting player access and game experience."
       },
       {
         "keywords": [
-          "No Contest",
-          "Legal Plea"
+          "T-Mobile",
+          "Network"
         ],
-        "summary": "\"No contest plea\" is buzzing due to recent high-profile legal cases or discussions."
+        "summary": "T-Mobile is trending, likely due to recent service updates, outages, or new customer promotions."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7603.41,
-        "changePct": -0.4314883007087123
+        "price": 7591.7,
+        "changePct": -0.5848336118255275
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26149.744,
-        "changePct": -0.3946012202637888
+        "price": 26081.725,
+        "changePct": -0.6536882545230496
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My dating app profile says 'looking for someone who exists.'",
-      "explanation": "It's an anti-joke that deadpans the frustration of online dating, highlighting the elusive search for a genuine connection."
+      "joke": "My digital detox involves deleting one social media app, then immediately downloading a different one. It's about balance.",
+      "explanation": "A sarcastic take on modern 'detox' culture, highlighting the irony of swapping one digital addiction for another."
     },
     "zh": {
-      "joke": "我办健身卡的目的不是为了健身，主要是为了证明我有过办健身卡的决心。"
+      "joke": "我一边熬夜一边吃护肝片，这不叫养生，这叫当代年轻人的赛博朋克式续命。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "John Golding (art historian)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/John_Golding_art_historian.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "British artist and curator (1929–2012)",
-        "extract": "Harold John Golding was a British artist, art scholar, and curator. Born in East Sussex, Golding spent most of his childhood in Mexico, where both his parents were settled. There, he met several artistic and cultural figures, including Leonora Carrington, Diego Rivera, Juan O'Gorman and José Orozco, who influenced his later artistic practice. He was sent to board at Ridley College in St. Catharines, Canada, and – despite wishing to train as an artist – subsequently read art and archaeology at the University of Toronto. While at Toronto he made frequent visits to the Museum of Modern Art in New York City, and on the encouragement of his professor, Peter H. Brieger, he moved in 1951 to the Courtauld Institute of Art in London for postgraduate study.",
-        "born": 1929,
+        "name": "Chris Columbus (filmmaker)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Chris_Columbus_-_Home_Alone_35th.jpg/330px-Chris_Columbus_-_Home_Alone_35th.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American filmmaker (born 1958)",
+        "extract": "Christopher Joseph Columbus is an American filmmaker. Born in Spangler, Pennsylvania, Columbus studied film at New York University's Tisch School of the Arts where he developed an interest in filmmaking. After writing screenplays for several teen comedies in the mid-1980s, including Gremlins, The Goonies, and Young Sherlock Holmes, he made his directorial debut with a teen adventure, Adventures in Babysitting (1987). Columbus gained recognition soon after with the highly successful Christmas comedy Home Alone (1990) and its sequel, Home Alone 2: Lost in New York (1992).",
+        "born": 1958,
         "highlights": [
-          "British artist, art scholar, and curator.",
-          "Met influential artists like Diego Rivera in Mexico.",
-          "Studied at University of Toronto and Courtauld Institute."
+          "Wrote screenplays for Gremlins, The Goonies.",
+          "Directed Home Alone (1990).",
+          "Directed Home Alone 2: Lost in New York."
         ]
       },
       {
-        "name": "Alex Horne",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/AlexHorne-byPhilipRomano_%28cropped%29.jpg/330px-AlexHorne-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English comedian and musician",
-        "extract": "Alexander James Jeffery Horne is an English comedian. He is the creator of the BAFTA award-winning TV series Taskmaster, in which he takes the role of assistant to the Taskmaster Greg Davies. He is the host and bandleader of comedic band The Horne Section. Horne hosts the band's eponymous podcast and television series, and has appeared with them on BBC Radio 4, TV channel Dave, and 8 Out of 10 Cats Does Countdown.",
-        "born": 1978,
+        "name": "Germán Denis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Germ%C3%A1n_Denis_-_SSC_Neapel_%281%29.jpg/330px-Germ%C3%A1n_Denis_-_SSC_Neapel_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Argentine footballer (born 1981)",
+        "extract": "Germán Gustavo Denis is an Argentine former professional footballer who played as a forward.",
+        "born": 1981,
         "highlights": [
-          "Creator of BAFTA award-winning TV series Taskmaster.",
-          "Assistant to the Taskmaster Greg Davies.",
-          "Host and bandleader of The Horne Section."
+          "Argentine former professional footballer.",
+          "Played as a forward.",
+          "An Argentine athlete."
         ]
       },
       {
-        "name": "Tim Hunter (ice hockey)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Tim_Hunter.jpg/330px-Tim_Hunter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian ice hockey player and coach",
-        "extract": "Timothy Robert Hunter is a Canadian former professional ice hockey player, and most recently the head coach of the Moose Jaw Warriors of the Western Hockey League (WHL), having previously served as an assistant coach in the National Hockey League (NHL), most recently for the Washington Capitals. Chosen in the 3rd round of the 1979 NHL entry draft by the Atlanta Flames, Hunter went on to a 16-season playing career with the Calgary Flames, Quebec Nordiques, Vancouver Canucks, and San Jose Sharks.",
-        "born": 1960,
+        "name": "Johannes de Jong",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Jan_de_Jong_%281953%29.jpg/330px-Jan_de_Jong_%281953%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Dutch Catholic cardinal (1885–1955)",
+        "extract": "Johannes de Jong was a Dutch Cardinal of the Roman Catholic Church. He served as Archbishop of Utrecht from 1936 until his death, and was elevated to the cardinalate in 1946 by Pope Pius XII.",
+        "born": 1885,
         "highlights": [
-          "Canadian former professional ice hockey player.",
-          "Head coach of the Moose Jaw Warriors (WHL).",
-          "Played 16 seasons in NHL for multiple teams."
+          "Dutch Cardinal of the Roman Catholic Church.",
+          "Served as Archbishop of Utrecht from 1936.",
+          "Elevated to cardinalate in 1946 by Pope Pius XII."
         ]
       }
     ]
