@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-10T21:22:36.150Z",
+  "generatedAt": "2026-09-11T16:55:31.374Z",
   "weather": {
     "location": "New York City",
-    "tempC": 30.7,
+    "tempC": 25.8,
     "condition": "Overcast",
     "code": 3,
-    "highC": 31.4,
-    "lowC": 21.6,
-    "rainChance": 20
+    "highC": 27.9,
+    "lowC": 19.2,
+    "rainChance": 2
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "JD Vance",
-          "GOP Convention"
+          "ODNI",
+          "Intelligence"
         ],
-        "summary": "JD Vance is buzzing after his appearance at the GOP midterm convention, drawing significant attention."
+        "summary": "The Office of the Director of National Intelligence is buzzing due to recent intelligence community updates."
       },
       {
         "keywords": [
-          "Flags",
-          "Half Staff"
+          "Edward Furlong",
+          "Actor"
         ],
-        "summary": "\"Half staff\" is trending as flags are lowered in mourning, a common practice for national remembrance."
+        "summary": "Edward Furlong is buzzing due to new project announcements and public appearances."
       },
       {
         "keywords": [
-          "WarDogs",
-          "Servers Down"
+          "Robin Montgomery",
+          "Tennis"
         ],
-        "summary": "WarDogs servers are buzzing due to reported outages, impacting player access and game experience."
+        "summary": "Robin Montgomery is buzzing due to her recent strong performances in professional tennis."
       },
       {
         "keywords": [
-          "T-Mobile",
-          "Network"
+          "Mark Williams",
+          "Sports"
         ],
-        "summary": "T-Mobile is trending, likely due to recent service updates, outages, or new customer promotions."
+        "summary": "Mark Williams is buzzing due to his recent notable achievements in his respective sport."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7591.7,
-        "changePct": -0.5848336118255275
+        "price": 7668.57,
+        "changePct": 1.012553183081522
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26081.725,
-        "changePct": -0.6536882545230496
+        "price": 26372.516,
+        "changePct": 1.1149224217339961
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6268.97,
-        "changePct": -0.6747935534162733
+        "price": 6325.13,
+        "changePct": 0.8958409435680798
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10608.92,
-        "changePct": -1.8755607351295418
+        "price": 10650.44,
+        "changePct": -0.18425319350333974
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3934.404,
-        "changePct": -0.15596807552245717
+        "price": 3888.111,
+        "changePct": -1.604424637670165
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4548.3896,
-        "changePct": -0.529458122683629
+        "price": 4510.1553,
+        "changePct": -0.8406118068689646
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24954.47,
-        "changePct": -1.4327413774035025
+        "price": 24805.63,
+        "changePct": -1.8570524233432206
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My digital detox involves deleting one social media app, then immediately downloading a different one. It's about balance.",
-      "explanation": "A sarcastic take on modern 'detox' culture, highlighting the irony of swapping one digital addiction for another."
+      "joke": "I pay for six streaming services and still spend 30 minutes scrolling before watching a documentary I already saw.",
+      "explanation": "It highlights the relatable modern paradox of having too many streaming choices leading to decision fatigue and revisiting familiar content."
     },
     "zh": {
-      "joke": "我一边熬夜一边吃护肝片，这不叫养生，这叫当代年轻人的赛博朋克式续命。"
+      "joke": "我的人生信条是：能躺着绝不坐着，能坐着绝不站着，能不动绝不动。这就是我的“节能减排”生活方式。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Chris Columbus (filmmaker)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Chris_Columbus_-_Home_Alone_35th.jpg/330px-Chris_Columbus_-_Home_Alone_35th.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American filmmaker (born 1958)",
-        "extract": "Christopher Joseph Columbus is an American filmmaker. Born in Spangler, Pennsylvania, Columbus studied film at New York University's Tisch School of the Arts where he developed an interest in filmmaking. After writing screenplays for several teen comedies in the mid-1980s, including Gremlins, The Goonies, and Young Sherlock Holmes, he made his directorial debut with a teen adventure, Adventures in Babysitting (1987). Columbus gained recognition soon after with the highly successful Christmas comedy Home Alone (1990) and its sequel, Home Alone 2: Lost in New York (1992).",
-        "born": 1958,
+        "name": "Matthew Stevens",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Matthew_Stevens_PHC_2016-1.jpg/330px-Matthew_Stevens_PHC_2016-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Welsh professional snooker player",
+        "extract": "Matthew John Stevens is a Welsh professional snooker player. He has won two of the game's Triple Crown events—the Masters in 2000 and the UK Championship in 2003. He has also been a two-time runner-up in the other triple crown event, the World Snooker Championship, in 2000 and 2005. Stevens reached a career high ranking of No. 4 for the 2005/2006 season. Stevens has compiled more than 350 century breaks during his career.",
+        "born": 1977,
         "highlights": [
-          "Wrote screenplays for Gremlins, The Goonies.",
-          "Directed Home Alone (1990).",
-          "Directed Home Alone 2: Lost in New York."
+          "Won Masters (2000) and UK Championship (2003).",
+          "Two-time World Snooker Championship runner-up.",
+          "Achieved career high ranking of No. 4."
         ]
       },
       {
-        "name": "Germán Denis",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Germ%C3%A1n_Denis_-_SSC_Neapel_%281%29.jpg/330px-Germ%C3%A1n_Denis_-_SSC_Neapel_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Argentine footballer (born 1981)",
-        "extract": "Germán Gustavo Denis is an Argentine former professional footballer who played as a forward.",
-        "born": 1981,
+        "name": "Robert Acquafresca",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Acquafresca.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Italian footballer (born 1987)",
+        "extract": "Robert Acquafresca is an Italian former professional footballer who played as a striker. He is a former Italy under-21 international and represented Italy at the 2008 Summer Olympics.",
+        "born": 1987,
         "highlights": [
-          "Argentine former professional footballer.",
-          "Played as a forward.",
-          "An Argentine athlete."
+          "Italian former professional footballer, played as striker.",
+          "Former Italy under-21 international.",
+          "Represented Italy at 2008 Summer Olympics."
         ]
       },
       {
-        "name": "Johannes de Jong",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Jan_de_Jong_%281953%29.jpg/330px-Jan_de_Jong_%281953%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Dutch Catholic cardinal (1885–1955)",
-        "extract": "Johannes de Jong was a Dutch Cardinal of the Roman Catholic Church. He served as Archbishop of Utrecht from 1936 until his death, and was elevated to the cardinalate in 1946 by Pope Pius XII.",
-        "born": 1885,
+        "name": "Ludacris",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ludacris_at_NAS_Pax_River_2_%28cropped%29.jpg/330px-Ludacris_at_NAS_Pax_River_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American rapper (born 1977)",
+        "extract": "Christopher Brian Bridges, known professionally as Ludacris, is an American rapper and actor. Born in Champaign, Illinois, Ludacris moved to Atlanta, Georgia, where he first began rapping. Starting out with a brief stint as a DJ, he formed the record label Disturbing tha Peace in the late 1990s to release his debut studio album Incognegro (1999). After its single, \"What's Your Fantasy\", became a top 40 hit on the Billboard Hot 100, the album was re-released by Def Jam Recordings as his major label debut, Back for the First Time (2000). The latter album peaked at number four on the Billboard 200 and spawned his second top 40 single, \"Southern Hospitality\".",
+        "born": 1977,
         "highlights": [
-          "Dutch Cardinal of the Roman Catholic Church.",
-          "Served as Archbishop of Utrecht from 1936.",
-          "Elevated to cardinalate in 1946 by Pope Pius XII."
+          "American rapper and actor.",
+          "Formed record label Disturbing tha Peace.",
+          "Debut album Back for the First Time peaked at No. 4."
         ]
       }
     ]
