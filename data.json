@@ -1,46 +1,13 @@
 {
-  "generatedAt": "2026-09-11T16:55:31.374Z",
+  "generatedAt": "2026-09-11T21:32:19.199Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.8,
+    "tempC": 26.3,
     "condition": "Overcast",
     "code": 3,
-    "highC": 27.9,
-    "lowC": 19.2,
+    "highC": 27.7,
+    "lowC": 19.1,
     "rainChance": 2
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "ODNI",
-          "Intelligence"
-        ],
-        "summary": "The Office of the Director of National Intelligence is buzzing due to recent intelligence community updates."
-      },
-      {
-        "keywords": [
-          "Edward Furlong",
-          "Actor"
-        ],
-        "summary": "Edward Furlong is buzzing due to new project announcements and public appearances."
-      },
-      {
-        "keywords": [
-          "Robin Montgomery",
-          "Tennis"
-        ],
-        "summary": "Robin Montgomery is buzzing due to her recent strong performances in professional tennis."
-      },
-      {
-        "keywords": [
-          "Mark Williams",
-          "Sports"
-        ],
-        "summary": "Mark Williams is buzzing due to his recent notable achievements in his respective sport."
-      }
-    ]
   },
   "market": {
     "indices": [
@@ -48,15 +15,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7668.57,
-        "changePct": 1.012553183081522
+        "price": 7656.98,
+        "changePct": 0.859886454944212
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26372.516,
-        "changePct": 1.1149224217339961
+        "price": 26333.035,
+        "changePct": 0.9635482315682774
       },
       {
         "region": "Europe",
@@ -97,50 +64,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I pay for six streaming services and still spend 30 minutes scrolling before watching a documentary I already saw.",
-      "explanation": "It highlights the relatable modern paradox of having too many streaming choices leading to decision fatigue and revisiting familiar content."
+      "joke": "My streaming subscription auto-renewed. I guess I'll spend another year scrolling through options.",
+      "explanation": "This joke uses deadpan delivery to highlight the paradox of choice in modern streaming, where endless options often lead to inaction."
     },
     "zh": {
-      "joke": "我的人生信条是：能躺着绝不坐着，能坐着绝不站着，能不动绝不动。这就是我的“节能减排”生活方式。"
+      "joke": "人类文明发展到今天，依然没能解决袜子失踪的悬案，这说明科学的尽头是玄学。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Matthew Stevens",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Matthew_Stevens_PHC_2016-1.jpg/330px-Matthew_Stevens_PHC_2016-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Welsh professional snooker player",
-        "extract": "Matthew John Stevens is a Welsh professional snooker player. He has won two of the game's Triple Crown events—the Masters in 2000 and the UK Championship in 2003. He has also been a two-time runner-up in the other triple crown event, the World Snooker Championship, in 2000 and 2005. Stevens reached a career high ranking of No. 4 for the 2005/2006 season. Stevens has compiled more than 350 century breaks during his career.",
-        "born": 1977,
+        "name": "Jessica Mitford",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Jessica_Mitford%2C_by_William_Acton_%28cropped%29.jpg/330px-Jessica_Mitford%2C_by_William_Acton_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English-American writer and communist (1917–1996)",
+        "extract": "Jessica Lucy \"Decca\" Treuhaft was an English-American author, communist activist and one of the Mitford sisters. Her 1960 memoir Hons and Rebels and her 1963 book of social commentary The American Way of Death both became classics.",
+        "born": 1917,
         "highlights": [
-          "Won Masters (2000) and UK Championship (2003).",
-          "Two-time World Snooker Championship runner-up.",
-          "Achieved career high ranking of No. 4."
+          "Author of classic memoir Hons and Rebels.",
+          "Wrote classic social commentary The American Way of Death.",
+          "English-American author and communist activist."
         ]
       },
       {
-        "name": "Robert Acquafresca",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Acquafresca.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Italian footballer (born 1987)",
-        "extract": "Robert Acquafresca is an Italian former professional footballer who played as a striker. He is a former Italy under-21 international and represented Italy at the 2008 Summer Olympics.",
-        "born": 1987,
+        "name": "Philipp Bouhler",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Philipp_Bouhler_Portrait_photographic_portrait_%283x4_cropped%29.jpg/330px-Philipp_Bouhler_Portrait_photographic_portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German senior Nazi Party functionary (1899–1945)",
+        "extract": "Philipp Bouhler was a German senior Nazi Party functionary who was both a Reichsleiter and Chief of the Chancellery of the Führer of the NSDAP. He was also the SS official responsible for the Aktion T4 euthanasia program that killed more than 250,000 disabled adults and children in Nazi Germany, as well as co-initiator of Aktion 14f13, also called Sonderbehandlung, that killed 15,000–20,000 concentration camp prisoners.",
+        "born": 1899,
         "highlights": [
-          "Italian former professional footballer, played as striker.",
-          "Former Italy under-21 international.",
-          "Represented Italy at 2008 Summer Olympics."
+          "Senior Nazi Party functionary and Reichsleiter.",
+          "Chief of the Chancellery of the Führer.",
+          "Responsible for Aktion T4 euthanasia program."
         ]
       },
       {
-        "name": "Ludacris",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ludacris_at_NAS_Pax_River_2_%28cropped%29.jpg/330px-Ludacris_at_NAS_Pax_River_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American rapper (born 1977)",
-        "extract": "Christopher Brian Bridges, known professionally as Ludacris, is an American rapper and actor. Born in Champaign, Illinois, Ludacris moved to Atlanta, Georgia, where he first began rapping. Starting out with a brief stint as a DJ, he formed the record label Disturbing tha Peace in the late 1990s to release his debut studio album Incognegro (1999). After its single, \"What's Your Fantasy\", became a top 40 hit on the Billboard Hot 100, the album was re-released by Def Jam Recordings as his major label debut, Back for the First Time (2000). The latter album peaked at number four on the Billboard 200 and spawned his second top 40 single, \"Southern Hospitality\".",
-        "born": 1977,
+        "name": "James Allan (rugby union)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/James_Allan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "New Zealand rugby player (1860–1934)",
+        "extract": "James Allan ) was a New Zealand rugby union player who played eight games for the New Zealand national rugby union team, and was nicknamed the Taieri Giant. Allan played in the first match contested by the New Zealand team, and the New Zealand Rugby Union regard him as the first ever All Black.",
+        "born": 1860,
         "highlights": [
-          "American rapper and actor.",
-          "Formed record label Disturbing tha Peace.",
-          "Debut album Back for the First Time peaked at No. 4."
+          "New Zealand rugby union player, \"Taieri Giant\".",
+          "Played in New Zealand team's first match.",
+          "Regarded as the first ever All Black."
         ]
       }
     ]
