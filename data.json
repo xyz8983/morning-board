@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-12T16:00:06.513Z",
+  "generatedAt": "2026-09-12T21:11:27.933Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.1,
+    "tempC": 24.3,
     "condition": "Overcast",
     "code": 3,
-    "highC": 25.9,
+    "highC": 26.3,
     "lowC": 16.7,
     "rainChance": 1
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Athletic",
-          "Elche CF"
+          "Georgios Frangulis",
+          "Racing Driver"
         ],
-        "summary": "Athletic Club vs Elche CF match results are buzzing."
+        "summary": "Racing driver Georgios Frangulis is buzzing due to recent race achievements."
       },
       {
         "keywords": [
-          "Athletic",
-          "Elche Match"
+          "Brad Pitt",
+          "New Project"
         ],
-        "summary": "The Athletic vs Elche football match is currently a trending topic."
+        "summary": "Actor Brad Pitt is buzzing due to his involvement in a new film project."
       },
       {
         "keywords": [
-          "Dortmund",
-          "Paderborn Standings"
+          "Football Match",
+          "Brazilian Derby"
         ],
-        "summary": "Fans are checking Borussia Dortmund vs SC Paderborn 07 standings, sparking discussion."
+        "summary": "The intense football match between Palmeiras and São Paulo is buzzing with rivalry."
       },
       {
         "keywords": [
-          "Fox One",
-          "Trending"
+          "Disney Plus",
+          "Streaming Service"
         ],
-        "summary": "Fox One is trending, generating interest across various platforms."
+        "summary": "Streaming service Disney+ is buzzing due to recent new content releases and updates."
       }
     ]
   },
@@ -97,49 +97,48 @@
   },
   "joke": {
     "en": {
-      "joke": "My streaming service just recommended 'more content like this.' Thanks, I was worried I might actually try something new.",
-      "explanation": "It's funny because it uses sarcasm to point out how algorithms, intended to help, often just reinforce a rut, ironically 'thanking' for the lack of novelty."
+      "joke": "My dating app bio now just says \"Processing...\"",
+      "explanation": "It's anti-humor that plays on tech loading screens and the idea of being perpetually \"under construction\" or unremarkable, a common modern sentiment."
     },
     "zh": {
-      "joke": "我最近状态挺好，就是有点困，感觉我的灵魂跟肉体之间有12小时时差。"
+      "joke": "研究表明，熬夜的本质是对白天效率低下的一种弥补性加班行为。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "John Mowbray, 3rd Duke of Norfolk",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_Arms_of_Sir_John_Mowbray%2C_3rd_Duke_of_Norfolk%2C_KG.png/330px-Coat_of_Arms_of_Sir_John_Mowbray%2C_3rd_Duke_of_Norfolk%2C_KG.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English magnate and nobleman (1415–1461)",
-        "extract": "John Mowbray, 3rd Duke of Norfolk,, Earl Marshal was a fifteenth-century English magnate who, despite having a relatively short political career, played a significant role in the early years of the Wars of the Roses. Mowbray was born in 1415, the only son and heir of John de Mowbray, 2nd Duke of Norfolk, and Katherine Neville. He inherited his titles upon his father's death in 1432. As a minor he became a ward of King Henry VI and was placed under the protection of Humphrey, Duke of Gloucester, alongside whom Mowbray would later campaign in France. He seems to have had an unruly and rebellious youth. Although the details of his misconduct are unknown, they were severe enough for the King to place strictures upon him and separate him from his followers. Mowbray's early career was spent in the military, where he held the wartime office of Earl Marshal. Later he led the defence of England's possessions in Normandy during the Hundred Years' War. He fought in Calais in 1436, and during 1437–38 served as Warden of the Eastern March on the Anglo-Scottish border, before returning to Calais.",
-        "born": 1415,
+        "name": "RM (musician)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RM_at_W_Korea_Love_Your_W%2C_November_2023.jpg/330px-RM_at_W_Korea_Love_Your_W%2C_November_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "South Korean rapper (born 1994)",
+        "extract": "Kim Nam-joon, known professionally as RM, is a South Korean rapper, songwriter, and record producer. He is the leader of South Korean boy band BTS, under Big Hit Music. Born in Seoul and raised in Ilsan, RM began his music career in the underground Korean hip-hop scene as a teenager, going by the name Runch Randa. He joined Big Hit in 2010, and debuted as part of BTS in June 2013.",
+        "born": 1994,
         "highlights": [
-          "Significant role in early Wars of the Roses.",
-          "Held the wartime office of Earl Marshal.",
-          "Led defence of England's possessions in Normandy."
+          "South Korean rapper, songwriter, and record producer.",
+          "Leader of South Korean boy band BTS.",
+          "Began music career in underground Korean hip-hop scene."
         ]
       },
       {
-        "name": "Dieter Hecking",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Dieter_Hecking_-_Pressekonferenz_zur_Vorstellung_von_Luiz_Gustavo_2013_%28cropped%29.jpg/330px-Dieter_Hecking_-_Pressekonferenz_zur_Vorstellung_von_Luiz_Gustavo_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German football manager (born 1964)",
-        "extract": "Dieter-Klaus Hecking is a German former professional football manager and player who is currently VfL Wolfsburg's managing director for sport.",
-        "born": 1964,
+        "name": "Carly Smithson",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Carly_Smithson_in_parade.jpg/330px-Carly_Smithson_in_parade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Irish singer",
+        "extract": "Carly Sarah Smithson is an Irish soul and pop rock singer who was the sixth place finalist on the seventh season of American Idol in 2008. In 2001, Smithson had released her first studio album for MCA Records called Ultimate High. Smithson was dropped from the record label in 2002. After being introduced to former Evanescence guitarist Ben Moody in early 2009, plans for Smithson's post-Idol solo album were scrapped and instead she became the lead singer of the rock band We Are the Fallen. She also sings in The Tribe, a revolving group of Los Angeles musicians and singers that includes Stephen John Kalinich, Freebo, Fuzzbee Morse, Gary Stockdale, Grant Geissman, Rosemary Butler, Marc Mann, Gary Griffin, The Honeys, and Band Manager Lauri Reimer.",
+        "born": 1983,
         "highlights": [
-          "German former professional football manager and player.",
-          "Currently VfL Wolfsburg's managing director for sport."
+          "Sixth place finalist on American Idol in 2008.",
+          "Released first studio album Ultimate High in 2001.",
+          "Lead singer of the rock band We Are the Fallen."
         ]
       },
       {
-        "name": "Shocker (wrestler)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/LuchaLibreObrera065.JPG/330px-LuchaLibreObrera065.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican professional wrestler (born 1971)",
-        "extract": "José Luis Jair Soria, best known under the ring name Shocker, is a Mexican retired professional wrestler. He is best known for his tenure with Consejo Mundial de Lucha Libre (CMLL). He has previously worked for AAA in Mexico, Total Nonstop Action Wrestling (TNA) in the United States and New Japan Pro-Wrestling (NJPW) in Japan. Soria is a second-generation professional wrestler; his father, Rubén Soria, was an active wrestler from 1963 to the 1970s.",
-        "born": 1971,
+        "name": "Claude Ruel",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/ClaudeRuel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Canadian ice hockey coach (1938–2015)",
+        "extract": "Claude Ruel was a professional ice hockey coach for the Montreal Canadiens of the National Hockey League (NHL).",
+        "born": 1938,
         "highlights": [
-          "Mexican retired professional wrestler.",
-          "Best known for tenure with CMLL.",
-          "Worked for AAA, TNA, and NJPW."
+          "Professional ice hockey coach for Montreal Canadiens."
         ]
       }
     ]
