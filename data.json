@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-09-11T21:32:19.199Z",
+  "generatedAt": "2026-09-12T16:00:06.513Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.3,
+    "tempC": 25.1,
     "condition": "Overcast",
     "code": 3,
-    "highC": 27.7,
-    "lowC": 19.1,
-    "rainChance": 2
+    "highC": 25.9,
+    "lowC": 16.7,
+    "rainChance": 1
+  },
+  "hotTopics": {
+    "headline": "Today's buzz",
+    "topics": [
+      {
+        "keywords": [
+          "Athletic",
+          "Elche CF"
+        ],
+        "summary": "Athletic Club vs Elche CF match results are buzzing."
+      },
+      {
+        "keywords": [
+          "Athletic",
+          "Elche Match"
+        ],
+        "summary": "The Athletic vs Elche football match is currently a trending topic."
+      },
+      {
+        "keywords": [
+          "Dortmund",
+          "Paderborn Standings"
+        ],
+        "summary": "Fans are checking Borussia Dortmund vs SC Paderborn 07 standings, sparking discussion."
+      },
+      {
+        "keywords": [
+          "Fox One",
+          "Trending"
+        ],
+        "summary": "Fox One is trending, generating interest across various platforms."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -37,14 +70,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10650.44,
-        "changePct": -0.18425319350333974
+        "changePct": 0.3913687726931718
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3888.111,
-        "changePct": -1.604424637670165
+        "changePct": -1.1765199267995174
       },
       {
         "region": "Asia",
@@ -58,56 +91,55 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24805.63,
-        "changePct": -1.8570524233432206
+        "changePct": -0.5965657496643851
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My streaming subscription auto-renewed. I guess I'll spend another year scrolling through options.",
-      "explanation": "This joke uses deadpan delivery to highlight the paradox of choice in modern streaming, where endless options often lead to inaction."
+      "joke": "My streaming service just recommended 'more content like this.' Thanks, I was worried I might actually try something new.",
+      "explanation": "It's funny because it uses sarcasm to point out how algorithms, intended to help, often just reinforce a rut, ironically 'thanking' for the lack of novelty."
     },
     "zh": {
-      "joke": "人类文明发展到今天，依然没能解决袜子失踪的悬案，这说明科学的尽头是玄学。"
+      "joke": "我最近状态挺好，就是有点困，感觉我的灵魂跟肉体之间有12小时时差。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jessica Mitford",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Jessica_Mitford%2C_by_William_Acton_%28cropped%29.jpg/330px-Jessica_Mitford%2C_by_William_Acton_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English-American writer and communist (1917–1996)",
-        "extract": "Jessica Lucy \"Decca\" Treuhaft was an English-American author, communist activist and one of the Mitford sisters. Her 1960 memoir Hons and Rebels and her 1963 book of social commentary The American Way of Death both became classics.",
-        "born": 1917,
+        "name": "John Mowbray, 3rd Duke of Norfolk",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_Arms_of_Sir_John_Mowbray%2C_3rd_Duke_of_Norfolk%2C_KG.png/330px-Coat_of_Arms_of_Sir_John_Mowbray%2C_3rd_Duke_of_Norfolk%2C_KG.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English magnate and nobleman (1415–1461)",
+        "extract": "John Mowbray, 3rd Duke of Norfolk,, Earl Marshal was a fifteenth-century English magnate who, despite having a relatively short political career, played a significant role in the early years of the Wars of the Roses. Mowbray was born in 1415, the only son and heir of John de Mowbray, 2nd Duke of Norfolk, and Katherine Neville. He inherited his titles upon his father's death in 1432. As a minor he became a ward of King Henry VI and was placed under the protection of Humphrey, Duke of Gloucester, alongside whom Mowbray would later campaign in France. He seems to have had an unruly and rebellious youth. Although the details of his misconduct are unknown, they were severe enough for the King to place strictures upon him and separate him from his followers. Mowbray's early career was spent in the military, where he held the wartime office of Earl Marshal. Later he led the defence of England's possessions in Normandy during the Hundred Years' War. He fought in Calais in 1436, and during 1437–38 served as Warden of the Eastern March on the Anglo-Scottish border, before returning to Calais.",
+        "born": 1415,
         "highlights": [
-          "Author of classic memoir Hons and Rebels.",
-          "Wrote classic social commentary The American Way of Death.",
-          "English-American author and communist activist."
+          "Significant role in early Wars of the Roses.",
+          "Held the wartime office of Earl Marshal.",
+          "Led defence of England's possessions in Normandy."
         ]
       },
       {
-        "name": "Philipp Bouhler",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Philipp_Bouhler_Portrait_photographic_portrait_%283x4_cropped%29.jpg/330px-Philipp_Bouhler_Portrait_photographic_portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German senior Nazi Party functionary (1899–1945)",
-        "extract": "Philipp Bouhler was a German senior Nazi Party functionary who was both a Reichsleiter and Chief of the Chancellery of the Führer of the NSDAP. He was also the SS official responsible for the Aktion T4 euthanasia program that killed more than 250,000 disabled adults and children in Nazi Germany, as well as co-initiator of Aktion 14f13, also called Sonderbehandlung, that killed 15,000–20,000 concentration camp prisoners.",
-        "born": 1899,
+        "name": "Dieter Hecking",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Dieter_Hecking_-_Pressekonferenz_zur_Vorstellung_von_Luiz_Gustavo_2013_%28cropped%29.jpg/330px-Dieter_Hecking_-_Pressekonferenz_zur_Vorstellung_von_Luiz_Gustavo_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German football manager (born 1964)",
+        "extract": "Dieter-Klaus Hecking is a German former professional football manager and player who is currently VfL Wolfsburg's managing director for sport.",
+        "born": 1964,
         "highlights": [
-          "Senior Nazi Party functionary and Reichsleiter.",
-          "Chief of the Chancellery of the Führer.",
-          "Responsible for Aktion T4 euthanasia program."
+          "German former professional football manager and player.",
+          "Currently VfL Wolfsburg's managing director for sport."
         ]
       },
       {
-        "name": "James Allan (rugby union)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/James_Allan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "New Zealand rugby player (1860–1934)",
-        "extract": "James Allan ) was a New Zealand rugby union player who played eight games for the New Zealand national rugby union team, and was nicknamed the Taieri Giant. Allan played in the first match contested by the New Zealand team, and the New Zealand Rugby Union regard him as the first ever All Black.",
-        "born": 1860,
+        "name": "Shocker (wrestler)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/LuchaLibreObrera065.JPG/330px-LuchaLibreObrera065.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican professional wrestler (born 1971)",
+        "extract": "José Luis Jair Soria, best known under the ring name Shocker, is a Mexican retired professional wrestler. He is best known for his tenure with Consejo Mundial de Lucha Libre (CMLL). He has previously worked for AAA in Mexico, Total Nonstop Action Wrestling (TNA) in the United States and New Japan Pro-Wrestling (NJPW) in Japan. Soria is a second-generation professional wrestler; his father, Rubén Soria, was an active wrestler from 1963 to the 1970s.",
+        "born": 1971,
         "highlights": [
-          "New Zealand rugby union player, \"Taieri Giant\".",
-          "Played in New Zealand team's first match.",
-          "Regarded as the first ever All Black."
+          "Mexican retired professional wrestler.",
+          "Best known for tenure with CMLL.",
+          "Worked for AAA, TNA, and NJPW."
         ]
       }
     ]
