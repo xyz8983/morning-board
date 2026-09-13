@@ -1,44 +1,42 @@
 {
-  "generatedAt": "2026-09-12T21:11:27.933Z",
+  "generatedAt": "2026-09-13T16:50:38.631Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.3,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 26.3,
-    "lowC": 16.7,
-    "rainChance": 1
+    "tempC": 22,
+    "condition": "Rain",
+    "code": 63,
+    "highC": 24.9,
+    "lowC": 20.4,
+    "rainChance": 86
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Georgios Frangulis",
-          "Racing Driver"
+          "Levante UD",
+          "FC Barcelona"
         ],
-        "summary": "Racing driver Georgios Frangulis is buzzing due to recent race achievements."
+        "summary": "Levante UD vs FC Barcelona standings are buzzing as fans check league positions."
       },
       {
         "keywords": [
-          "Brad Pitt",
-          "New Project"
+          "Football",
+          "Games Today"
         ],
-        "summary": "Actor Brad Pitt is buzzing due to his involvement in a new film project."
+        "summary": "Football games today are buzzing as fans search for live matches and scores."
       },
       {
         "keywords": [
-          "Football Match",
-          "Brazilian Derby"
+          "FOX Network"
         ],
-        "summary": "The intense football match between Palmeiras and São Paulo is buzzing with rivalry."
+        "summary": "FOX is buzzing as viewers look for news, sports, and entertainment programming."
       },
       {
         "keywords": [
-          "Disney Plus",
-          "Streaming Service"
+          "Sling TV"
         ],
-        "summary": "Streaming service Disney+ is buzzing due to recent new content releases and updates."
+        "summary": "Sling TV is buzzing as people explore its live TV streaming options and packages."
       }
     ]
   },
@@ -76,8 +74,8 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3888.111,
-        "changePct": -1.1765199267995174
+        "price": 3888.1106,
+        "changePct": -1.176620517529013
       },
       {
         "region": "Asia",
@@ -91,54 +89,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24805.63,
-        "changePct": -0.5965657496643851
+        "changePct": -0.5964462479066882
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My dating app bio now just says \"Processing...\"",
-      "explanation": "It's anti-humor that plays on tech loading screens and the idea of being perpetually \"under construction\" or unremarkable, a common modern sentiment."
+      "joke": "My primary remote work skill is perfecting the 'I'm just about to share my screen' facial expression.",
+      "explanation": "It's funny because it's a deadpan, self-aware observation about the performative aspects of remote work culture."
     },
     "zh": {
-      "joke": "研究表明，熬夜的本质是对白天效率低下的一种弥补性加班行为。"
+      "joke": "我健身最大的成果，就是让我能更心安理得地吃更多。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "RM (musician)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RM_at_W_Korea_Love_Your_W%2C_November_2023.jpg/330px-RM_at_W_Korea_Love_Your_W%2C_November_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South Korean rapper (born 1994)",
-        "extract": "Kim Nam-joon, known professionally as RM, is a South Korean rapper, songwriter, and record producer. He is the leader of South Korean boy band BTS, under Big Hit Music. Born in Seoul and raised in Ilsan, RM began his music career in the underground Korean hip-hop scene as a teenager, going by the name Runch Randa. He joined Big Hit in 2010, and debuted as part of BTS in June 2013.",
-        "born": 1994,
+        "name": "Włodzimierz Cimoszewicz",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/W%C5%82odzimierz_Cimoszewicz_2024_%28cropped2%29.jpg/330px-W%C5%82odzimierz_Cimoszewicz_2024_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Prime Minister of Poland from 1996 to 1997",
+        "extract": "Włodzimierz Cimoszewicz is a Polish politician who served as Prime Minister of Poland for a year from 7 February 1996 to 31 October 1997, after being defeated in the Parliamentary elections by the Solidarity Electoral Action (AWS).",
+        "born": 1950,
         "highlights": [
-          "South Korean rapper, songwriter, and record producer.",
-          "Leader of South Korean boy band BTS.",
-          "Began music career in underground Korean hip-hop scene."
+          "Polish politician.",
+          "Served as Prime Minister of Poland.",
+          "Prime Minister from 1996 to 1997."
         ]
       },
       {
-        "name": "Carly Smithson",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Carly_Smithson_in_parade.jpg/330px-Carly_Smithson_in_parade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Irish singer",
-        "extract": "Carly Sarah Smithson is an Irish soul and pop rock singer who was the sixth place finalist on the seventh season of American Idol in 2008. In 2001, Smithson had released her first studio album for MCA Records called Ultimate High. Smithson was dropped from the record label in 2002. After being introduced to former Evanescence guitarist Ben Moody in early 2009, plans for Smithson's post-Idol solo album were scrapped and instead she became the lead singer of the rock band We Are the Fallen. She also sings in The Tribe, a revolving group of Los Angeles musicians and singers that includes Stephen John Kalinich, Freebo, Fuzzbee Morse, Gary Stockdale, Grant Geissman, Rosemary Butler, Marc Mann, Gary Griffin, The Honeys, and Band Manager Lauri Reimer.",
-        "born": 1983,
+        "name": "Craig Rivet",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Craig_Rivet_08-Edit%28ws%29.jpg/330px-Craig_Rivet_08-Edit%28ws%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian ice hockey player (born 1974)",
+        "extract": "Anthony Craig Rivet is a Canadian former professional ice hockey defenceman who played 18 seasons in the NHL, including 12 with the Montreal Canadiens. He later played for the San Jose Sharks, Buffalo Sabres, and Columbus Blue Jackets before finishing his career with the Elmira Jackals of the ECHL.",
+        "born": 1974,
         "highlights": [
-          "Sixth place finalist on American Idol in 2008.",
-          "Released first studio album Ultimate High in 2001.",
-          "Lead singer of the rock band We Are the Fallen."
+          "Canadian former professional ice hockey defenceman.",
+          "Played 18 seasons in the NHL.",
+          "Played 12 seasons with Montreal Canadiens."
         ]
       },
       {
-        "name": "Claude Ruel",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/ClaudeRuel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Canadian ice hockey coach (1938–2015)",
-        "extract": "Claude Ruel was a professional ice hockey coach for the Montreal Canadiens of the National Hockey League (NHL).",
-        "born": 1938,
+        "name": "Alice Merton",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Alice_Merton_%40_Troubadour_05_22_2024_%2853838139492%29_%28cropped%29.jpg/330px-Alice_Merton_%40_Troubadour_05_22_2024_%2853838139492%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German-Canadian singer-songwriter (born 1993)",
+        "extract": "Alice Florence Clarissa Merton is a British-based German-Canadian singer-songwriter. Merton achieved mainstream success with her debut single, \"No Roots\". In 2017, she released her first EP of the same name, and released her debut studio album Mint in 2019. S.I.D.E.S. was released as her second studio album in 2022. Her third studio album, Visions, was released on 16 January 2026.",
+        "born": 1993,
         "highlights": [
-          "Professional ice hockey coach for Montreal Canadiens."
+          "German-Canadian singer-songwriter.",
+          "Achieved success with debut single \"No Roots\".",
+          "Released debut studio album Mint in 2019."
         ]
       }
     ]
