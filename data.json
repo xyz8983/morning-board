@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-13T16:50:38.631Z",
+  "generatedAt": "2026-09-13T21:14:46.749Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22,
+    "tempC": 24.8,
     "condition": "Rain",
     "code": 63,
-    "highC": 24.9,
+    "highC": 25.2,
     "lowC": 20.4,
     "rainChance": 86
   },
@@ -14,29 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Levante UD",
-          "FC Barcelona"
+          "Dallas Goedert",
+          "NFL"
         ],
-        "summary": "Levante UD vs FC Barcelona standings are buzzing as fans check league positions."
+        "summary": "Dallas Goedert is buzzing due to recent NFL performance or team news."
       },
       {
         "keywords": [
-          "Football",
-          "Games Today"
+          "Matt LaFleur",
+          "Packers"
         ],
-        "summary": "Football games today are buzzing as fans search for live matches and scores."
+        "summary": "Matt LaFleur is buzzing due to recent coaching decisions or team updates."
       },
       {
         "keywords": [
-          "FOX Network"
+          "Michael Mayer",
+          "Draft Prospect"
         ],
-        "summary": "FOX is buzzing as viewers look for news, sports, and entertainment programming."
+        "summary": "Michael Mayer is buzzing as a top prospect in recent NFL draft discussions."
       },
       {
         "keywords": [
-          "Sling TV"
+          "Tucker Kraft",
+          "College Football"
         ],
-        "summary": "Sling TV is buzzing as people explore its live TV streaming options and packages."
+        "summary": "Tucker Kraft is buzzing due to his strong performance in college football."
       }
     ]
   },
@@ -54,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 26333.035,
-        "changePct": 0.9635482315682774
+        "changePct": 0.963645007802402
       },
       {
         "region": "Europe",
@@ -68,77 +70,77 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10650.44,
-        "changePct": 0.3913687726931718
+        "changePct": 0.3915580314641563
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3888.1106,
-        "changePct": -1.176620517529013
+        "price": 3888.111,
+        "changePct": -1.1765199267995174
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4510.1553,
-        "changePct": -0.8406118068689646
+        "price": 4510.155,
+        "changePct": -0.8406271230039768
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24805.63,
-        "changePct": -0.5964462479066882
+        "changePct": -0.5965657496643851
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My primary remote work skill is perfecting the 'I'm just about to share my screen' facial expression.",
-      "explanation": "It's funny because it's a deadpan, self-aware observation about the performative aspects of remote work culture."
+      "joke": "My dating app bio says 'spontaneous adventurer.' My last adventure was finding my phone under the couch.",
+      "explanation": "Sarcastic self-deprecation about the gap between an online persona and the less exciting reality of modern life, common on dating apps."
     },
     "zh": {
-      "joke": "我健身最大的成果，就是让我能更心安理得地吃更多。"
+      "joke": "每天早上，我的床都会对我进行一次严峻的哲学拷问：你真的要面对这个世界吗？"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Włodzimierz Cimoszewicz",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/W%C5%82odzimierz_Cimoszewicz_2024_%28cropped2%29.jpg/330px-W%C5%82odzimierz_Cimoszewicz_2024_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Prime Minister of Poland from 1996 to 1997",
-        "extract": "Włodzimierz Cimoszewicz is a Polish politician who served as Prime Minister of Poland for a year from 7 February 1996 to 31 October 1997, after being defeated in the Parliamentary elections by the Solidarity Electoral Action (AWS).",
-        "born": 1950,
+        "name": "Frank Marshall (filmmaker)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Frank_Marshall_Deauville_2012.jpg/330px-Frank_Marshall_Deauville_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American film producer and director (born 1946)",
+        "extract": "Frank Wilton Marshall is an American film producer and director. He often collaborated with his wife, film producer Kathleen Kennedy, with whom he founded the production company Amblin Entertainment, along with Steven Spielberg. In 1991, he founded, with Kennedy, The Kennedy/Marshall Company, a film production company. Since May 2012, with Kennedy taking on the role of President of Lucasfilm, Marshall has been Kennedy/Marshall's sole principal.",
+        "born": 1946,
         "highlights": [
-          "Polish politician.",
-          "Served as Prime Minister of Poland.",
-          "Prime Minister from 1996 to 1997."
+          "Co-founded Amblin Entertainment.",
+          "Founded The Kennedy/Marshall Company.",
+          "Sole principal of Kennedy/Marshall Company since 2012."
         ]
       },
       {
-        "name": "Craig Rivet",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Craig_Rivet_08-Edit%28ws%29.jpg/330px-Craig_Rivet_08-Edit%28ws%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian ice hockey player (born 1974)",
-        "extract": "Anthony Craig Rivet is a Canadian former professional ice hockey defenceman who played 18 seasons in the NHL, including 12 with the Montreal Canadiens. He later played for the San Jose Sharks, Buffalo Sabres, and Columbus Blue Jackets before finishing his career with the Elmira Jackals of the ECHL.",
-        "born": 1974,
+        "name": "Milton S. Hershey",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Milton_S._Hershey_c1905.jpg/330px-Milton_S._Hershey_c1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American chocolatier (1857–1945)",
+        "extract": "Milton Snavely Hershey was an American chocolatier, businessman, and philanthropist.",
+        "born": 1857,
         "highlights": [
-          "Canadian former professional ice hockey defenceman.",
-          "Played 18 seasons in the NHL.",
-          "Played 12 seasons with Montreal Canadiens."
+          "American chocolatier.",
+          "Businessman.",
+          "Philanthropist."
         ]
       },
       {
-        "name": "Alice Merton",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Alice_Merton_%40_Troubadour_05_22_2024_%2853838139492%29_%28cropped%29.jpg/330px-Alice_Merton_%40_Troubadour_05_22_2024_%2853838139492%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German-Canadian singer-songwriter (born 1993)",
-        "extract": "Alice Florence Clarissa Merton is a British-based German-Canadian singer-songwriter. Merton achieved mainstream success with her debut single, \"No Roots\". In 2017, she released her first EP of the same name, and released her debut studio album Mint in 2019. S.I.D.E.S. was released as her second studio album in 2022. Her third studio album, Visions, was released on 16 January 2026.",
-        "born": 1993,
+        "name": "Rein Maran",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Rein_Maran%2C_filmioperaator_ja_-re%C5%BEiss%C3%B6%C3%B6r_09.jpg/330px-Rein_Maran%2C_filmioperaator_ja_-re%C5%BEiss%C3%B6%C3%B6r_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Estonian cinematographer and film director",
+        "extract": "Rein Maran is an Estonian cinematographer, director, and professor, most notable for teaching at Tallinn University. In 1972, he graduated from a cinematography school. In 1967 he joined Tallinnfilm, and later Eesti Telefilm. On his initiative, he established the Stodom photo group and, in 1989, the Tallinn Photo Club. He is part the Estonian Filmmakers Union, and was its chairman from 1989 to 1993. Since 1996, he teaches at Tallinn University, as part of the culture faculty of film and video training. He has created a series of films about nature, which is also reflected in folk traditions. Maran has also worked with other directors, movies, and documentaries. He is part of the 100 great Estonians of the 20th century.",
+        "born": 1931,
         "highlights": [
-          "German-Canadian singer-songwriter.",
-          "Achieved success with debut single \"No Roots\".",
-          "Released debut studio album Mint in 2019."
+          "Professor at Tallinn University since 1996.",
+          "Established Stodom photo group and Tallinn Photo Club.",
+          "Created a series of films about nature."
         ]
       }
     ]
