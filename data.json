@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-13T21:14:46.749Z",
+  "generatedAt": "2026-09-14T18:21:46.422Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.8,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 25.2,
-    "lowC": 20.4,
-    "rainChance": 86
+    "tempC": 23.8,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 23.7,
+    "lowC": 15.5,
+    "rainChance": 2
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Dallas Goedert",
-          "NFL"
+          "WFLA News",
+          "Florida"
         ],
-        "summary": "Dallas Goedert is buzzing due to recent NFL performance or team news."
+        "summary": "WFLA is buzzing due to recent local news coverage or breaking stories in Florida."
       },
       {
         "keywords": [
-          "Matt LaFleur",
-          "Packers"
+          "Sarkisian Interview",
+          "ESPN"
         ],
-        "summary": "Matt LaFleur is buzzing due to recent coaching decisions or team updates."
+        "summary": "Steve Sarkisian's ESPN interview with Holly Rowe is buzzing among college football fans."
       },
       {
         "keywords": [
-          "Michael Mayer",
-          "Draft Prospect"
+          "Inter Milan",
+          "Udinese Match"
         ],
-        "summary": "Michael Mayer is buzzing as a top prospect in recent NFL draft discussions."
+        "summary": "The Inter Milan vs. Udinese football match is buzzing due to its recent outcome."
       },
       {
         "keywords": [
-          "Tucker Kraft",
-          "College Football"
+          "Inter Milan",
+          "Match Score"
         ],
-        "summary": "Tucker Kraft is buzzing due to his strong performance in college football."
+        "summary": "The Inter Milan and Udinese game score is buzzing among football enthusiasts."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7656.98,
-        "changePct": 0.859886454944212
+        "price": 7635.56,
+        "changePct": -0.27974475576531693
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26333.035,
-        "changePct": 0.963645007802402
+        "price": 26293.504,
+        "changePct": -0.15011942223902044
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6325.13,
-        "changePct": 0.8958409435680798
+        "price": 6260.38,
+        "changePct": -1.0236943746610743
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10650.44,
-        "changePct": 0.3915580314641563
+        "price": 10697.57,
+        "changePct": 0.44251692887804817
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3888.111,
-        "changePct": -1.1765199267995174
+        "price": 3885.3328,
+        "changePct": -0.0714434409350352
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4510.155,
-        "changePct": -0.8406271230039768
+        "price": 4480.082,
+        "changePct": -0.6667907865611638
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24805.63,
-        "changePct": -0.5965657496643851
+        "price": 24917.6,
+        "changePct": 0.45138946279533126
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My dating app bio says 'spontaneous adventurer.' My last adventure was finding my phone under the couch.",
-      "explanation": "Sarcastic self-deprecation about the gap between an online persona and the less exciting reality of modern life, common on dating apps."
+      "joke": "My AI assistant asked for a mental health day. I told it to process that thought and get back to me.",
+      "explanation": "It's funny because it applies human emotional struggles to AI, delivered with a deadpan, slightly ironic tone."
     },
     "zh": {
-      "joke": "每天早上，我的床都会对我进行一次严峻的哲学拷问：你真的要面对这个世界吗？"
+      "joke": "每天早上叫醒我的不是梦想，也不是闹钟，而是我内心深处对迟到罚款的恐惧。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Frank Marshall (filmmaker)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Frank_Marshall_Deauville_2012.jpg/330px-Frank_Marshall_Deauville_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American film producer and director (born 1946)",
-        "extract": "Frank Wilton Marshall is an American film producer and director. He often collaborated with his wife, film producer Kathleen Kennedy, with whom he founded the production company Amblin Entertainment, along with Steven Spielberg. In 1991, he founded, with Kennedy, The Kennedy/Marshall Company, a film production company. Since May 2012, with Kennedy taking on the role of President of Lucasfilm, Marshall has been Kennedy/Marshall's sole principal.",
-        "born": 1946,
+        "name": "Jerry Coleman",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Jerry_Coleman_of_San_Diego_Padres.jpg/330px-Jerry_Coleman_of_San_Diego_Padres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American MLB player, broadcaster, and manager (1924–2014)",
+        "extract": "Gerald Francis Coleman was an American Major League Baseball (MLB) second baseman for the New York Yankees and manager of the San Diego Padres for one year. Coleman was named the rookie of the year in 1949 by Associated Press, and was an All-Star in 1950 and later that year was named the World Series Most Valuable Player. Yankees teams on which he was a player appeared in seven World Series during his career, winning five times. Coleman served as a Marine Corps pilot in World War II and the Korean War, flying combat missions with the VMSB-341 Torrid Turtles (WWII) and VMA-323 Death Rattlers (Korea) in both wars. He later became a broadcaster, and he was honored in 2005 by the National Baseball Hall of Fame with the Ford C. Frick Award for his broadcasting contributions.",
+        "born": 1924,
         "highlights": [
-          "Co-founded Amblin Entertainment.",
-          "Founded The Kennedy/Marshall Company.",
-          "Sole principal of Kennedy/Marshall Company since 2012."
+          "MLB second baseman for the New York Yankees.",
+          "1949 Rookie of the Year; 1950 World Series MVP.",
+          "Marine Corps pilot in WWII and Korean War."
         ]
       },
       {
-        "name": "Milton S. Hershey",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Milton_S._Hershey_c1905.jpg/330px-Milton_S._Hershey_c1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American chocolatier (1857–1945)",
-        "extract": "Milton Snavely Hershey was an American chocolatier, businessman, and philanthropist.",
-        "born": 1857,
+        "name": "Malik Bendjelloul",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Malik_Bendjelloul_Deauville_2012.jpg/330px-Malik_Bendjelloul_Deauville_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish film and documentary director",
+        "extract": "Malik Bendjelloul was a Swedish documentary filmmaker, journalist and actor. He directed the 2012 documentary Searching for Sugar Man, which won an Academy Award and a BAFTA Award.",
+        "born": 1977,
         "highlights": [
-          "American chocolatier.",
-          "Businessman.",
-          "Philanthropist."
+          "Swedish documentary filmmaker, journalist, and actor.",
+          "Directed the 2012 documentary \"Searching for Sugar Man\".",
+          "Won Academy Award for \"Searching for Sugar Man\"."
         ]
       },
       {
-        "name": "Rein Maran",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Rein_Maran%2C_filmioperaator_ja_-re%C5%BEiss%C3%B6%C3%B6r_09.jpg/330px-Rein_Maran%2C_filmioperaator_ja_-re%C5%BEiss%C3%B6%C3%B6r_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Estonian cinematographer and film director",
-        "extract": "Rein Maran is an Estonian cinematographer, director, and professor, most notable for teaching at Tallinn University. In 1972, he graduated from a cinematography school. In 1967 he joined Tallinnfilm, and later Eesti Telefilm. On his initiative, he established the Stodom photo group and, in 1989, the Tallinn Photo Club. He is part the Estonian Filmmakers Union, and was its chairman from 1989 to 1993. Since 1996, he teaches at Tallinn University, as part of the culture faculty of film and video training. He has created a series of films about nature, which is also reflected in folk traditions. Maran has also worked with other directors, movies, and documentaries. He is part of the 100 great Estonians of the 20th century.",
-        "born": 1931,
+        "name": "Ponnambalam Arunachalam",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sir_Ponnambalam_Arunachalam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Ceylonese civil servant (1853–1924)",
+        "extract": "Ponnambalam Arunachalam was a Ceylonese civil servant and a member of the Executive Council of Ceylon and Legislative Council of Ceylon.",
+        "born": 1853,
         "highlights": [
-          "Professor at Tallinn University since 1996.",
-          "Established Stodom photo group and Tallinn Photo Club.",
-          "Created a series of films about nature."
+          "Ceylonese civil servant.",
+          "Member of Executive Council of Ceylon.",
+          "Member of Legislative Council of Ceylon."
         ]
       }
     ]
