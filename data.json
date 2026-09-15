@@ -1,42 +1,44 @@
 {
-  "generatedAt": "2026-09-14T22:15:07.191Z",
+  "generatedAt": "2026-09-15T17:29:36.722Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.4,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 25.4,
-    "lowC": 16.6,
-    "rainChance": 2
+    "tempC": 22.9,
+    "condition": "Mostly clear",
+    "code": 1,
+    "highC": 23.4,
+    "lowC": 12.6,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Space Exploration"
+          "La Liga",
+          "Football Match"
         ],
-        "summary": "Space exploration is buzzing due to recent mission announcements and new cosmic discoveries."
+        "summary": "Alavés vs Valencia is buzzing as fans anticipate the outcome of the Spanish football match."
       },
       {
         "keywords": [
-          "MLB",
-          "Baseball Rivalry"
+          "Spanish Football",
+          "Team Buzz"
         ],
-        "summary": "This MLB matchup is buzzing due to a crucial game with playoff implications."
+        "summary": "Alavés - Valencia C.F. is buzzing as supporters discuss team performance and match predictions."
       },
       {
         "keywords": [
-          "Emmy Awards",
-          "TV Nominations"
+          "Cricket",
+          "Match Update"
         ],
-        "summary": "Speculation about potential Emmy nominees for 2026 is buzzing, highlighting early favorites."
+        "summary": "ENG vs SL is buzzing as cricket fans track the latest international match developments."
       },
       {
         "keywords": [
-          "Lottery Jackpot"
+          "Ohio",
+          "Highway Patrol"
         ],
-        "summary": "The lottery is buzzing due to a massive jackpot drawing attracting widespread attention."
+        "summary": "Ohio State Highway Patrol is buzzing due to recent news or public safety discussions."
       }
     ]
   },
@@ -46,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7619.98,
-        "changePct": -0.48321923264785854
+        "price": 7578.78,
+        "changePct": -0.5406838338158344
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26186.414,
-        "changePct": -0.5567949155879647
+        "price": 25965.42,
+        "changePct": -0.8439261672102275
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6260.38,
-        "changePct": -1.0236943746610743
+        "price": 6236.5,
+        "changePct": -0.38144649366332567
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10697.57,
-        "changePct": 0.44251692887804817
+        "price": 10658.13,
+        "changePct": -0.3686818595251119
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3885.3328,
-        "changePct": -0.0714434409350352
+        "price": 3864.279,
+        "changePct": -0.6129199019575097
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4480.082,
-        "changePct": -0.6667907865611638
+        "price": 4450.04,
+        "changePct": -0.670568083352054
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24917.6,
-        "changePct": 0.45138946279533126
+        "price": 24667.24,
+        "changePct": -0.5577772760989331
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My screen time report basically just says 'You're still here?'",
-      "explanation": "Relatable self-deprecation about excessive phone use, framed as an exasperated question from the device itself."
+      "joke": "My therapist told me to live in the moment, so I spent five minutes staring at a loading bar.",
+      "explanation": "It's anti-humor and ironic, taking a common self-help phrase and applying it to a mundane, frustrating modern digital experience."
     },
     "zh": {
-      "joke": "我的KPI目标是：不被踢出群聊，不被叫去谈话，以及在下班前把电脑屏幕擦干净。"
+      "joke": "我发现，当代年轻人最常见的消费降级策略，就是把想买的东西放购物车里，然后等它自动降价或者……被遗忘。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Barry Cowsill",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/TheCowsillsBarry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American musician and member of the Cowsills (1954-2005)",
-        "extract": "Barry Steven Cowsill was an American musician, songwriter and producer. He was the bassist of the musical group The Cowsills, who had three top-10 singles in the late 1960s.",
-        "born": 1954,
+        "name": "Helle Virkner",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Helle_Virkner_by_Elfelt_%26_Co.jpg/330px-Helle_Virkner_by_Elfelt_%26_Co.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Danish actress (1925–2009)",
+        "extract": "Helle Genie Virkner née Lotinga was a Danish actress, author and spouse of Prime Minister Jens Otto Krag",
+        "born": 1925,
         "highlights": [
-          "Bassist for the musical group The Cowsills.",
-          "The Cowsills had three top-10 singles.",
-          "American musician, songwriter, and producer."
+          "Danish actress.",
+          "Also an author.",
+          "Spouse of Prime Minister Jens Otto Krag."
         ]
       },
       {
-        "name": "Ferid Murad",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Ferid_Murad.jpg/330px-Ferid_Murad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American physician and pharmacologist (1936–2023)",
-        "extract": "Ferid Murad was an American physician and pharmacologist, His research demonstrated that nitroglycerin relaxes smooth muscle by releasing nitric oxide into the body. This work led to him sharing the 1998 Nobel Prize in Physiology or Medicine.",
-        "born": 1936,
+        "name": "Terry Lamb",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/TERRY_LAMB.jpg/330px-TERRY_LAMB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian rugby league footballer and coach",
+        "extract": "Terence John Lamb, also nicknamed \"Baa\", is an Australian former rugby league footballer and coach. He played 350 games, with the Western Suburbs (1980–1983) and Canterbury (1984–1996).",
+        "born": 1961,
         "highlights": [
-          "Shared 1998 Nobel Prize in Physiology or Medicine.",
-          "Demonstrated nitroglycerin releases nitric oxide to relax muscle.",
-          "American physician and pharmacologist."
+          "Australian former rugby league footballer.",
+          "Played 350 games for Western Suburbs and Canterbury.",
+          "Also worked as a coach."
         ]
       },
       {
-        "name": "Josh Outman",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Josh_Outman_on_September_13%2C_2014.jpg/330px-Josh_Outman_on_September_13%2C_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player (born 1984)",
-        "extract": "Joshua Stephen Outman is an American former professional baseball pitcher. He pitched in Major League Baseball (MLB) for the Oakland Athletics, Colorado Rockies (2012-2013), Cleveland Indians (2014), and New York Yankees (2014).",
-        "born": 1983,
+        "name": "Ned Rothenberg",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Ned_Rothenberg.jpg/330px-Ned_Rothenberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American musician and composer",
+        "extract": "Ned Rothenberg is an American multi-instrumentalist and composer. He specializes in woodwind instruments, including the alto saxophone, clarinet, bass clarinet, flute, and shakuhachi. He is known for his work in contemporary classical and free improvisation. Rothenberg is a graduate of the Oberlin Conservatory of Music. He was a founding member of the woodwind trio New Winds with J. D. Parran and Robert Dick. He has performed with Samm Bennett, Paul Dresher, Fred Frith, Evan Parker, Marc Ribot, Elliott Sharp, John Zorn, Yuji Takahashi, Sainkho Namtchylak, and Katsuya Yokoyama.",
+        "born": 1956,
         "highlights": [
-          "Former professional baseball pitcher in MLB.",
-          "Pitched for Oakland Athletics, Colorado Rockies.",
-          "Also pitched for Cleveland Indians, New York Yankees."
+          "American multi-instrumentalist and composer.",
+          "Specializes in woodwind instruments.",
+          "Founding member of the woodwind trio New Winds."
         ]
       }
     ]
