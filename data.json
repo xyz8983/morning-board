@@ -1,44 +1,43 @@
 {
-  "generatedAt": "2026-09-15T17:29:36.722Z",
+  "generatedAt": "2026-09-15T21:54:30.784Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.9,
+    "tempC": 21.5,
     "condition": "Mostly clear",
     "code": 1,
-    "highC": 23.4,
+    "highC": 23,
     "lowC": 12.6,
-    "rainChance": 1
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "La Liga",
-          "Football Match"
+          "Military Aid"
         ],
-        "summary": "Alavés vs Valencia is buzzing as fans anticipate the outcome of the Spanish football match."
+        "summary": "Military aid is buzzing due to its role in global conflicts and geopolitical strategies."
       },
       {
         "keywords": [
-          "Spanish Football",
-          "Team Buzz"
+          "Gilded Age",
+          "Season 4"
         ],
-        "summary": "Alavés - Valencia C.F. is buzzing as supporters discuss team performance and match predictions."
+        "summary": "The Gilded Age Season 4 is buzzing as fans eagerly await news on its potential renewal."
       },
       {
         "keywords": [
-          "Cricket",
-          "Match Update"
+          "Jesus Luzardo",
+          "MLB Player"
         ],
-        "summary": "ENG vs SL is buzzing as cricket fans track the latest international match developments."
+        "summary": "Jesus Luzardo is buzzing due to recent MLB performance or trade speculation."
       },
       {
         "keywords": [
-          "Ohio",
-          "Highway Patrol"
+          "Kauai",
+          "Hawaii"
         ],
-        "summary": "Ohio State Highway Patrol is buzzing due to recent news or public safety discussions."
+        "summary": "Kauai is buzzing as a popular travel destination, possibly for tourism news or its natural beauty."
       }
     ]
   },
@@ -48,15 +47,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7578.78,
-        "changePct": -0.5406838338158344
+        "price": 7585.73,
+        "changePct": -0.44947624534447606
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25965.42,
-        "changePct": -0.8439261672102275
+        "price": 25981.57,
+        "changePct": -0.7822529652208239
       },
       {
         "region": "Europe",
@@ -97,50 +96,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My therapist told me to live in the moment, so I spent five minutes staring at a loading bar.",
-      "explanation": "It's anti-humor and ironic, taking a common self-help phrase and applying it to a mundane, frustrating modern digital experience."
+      "joke": "My therapist said to embrace discomfort, so I ordered a single olive on a delivery app.",
+      "explanation": "It's funny because it exaggerates modern convenience to an absurd degree, mixing a serious self-help concept with a trivial action."
     },
     "zh": {
-      "joke": "我发现，当代年轻人最常见的消费降级策略，就是把想买的东西放购物车里，然后等它自动降价或者……被遗忘。"
+      "joke": "周末我只想躺着，躺到大脑都觉得我在充电而不是在浪费人生，躺到它愿意给我一个“低功耗模式”的成就徽章。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Helle Virkner",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Helle_Virkner_by_Elfelt_%26_Co.jpg/330px-Helle_Virkner_by_Elfelt_%26_Co.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Danish actress (1925–2009)",
-        "extract": "Helle Genie Virkner née Lotinga was a Danish actress, author and spouse of Prime Minister Jens Otto Krag",
-        "born": 1925,
+        "name": "Oskar Klein",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/OskarKlein.jpg/330px-OskarKlein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish physicist (1894–1977)",
+        "extract": "Oskar Benjamin Klein was a Swedish theoretical physicist now best remembered for the Klein-Gordon equation of relativistic quantum mechanics, the Kaluza-Klein theory, a unified field theory of gravitation and electromagnetism, and the Klein–Nishina cross section in quantum electrodynamics.",
+        "born": 1894,
         "highlights": [
-          "Danish actress.",
-          "Also an author.",
-          "Spouse of Prime Minister Jens Otto Krag."
+          "Best remembered for the Klein-Gordon equation.",
+          "Developed Kaluza-Klein theory, a unified field theory.",
+          "Known for the Klein–Nishina cross section."
         ]
       },
       {
-        "name": "Terry Lamb",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/TERRY_LAMB.jpg/330px-TERRY_LAMB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian rugby league footballer and coach",
-        "extract": "Terence John Lamb, also nicknamed \"Baa\", is an Australian former rugby league footballer and coach. He played 350 games, with the Western Suburbs (1980–1983) and Canterbury (1984–1996).",
-        "born": 1961,
+        "name": "John N. Mitchell",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Interview_with_Atty._Gen._John_Mitchell_01_copy.jpg/330px-Interview_with_Atty._Gen._John_Mitchell_01_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American lawyer and criminal (1913–1988)",
+        "extract": "John Newton Mitchell was the 67th attorney general of the United States under President Richard Nixon. He also was chairman of Nixon's 1968 and 1972 presidential campaigns. Prior to that, he had been a municipal bond lawyer and one of Nixon's associates. Mitchell was tried and convicted as a result of his involvement in the Watergate scandal.",
+        "born": 1913,
         "highlights": [
-          "Australian former rugby league footballer.",
-          "Played 350 games for Western Suburbs and Canterbury.",
-          "Also worked as a coach."
+          "67th attorney general of the United States.",
+          "Chairman of Nixon's 1968 and 1972 presidential campaigns.",
+          "Convicted due to involvement in the Watergate scandal."
         ]
       },
       {
-        "name": "Ned Rothenberg",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Ned_Rothenberg.jpg/330px-Ned_Rothenberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American musician and composer",
-        "extract": "Ned Rothenberg is an American multi-instrumentalist and composer. He specializes in woodwind instruments, including the alto saxophone, clarinet, bass clarinet, flute, and shakuhachi. He is known for his work in contemporary classical and free improvisation. Rothenberg is a graduate of the Oberlin Conservatory of Music. He was a founding member of the woodwind trio New Winds with J. D. Parran and Robert Dick. He has performed with Samm Bennett, Paul Dresher, Fred Frith, Evan Parker, Marc Ribot, Elliott Sharp, John Zorn, Yuji Takahashi, Sainkho Namtchylak, and Katsuya Yokoyama.",
-        "born": 1956,
+        "name": "Margaret Lockwood",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Margaret_Lockwood_1940_U.S._press_photo.jpg/330px-Margaret_Lockwood_1940_U.S._press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British actress (1916–1990)",
+        "extract": "Margaret Mary Day Lockwood was a British actress. One of Britain's most popular film stars of the 1930s and 1940s, her film appearances included The Lady Vanishes (1938), Night Train to Munich (1940), The Man in Grey (1943), and The Wicked Lady (1945). She was nominated for the BAFTA Award for Best British Actress for the 1955 film Cast a Dark Shadow. She also starred in the television series Justice (1971–1974). Ronald Bergan of The Guardian called her \"one of the most beautiful, energetic, and spirited actresses in the history of British cinema.\"",
+        "born": 1916,
         "highlights": [
-          "American multi-instrumentalist and composer.",
-          "Specializes in woodwind instruments.",
-          "Founding member of the woodwind trio New Winds."
+          "British actress, popular film star of 1930s and 1940s.",
+          "Starred in films like The Lady Vanishes and The Wicked Lady.",
+          "Nominated for BAFTA Award for Cast a Dark Shadow."
         ]
       }
     ]
