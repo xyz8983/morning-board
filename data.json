@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-16T17:28:54.163Z",
+  "generatedAt": "2026-09-16T21:52:07.336Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.5,
+    "tempC": 24.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 26,
+    "highC": 26.1,
     "lowC": 15.8,
     "rainChance": 17
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Zelda",
-          "Ocarina Time"
+          "Joan García",
+          "Espanyol Goalkeeper"
         ],
-        "summary": "Nintendo's classic \"Ocarina of Time\" is buzzing due to renewed interest and fan discussions."
+        "summary": "Joan García is buzzing for his recent standout performance as Espanyol's goalkeeper."
       },
       {
         "keywords": [
-          "Fantasy Sports",
-          "Trade Analyzer"
+          "Carabao Cup",
+          "Draw Results"
         ],
-        "summary": "Fantasy trade analyzers are buzzing as players seek optimal team management tools."
+        "summary": "The Carabao Cup draw is buzzing as fans anticipate the pairings for the next round."
       },
       {
         "keywords": [
-          "Yankees",
-          "Twins"
+          "LDU Quito",
+          "Palmeiras Match"
         ],
-        "summary": "The Yankees vs. Twins matchup is buzzing with fans anticipating a key baseball game."
+        "summary": "LDU Quito - Palmeiras is buzzing as a highly anticipated football match generating significant fan interest."
       },
       {
         "keywords": [
-          "Federal Grants",
-          "Trump Admin"
+          "Trending Term",
+          "Short Word"
         ],
-        "summary": "Trump administration federal grant cuts are buzzing due to their significant impact on various programs."
+        "summary": "The short word \"de\" is buzzing, likely as part of a popular phrase or meme."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7610,
-        "changePct": 0.31994284004308665
+        "price": 7551.81,
+        "changePct": -0.44715538254062775
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26152.99,
-        "changePct": 0.6597753715422197
+        "price": 25978.424,
+        "changePct": -0.012108583122577428
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My social media feed is just ads for things I just looked at in real life.",
-      "explanation": "This deadpan observation highlights the intrusive, yet mundane, reality of targeted advertising, which is relatable modern anti-humor."
+      "joke": "My brain went 404 trying to remember what I did five minutes ago.",
+      "explanation": "It uses a technical error code (404) for human forgetfulness, playing on modern tech literacy with absurdist humor."
     },
     "zh": {
-      "joke": "每天早上醒来，我都要进行一个重要的仪式：重新评估我辞职的可能性。"
+      "joke": "我手机里有3000张截图，80%是聊天记录，15%是别人推荐的美食，剩下5%是提醒我要删除前面95%的截图。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "David Copperfield (illusionist)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/DCatAGT.JPG/330px-DCatAGT.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American magician (born 1956)",
-        "extract": "David Seth Kotkin, known professionally as David Copperfield, is an American stage magician and illusionist described by Forbes as the most commercially successful magician in history.",
-        "born": 1956,
+        "name": "Milt Franklyn",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/American_composer_and_bandleader_Milt_Franklyn.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American composer and arranger (1897–1962)",
+        "extract": "Milton J. Franklyn was an American musical composer and arranger who worked on the Warner Bros. Looney Tunes animated cartoons, working alongside and later succeeding Carl Stalling.",
+        "born": 1897,
         "highlights": [
-          "American stage magician.",
-          "Illusionist.",
-          "Most commercially successful magician in history."
+          "American musical composer and arranger.",
+          "Worked on Warner Bros. Looney Tunes cartoons.",
+          "Succeeded Carl Stalling at Warner Bros."
         ]
       },
       {
-        "name": "Mike Reynolds (Australian politician)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/MikeReynoldsMP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Australian politician",
-        "extract": "Michael Francis Reynolds is an Australian politician. He was a Labor member of the Legislative Assembly of Queensland from 1998 to 2009, representing the district of Townsville. He served as Speaker of the Legislative Assembly of Queensland from 2006 to 2009.",
-        "born": 1946,
+        "name": "Daoguang Emperor",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/330px-%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Emperor of China from 1820 to 1850",
+        "extract": "The Daoguang Emperor, also known by his temple name Emperor Xuanzong of Qing, personal name Minning, was the seventh emperor of the Qing dynasty, and the sixth Qing emperor to rule over China proper. His reign was marked by \"external disaster and internal rebellion\". These include the First Opium War and the beginning of the Taiping Rebellion which nearly brought down the dynasty. The historian Jonathan Spence characterizes the Daoguang Emperor as a \"well meaning but ineffective man\" who promoted officials who \"presented a purist view even if they had nothing to say about the domestic and foreign problems surrounding the dynasty\".",
+        "born": 1782,
         "highlights": [
-          "Australian politician.",
-          "Labor member, Legislative Assembly of Queensland (1998-2009).",
-          "Speaker, Legislative Assembly of Queensland (2006-2009)."
+          "Seventh emperor of the Qing dynasty.",
+          "Reign marked by First Opium War.",
+          "Reign saw beginning of Taiping Rebellion."
         ]
       },
       {
-        "name": "Kyla Pratt",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kyla_Pratt_2018_2.png/330px-Kyla_Pratt_2018_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (born 1986)",
-        "extract": "Kyla Alissa Pratt is an American actress. She is best known for providing the voice of Penny Proud in the first Disney Channel animated series, The Proud Family, its 2005 film adaptation and its revival The Proud Family: Louder and Prouder, and for portraying Breanna Latrice Barnes in UPN's One on One. She is also known for playing Maya Dolittle in the Dr. Dolittle franchise reboot from 1998 to 2009. From 2012 to 2014, she appeared in the series Let's Stay Together. She was formerly a part of VH1's Black Ink Crew: Compton and the cast of Call Me Kat on Fox.",
-        "born": 1986,
+        "name": "Robert Llewellyn Bradshaw",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Robert_Llewellyn_Bradshaw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Saint Kitts and Nevis politician",
+        "extract": "Robert Llewellyn Bradshaw was the first Premier of Saint Kitts and Nevis, and previously served as Chief Minister, legislator, and labour activist.",
+        "born": 1916,
         "highlights": [
-          "Voice of Penny Proud in The Proud Family.",
-          "Portrayed Breanna Barnes in UPN's One on One.",
-          "Played Maya Dolittle in the Dr. Dolittle franchise."
+          "First Premier of Saint Kitts and Nevis.",
+          "Previously served as Chief Minister.",
+          "Also a legislator and labour activist."
         ]
       }
     ]
