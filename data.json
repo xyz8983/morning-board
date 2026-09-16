@@ -1,43 +1,44 @@
 {
-  "generatedAt": "2026-09-15T21:54:30.784Z",
+  "generatedAt": "2026-09-16T17:28:54.163Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.5,
-    "condition": "Mostly clear",
-    "code": 1,
-    "highC": 23,
-    "lowC": 12.6,
-    "rainChance": 0
+    "tempC": 25.5,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 26,
+    "lowC": 15.8,
+    "rainChance": 17
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Military Aid"
+          "Zelda",
+          "Ocarina Time"
         ],
-        "summary": "Military aid is buzzing due to its role in global conflicts and geopolitical strategies."
+        "summary": "Nintendo's classic \"Ocarina of Time\" is buzzing due to renewed interest and fan discussions."
       },
       {
         "keywords": [
-          "Gilded Age",
-          "Season 4"
+          "Fantasy Sports",
+          "Trade Analyzer"
         ],
-        "summary": "The Gilded Age Season 4 is buzzing as fans eagerly await news on its potential renewal."
+        "summary": "Fantasy trade analyzers are buzzing as players seek optimal team management tools."
       },
       {
         "keywords": [
-          "Jesus Luzardo",
-          "MLB Player"
+          "Yankees",
+          "Twins"
         ],
-        "summary": "Jesus Luzardo is buzzing due to recent MLB performance or trade speculation."
+        "summary": "The Yankees vs. Twins matchup is buzzing with fans anticipating a key baseball game."
       },
       {
         "keywords": [
-          "Kauai",
-          "Hawaii"
+          "Federal Grants",
+          "Trump Admin"
         ],
-        "summary": "Kauai is buzzing as a popular travel destination, possibly for tourism news or its natural beauty."
+        "summary": "Trump administration federal grant cuts are buzzing due to their significant impact on various programs."
       }
     ]
   },
@@ -47,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7585.73,
-        "changePct": -0.44947624534447606
+        "price": 7610,
+        "changePct": 0.31994284004308665
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25981.57,
-        "changePct": -0.7822529652208239
+        "price": 26152.99,
+        "changePct": 0.6597753715422197
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6236.5,
-        "changePct": -0.38144649366332567
+        "price": 6266.5,
+        "changePct": 0.4810390443357652
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10658.13,
-        "changePct": -0.3686818595251119
+        "price": 10688.47,
+        "changePct": 0.28466532121488614
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3864.279,
-        "changePct": -0.6129199019575097
+        "price": 3891.601,
+        "changePct": 0.16140199159402638
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4450.04,
-        "changePct": -0.670568083352054
+        "price": 4480.268,
+        "changePct": 0.6792747930355697
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24667.24,
-        "changePct": -0.5577772760989331
+        "price": 24713.78,
+        "changePct": -0.817976049057693
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My therapist said to embrace discomfort, so I ordered a single olive on a delivery app.",
-      "explanation": "It's funny because it exaggerates modern convenience to an absurd degree, mixing a serious self-help concept with a trivial action."
+      "joke": "My social media feed is just ads for things I just looked at in real life.",
+      "explanation": "This deadpan observation highlights the intrusive, yet mundane, reality of targeted advertising, which is relatable modern anti-humor."
     },
     "zh": {
-      "joke": "周末我只想躺着，躺到大脑都觉得我在充电而不是在浪费人生，躺到它愿意给我一个“低功耗模式”的成就徽章。"
+      "joke": "每天早上醒来，我都要进行一个重要的仪式：重新评估我辞职的可能性。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Oskar Klein",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/OskarKlein.jpg/330px-OskarKlein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swedish physicist (1894–1977)",
-        "extract": "Oskar Benjamin Klein was a Swedish theoretical physicist now best remembered for the Klein-Gordon equation of relativistic quantum mechanics, the Kaluza-Klein theory, a unified field theory of gravitation and electromagnetism, and the Klein–Nishina cross section in quantum electrodynamics.",
-        "born": 1894,
+        "name": "David Copperfield (illusionist)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/DCatAGT.JPG/330px-DCatAGT.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American magician (born 1956)",
+        "extract": "David Seth Kotkin, known professionally as David Copperfield, is an American stage magician and illusionist described by Forbes as the most commercially successful magician in history.",
+        "born": 1956,
         "highlights": [
-          "Best remembered for the Klein-Gordon equation.",
-          "Developed Kaluza-Klein theory, a unified field theory.",
-          "Known for the Klein–Nishina cross section."
+          "American stage magician.",
+          "Illusionist.",
+          "Most commercially successful magician in history."
         ]
       },
       {
-        "name": "John N. Mitchell",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Interview_with_Atty._Gen._John_Mitchell_01_copy.jpg/330px-Interview_with_Atty._Gen._John_Mitchell_01_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American lawyer and criminal (1913–1988)",
-        "extract": "John Newton Mitchell was the 67th attorney general of the United States under President Richard Nixon. He also was chairman of Nixon's 1968 and 1972 presidential campaigns. Prior to that, he had been a municipal bond lawyer and one of Nixon's associates. Mitchell was tried and convicted as a result of his involvement in the Watergate scandal.",
-        "born": 1913,
+        "name": "Mike Reynolds (Australian politician)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/MikeReynoldsMP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Australian politician",
+        "extract": "Michael Francis Reynolds is an Australian politician. He was a Labor member of the Legislative Assembly of Queensland from 1998 to 2009, representing the district of Townsville. He served as Speaker of the Legislative Assembly of Queensland from 2006 to 2009.",
+        "born": 1946,
         "highlights": [
-          "67th attorney general of the United States.",
-          "Chairman of Nixon's 1968 and 1972 presidential campaigns.",
-          "Convicted due to involvement in the Watergate scandal."
+          "Australian politician.",
+          "Labor member, Legislative Assembly of Queensland (1998-2009).",
+          "Speaker, Legislative Assembly of Queensland (2006-2009)."
         ]
       },
       {
-        "name": "Margaret Lockwood",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Margaret_Lockwood_1940_U.S._press_photo.jpg/330px-Margaret_Lockwood_1940_U.S._press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British actress (1916–1990)",
-        "extract": "Margaret Mary Day Lockwood was a British actress. One of Britain's most popular film stars of the 1930s and 1940s, her film appearances included The Lady Vanishes (1938), Night Train to Munich (1940), The Man in Grey (1943), and The Wicked Lady (1945). She was nominated for the BAFTA Award for Best British Actress for the 1955 film Cast a Dark Shadow. She also starred in the television series Justice (1971–1974). Ronald Bergan of The Guardian called her \"one of the most beautiful, energetic, and spirited actresses in the history of British cinema.\"",
-        "born": 1916,
+        "name": "Kyla Pratt",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kyla_Pratt_2018_2.png/330px-Kyla_Pratt_2018_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1986)",
+        "extract": "Kyla Alissa Pratt is an American actress. She is best known for providing the voice of Penny Proud in the first Disney Channel animated series, The Proud Family, its 2005 film adaptation and its revival The Proud Family: Louder and Prouder, and for portraying Breanna Latrice Barnes in UPN's One on One. She is also known for playing Maya Dolittle in the Dr. Dolittle franchise reboot from 1998 to 2009. From 2012 to 2014, she appeared in the series Let's Stay Together. She was formerly a part of VH1's Black Ink Crew: Compton and the cast of Call Me Kat on Fox.",
+        "born": 1986,
         "highlights": [
-          "British actress, popular film star of 1930s and 1940s.",
-          "Starred in films like The Lady Vanishes and The Wicked Lady.",
-          "Nominated for BAFTA Award for Cast a Dark Shadow."
+          "Voice of Penny Proud in The Proud Family.",
+          "Portrayed Breanna Barnes in UPN's One on One.",
+          "Played Maya Dolittle in the Dr. Dolittle franchise."
         ]
       }
     ]
