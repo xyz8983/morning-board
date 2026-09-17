@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-17T17:29:09.725Z",
+  "generatedAt": "2026-09-17T21:54:17.682Z",
   "weather": {
     "location": "New York City",
-    "tempC": 28.6,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 29,
+    "tempC": 26.7,
+    "condition": "Drizzle",
+    "code": 53,
+    "highC": 28.4,
     "lowC": 20.8,
-    "rainChance": 17
+    "rainChance": 13
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Brain Amoeba",
-          "Health Risk"
+          "Jameson Williams",
+          "NFL Player"
         ],
-        "summary": "Brain-eating amoeba is buzzing due to recent rare but fatal infections, raising public health concerns."
+        "summary": "Jameson Williams is buzzing due to his recent performance or news in the NFL."
       },
       {
         "keywords": [
-          "Cricket",
-          "ENG SL"
+          "Matt Kalil",
+          "Former NFL"
         ],
-        "summary": "ENG vs SL is buzzing as cricket fans follow the ongoing competitive series between England and Sri Lanka."
+        "summary": "Matt Kalil is buzzing, likely for a retrospective look at his former NFL career."
       },
       {
         "keywords": [
-          "Middle East",
-          "Geopolitics"
+          "Sione Vaki",
+          "NFL Draft"
         ],
-        "summary": "Israel-Iran war is buzzing due to escalating tensions and potential regional conflict implications."
+        "summary": "Sione Vaki is buzzing due to his impressive NFL Draft potential and versatility."
       },
       {
         "keywords": [
-          "Microsoft",
-          "Presentation Tool"
+          "Taylor Frankie Paul",
+          "Social Media"
         ],
-        "summary": "Microsoft Sway is buzzing as users discover its dynamic, web-based presentation and storytelling capabilities."
+        "summary": "Taylor Frankie Paul is buzzing due to recent social media activity or personal updates."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7631.24,
-        "changePct": 1.051800826556804
+        "price": 7637.76,
+        "changePct": 1.138137744461259
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26384.154,
-        "changePct": 1.5617960504455528
+        "price": 26418.299,
+        "changePct": 1.6932320451771825
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My 401k is basically a bet that I'll die before I can retire.",
-      "explanation": "It's dark humor about financial insecurity and the bleak outlook on retirement many people feel today, delivered with ironic resignation."
+      "joke": "My phone battery lasts forever. It's usually dead by noon.",
+      "explanation": "The joke uses sarcasm to highlight the common modern frustration of short phone battery life by stating the opposite in a deadpan way."
     },
     "zh": {
-      "joke": "我的信用卡账单告诉我，我不仅是消费者，我还是一个梦想家。每个月都梦想着能还清。"
+      "joke": "我办了健身卡，最大的作用是提醒我，我还有一张卡没用过。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jack McDuff",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Jack_McDuff_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American jazz organist and bandleader (1926–2001)",
-        "extract": "Eugene McDuffy, known professionally as \"Brother\" Jack McDuff or \"Captain\" Jack McDuff, was an American jazz organist and organ trio bandleader. He was most prominent during the hard bop and soul jazz era of the 1960s, often performing with an organ trio. He is also credited with giving guitarist George Benson his first break.",
-        "born": 1926,
+        "name": "Lalgudi Jayaraman",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/Lalgudi_Jayaraman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Indian violinist (1930–2013)",
+        "extract": "Lalgudi Gopal Jayaraman was an Indian Carnatic violinist, vocalist and composer. He is commonly grouped with M.S. Gopalakrishnan and T.N.Krishnan as part of the violin trinity of Carnatic music. He was awarded the Padma Bhushan by the Government of India in 2001.",
+        "born": 1930,
         "highlights": [
-          "American jazz organist and organ trio bandleader.",
-          "Prominent during the hard bop and soul jazz era.",
-          "Credited with giving George Benson his first break."
+          "Indian Carnatic violinist, vocalist and composer.",
+          "Part of the violin trinity of Carnatic music.",
+          "Awarded the Padma Bhushan in 2001."
         ]
       },
       {
-        "name": "Sitakant Mahapatra",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sitakant_Mahapatra.jpg/330px-Sitakant_Mahapatra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Indian poet and literary critic (born 1937)",
-        "extract": "Sitakant Mahapatra is an Indian poet and literary critic in Odia as well as English. He served in the Indian Administrative Service (IAS) from 1961 until he retired in 1995, and has since held ex officio posts such as Banking Ombudsman of Odisha and Chairman of National Book Trust, New Delhi etc.",
-        "born": 1937,
+        "name": "Thomas J. Bata",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Tom%C3%A1%C5%A1_-_Ba%C5%A5a.jpg/330px-Tom%C3%A1%C5%A1_-_Ba%C5%A5a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian businessman (1914–2008)",
+        "extract": "Tomáš Jan Baťa,, also known as Thomas Bata Jr. and Tomáš Baťa ml., was a Czech and Canadian businessman and philanthropist. He ran the Bata Shoe Company from the 1940s until the 80s.",
+        "born": 1914,
         "highlights": [
-          "Indian poet and literary critic in Odia and English.",
-          "Served in the Indian Administrative Service (IAS) from 1961-1995.",
-          "Held posts like Banking Ombudsman of Odisha."
+          "Czech and Canadian businessman.",
+          "Philanthropist.",
+          "Ran the Bata Shoe Company from the 1940s until the 80s."
         ]
       },
       {
-        "name": "Reinhold Messner",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg/330px-2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian mountaineer, adventurer and explorer (born 1944)",
-        "extract": "Reinhold Andreas Messner is an Italian climber, explorer, and author from the German-speaking province of South Tyrol. He made the first solo ascent of Mount Everest and, along with Peter Habeler, the first ascent of Everest without supplementary oxygen. He was the first person to climb all 14 eight-thousanders, doing so without supplementary oxygen. Messner was the first to cross Antarctica and Greenland with neither snowmobiles nor dog sleds and also crossed the Gobi Desert alone. He is widely considered to be the greatest high-altitude mountaineer of all time.",
-        "born": 1944,
+        "name": "Duje Ćaleta-Car",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Duje_Caleta-Car_Croatia_v_Portugal_2_July_2026-019.jpg/330px-Duje_Caleta-Car_Croatia_v_Portugal_2_July_2026-019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Croatian footballer (born 1996)",
+        "extract": "Duje Ćaleta-Car is a Croatian professional footballer who plays as a centre-back for Serie A club Sassuolo and the Croatia national team.",
+        "born": 1996,
         "highlights": [
-          "First solo ascent of Mount Everest.",
-          "First ascent of Everest without supplementary oxygen.",
-          "First person to climb all 14 eight-thousanders."
+          "Croatian professional footballer.",
+          "Plays as a centre-back for Serie A club Sassuolo.",
+          "Plays for the Croatia national team."
         ]
       }
     ]
