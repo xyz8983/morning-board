@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-16T21:52:07.336Z",
+  "generatedAt": "2026-09-17T17:29:09.725Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.9,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 26.1,
-    "lowC": 15.8,
+    "tempC": 28.6,
+    "condition": "Rain",
+    "code": 63,
+    "highC": 29,
+    "lowC": 20.8,
     "rainChance": 17
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Joan García",
-          "Espanyol Goalkeeper"
+          "Brain Amoeba",
+          "Health Risk"
         ],
-        "summary": "Joan García is buzzing for his recent standout performance as Espanyol's goalkeeper."
+        "summary": "Brain-eating amoeba is buzzing due to recent rare but fatal infections, raising public health concerns."
       },
       {
         "keywords": [
-          "Carabao Cup",
-          "Draw Results"
+          "Cricket",
+          "ENG SL"
         ],
-        "summary": "The Carabao Cup draw is buzzing as fans anticipate the pairings for the next round."
+        "summary": "ENG vs SL is buzzing as cricket fans follow the ongoing competitive series between England and Sri Lanka."
       },
       {
         "keywords": [
-          "LDU Quito",
-          "Palmeiras Match"
+          "Middle East",
+          "Geopolitics"
         ],
-        "summary": "LDU Quito - Palmeiras is buzzing as a highly anticipated football match generating significant fan interest."
+        "summary": "Israel-Iran war is buzzing due to escalating tensions and potential regional conflict implications."
       },
       {
         "keywords": [
-          "Trending Term",
-          "Short Word"
+          "Microsoft",
+          "Presentation Tool"
         ],
-        "summary": "The short word \"de\" is buzzing, likely as part of a popular phrase or meme."
+        "summary": "Microsoft Sway is buzzing as users discover its dynamic, web-based presentation and storytelling capabilities."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7551.81,
-        "changePct": -0.44715538254062775
+        "price": 7631.24,
+        "changePct": 1.051800826556804
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25978.424,
-        "changePct": -0.012108583122577428
+        "price": 26384.154,
+        "changePct": 1.5617960504455528
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6266.5,
-        "changePct": 0.4810390443357652
+        "price": 6322.9,
+        "changePct": 0.9000239368068241
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10688.47,
-        "changePct": 0.28466532121488614
+        "price": 10816.14,
+        "changePct": 1.4828158865088434
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3891.601,
-        "changePct": 0.16140199159402638
+        "price": 3875.604,
+        "changePct": 0.29304294719843316
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4480.268,
-        "changePct": 0.6792747930355697
+        "price": 4460.156,
+        "changePct": -0.448901717486545
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24713.78,
-        "changePct": -0.817976049057693
+        "price": 24604.29,
+        "changePct": -0.25503502626970165
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My brain went 404 trying to remember what I did five minutes ago.",
-      "explanation": "It uses a technical error code (404) for human forgetfulness, playing on modern tech literacy with absurdist humor."
+      "joke": "My 401k is basically a bet that I'll die before I can retire.",
+      "explanation": "It's dark humor about financial insecurity and the bleak outlook on retirement many people feel today, delivered with ironic resignation."
     },
     "zh": {
-      "joke": "我手机里有3000张截图，80%是聊天记录，15%是别人推荐的美食，剩下5%是提醒我要删除前面95%的截图。"
+      "joke": "我的信用卡账单告诉我，我不仅是消费者，我还是一个梦想家。每个月都梦想着能还清。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Milt Franklyn",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/American_composer_and_bandleader_Milt_Franklyn.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American composer and arranger (1897–1962)",
-        "extract": "Milton J. Franklyn was an American musical composer and arranger who worked on the Warner Bros. Looney Tunes animated cartoons, working alongside and later succeeding Carl Stalling.",
-        "born": 1897,
+        "name": "Jack McDuff",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Jack_McDuff_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American jazz organist and bandleader (1926–2001)",
+        "extract": "Eugene McDuffy, known professionally as \"Brother\" Jack McDuff or \"Captain\" Jack McDuff, was an American jazz organist and organ trio bandleader. He was most prominent during the hard bop and soul jazz era of the 1960s, often performing with an organ trio. He is also credited with giving guitarist George Benson his first break.",
+        "born": 1926,
         "highlights": [
-          "American musical composer and arranger.",
-          "Worked on Warner Bros. Looney Tunes cartoons.",
-          "Succeeded Carl Stalling at Warner Bros."
+          "American jazz organist and organ trio bandleader.",
+          "Prominent during the hard bop and soul jazz era.",
+          "Credited with giving George Benson his first break."
         ]
       },
       {
-        "name": "Daoguang Emperor",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/330px-%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Emperor of China from 1820 to 1850",
-        "extract": "The Daoguang Emperor, also known by his temple name Emperor Xuanzong of Qing, personal name Minning, was the seventh emperor of the Qing dynasty, and the sixth Qing emperor to rule over China proper. His reign was marked by \"external disaster and internal rebellion\". These include the First Opium War and the beginning of the Taiping Rebellion which nearly brought down the dynasty. The historian Jonathan Spence characterizes the Daoguang Emperor as a \"well meaning but ineffective man\" who promoted officials who \"presented a purist view even if they had nothing to say about the domestic and foreign problems surrounding the dynasty\".",
-        "born": 1782,
+        "name": "Sitakant Mahapatra",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sitakant_Mahapatra.jpg/330px-Sitakant_Mahapatra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Indian poet and literary critic (born 1937)",
+        "extract": "Sitakant Mahapatra is an Indian poet and literary critic in Odia as well as English. He served in the Indian Administrative Service (IAS) from 1961 until he retired in 1995, and has since held ex officio posts such as Banking Ombudsman of Odisha and Chairman of National Book Trust, New Delhi etc.",
+        "born": 1937,
         "highlights": [
-          "Seventh emperor of the Qing dynasty.",
-          "Reign marked by First Opium War.",
-          "Reign saw beginning of Taiping Rebellion."
+          "Indian poet and literary critic in Odia and English.",
+          "Served in the Indian Administrative Service (IAS) from 1961-1995.",
+          "Held posts like Banking Ombudsman of Odisha."
         ]
       },
       {
-        "name": "Robert Llewellyn Bradshaw",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Robert_Llewellyn_Bradshaw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Saint Kitts and Nevis politician",
-        "extract": "Robert Llewellyn Bradshaw was the first Premier of Saint Kitts and Nevis, and previously served as Chief Minister, legislator, and labour activist.",
-        "born": 1916,
+        "name": "Reinhold Messner",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg/330px-2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian mountaineer, adventurer and explorer (born 1944)",
+        "extract": "Reinhold Andreas Messner is an Italian climber, explorer, and author from the German-speaking province of South Tyrol. He made the first solo ascent of Mount Everest and, along with Peter Habeler, the first ascent of Everest without supplementary oxygen. He was the first person to climb all 14 eight-thousanders, doing so without supplementary oxygen. Messner was the first to cross Antarctica and Greenland with neither snowmobiles nor dog sleds and also crossed the Gobi Desert alone. He is widely considered to be the greatest high-altitude mountaineer of all time.",
+        "born": 1944,
         "highlights": [
-          "First Premier of Saint Kitts and Nevis.",
-          "Previously served as Chief Minister.",
-          "Also a legislator and labour activist."
+          "First solo ascent of Mount Everest.",
+          "First ascent of Everest without supplementary oxygen.",
+          "First person to climb all 14 eight-thousanders."
         ]
       }
     ]
