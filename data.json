@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-17T21:54:17.682Z",
+  "generatedAt": "2026-09-18T16:57:52.649Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.7,
-    "condition": "Drizzle",
-    "code": 53,
-    "highC": 28.4,
-    "lowC": 20.8,
-    "rainChance": 13
+    "tempC": 26.8,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 27.8,
+    "lowC": 21,
+    "rainChance": 4
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Jameson Williams",
-          "NFL Player"
+          "Iranians",
+          "Rally"
         ],
-        "summary": "Jameson Williams is buzzing due to his recent performance or news in the NFL."
+        "summary": "Why are Iranians rallying? Protests continue over human rights and government policies."
       },
       {
         "keywords": [
-          "Matt Kalil",
-          "Former NFL"
+          "Karandeep Anand",
+          "Meta"
         ],
-        "summary": "Matt Kalil is buzzing, likely for a retrospective look at his former NFL career."
+        "summary": "Why is Karandeep Anand buzzing? He recently left Meta, sparking discussions about his next move."
       },
       {
         "keywords": [
-          "Sione Vaki",
-          "NFL Draft"
+          "Iain Stirling",
+          "Comedian"
         ],
-        "summary": "Sione Vaki is buzzing due to his impressive NFL Draft potential and versatility."
+        "summary": "Why is Iain Stirling buzzing? The comedian and TV presenter is gaining attention for new projects."
       },
       {
         "keywords": [
-          "Taylor Frankie Paul",
-          "Social Media"
+          "Leah Pruett",
+          "NHRA"
         ],
-        "summary": "Taylor Frankie Paul is buzzing due to recent social media activity or personal updates."
+        "summary": "Why is Leah Pruett buzzing? The drag racer announced her temporary departure from NHRA competition."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7637.76,
-        "changePct": 1.138137744461259
+        "price": 7624.6,
+        "changePct": -0.1723018267135895
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26418.299,
-        "changePct": 1.6932320451771825
+        "price": 26393.959,
+        "changePct": -0.09213310819140985
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6322.9,
-        "changePct": 0.9000239368068241
+        "price": 6236.2,
+        "changePct": -1.3712062502965383
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10816.14,
-        "changePct": 1.4828158865088434
+        "price": 10659.13,
+        "changePct": -0.27478130701221687
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3875.604,
-        "changePct": 0.29304294719843316
+        "price": 3911.871,
+        "changePct": 0.5208911501696009
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4460.156,
-        "changePct": -0.448901717486545
+        "price": 4507.393,
+        "changePct": 1.0590885161864312
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24604.29,
-        "changePct": -0.25503502626970165
+        "price": 24750.78,
+        "changePct": 0.14963299856760012
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone battery lasts forever. It's usually dead by noon.",
-      "explanation": "The joke uses sarcasm to highlight the common modern frustration of short phone battery life by stating the opposite in a deadpan way."
+      "joke": "My therapist told me to touch grass, then immediately sent me a link to her online plant delivery service.",
+      "explanation": "Funny because the therapist's real-world advice is immediately contradicted by her reliance on a convenient digital solution."
     },
     "zh": {
-      "joke": "我办了健身卡，最大的作用是提醒我，我还有一张卡没用过。"
+      "joke": "当代年轻人点外卖，不是为了填饱肚子，而是在进行一场对“在家躺平且有饭吃”这一人类伟大进步的实证研究。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Lalgudi Jayaraman",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/Lalgudi_Jayaraman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Indian violinist (1930–2013)",
-        "extract": "Lalgudi Gopal Jayaraman was an Indian Carnatic violinist, vocalist and composer. He is commonly grouped with M.S. Gopalakrishnan and T.N.Krishnan as part of the violin trinity of Carnatic music. He was awarded the Padma Bhushan by the Government of India in 2001.",
-        "born": 1930,
+        "name": "Anna Deavere Smith",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Anna_Deveare_Smith_in_1999_%2849492156342%29.jpg/330px-Anna_Deveare_Smith_in_1999_%2849492156342%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "African-American actress and playwright (born 1950)",
+        "extract": "Anna Deavere Smith is an American actress, playwright, and professor. She is known for her roles as National Security Advisor Dr. Nancy McNally in The West Wing (2000–06), hospital administrator Gloria Akalitus in the Showtime series Nurse Jackie (2009–15), and U.S. District Court Clerk Tina Krissman on the ABC show For the People (2018–19).",
+        "born": 1950,
         "highlights": [
-          "Indian Carnatic violinist, vocalist and composer.",
-          "Part of the violin trinity of Carnatic music.",
-          "Awarded the Padma Bhushan in 2001."
+          "Actress in The West Wing as Dr. Nancy McNally.",
+          "Starred as Gloria Akalitus in Nurse Jackie.",
+          "Played Tina Krissman in ABC's For the People."
         ]
       },
       {
-        "name": "Thomas J. Bata",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Tom%C3%A1%C5%A1_-_Ba%C5%A5a.jpg/330px-Tom%C3%A1%C5%A1_-_Ba%C5%A5a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian businessman (1914–2008)",
-        "extract": "Tomáš Jan Baťa,, also known as Thomas Bata Jr. and Tomáš Baťa ml., was a Czech and Canadian businessman and philanthropist. He ran the Bata Shoe Company from the 1940s until the 80s.",
-        "born": 1914,
+        "name": "Giorgos Dimitrakopoulos",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Giorgos_Dimitrakopoulos_MEP_1999.jpg/330px-Giorgos_Dimitrakopoulos_MEP_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Greek politician (born 1952)",
+        "extract": "Giorgos Dimitrakopoulos is a Greek politician who was a Member of the European Parliament for New Democracy; part of the European People's Party.",
+        "born": 1952,
         "highlights": [
-          "Czech and Canadian businessman.",
-          "Philanthropist.",
-          "Ran the Bata Shoe Company from the 1940s until the 80s."
+          "Greek politician.",
+          "Member of the European Parliament.",
+          "Represented New Democracy party."
         ]
       },
       {
-        "name": "Duje Ćaleta-Car",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Duje_Caleta-Car_Croatia_v_Portugal_2_July_2026-019.jpg/330px-Duje_Caleta-Car_Croatia_v_Portugal_2_July_2026-019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Croatian footballer (born 1996)",
-        "extract": "Duje Ćaleta-Car is a Croatian professional footballer who plays as a centre-back for Serie A club Sassuolo and the Croatia national team.",
-        "born": 1996,
+        "name": "Bud Greenspan",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/BudGreenspan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American film director, writer, and producer (1926–2010)",
+        "extract": "Jonah J. \"Bud\" Greenspan was an American film director, writer, and producer known for his sports documentaries.",
+        "born": 1926,
         "highlights": [
-          "Croatian professional footballer.",
-          "Plays as a centre-back for Serie A club Sassuolo.",
-          "Plays for the Croatia national team."
+          "American film director.",
+          "Writer and producer.",
+          "Known for sports documentaries."
         ]
       }
     ]
