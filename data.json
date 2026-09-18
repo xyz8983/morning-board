@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-18T16:57:52.649Z",
+  "generatedAt": "2026-09-18T21:24:29.465Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.8,
+    "tempC": 27.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 27.8,
+    "highC": 28.5,
     "lowC": 21,
     "rainChance": 4
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Iranians",
-          "Rally"
+          "FDA Approval",
+          "Eli Lilly"
         ],
-        "summary": "Why are Iranians rallying? Protests continue over human rights and government policies."
+        "summary": "Eli Lilly's Inluriyo and Verzenio are buzzing due to recent FDA approvals, expanding treatment options."
       },
       {
         "keywords": [
-          "Karandeep Anand",
-          "Meta"
+          "Oktoberfest",
+          "Festival"
         ],
-        "summary": "Why is Karandeep Anand buzzing? He recently left Meta, sparking discussions about his next move."
+        "summary": "Oktoberfest is buzzing as the iconic German beer festival draws global crowds."
       },
       {
         "keywords": [
-          "Iain Stirling",
-          "Comedian"
+          "Best Of",
+          "Awards"
         ],
-        "summary": "Why is Iain Stirling buzzing? The comedian and TV presenter is gaining attention for new projects."
+        "summary": "\"Best of the Best\" is buzzing as people seek top-tier recommendations and accolades."
       },
       {
         "keywords": [
-          "Leah Pruett",
-          "NHRA"
+          "Dow Jones",
+          "Stock Market"
         ],
-        "summary": "Why is Leah Pruett buzzing? The drag racer announced her temporary departure from NHRA competition."
+        "summary": "The Dow Jones Industrial Average is buzzing as a key indicator of market performance."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7624.6,
-        "changePct": -0.1723018267135895
+        "price": 7650.5,
+        "changePct": 0.16680283224400586
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26393.959,
-        "changePct": -0.09213310819140985
+        "price": 26522.545,
+        "changePct": 0.39459389892611935
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My therapist told me to touch grass, then immediately sent me a link to her online plant delivery service.",
-      "explanation": "Funny because the therapist's real-world advice is immediately contradicted by her reliance on a convenient digital solution."
+      "joke": "My phone battery percentage is the only thing more consistently low than my serotonin.",
+      "explanation": "It's funny because it uses a common modern anxiety (low phone battery) as a deadpan metaphor for a common mental state (low serotonin)."
     },
     "zh": {
-      "joke": "当代年轻人点外卖，不是为了填饱肚子，而是在进行一场对“在家躺平且有饭吃”这一人类伟大进步的实证研究。"
+      "joke": "鉴于本人近期精神状态持续低迷，为响应国家“提振内需”号召，特申请执行“情绪性消费疗法”，预计将对本人心情产生积极影响。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Anna Deavere Smith",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Anna_Deveare_Smith_in_1999_%2849492156342%29.jpg/330px-Anna_Deveare_Smith_in_1999_%2849492156342%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "African-American actress and playwright (born 1950)",
-        "extract": "Anna Deavere Smith is an American actress, playwright, and professor. She is known for her roles as National Security Advisor Dr. Nancy McNally in The West Wing (2000–06), hospital administrator Gloria Akalitus in the Showtime series Nurse Jackie (2009–15), and U.S. District Court Clerk Tina Krissman on the ABC show For the People (2018–19).",
-        "born": 1950,
+        "name": "Syd Howe",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Syd_Howe.jpg/330px-Syd_Howe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian ice hockey player (1911–1976)",
+        "extract": "Sydney Harris Howe was a Canadian professional ice hockey player. Howe played 17 seasons in the National Hockey League (NHL) for the Ottawa Senators, Philadelphia Quakers, Toronto Maple Leafs, St. Louis Eagles and Detroit Red Wings.",
+        "born": 1911,
         "highlights": [
-          "Actress in The West Wing as Dr. Nancy McNally.",
-          "Starred as Gloria Akalitus in Nurse Jackie.",
-          "Played Tina Krissman in ABC's For the People."
+          "Canadian professional ice hockey player.",
+          "Played 17 seasons in the National Hockey League (NHL).",
+          "Played for Ottawa Senators, Toronto Maple Leafs, Detroit Red Wings."
         ]
       },
       {
-        "name": "Giorgos Dimitrakopoulos",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Giorgos_Dimitrakopoulos_MEP_1999.jpg/330px-Giorgos_Dimitrakopoulos_MEP_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Greek politician (born 1952)",
-        "extract": "Giorgos Dimitrakopoulos is a Greek politician who was a Member of the European Parliament for New Democracy; part of the European People's Party.",
-        "born": 1952,
+        "name": "Francis Parker Yockey",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Francis_Parker_Yockey%2C_portrait_photograph.jpg/330px-Francis_Parker_Yockey%2C_portrait_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American fascist writer (1917–1960)",
+        "extract": "Francis Parker Yockey was an American fascist writer best known for his neo-Spenglerian book Imperium: The Philosophy of History and Politics, published in 1948 under the pen name Ulick Varange, which called for a neo-Nazi European empire.",
+        "born": 1917,
         "highlights": [
-          "Greek politician.",
-          "Member of the European Parliament.",
-          "Represented New Democracy party."
+          "American fascist writer.",
+          "Best known for neo-Spenglerian book Imperium.",
+          "Imperium called for a neo-Nazi European empire."
         ]
       },
       {
-        "name": "Bud Greenspan",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/BudGreenspan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American film director, writer, and producer (1926–2010)",
-        "extract": "Jonah J. \"Bud\" Greenspan was an American film director, writer, and producer known for his sports documentaries.",
-        "born": 1926,
+        "name": "Bob Bennett (politician)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Robert_Foster_Bennett%2C_US_Senator.jpg/330px-Robert_Foster_Bennett%2C_US_Senator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American politician (1933–2016)",
+        "extract": "Robert Foster Bennett was an American politician and businessman who served as a United States senator from Utah from 1993 to 2011. A member of the Republican Party, Bennett held chairmanships and senior positions on various key Senate committees, including the Banking, Housing and Urban Affairs Committee; Appropriations Committee; Rules and Administration Committee; Energy and Natural Resources Committee; and Joint Economic Committee. Bennett spent his entire tenure in the Senate alongside Utah's senior senator, Orrin Hatch.",
+        "born": 1933,
         "highlights": [
-          "American film director.",
-          "Writer and producer.",
-          "Known for sports documentaries."
+          "United States senator from Utah (1993-2011).",
+          "Member of the Republican Party.",
+          "Chaired Banking, Housing and Urban Affairs Committee."
         ]
       }
     ]
