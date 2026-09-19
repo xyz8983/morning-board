@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-19T16:14:29.155Z",
+  "generatedAt": "2026-09-19T21:16:10.314Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.5,
+    "tempC": 19.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 22.3,
-    "lowC": 16.2,
-    "rainChance": 1
+    "highC": 21.8,
+    "lowC": 16,
+    "rainChance": 2
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Union Jack",
-          "Classic Style"
+          "Pedestrian",
+          "Attorney"
         ],
-        "summary": "Union Jack classic style is buzzing as a timeless symbol in fashion and design."
+        "summary": "Pedestrian accident attorney is buzzing due to increased awareness of pedestrian safety and legal recourse."
       },
       {
         "keywords": [
-          "Desmond Howard",
-          "Sports Analyst"
+          "Trey Mancini",
+          "Baseball"
         ],
-        "summary": "Desmond Howard is buzzing, likely due to his recent commentary or analysis on college football."
+        "summary": "Trey Mancini is buzzing, likely due to recent baseball performance or trade discussions."
       },
       {
         "keywords": [
-          "MN Gophers",
-          "College Football"
+          "Choi Doo-ho",
+          "MMA Fighter"
         ],
-        "summary": "MN Gopher Football is buzzing due to recent game performance or upcoming season expectations."
+        "summary": "Choi Doo-ho is buzzing, likely due to recent MMA fight news or upcoming bout anticipation."
       },
       {
         "keywords": [
-          "Chema Andrés",
-          "Emerging Figure"
+          "Robelis Despaigne",
+          "UFC Debut"
         ],
-        "summary": "Chema Andrés is buzzing, possibly for recent achievements or emerging presence in his field."
+        "summary": "Robelis Despaigne is buzzing after his impressive UFC debut and quick knockout."
       }
     ]
   },
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I've started measuring time in 'how many TikToks I can watch before the ad break.'",
-      "explanation": "This reflects modern, fragmented attention spans and the way digital media now subconsciously structures our perception of time."
+      "joke": "My screen time report basically just confirms I have a favorite rectangle.",
+      "explanation": "It's a dry, understated observation about our digital addiction, framing phone usage in a simple, almost absurd way."
     },
     "zh": {
-      "joke": "每天最期待的就是手机电量不足的提醒，那一刻我终于有了光明正大休息的理由。"
+      "joke": "我的人生规划现在很清晰：先定个闹钟，然后考虑要不要把它关掉，再考虑要不要起床。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Darwin Quintero",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Darwin_Quintero_Minnesota_United_-_Houston_Dynamo_-_TCF_Bank_Stadium_-_Minneapolis_-_MLS_%2840885793185%29.jpg/330px-Darwin_Quintero_Minnesota_United_-_Houston_Dynamo_-_TCF_Bank_Stadium_-_Minneapolis_-_MLS_%2840885793185%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Colombian footballer (born 1987)",
-        "extract": "Carlos Darwin Quintero Villalba is a Colombian professional footballer who plays as an attacking midfielder for Categoría Primera A club Millonarios. Quintero is also known by his nickname of El Científico del Gol. He can play in various roles like striker, winger, second striker and attacking midfielder. His main attributes throughout his career have been his pace, creativity, and dribbling ability.",
-        "born": 1987,
+        "name": "Jean-Paul Bignon",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/1700_Jean_Paul_Bignon.png/330px-1700_Jean_Paul_Bignon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French ecclesiastic, statesman, writer, preacher and librarian to Louis XIV of France",
+        "extract": "The Abbé Jean-Paul Bignon, Cong.Orat. was a French ecclesiastic, statesman, writer and preacher and librarian to King Louis XIV. His protégé, Joseph Pitton de Tournefort, named the genus Bignonia after him in 1694.",
+        "born": 1662,
         "highlights": [
-          "Professional footballer for Millonarios.",
-          "Known as \"El Científico del Gol\".",
-          "Plays various roles: striker, winger, midfielder."
+          "Librarian to King Louis XIV.",
+          "French ecclesiastic, statesman, writer, and preacher.",
+          "Genus Bignonia named after him in 1694."
         ]
       },
       {
-        "name": "Germán Valdés",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tin_Tan_en_1954_%28cropped%29.jpg/330px-Tin_Tan_en_1954_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican actor, comedian and singer (1915–1973)",
-        "extract": "Germán Genaro Cipriano Teodoro Gómez Valdés y Castillo, known as Tin-Tan, was a Mexican actor, comedian and singer, specialized in the musical genre of bolero.",
-        "born": 1915,
+        "name": "Dimitri Yachvili",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Jubil%C3%A9_Chabal-Nallet_-_20150604_-_Dimitri_Yachvili.jpg/330px-Jubil%C3%A9_Chabal-Nallet_-_20150604_-_Dimitri_Yachvili.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "France international rugby union player (born 1980)",
+        "extract": "Dimitri Yachvili Markarian is a French former rugby union footballer who played as a scrum-half for Biarritz and France. He played for France from 2002 to 2012, earning 61 caps and scoring 373 points. With them he played in the final of the 2011 World Cup losing to New Zealand and won two Grand Slams in 2004 and 2010. In club rugby, he won a European Cup in 2012 and played in two European Cup finals in 2006 and 2010 with Biarritz. With this club, he also won two French championship titles in 2005 and 2006. With his previous club, Gloucester, he was champion of England in 2002. After the end of his playing career, he became a rugby consultant, a career he began while still a player.",
+        "born": 1980,
         "highlights": [
-          "Mexican actor, comedian, and singer.",
-          "Specialized in bolero musical genre.",
-          "Known by his nickname Tin-Tan."
+          "French rugby union scrum-half.",
+          "Won two Grand Slams with France.",
+          "Won French and English championship titles."
         ]
       },
       {
-        "name": "CJ McCollum",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2025_C.J._McCollum_%28cropped%29.jpg/330px-2025_C.J._McCollum_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball player (born 1991)",
-        "extract": "Christian James McCollum is an American professional basketball player for the Atlanta Hawks of the National Basketball Association (NBA). He played college basketball for the Lehigh Mountain Hawks and was named the Patriot League Player of the Year in 2010 and 2012. McCollum was selected by the Portland Trail Blazers tenth overall in the 2013 NBA draft. He was chosen as the NBA Most Improved Player in 2016. McCollum was traded to the New Orleans Pelicans in 2022, the Washington Wizards in 2025, and to the Atlanta Hawks in 2026. McCollum served as president of the National Basketball Players Association from 2021 to 2025.",
-        "born": 1991,
+        "name": "Alkinoos Ioannidis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Alkinoos_Ioannidis.JPG/330px-Alkinoos_Ioannidis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Greek-Cypriot musician (born 1969)",
+        "extract": "Alkinoos Ioannidis is a Greek Cypriot composer, lyricist, singer, and orchestrator.",
+        "born": 1969,
         "highlights": [
-          "NBA player for the Atlanta Hawks.",
-          "Patriot League Player of the Year 2010, 2012.",
-          "Named NBA Most Improved Player in 2016."
+          "Greek Cypriot composer.",
+          "Also a lyricist.",
+          "Singer and orchestrator."
         ]
       }
     ]
