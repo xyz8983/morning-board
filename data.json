@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-18T21:24:29.465Z",
+  "generatedAt": "2026-09-19T16:14:29.155Z",
   "weather": {
     "location": "New York City",
-    "tempC": 27.9,
+    "tempC": 20.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 28.5,
-    "lowC": 21,
-    "rainChance": 4
+    "highC": 22.3,
+    "lowC": 16.2,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "FDA Approval",
-          "Eli Lilly"
+          "Union Jack",
+          "Classic Style"
         ],
-        "summary": "Eli Lilly's Inluriyo and Verzenio are buzzing due to recent FDA approvals, expanding treatment options."
+        "summary": "Union Jack classic style is buzzing as a timeless symbol in fashion and design."
       },
       {
         "keywords": [
-          "Oktoberfest",
-          "Festival"
+          "Desmond Howard",
+          "Sports Analyst"
         ],
-        "summary": "Oktoberfest is buzzing as the iconic German beer festival draws global crowds."
+        "summary": "Desmond Howard is buzzing, likely due to his recent commentary or analysis on college football."
       },
       {
         "keywords": [
-          "Best Of",
-          "Awards"
+          "MN Gophers",
+          "College Football"
         ],
-        "summary": "\"Best of the Best\" is buzzing as people seek top-tier recommendations and accolades."
+        "summary": "MN Gopher Football is buzzing due to recent game performance or upcoming season expectations."
       },
       {
         "keywords": [
-          "Dow Jones",
-          "Stock Market"
+          "Chema Andrés",
+          "Emerging Figure"
         ],
-        "summary": "The Dow Jones Industrial Average is buzzing as a key indicator of market performance."
+        "summary": "Chema Andrés is buzzing, possibly for recent achievements or emerging presence in his field."
       }
     ]
   },
@@ -76,8 +76,8 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3911.871,
-        "changePct": 0.5208911501696009
+        "price": 3911.8713,
+        "changePct": 0.93577143901035
       },
       {
         "region": "Asia",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone battery percentage is the only thing more consistently low than my serotonin.",
-      "explanation": "It's funny because it uses a common modern anxiety (low phone battery) as a deadpan metaphor for a common mental state (low serotonin)."
+      "joke": "I've started measuring time in 'how many TikToks I can watch before the ad break.'",
+      "explanation": "This reflects modern, fragmented attention spans and the way digital media now subconsciously structures our perception of time."
     },
     "zh": {
-      "joke": "鉴于本人近期精神状态持续低迷，为响应国家“提振内需”号召，特申请执行“情绪性消费疗法”，预计将对本人心情产生积极影响。"
+      "joke": "每天最期待的就是手机电量不足的提醒，那一刻我终于有了光明正大休息的理由。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Syd Howe",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Syd_Howe.jpg/330px-Syd_Howe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian ice hockey player (1911–1976)",
-        "extract": "Sydney Harris Howe was a Canadian professional ice hockey player. Howe played 17 seasons in the National Hockey League (NHL) for the Ottawa Senators, Philadelphia Quakers, Toronto Maple Leafs, St. Louis Eagles and Detroit Red Wings.",
-        "born": 1911,
+        "name": "Darwin Quintero",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Darwin_Quintero_Minnesota_United_-_Houston_Dynamo_-_TCF_Bank_Stadium_-_Minneapolis_-_MLS_%2840885793185%29.jpg/330px-Darwin_Quintero_Minnesota_United_-_Houston_Dynamo_-_TCF_Bank_Stadium_-_Minneapolis_-_MLS_%2840885793185%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Colombian footballer (born 1987)",
+        "extract": "Carlos Darwin Quintero Villalba is a Colombian professional footballer who plays as an attacking midfielder for Categoría Primera A club Millonarios. Quintero is also known by his nickname of El Científico del Gol. He can play in various roles like striker, winger, second striker and attacking midfielder. His main attributes throughout his career have been his pace, creativity, and dribbling ability.",
+        "born": 1987,
         "highlights": [
-          "Canadian professional ice hockey player.",
-          "Played 17 seasons in the National Hockey League (NHL).",
-          "Played for Ottawa Senators, Toronto Maple Leafs, Detroit Red Wings."
+          "Professional footballer for Millonarios.",
+          "Known as \"El Científico del Gol\".",
+          "Plays various roles: striker, winger, midfielder."
         ]
       },
       {
-        "name": "Francis Parker Yockey",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Francis_Parker_Yockey%2C_portrait_photograph.jpg/330px-Francis_Parker_Yockey%2C_portrait_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American fascist writer (1917–1960)",
-        "extract": "Francis Parker Yockey was an American fascist writer best known for his neo-Spenglerian book Imperium: The Philosophy of History and Politics, published in 1948 under the pen name Ulick Varange, which called for a neo-Nazi European empire.",
-        "born": 1917,
+        "name": "Germán Valdés",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tin_Tan_en_1954_%28cropped%29.jpg/330px-Tin_Tan_en_1954_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican actor, comedian and singer (1915–1973)",
+        "extract": "Germán Genaro Cipriano Teodoro Gómez Valdés y Castillo, known as Tin-Tan, was a Mexican actor, comedian and singer, specialized in the musical genre of bolero.",
+        "born": 1915,
         "highlights": [
-          "American fascist writer.",
-          "Best known for neo-Spenglerian book Imperium.",
-          "Imperium called for a neo-Nazi European empire."
+          "Mexican actor, comedian, and singer.",
+          "Specialized in bolero musical genre.",
+          "Known by his nickname Tin-Tan."
         ]
       },
       {
-        "name": "Bob Bennett (politician)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Robert_Foster_Bennett%2C_US_Senator.jpg/330px-Robert_Foster_Bennett%2C_US_Senator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American politician (1933–2016)",
-        "extract": "Robert Foster Bennett was an American politician and businessman who served as a United States senator from Utah from 1993 to 2011. A member of the Republican Party, Bennett held chairmanships and senior positions on various key Senate committees, including the Banking, Housing and Urban Affairs Committee; Appropriations Committee; Rules and Administration Committee; Energy and Natural Resources Committee; and Joint Economic Committee. Bennett spent his entire tenure in the Senate alongside Utah's senior senator, Orrin Hatch.",
-        "born": 1933,
+        "name": "CJ McCollum",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2025_C.J._McCollum_%28cropped%29.jpg/330px-2025_C.J._McCollum_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player (born 1991)",
+        "extract": "Christian James McCollum is an American professional basketball player for the Atlanta Hawks of the National Basketball Association (NBA). He played college basketball for the Lehigh Mountain Hawks and was named the Patriot League Player of the Year in 2010 and 2012. McCollum was selected by the Portland Trail Blazers tenth overall in the 2013 NBA draft. He was chosen as the NBA Most Improved Player in 2016. McCollum was traded to the New Orleans Pelicans in 2022, the Washington Wizards in 2025, and to the Atlanta Hawks in 2026. McCollum served as president of the National Basketball Players Association from 2021 to 2025.",
+        "born": 1991,
         "highlights": [
-          "United States senator from Utah (1993-2011).",
-          "Member of the Republican Party.",
-          "Chaired Banking, Housing and Urban Affairs Committee."
+          "NBA player for the Atlanta Hawks.",
+          "Patriot League Player of the Year 2010, 2012.",
+          "Named NBA Most Improved Player in 2016."
         ]
       }
     ]
