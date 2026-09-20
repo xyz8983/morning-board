@@ -1,44 +1,46 @@
 {
-  "generatedAt": "2026-09-19T21:16:10.314Z",
+  "generatedAt": "2026-09-20T16:41:21.014Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19.9,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 21.8,
-    "lowC": 16,
-    "rainChance": 2
+    "tempC": 19.2,
+    "condition": "Light rain",
+    "code": 61,
+    "highC": 20.4,
+    "lowC": 17.6,
+    "rainChance": 69
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Pedestrian",
-          "Attorney"
+          "La Liga",
+          "Soccer"
         ],
-        "summary": "Pedestrian accident attorney is buzzing due to increased awareness of pedestrian safety and legal recourse."
+        "summary": "La Liga is buzzing due to recent match outcomes and title race developments."
       },
       {
         "keywords": [
-          "Trey Mancini",
-          "Baseball"
+          "Browns",
+          "Buccaneers",
+          "NFL"
         ],
-        "summary": "Trey Mancini is buzzing, likely due to recent baseball performance or trade discussions."
+        "summary": "Browns vs Buccaneers is buzzing as fans react to their recent NFL game."
       },
       {
         "keywords": [
-          "Choi Doo-ho",
-          "MMA Fighter"
+          "Saints",
+          "Ravens",
+          "NFL"
         ],
-        "summary": "Choi Doo-ho is buzzing, likely due to recent MMA fight news or upcoming bout anticipation."
+        "summary": "Saints vs Ravens is buzzing as fans discuss their recent NFL matchup."
       },
       {
         "keywords": [
-          "Robelis Despaigne",
-          "UFC Debut"
+          "Terry Bradshaw",
+          "NFL Legend"
         ],
-        "summary": "Robelis Despaigne is buzzing after his impressive UFC debut and quick knockout."
+        "summary": "Terry Bradshaw is buzzing due to recent public appearances and commentary."
       }
     ]
   },
@@ -95,52 +97,43 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "My screen time report basically just confirms I have a favorite rectangle.",
-      "explanation": "It's a dry, understated observation about our digital addiction, framing phone usage in a simple, almost absurd way."
-    },
-    "zh": {
-      "joke": "我的人生规划现在很清晰：先定个闹钟，然后考虑要不要把它关掉，再考虑要不要起床。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jean-Paul Bignon",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/1700_Jean_Paul_Bignon.png/330px-1700_Jean_Paul_Bignon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French ecclesiastic, statesman, writer, preacher and librarian to Louis XIV of France",
-        "extract": "The Abbé Jean-Paul Bignon, Cong.Orat. was a French ecclesiastic, statesman, writer and preacher and librarian to King Louis XIV. His protégé, Joseph Pitton de Tournefort, named the genus Bignonia after him in 1694.",
-        "born": 1662,
+        "name": "Chuck Panozzo",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Chuck_Panozzo_Styx_Interlochen.jpg/330px-Chuck_Panozzo_Styx_Interlochen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American musician",
+        "extract": "Charles Salvatore \"Chuck\" Panozzo is an American musician best known as a co-founder of the rock band Styx. He is currently a part-time bass player in the band, sharing bass duties with Terry Gowan. Panozzo is living with HIV, which played a role in limiting his full-time participation.",
+        "born": 1948,
         "highlights": [
-          "Librarian to King Louis XIV.",
-          "French ecclesiastic, statesman, writer, and preacher.",
-          "Genus Bignonia named after him in 1694."
+          "Co-founder of the rock band Styx",
+          "Part-time bass player in Styx",
+          "Living with HIV"
         ]
       },
       {
-        "name": "Dimitri Yachvili",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Jubil%C3%A9_Chabal-Nallet_-_20150604_-_Dimitri_Yachvili.jpg/330px-Jubil%C3%A9_Chabal-Nallet_-_20150604_-_Dimitri_Yachvili.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "France international rugby union player (born 1980)",
-        "extract": "Dimitri Yachvili Markarian is a French former rugby union footballer who played as a scrum-half for Biarritz and France. He played for France from 2002 to 2012, earning 61 caps and scoring 373 points. With them he played in the final of the 2011 World Cup losing to New Zealand and won two Grand Slams in 2004 and 2010. In club rugby, he won a European Cup in 2012 and played in two European Cup finals in 2006 and 2010 with Biarritz. With this club, he also won two French championship titles in 2005 and 2006. With his previous club, Gloucester, he was champion of England in 2002. After the end of his playing career, he became a rugby consultant, a career he began while still a player.",
-        "born": 1980,
+        "name": "Trevon Diggs",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Trevon_Diggs_December_2021_%28cropped%29.jpg/330px-Trevon_Diggs_December_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player (born 1998)",
+        "extract": "Trevon De'Sean Diggs is an American professional football cornerback for the Seattle Seahawks of the National Football League (NFL). He played college football for the Alabama Crimson Tide and was selected by the Dallas Cowboys in the second round of the 2020 NFL draft. He is the younger brother of professional wide receiver, Stefon Diggs.",
+        "born": 1998,
         "highlights": [
-          "French rugby union scrum-half.",
-          "Won two Grand Slams with France.",
-          "Won French and English championship titles."
+          "Professional football cornerback for the Seattle Seahawks",
+          "Played college football for Alabama Crimson Tide",
+          "Selected by Dallas Cowboys in 2020 NFL draft"
         ]
       },
       {
-        "name": "Alkinoos Ioannidis",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Alkinoos_Ioannidis.JPG/330px-Alkinoos_Ioannidis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Greek-Cypriot musician (born 1969)",
-        "extract": "Alkinoos Ioannidis is a Greek Cypriot composer, lyricist, singer, and orchestrator.",
-        "born": 1969,
+        "name": "Khabib Nurmagomedov",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Khabib_nurmagomedov.jpg/330px-Khabib_nurmagomedov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Russian mixed martial artist (born 1988)",
+        "extract": "Khabib Abdulmanapovich Nurmagomedov is a Russian former professional mixed martial artist who competed in the Lightweight division of the Ultimate Fighting Championship (UFC). He was the longest-reigning UFC Lightweight Champion ever, having held the title from April 2018 to March 2021. With 29 wins and no losses, he retired with an undefeated record. Nurmagomedov is widely considered to be among the greatest mixed martial artists of all time, and was inducted into the UFC Hall of Fame on June 30, 2022.",
+        "born": 1988,
         "highlights": [
-          "Greek Cypriot composer.",
-          "Also a lyricist.",
-          "Singer and orchestrator."
+          "Longest-reigning UFC Lightweight Champion",
+          "Retired with an undefeated record of 29 wins",
+          "Inducted into the UFC Hall of Fame"
         ]
       }
     ]
