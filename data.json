@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-20T16:41:21.014Z",
+  "generatedAt": "2026-09-20T21:09:10.052Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19.2,
-    "condition": "Light rain",
-    "code": 61,
-    "highC": 20.4,
+    "tempC": 20.3,
+    "condition": "Drizzle",
+    "code": 53,
+    "highC": 20.5,
     "lowC": 17.6,
     "rainChance": 69
   },
@@ -14,33 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "La Liga",
-          "Soccer"
+          "49ers",
+          "NFL Season"
         ],
-        "summary": "La Liga is buzzing due to recent match outcomes and title race developments."
+        "summary": "The 49ers are buzzing due to their strong performance in the current NFL season."
       },
       {
         "keywords": [
-          "Browns",
-          "Buccaneers",
-          "NFL"
+          "Niners",
+          "Top Contender"
         ],
-        "summary": "Browns vs Buccaneers is buzzing as fans react to their recent NFL game."
+        "summary": "The Niners are buzzing as a top contender in the ongoing football season."
       },
       {
         "keywords": [
-          "Saints",
-          "Ravens",
-          "NFL"
+          "Trey McBride",
+          "Standout Performance"
         ],
-        "summary": "Saints vs Ravens is buzzing as fans discuss their recent NFL matchup."
+        "summary": "Trey McBride is buzzing after recent standout performances in NFL games."
       },
       {
         "keywords": [
-          "Terry Bradshaw",
-          "NFL Legend"
+          "Travis Hunter",
+          "Two-Way Play"
         ],
-        "summary": "Terry Bradshaw is buzzing due to recent public appearances and commentary."
+        "summary": "Travis Hunter is buzzing for his exceptional two-way play in college football."
       }
     ]
   },
@@ -78,15 +76,15 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3911.8713,
-        "changePct": 0.93577143901035
+        "price": 3911.871,
+        "changePct": 0.9358808958612908
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4507.393,
-        "changePct": 1.0590885161864312
+        "changePct": 1.0589978834840046
       },
       {
         "region": "Asia",
@@ -97,43 +95,52 @@
       }
     ]
   },
+  "joke": {
+    "en": {
+      "joke": "They say AI will take our jobs. Good. Maybe then I'll finally get some rest.",
+      "explanation": "It subverts the fear of job loss into a desire for rest, highlighting modern burnout with dark, deadpan humor."
+    },
+    "zh": {
+      "joke": "我的工作内容总结起来就是：在无数个群里说‘收到’，然后假装在做正事。"
+    }
+  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Chuck Panozzo",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Chuck_Panozzo_Styx_Interlochen.jpg/330px-Chuck_Panozzo_Styx_Interlochen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American musician",
-        "extract": "Charles Salvatore \"Chuck\" Panozzo is an American musician best known as a co-founder of the rock band Styx. He is currently a part-time bass player in the band, sharing bass duties with Terry Gowan. Panozzo is living with HIV, which played a role in limiting his full-time participation.",
-        "born": 1948,
+        "name": "Pennywise (band)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Pennywise_Warped_Tour_%28cropped%29.jpg/330px-Pennywise_Warped_Tour_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American punk rock band",
+        "extract": "Pennywise is an American punk rock band from Hermosa Beach, California, formed in 1988. The band took its name from the antagonist in Stephen King's horror novel It known as Pennywise.",
+        "born": 1964,
         "highlights": [
-          "Co-founder of the rock band Styx",
-          "Part-time bass player in Styx",
-          "Living with HIV"
+          "American punk rock band from Hermosa Beach, California.",
+          "Formed in 1988.",
+          "Named after Stephen King's \"It\" antagonist."
         ]
       },
       {
-        "name": "Trevon Diggs",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Trevon_Diggs_December_2021_%28cropped%29.jpg/330px-Trevon_Diggs_December_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player (born 1998)",
-        "extract": "Trevon De'Sean Diggs is an American professional football cornerback for the Seattle Seahawks of the National Football League (NFL). He played college football for the Alabama Crimson Tide and was selected by the Dallas Cowboys in the second round of the 2020 NFL draft. He is the younger brother of professional wide receiver, Stefon Diggs.",
-        "born": 1998,
+        "name": "Enuka Okuma",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Enuka_Okuma_-_Paradise.jpg/330px-Enuka_Okuma_-_Paradise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian actress",
+        "extract": "Enuka Vanessa Okuma is a Canadian actress, writer and director, best known for her role as detective Traci Nash in the Global/ABC police drama series, Rookie Blue (2010–2015).",
+        "born": 1972,
         "highlights": [
-          "Professional football cornerback for the Seattle Seahawks",
-          "Played college football for Alabama Crimson Tide",
-          "Selected by Dallas Cowboys in 2020 NFL draft"
+          "Canadian actress, writer, and director.",
+          "Played detective Traci Nash in Rookie Blue.",
+          "Rookie Blue was a Global/ABC police drama."
         ]
       },
       {
-        "name": "Khabib Nurmagomedov",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Khabib_nurmagomedov.jpg/330px-Khabib_nurmagomedov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Russian mixed martial artist (born 1988)",
-        "extract": "Khabib Abdulmanapovich Nurmagomedov is a Russian former professional mixed martial artist who competed in the Lightweight division of the Ultimate Fighting Championship (UFC). He was the longest-reigning UFC Lightweight Champion ever, having held the title from April 2018 to March 2021. With 29 wins and no losses, he retired with an undefeated record. Nurmagomedov is widely considered to be among the greatest mixed martial artists of all time, and was inducted into the UFC Hall of Fame on June 30, 2022.",
-        "born": 1988,
+        "name": "Paolo and Vittorio Taviani",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Taviani_brothers_Cannes_2015_%28cropped%2C_retouched%29.jpg/330px-Taviani_brothers_Cannes_2015_%28cropped%2C_retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian film directors and screenwriters",
+        "extract": "Paolo Taviani and Vittorio Taviani, collectively referred to as the Taviani brothers, were Italian film directors and screenwriters who collaborated on numerous film productions.",
+        "born": 1929,
         "highlights": [
-          "Longest-reigning UFC Lightweight Champion",
-          "Retired with an undefeated record of 29 wins",
-          "Inducted into the UFC Hall of Fame"
+          "Italian film directors and screenwriters.",
+          "Known as the Taviani brothers.",
+          "Collaborated on numerous film productions."
         ]
       }
     ]
