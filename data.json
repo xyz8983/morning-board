@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-20T21:09:10.052Z",
+  "generatedAt": "2026-09-21T18:29:23.879Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.3,
-    "condition": "Drizzle",
-    "code": 53,
-    "highC": 20.5,
-    "lowC": 17.6,
-    "rainChance": 69
+    "tempC": 22.1,
+    "condition": "Light rain",
+    "code": 61,
+    "highC": 22.1,
+    "lowC": 16.1,
+    "rainChance": 34
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "49ers",
-          "NFL Season"
+          "Bryson DeChambeau",
+          "Golf"
         ],
-        "summary": "The 49ers are buzzing due to their strong performance in the current NFL season."
+        "summary": "Bryson DeChambeau is buzzing after his impressive performance and engaging personality at the US Open."
       },
       {
         "keywords": [
-          "Niners",
-          "Top Contender"
+          "Meta Stock",
+          "Tech Market"
         ],
-        "summary": "The Niners are buzzing as a top contender in the ongoing football season."
+        "summary": "Meta stock is buzzing due to recent market performance and investor interest in AI developments."
       },
       {
         "keywords": [
-          "Trey McBride",
-          "Standout Performance"
+          "Baseball",
+          "MLB Season"
         ],
-        "summary": "Trey McBride is buzzing after recent standout performances in NFL games."
+        "summary": "Baseball is buzzing as the MLB season heats up with exciting games and standout player performances."
       },
       {
         "keywords": [
-          "Travis Hunter",
-          "Two-Way Play"
+          "El Nino",
+          "Weather Pattern"
         ],
-        "summary": "Travis Hunter is buzzing for his exceptional two-way play in college football."
+        "summary": "El Nino is buzzing as discussions focus on its potential impact on global weather patterns."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7650.5,
-        "changePct": 0.16680283224400586
+        "price": 7769.34,
+        "changePct": 1.5533625253251442
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26522.545,
-        "changePct": 0.39459389892611935
+        "price": 27109.246,
+        "changePct": 2.212084096756178
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6236.2,
-        "changePct": -1.3712062502965383
+        "price": 6318.2,
+        "changePct": 1.3149033065007536
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10659.13,
-        "changePct": -0.27478130701221687
+        "price": 10739.01,
+        "changePct": 0.7494045011178307
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3911.871,
-        "changePct": 0.9358808958612908
+        "price": 3949.9067,
+        "changePct": 0.9723070388333126
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4507.393,
-        "changePct": 1.0589978834840046
+        "price": 4539.5654,
+        "changePct": 0.7137785157654178
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24750.78,
-        "changePct": 0.14963299856760012
+        "price": 25042.71,
+        "changePct": 1.1794779800879014
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "They say AI will take our jobs. Good. Maybe then I'll finally get some rest.",
-      "explanation": "It subverts the fear of job loss into a desire for rest, highlighting modern burnout with dark, deadpan humor."
+      "joke": "I asked an AI to write me a joke about dating apps. It produced a 500-word essay on human mating rituals in the digital age.",
+      "explanation": "The AI gives an overly academic, literal response to a simple joke request, subverting expectations with dry, unhelpful information."
     },
     "zh": {
-      "joke": "我的工作内容总结起来就是：在无数个群里说‘收到’，然后假装在做正事。"
+      "joke": "最近在学做饭，发现一个真理：这世界上没有什么是加点糖解决不了的。如果有，那就再加点盐。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Pennywise (band)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Pennywise_Warped_Tour_%28cropped%29.jpg/330px-Pennywise_Warped_Tour_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American punk rock band",
-        "extract": "Pennywise is an American punk rock band from Hermosa Beach, California, formed in 1988. The band took its name from the antagonist in Stephen King's horror novel It known as Pennywise.",
-        "born": 1964,
+        "name": "Oswaldo Sánchez",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Oswaldo_Sanchez_Santos.jpg/330px-Oswaldo_Sanchez_Santos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican footballer and sports commentator (born 1973)",
+        "extract": "Oswaldo Javier Sánchez Ibarra is a Mexican former professional footballer who played as a goalkeeper and a sports analyst for TUDN. He is highly regarded as one of the best goalkeepers in Mexican footballing history.",
+        "born": 1973,
         "highlights": [
-          "American punk rock band from Hermosa Beach, California.",
-          "Formed in 1988.",
-          "Named after Stephen King's \"It\" antagonist."
+          "Mexican former professional footballer and goalkeeper.",
+          "Currently a sports analyst for TUDN.",
+          "Considered one of Mexico's best goalkeepers."
         ]
       },
       {
-        "name": "Enuka Okuma",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Enuka_Okuma_-_Paradise.jpg/330px-Enuka_Okuma_-_Paradise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian actress",
-        "extract": "Enuka Vanessa Okuma is a Canadian actress, writer and director, best known for her role as detective Traci Nash in the Global/ABC police drama series, Rookie Blue (2010–2015).",
-        "born": 1972,
+        "name": "Don Preston",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Don_preston_at_the_keyboard.jpg/330px-Don_preston_at_the_keyboard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American jazz and rock keyboardist (born 1932)",
+        "extract": "Donald Ward Preston is an American jazz and rock keyboardist. He is best known for being a member of the original version of Frank Zappa's band The Mothers of Invention during the late 1960s. He continued to work with Zappa during the early 1970s following the band's split.",
+        "born": 1932,
         "highlights": [
-          "Canadian actress, writer, and director.",
-          "Played detective Traci Nash in Rookie Blue.",
-          "Rookie Blue was a Global/ABC police drama."
+          "American jazz and rock keyboardist.",
+          "Member of Frank Zappa's The Mothers of Invention.",
+          "Continued working with Zappa in the early 1970s."
         ]
       },
       {
-        "name": "Paolo and Vittorio Taviani",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Taviani_brothers_Cannes_2015_%28cropped%2C_retouched%29.jpg/330px-Taviani_brothers_Cannes_2015_%28cropped%2C_retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian film directors and screenwriters",
-        "extract": "Paolo Taviani and Vittorio Taviani, collectively referred to as the Taviani brothers, were Italian film directors and screenwriters who collaborated on numerous film productions.",
-        "born": 1929,
+        "name": "Jason Citron",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2829582918137%29_%28cropped%29.jpg/330px-TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2829582918137%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American businessman and entrepreneur (born 1984)",
+        "extract": "Jason Citron is an American businessman and entrepreneur best known as the co-founder and former chief executive officer of the social communication platform Discord. He is also the founder of OpenFeint, one of the earliest major social gaming networks for mobile devices.",
+        "born": 1984,
         "highlights": [
-          "Italian film directors and screenwriters.",
-          "Known as the Taviani brothers.",
-          "Collaborated on numerous film productions."
+          "Co-founder and former CEO of Discord.",
+          "Founder of OpenFeint.",
+          "OpenFeint was a major mobile social gaming network."
         ]
       }
     ]
