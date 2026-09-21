@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-21T18:29:23.879Z",
+  "generatedAt": "2026-09-21T22:24:57.449Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.1,
+    "tempC": 20.1,
     "condition": "Light rain",
     "code": 61,
-    "highC": 22.1,
+    "highC": 22.3,
     "lowC": 16.1,
     "rainChance": 34
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Bryson DeChambeau",
-          "Golf"
+          "Zach Ertz",
+          "NFL Player"
         ],
-        "summary": "Bryson DeChambeau is buzzing after his impressive performance and engaging personality at the US Open."
+        "summary": "Zach Ertz is buzzing due to reports of signing with the Detroit Lions, exciting football fans."
       },
       {
         "keywords": [
-          "Meta Stock",
-          "Tech Market"
+          "Line of Fire",
+          "VR Game"
         ],
-        "summary": "Meta stock is buzzing due to recent market performance and investor interest in AI developments."
+        "summary": "\"Line of Fire\" is buzzing as a new VR game from Meta, offering immersive combat."
       },
       {
         "keywords": [
-          "Baseball",
-          "MLB Season"
+          "Trump TV",
+          "Media Network"
         ],
-        "summary": "Baseball is buzzing as the MLB season heats up with exciting games and standout player performances."
+        "summary": "Trump TV is buzzing as reports suggest Donald Trump may launch his own media network."
       },
       {
         "keywords": [
-          "El Nino",
-          "Weather Pattern"
+          "Monday Night Football",
+          "NFL"
         ],
-        "summary": "El Nino is buzzing as discussions focus on its potential impact on global weather patterns."
+        "summary": "Monday Night Football is buzzing with ongoing playoff implications and thrilling matchups."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7769.34,
-        "changePct": 1.5533625253251442
+        "price": 7764.7,
+        "changePct": 1.492712894582051
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27109.246,
-        "changePct": 2.212084096756178
+        "price": 27122.094,
+        "changePct": 2.260525903528499
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I asked an AI to write me a joke about dating apps. It produced a 500-word essay on human mating rituals in the digital age.",
-      "explanation": "The AI gives an overly academic, literal response to a simple joke request, subverting expectations with dry, unhelpful information."
+      "joke": "Thank goodness for AI, now I can spend even more time explaining things to a machine before I get to explain them to a person.",
+      "explanation": "It sarcastically points out the common frustration of AI customer service often adding a step instead of simplifying things."
     },
     "zh": {
-      "joke": "最近在学做饭，发现一个真理：这世界上没有什么是加点糖解决不了的。如果有，那就再加点盐。"
+      "joke": "打开购物App，推荐的全是我买不起但又特别想买的东西。这不是大数据，这是大打击。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Oswaldo Sánchez",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Oswaldo_Sanchez_Santos.jpg/330px-Oswaldo_Sanchez_Santos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican footballer and sports commentator (born 1973)",
-        "extract": "Oswaldo Javier Sánchez Ibarra is a Mexican former professional footballer who played as a goalkeeper and a sports analyst for TUDN. He is highly regarded as one of the best goalkeepers in Mexican footballing history.",
-        "born": 1973,
+        "name": "Faris Badwan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Faris_Badwan_2006.jpg/330px-Faris_Badwan_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English musician",
+        "extract": "Faris Adam Derar Badwan is an English musician, best known as the lead vocalist of the Horrors and as half of the duo Cat's Eyes.",
+        "born": 1986,
         "highlights": [
-          "Mexican former professional footballer and goalkeeper.",
-          "Currently a sports analyst for TUDN.",
-          "Considered one of Mexico's best goalkeepers."
+          "Lead vocalist of the Horrors.",
+          "Half of the duo Cat's Eyes.",
+          "English musician."
         ]
       },
       {
-        "name": "Don Preston",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Don_preston_at_the_keyboard.jpg/330px-Don_preston_at_the_keyboard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American jazz and rock keyboardist (born 1932)",
-        "extract": "Donald Ward Preston is an American jazz and rock keyboardist. He is best known for being a member of the original version of Frank Zappa's band The Mothers of Invention during the late 1960s. He continued to work with Zappa during the early 1970s following the band's split.",
-        "born": 1932,
+        "name": "Charles Nicolle",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Charles_Nicolle_at_microscope.jpg/330px-Charles_Nicolle_at_microscope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French bacteriologist who received the Nobel Prize in Medicine (1866–1936)",
+        "extract": "Charles Jules Henri Nicolle was a French bacteriologist who received the Nobel Prize in Medicine for his identification of lice as the transmitter of epidemic typhus.",
+        "born": 1866,
         "highlights": [
-          "American jazz and rock keyboardist.",
-          "Member of Frank Zappa's The Mothers of Invention.",
-          "Continued working with Zappa in the early 1970s."
+          "French bacteriologist.",
+          "Received the Nobel Prize in Medicine.",
+          "Identified lice as transmitter of epidemic typhus."
         ]
       },
       {
-        "name": "Jason Citron",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2829582918137%29_%28cropped%29.jpg/330px-TechCrunch_Disrupt_San_Francisco_2018_-_day_2_%2829582918137%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American businessman and entrepreneur (born 1984)",
-        "extract": "Jason Citron is an American businessman and entrepreneur best known as the co-founder and former chief executive officer of the social communication platform Discord. He is also the founder of OpenFeint, one of the earliest major social gaming networks for mobile devices.",
-        "born": 1984,
+        "name": "Cecil Fielder",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cecil_Fielder_1996.jpg/330px-Cecil_Fielder_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball player (born 1963)",
+        "extract": "Cecil Grant Fielder is an American former professional baseball designated hitter and first baseman in Major League Baseball (MLB). Fielder was a power hitter in the 1980s and 1990s. He attended college at the University of Nevada, Las Vegas (UNLV). He played in MLB for the Toronto Blue Jays (1985–1988), in Japan's Central League for the Hanshin Tigers (1989), and then in MLB for the Detroit Tigers (1990–1996), New York Yankees (1996–97), Anaheim Angels in 1998, and Cleveland Indians in 1998. With the Yankees, he won the 1996 World Series over the Atlanta Braves. In 1990, he became the first player to reach the 50–home run mark since George Foster hit 52 for the Cincinnati Reds in 1977 and the first American League player to do so since Mickey Mantle and Roger Maris famously hit 54 and 61 in 1961.",
+        "born": 1963,
         "highlights": [
-          "Co-founder and former CEO of Discord.",
-          "Founder of OpenFeint.",
-          "OpenFeint was a major mobile social gaming network."
+          "Former MLB designated hitter and first baseman.",
+          "Won the 1996 World Series with the Yankees.",
+          "First player to reach 50-home run mark since 1977."
         ]
       }
     ]
