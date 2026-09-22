@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-21T22:24:57.449Z",
+  "generatedAt": "2026-09-22T17:31:53.594Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.1,
-    "condition": "Light rain",
-    "code": 61,
-    "highC": 22.3,
-    "lowC": 16.1,
-    "rainChance": 34
+    "tempC": 17.3,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 18.6,
+    "lowC": 13.8,
+    "rainChance": 35
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Zach Ertz",
-          "NFL Player"
+          "Opus 5.5",
+          "AI Model"
         ],
-        "summary": "Zach Ertz is buzzing due to reports of signing with the Detroit Lions, exciting football fans."
+        "summary": "Opus 5.5 is buzzing for its advanced AI capabilities and improved performance."
       },
       {
         "keywords": [
-          "Line of Fire",
-          "VR Game"
+          "Beats 360",
+          "Audio Tech"
         ],
-        "summary": "\"Line of Fire\" is buzzing as a new VR game from Meta, offering immersive combat."
+        "summary": "Beats 360 is buzzing as a new audio technology offering immersive sound experiences."
       },
       {
         "keywords": [
-          "Trump TV",
-          "Media Network"
+          "Fat Bear Week",
+          "Voting"
         ],
-        "summary": "Trump TV is buzzing as reports suggest Donald Trump may launch his own media network."
+        "summary": "Fat Bear Week voting is buzzing as fans choose their favorite hefty bears."
       },
       {
         "keywords": [
-          "Monday Night Football",
-          "NFL"
+          "Rays Yankees",
+          "MLB Matchup"
         ],
-        "summary": "Monday Night Football is buzzing with ongoing playoff implications and thrilling matchups."
+        "summary": "Rays vs Yankees is buzzing due to an anticipated high-stakes baseball matchup."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7764.7,
-        "changePct": 1.492712894582051
+        "price": 7765.57,
+        "changePct": 0.01120455394284249
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27122.094,
-        "changePct": 2.260525903528499
+        "price": 27210.639,
+        "changePct": 0.32646815544551333
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6318.2,
-        "changePct": 1.3149033065007536
+        "price": 6324.72,
+        "changePct": 0.10319394764332304
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10739.01,
-        "changePct": 0.7494045011178307
+        "price": 10708.33,
+        "changePct": -0.2856874143892248
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3949.9067,
-        "changePct": 0.9723070388333126
+        "price": 3952.128,
+        "changePct": 1.02912417846197
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4539.5654,
-        "changePct": 0.7137785157654178
+        "price": 4544.5874,
+        "changePct": 0.1106273300963994
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25042.71,
-        "changePct": 1.1794779800879014
+        "price": 25087.75,
+        "changePct": 1.361370137530911
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "Thank goodness for AI, now I can spend even more time explaining things to a machine before I get to explain them to a person.",
-      "explanation": "It sarcastically points out the common frustration of AI customer service often adding a step instead of simplifying things."
+      "joke": "I keep telling myself I'll get off my phone, but then I remember I have to open a new app to do it.",
+      "explanation": "It's funny because it highlights the inescapable nature of modern phone usage, even when trying to reduce it, through a self-deprecating and ironic lens."
     },
     "zh": {
-      "joke": "打开购物App，推荐的全是我买不起但又特别想买的东西。这不是大数据，这是大打击。"
+      "joke": "别人休息是为了走更远的路，我休息是为了避免上班。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Faris Badwan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Faris_Badwan_2006.jpg/330px-Faris_Badwan_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English musician",
-        "extract": "Faris Adam Derar Badwan is an English musician, best known as the lead vocalist of the Horrors and as half of the duo Cat's Eyes.",
-        "born": 1986,
+        "name": "Bernardino António Gomes Jr.",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernardino_Ant%C3%B3nio_Gomes_%28filho%29.png/330px-Bernardino_Ant%C3%B3nio_Gomes_%28filho%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Portuguese physician and scientist",
+        "extract": "Bernardino António Gomes was a Portuguese medical doctor and scientist. He is perhaps most widely remembered for his pioneering work in Portugal in the field of anaesthesiology, as the first physician in the country to use chloroform in a surgical procedure ; he is also credited with the popularization of the use of creosote and of the first ether inhalers.",
+        "born": 1806,
         "highlights": [
-          "Lead vocalist of the Horrors.",
-          "Half of the duo Cat's Eyes.",
-          "English musician."
+          "Pioneered anaesthesiology in Portugal.",
+          "First in Portugal to use chloroform in surgery.",
+          "Popularized creosote and first ether inhalers."
         ]
       },
       {
-        "name": "Charles Nicolle",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Charles_Nicolle_at_microscope.jpg/330px-Charles_Nicolle_at_microscope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French bacteriologist who received the Nobel Prize in Medicine (1866–1936)",
-        "extract": "Charles Jules Henri Nicolle was a French bacteriologist who received the Nobel Prize in Medicine for his identification of lice as the transmitter of epidemic typhus.",
-        "born": 1866,
+        "name": "Philipp Nicodemus Frischlin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nikodemus_Frischlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "German philologist, writer, mathematician and astronomer",
+        "extract": "Philipp Nicodemus Frischlin was a German philologist, poet, playwright, mathematician, and astronomer, born at Erzingen, today part of Balingen in Württemberg, where his father was parish minister.",
+        "born": 1547,
         "highlights": [
-          "French bacteriologist.",
-          "Received the Nobel Prize in Medicine.",
-          "Identified lice as transmitter of epidemic typhus."
+          "German philologist, poet, playwright.",
+          "Also a mathematician.",
+          "And an astronomer."
         ]
       },
       {
-        "name": "Cecil Fielder",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cecil_Fielder_1996.jpg/330px-Cecil_Fielder_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player (born 1963)",
-        "extract": "Cecil Grant Fielder is an American former professional baseball designated hitter and first baseman in Major League Baseball (MLB). Fielder was a power hitter in the 1980s and 1990s. He attended college at the University of Nevada, Las Vegas (UNLV). He played in MLB for the Toronto Blue Jays (1985–1988), in Japan's Central League for the Hanshin Tigers (1989), and then in MLB for the Detroit Tigers (1990–1996), New York Yankees (1996–97), Anaheim Angels in 1998, and Cleveland Indians in 1998. With the Yankees, he won the 1996 World Series over the Atlanta Braves. In 1990, he became the first player to reach the 50–home run mark since George Foster hit 52 for the Cincinnati Reds in 1977 and the first American League player to do so since Mickey Mantle and Roger Maris famously hit 54 and 61 in 1961.",
-        "born": 1963,
+        "name": "Mark Johnson (ice hockey)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mark_Johnson_at_2010_Winter_Olympics_2010-02-25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American ice hockey player and coach (born 1957)",
+        "extract": "Mark Einar Johnson is an American ice hockey coach for the University of Wisconsin–Madison women's ice hockey team. He is a former National Hockey League (NHL) player who appeared in 669 NHL regular season games between 1980 and 1990. He also played for the gold medal-winning 1980 U.S. Olympic team, leading the team in points with 11. As head coach of Wisconsin, he has led them to nine National Championships, the most for all NCAA Division I hockey teams. He is the son of legendary Wisconsin coach Bob Johnson, under whom he played while winning a national championship at the University of Wisconsin in 1977.",
+        "born": 1957,
         "highlights": [
-          "Former MLB designated hitter and first baseman.",
-          "Won the 1996 World Series with the Yankees.",
-          "First player to reach 50-home run mark since 1977."
+          "Coach of Wisconsin women's hockey team.",
+          "Led Wisconsin to nine NCAA National Championships.",
+          "Gold medalist with 1980 U.S. Olympic team."
         ]
       }
     ]
