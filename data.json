@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-22T17:31:53.594Z",
+  "generatedAt": "2026-09-22T21:45:49.048Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.3,
+    "tempC": 19,
     "condition": "Light drizzle",
     "code": 51,
-    "highC": 18.6,
-    "lowC": 13.8,
+    "highC": 19.4,
+    "lowC": 13.5,
     "rainChance": 35
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Opus 5.5",
-          "AI Model"
+          "Westfield High",
+          "School Buzz"
         ],
-        "summary": "Opus 5.5 is buzzing for its advanced AI capabilities and improved performance."
+        "summary": "Westfield High School is buzzing due to recent community discussions or student achievements."
       },
       {
         "keywords": [
-          "Beats 360",
-          "Audio Tech"
+          "La Verne",
+          "Local News"
         ],
-        "summary": "Beats 360 is buzzing as a new audio technology offering immersive sound experiences."
+        "summary": "La Verne is buzzing due to recent local developments or community events."
       },
       {
         "keywords": [
-          "Fat Bear Week",
-          "Voting"
+          "Measles",
+          "Health Alert"
         ],
-        "summary": "Fat Bear Week voting is buzzing as fans choose their favorite hefty bears."
+        "summary": "Measles is buzzing due to recent outbreaks or public health advisories."
       },
       {
         "keywords": [
-          "Rays Yankees",
-          "MLB Matchup"
+          "Andy Green",
+          "Trending Figure"
         ],
-        "summary": "Rays vs Yankees is buzzing due to an anticipated high-stakes baseball matchup."
+        "summary": "Andy Green is buzzing due to recent professional updates or public appearances."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7765.57,
-        "changePct": 0.01120455394284249
+        "price": 7764.64,
+        "changePct": -0.0007727278581206059
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27210.639,
-        "changePct": 0.32646815544551333
+        "price": 27244.277,
+        "changePct": 0.45049250253316453
       },
       {
         "region": "Europe",
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "I keep telling myself I'll get off my phone, but then I remember I have to open a new app to do it.",
-      "explanation": "It's funny because it highlights the inescapable nature of modern phone usage, even when trying to reduce it, through a self-deprecating and ironic lens."
+      "joke": "My phone battery percentage is the only thing that consistently gives me anxiety.",
+      "explanation": "It's funny because it's a relatable modern anxiety, highlighting our dependence on devices in a deadpan, slightly exaggerated way."
     },
     "zh": {
-      "joke": "别人休息是为了走更远的路，我休息是为了避免上班。"
+      "joke": "当代青年食物摄入前行为规范：拍照取证，修图美化，朋友圈发布，最后才是食用环节。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Bernardino António Gomes Jr.",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernardino_Ant%C3%B3nio_Gomes_%28filho%29.png/330px-Bernardino_Ant%C3%B3nio_Gomes_%28filho%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Portuguese physician and scientist",
-        "extract": "Bernardino António Gomes was a Portuguese medical doctor and scientist. He is perhaps most widely remembered for his pioneering work in Portugal in the field of anaesthesiology, as the first physician in the country to use chloroform in a surgical procedure ; he is also credited with the popularization of the use of creosote and of the first ether inhalers.",
-        "born": 1806,
+        "name": "T. Somasekaram",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/T._Somasekaram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "",
+        "extract": "Sri Lanka Sikhamani Thamotharam Somasekaram was a leading Sri Lankan Tamil geographer and Surveyor General.",
+        "born": 1934,
         "highlights": [
-          "Pioneered anaesthesiology in Portugal.",
-          "First in Portugal to use chloroform in surgery.",
-          "Popularized creosote and first ether inhalers."
+          "Leading Sri Lankan Tamil geographer.",
+          "Served as Surveyor General.",
+          "Awarded Sri Lanka Sikhamani."
         ]
       },
       {
-        "name": "Philipp Nicodemus Frischlin",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nikodemus_Frischlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "German philologist, writer, mathematician and astronomer",
-        "extract": "Philipp Nicodemus Frischlin was a German philologist, poet, playwright, mathematician, and astronomer, born at Erzingen, today part of Balingen in Württemberg, where his father was parish minister.",
-        "born": 1547,
+        "name": "Brian Gibson (director)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/BrianGibson%28director%29Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "English film director (1944–2004)",
+        "extract": "Brian Gibson was an English film and television director.",
+        "born": 1944,
         "highlights": [
-          "German philologist, poet, playwright.",
-          "Also a mathematician.",
-          "And an astronomer."
+          "English film director.",
+          "English television director."
         ]
       },
       {
-        "name": "Mark Johnson (ice hockey)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mark_Johnson_at_2010_Winter_Olympics_2010-02-25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American ice hockey player and coach (born 1957)",
-        "extract": "Mark Einar Johnson is an American ice hockey coach for the University of Wisconsin–Madison women's ice hockey team. He is a former National Hockey League (NHL) player who appeared in 669 NHL regular season games between 1980 and 1990. He also played for the gold medal-winning 1980 U.S. Olympic team, leading the team in points with 11. As head coach of Wisconsin, he has led them to nine National Championships, the most for all NCAA Division I hockey teams. He is the son of legendary Wisconsin coach Bob Johnson, under whom he played while winning a national championship at the University of Wisconsin in 1977.",
-        "born": 1957,
+        "name": "Diane Lemieux",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Diane_Lemieux_Commission_de_la_construction_du_Qu%C3%A9bec_%28cropped%29.jpg/330px-Diane_Lemieux_Commission_de_la_construction_du_Qu%C3%A9bec_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian politician",
+        "extract": "Diane Lemieux is a Canadian politician and administrator who serves as the president and chief executive officer of the Commission de la construction du Québec.",
+        "born": 1961,
         "highlights": [
-          "Coach of Wisconsin women's hockey team.",
-          "Led Wisconsin to nine NCAA National Championships.",
-          "Gold medalist with 1980 U.S. Olympic team."
+          "Canadian politician.",
+          "Canadian administrator.",
+          "President and CEO of Commission de la construction du Québec."
         ]
       }
     ]
