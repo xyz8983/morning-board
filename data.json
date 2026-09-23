@@ -1,46 +1,13 @@
 {
-  "generatedAt": "2026-09-23T17:43:25.967Z",
+  "generatedAt": "2026-09-23T22:00:51.493Z",
   "weather": {
     "location": "New York City",
     "tempC": 19.2,
     "condition": "Overcast",
     "code": 3,
-    "highC": 19.9,
+    "highC": 20.4,
     "lowC": 12.1,
     "rainChance": 0
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "Big Beautiful Bill",
-          "Act Impact"
-        ],
-        "summary": "The 'One Big Beautiful Bill Act' is buzzing due to its potential widespread societal and economic impacts."
-      },
-      {
-        "keywords": [
-          "DART Mission",
-          "Asteroid Defense"
-        ],
-        "summary": "NASA's DART mission is buzzing for successfully testing planetary defense against asteroids."
-      },
-      {
-        "keywords": [
-          "MLB Rivalry",
-          "Blue Jays Orioles"
-        ],
-        "summary": "The Blue Jays vs. Orioles game is buzzing as a key MLB division rivalry matchup."
-      },
-      {
-        "keywords": [
-          "Trump Rating",
-          "Approval Dip"
-        ],
-        "summary": "Donald Trump's approval rating at 29 percent is buzzing due to its historical low implications."
-      }
-    ]
   },
   "market": {
     "indices": [
@@ -48,15 +15,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7713.75,
-        "changePct": -0.6554070761812567
+        "price": 7706.03,
+        "changePct": -0.7548321622122929
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26940.906,
-        "changePct": -1.1135219334321083
+        "price": 26936.037,
+        "changePct": -1.1313935767133698
       },
       {
         "region": "Europe",
@@ -95,53 +62,29 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "My 'work-life balance' is just me wondering if I should put on real pants before or after my afternoon meeting.",
-      "explanation": "This joke uses deadpan self-deprecation to highlight the blurred lines and casualness of modern remote work culture."
-    },
-    "zh": {
-      "joke": "每次看到手机电量低于20%我就开始焦虑，但看到银行卡余额低于20%却能淡定地继续刷手机。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Kublai Khan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/330px-YuanEmperorAlbumKhubilaiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Emperor of Yuan China from 1271 to 1294",
-        "extract": "Kublai Khan, also known by his temple name as the Emperor Shizu of Yuan and his regnal name Setsen Khan, was the founder and first emperor of the Mongol-led Yuan dynasty of China. He proclaimed the dynastic name \"Great Yuan\" in 1271, and ruled Yuan China until his death in 1294.",
-        "born": 1215,
-        "highlights": [
-          "Founder and first emperor of the Mongol-led Yuan dynasty.",
-          "Proclaimed the dynastic name \"Great Yuan\" in 1271.",
-          "Ruled Yuan China until his death in 1294."
-        ]
+        "name": "Tony Smith (sculptor)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f5/Tony_Smith_with_his_sculpture_%E2%80%9CThe_Snake_Is_Out%E2%80%9D_in_Bryant_Park_in_1967.jpg/330px-Tony_Smith_with_his_sculpture_%E2%80%9CThe_Snake_Is_Out%E2%80%9D_in_Bryant_Park_in_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American artist (1912–1980)",
+        "extract": "Anthony Peter Smith was an American sculptor, painter, architectural designer, and a noted art theorist. As a leading sculptor in the 1960s and 1970s, Smith is often associated with the minimalist art movement.",
+        "born": 1912
       },
       {
-        "name": "Charlie Barnett (comedian)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/1/14/Charlie_Barnett_%28comedian%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American comedian and actor (1954-1996)",
-        "extract": "Charles Barnett was an American comedian and actor. He is best known for his role as Nugart Neville \"Noogie\" Lamont on the NBC television series Miami Vice. Barnett was a mentor and major influence on comedians Dave Chappelle and Jeff Ross.",
-        "born": 1954,
-        "highlights": [
-          "Best known for role as \"Noogie\" Lamont.",
-          "Appeared on NBC television series Miami Vice.",
-          "Mentor and influence on comedians Dave Chappelle and Jeff Ross."
-        ]
+        "name": "André Cassagnes",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Andr%C3%A9_Cassagnes_lance_un_navigateur_-_Vincennes_-_dsdm04581_%28cropped%29.jpg/330px-Andr%C3%A9_Cassagnes_lance_un_navigateur_-_Vincennes_-_dsdm04581_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French inventor",
+        "extract": "André Cassagnes was a French inventor, electrical technician, toymaker, and kite designer. Cassagnes is best known as the inventor of the Etch A Sketch, a popular mechanical drawing toy manufactured since 2016 by Spin Master, formerly by the Ohio Art Company.",
+        "born": 1926
       },
       {
-        "name": "Ramdhari Singh Dinkar",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ramdhari_Singh_Dinkar_1999_stamp_of_India.jpg/330px-Ramdhari_Singh_Dinkar_1999_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Indian poet (1908–1974)",
-        "extract": "Ramdhari Singh, known by his pen name Dinkar, was an Indian Hindi language poet, essayist, freedom fighter, patriot and academic. He emerged as a poet of rebellion as a consequence of his nationalist poetry written in the days before Indian independence. His poetry exuded Veer Rasa, and he has been hailed as a Rashtrakavi and Yuga-Chāraṇa on account of his inspiring patriotic compositions. He was a regular poet of Hindi Kavi Sammelan and is hailed to be as popular and connected to poetry lovers for Hindi speakers as Pushkin for Russians.",
-        "born": 1908,
-        "highlights": [
-          "Indian Hindi language poet, essayist, freedom fighter, patriot, academic.",
-          "Emerged as a poet of rebellion.",
-          "Hailed as a Rashtrakavi and Yuga-Chāraṇa."
-        ]
+        "name": "Kairi Sane",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kairi_Sane_2024_%28cropped%29.jpg/330px-Kairi_Sane_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese professional wrestler and actress (born 1988)",
+        "extract": "Kaori Housako  is a Japanese professional wrestler and actress. She is best known for her two tenures in WWE, where she performed under the ring name Kairi Sane .",
+        "born": 1988
       }
     ]
   }
