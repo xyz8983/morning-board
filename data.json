@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-22T21:45:49.048Z",
+  "generatedAt": "2026-09-23T17:43:25.967Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 19.4,
-    "lowC": 13.5,
-    "rainChance": 35
+    "tempC": 19.2,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 19.9,
+    "lowC": 12.1,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Westfield High",
-          "School Buzz"
+          "Big Beautiful Bill",
+          "Act Impact"
         ],
-        "summary": "Westfield High School is buzzing due to recent community discussions or student achievements."
+        "summary": "The 'One Big Beautiful Bill Act' is buzzing due to its potential widespread societal and economic impacts."
       },
       {
         "keywords": [
-          "La Verne",
-          "Local News"
+          "DART Mission",
+          "Asteroid Defense"
         ],
-        "summary": "La Verne is buzzing due to recent local developments or community events."
+        "summary": "NASA's DART mission is buzzing for successfully testing planetary defense against asteroids."
       },
       {
         "keywords": [
-          "Measles",
-          "Health Alert"
+          "MLB Rivalry",
+          "Blue Jays Orioles"
         ],
-        "summary": "Measles is buzzing due to recent outbreaks or public health advisories."
+        "summary": "The Blue Jays vs. Orioles game is buzzing as a key MLB division rivalry matchup."
       },
       {
         "keywords": [
-          "Andy Green",
-          "Trending Figure"
+          "Trump Rating",
+          "Approval Dip"
         ],
-        "summary": "Andy Green is buzzing due to recent professional updates or public appearances."
+        "summary": "Donald Trump's approval rating at 29 percent is buzzing due to its historical low implications."
       }
     ]
   },
@@ -48,98 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7764.64,
-        "changePct": -0.0007727278581206059
+        "price": 7713.75,
+        "changePct": -0.6554070761812567
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27244.277,
-        "changePct": 0.45049250253316453
+        "price": 26940.906,
+        "changePct": -1.1135219334321083
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6324.72,
-        "changePct": 0.10319394764332304
+        "price": 6299.82,
+        "changePct": -0.3936933176488531
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10708.33,
-        "changePct": -0.2856874143892248
+        "price": 10705.26,
+        "changePct": -0.02866926962467265
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3952.128,
-        "changePct": 1.02912417846197
+        "price": 3936.52,
+        "changePct": -0.33899506571035476
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4544.5874,
-        "changePct": 0.1106273300963994
+        "price": 4517.278,
+        "changePct": -0.600978306073813
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 25087.75,
-        "changePct": 1.361370137530911
+        "price": 24834.12,
+        "changePct": -0.8328974112216404
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone battery percentage is the only thing that consistently gives me anxiety.",
-      "explanation": "It's funny because it's a relatable modern anxiety, highlighting our dependence on devices in a deadpan, slightly exaggerated way."
+      "joke": "My 'work-life balance' is just me wondering if I should put on real pants before or after my afternoon meeting.",
+      "explanation": "This joke uses deadpan self-deprecation to highlight the blurred lines and casualness of modern remote work culture."
     },
     "zh": {
-      "joke": "当代青年食物摄入前行为规范：拍照取证，修图美化，朋友圈发布，最后才是食用环节。"
+      "joke": "每次看到手机电量低于20%我就开始焦虑，但看到银行卡余额低于20%却能淡定地继续刷手机。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "T. Somasekaram",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/T._Somasekaram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "",
-        "extract": "Sri Lanka Sikhamani Thamotharam Somasekaram was a leading Sri Lankan Tamil geographer and Surveyor General.",
-        "born": 1934,
+        "name": "Kublai Khan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/330px-YuanEmperorAlbumKhubilaiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Emperor of Yuan China from 1271 to 1294",
+        "extract": "Kublai Khan, also known by his temple name as the Emperor Shizu of Yuan and his regnal name Setsen Khan, was the founder and first emperor of the Mongol-led Yuan dynasty of China. He proclaimed the dynastic name \"Great Yuan\" in 1271, and ruled Yuan China until his death in 1294.",
+        "born": 1215,
         "highlights": [
-          "Leading Sri Lankan Tamil geographer.",
-          "Served as Surveyor General.",
-          "Awarded Sri Lanka Sikhamani."
+          "Founder and first emperor of the Mongol-led Yuan dynasty.",
+          "Proclaimed the dynastic name \"Great Yuan\" in 1271.",
+          "Ruled Yuan China until his death in 1294."
         ]
       },
       {
-        "name": "Brian Gibson (director)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/BrianGibson%28director%29Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "English film director (1944–2004)",
-        "extract": "Brian Gibson was an English film and television director.",
-        "born": 1944,
+        "name": "Charlie Barnett (comedian)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/1/14/Charlie_Barnett_%28comedian%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American comedian and actor (1954-1996)",
+        "extract": "Charles Barnett was an American comedian and actor. He is best known for his role as Nugart Neville \"Noogie\" Lamont on the NBC television series Miami Vice. Barnett was a mentor and major influence on comedians Dave Chappelle and Jeff Ross.",
+        "born": 1954,
         "highlights": [
-          "English film director.",
-          "English television director."
+          "Best known for role as \"Noogie\" Lamont.",
+          "Appeared on NBC television series Miami Vice.",
+          "Mentor and influence on comedians Dave Chappelle and Jeff Ross."
         ]
       },
       {
-        "name": "Diane Lemieux",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Diane_Lemieux_Commission_de_la_construction_du_Qu%C3%A9bec_%28cropped%29.jpg/330px-Diane_Lemieux_Commission_de_la_construction_du_Qu%C3%A9bec_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian politician",
-        "extract": "Diane Lemieux is a Canadian politician and administrator who serves as the president and chief executive officer of the Commission de la construction du Québec.",
-        "born": 1961,
+        "name": "Ramdhari Singh Dinkar",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ramdhari_Singh_Dinkar_1999_stamp_of_India.jpg/330px-Ramdhari_Singh_Dinkar_1999_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Indian poet (1908–1974)",
+        "extract": "Ramdhari Singh, known by his pen name Dinkar, was an Indian Hindi language poet, essayist, freedom fighter, patriot and academic. He emerged as a poet of rebellion as a consequence of his nationalist poetry written in the days before Indian independence. His poetry exuded Veer Rasa, and he has been hailed as a Rashtrakavi and Yuga-Chāraṇa on account of his inspiring patriotic compositions. He was a regular poet of Hindi Kavi Sammelan and is hailed to be as popular and connected to poetry lovers for Hindi speakers as Pushkin for Russians.",
+        "born": 1908,
         "highlights": [
-          "Canadian politician.",
-          "Canadian administrator.",
-          "President and CEO of Commission de la construction du Québec."
+          "Indian Hindi language poet, essayist, freedom fighter, patriot, academic.",
+          "Emerged as a poet of rebellion.",
+          "Hailed as a Rashtrakavi and Yuga-Chāraṇa."
         ]
       }
     ]
