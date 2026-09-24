@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-24T17:45:11.323Z",
+  "generatedAt": "2026-09-24T21:56:18.218Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18.4,
+    "tempC": 19.4,
     "condition": "Overcast",
     "code": 3,
-    "highC": 19.7,
+    "highC": 19.5,
     "lowC": 11.1,
     "rainChance": 0
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Airport",
-          "Travel"
+          "Bob Pettit",
+          "NBA Legend"
         ],
-        "summary": "Aeropuerto is buzzing, likely due to increased holiday travel or recent news."
+        "summary": "Bob Pettit is buzzing as a basketball legend, often discussed for his historic NBA career."
       },
       {
         "keywords": [
-          "Boeing 787-9",
-          "Flight Diversion"
+          "Dow Jones",
+          "Market Index"
         ],
-        "summary": "A Boeing 787-9 diversion to LAX is buzzing, likely due to an unexpected in-flight incident."
+        "summary": "The Dow Jones Industrial Average is buzzing due to recent market fluctuations and economic news."
       },
       {
         "keywords": [
-          "Wind Advisory",
-          "Weather Alert"
+          "Bill Burr",
+          "Comedian"
         ],
-        "summary": "A wind advisory is buzzing, likely due to strong winds impacting travel and outdoor activities."
+        "summary": "Bill Burr is buzzing as a popular comedian, known for his stand-up specials and acting roles."
       },
       {
         "keywords": [
-          "Presidents Cup",
-          "Golf"
+          "Carney News",
+          "Updates"
         ],
-        "summary": "The Presidents Cup is buzzing as fans seek viewing options for the golf tournament."
+        "summary": "\"Carney News\" is buzzing, likely referring to updates or discussions related to a person or topic named Carney."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7693.08,
-        "changePct": -0.16805021522106478
+        "price": 7704.13,
+        "changePct": -0.02465601613281594
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26862.904,
-        "changePct": -0.2715061610585166
+        "price": 26939.373,
+        "changePct": 0.01238489537269098
       },
       {
         "region": "Europe",
@@ -97,47 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I started watching TikTok ironically to understand Gen Z culture, and now I'm unironically recommending 'clean girl aesthetic' tutorials.",
-      "explanation": "It's funny because it plays on the shift from ironic detachment to genuine engagement, a hallmark of post-irony and internet culture."
+      "joke": "My main hobby these days is scrolling past articles about how to be more productive.",
+      "explanation": "It's a self-deprecating observation on the irony of consuming content about productivity while actively avoiding it, common in internet culture."
     },
     "zh": {
-      "joke": "最近对周末的期待，已经从‘出去玩’变成了‘什么也不做，但要躺得很有仪式感’。"
+      "joke": "手机电量低于20%我会感到恐慌，但我的社交电量低于20%时，我会感到非常舒适。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Shawn Crahan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/VivaXElRock19-12_%28cropped%29.jpg/330px-VivaXElRock19-12_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American percussionist (born 1969)",
-        "extract": "Michael Shawn Crahan, more commonly known by his stage persona \"Clown\", is an American musician. He is the co-founder and percussionist of the alternative metal band Slipknot, in which he is designated #6. He helped form Slipknot in 1995 alongside bassist Paul Gray and former vocalist Anders Colsefni. Crahan is the longest-serving member of the band, and also has extensive involvement with Slipknot's media production and music videos. Outside Slipknot, Crahan had two side project bands called To My Surprise and Dirty Little Rabbits. Aside from his musical activity, he also directed the 2016 action thriller film Officer Downe.",
-        "born": 1969,
+        "name": "Jack Gaughan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Galaxy_196208.jpg/330px-Galaxy_196208.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American science fiction artist (1930–1985)",
+        "extract": "John Brian Francis \"Jack\" Gaughan, pronounced like 'gone', was an American science fiction artist and illustrator and multiple winner of the Hugo Award in the category of Best Professional Artist.",
+        "born": 1930,
         "highlights": [
-          "Co-founder and percussionist of the band Slipknot.",
-          "Longest-serving member of Slipknot.",
-          "Directed the 2016 film Officer Downe."
+          "American science fiction artist and illustrator.",
+          "Multiple winner of the Hugo Award.",
+          "Won Best Professional Artist Hugo Award."
         ]
       },
       {
-        "name": "André Frédéric Cournand",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "French-American physician and physiologist",
-        "extract": "André Frédéric Cournand was a French-American physician and physiologist.",
-        "born": 1895,
+        "name": "Jacques Vallée",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Jacques_Vall%C3%A9e_at_his_home_in_2024_01.jpg/330px-Jacques_Vall%C3%A9e_at_his_home_in_2024_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French computer scientist and ufologist (born 1939)",
+        "extract": "Jacques Fabrice Vallée is a French Internet pioneer, computer scientist, venture capitalist, author, ufologist and astronomer currently residing in San Francisco, California and Paris, France.",
+        "born": 1939,
         "highlights": [
-          "French-American physician and physiologist."
+          "French Internet pioneer.",
+          "Computer scientist and venture capitalist.",
+          "Author, ufologist, and astronomer."
         ]
       },
       {
-        "name": "Jean Servais",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Jean_Servais.jpg/330px-Jean_Servais.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Belgian actor (1910–1976)",
-        "extract": "Jean Servais was a Belgian film and stage actor. He acted in many 20th century French cinema productions, from the 1930s through the early 1970s.",
-        "born": 1910,
+        "name": "Arthur Malet",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Arthur_Malet_in_Dallas_1990.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "British actor (1927–2013)",
+        "extract": "Vivian Arthur Rivers Malet was an English actor. He was known for his films Mary Poppins (1964), Halloween (1978), The Secret of NIMH (1982), and Hook (1991). His last film role was The Secret of NIMH 2: Timmy to the Rescue (1998), in which he voiced Mr. Ages.",
+        "born": 1927,
         "highlights": [
-          "Belgian film and stage actor.",
-          "Acted in many 20th century French cinema productions."
+          "English actor known for Mary Poppins (1964).",
+          "Appeared in Halloween (1978) and Hook (1991).",
+          "Voiced Mr. Ages in The Secret of NIMH 2."
         ]
       }
     ]
