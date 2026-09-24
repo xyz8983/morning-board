@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-09-23T22:00:51.493Z",
+  "generatedAt": "2026-09-24T17:45:11.323Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19.2,
+    "tempC": 18.4,
     "condition": "Overcast",
     "code": 3,
-    "highC": 20.4,
-    "lowC": 12.1,
+    "highC": 19.7,
+    "lowC": 11.1,
     "rainChance": 0
+  },
+  "hotTopics": {
+    "headline": "Today's buzz",
+    "topics": [
+      {
+        "keywords": [
+          "Airport",
+          "Travel"
+        ],
+        "summary": "Aeropuerto is buzzing, likely due to increased holiday travel or recent news."
+      },
+      {
+        "keywords": [
+          "Boeing 787-9",
+          "Flight Diversion"
+        ],
+        "summary": "A Boeing 787-9 diversion to LAX is buzzing, likely due to an unexpected in-flight incident."
+      },
+      {
+        "keywords": [
+          "Wind Advisory",
+          "Weather Alert"
+        ],
+        "summary": "A wind advisory is buzzing, likely due to strong winds impacting travel and outdoor activities."
+      },
+      {
+        "keywords": [
+          "Presidents Cup",
+          "Golf"
+        ],
+        "summary": "The Presidents Cup is buzzing as fans seek viewing options for the golf tournament."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -15,76 +48,97 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7706.03,
-        "changePct": -0.7548321622122929
+        "price": 7693.08,
+        "changePct": -0.16805021522106478
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26936.037,
-        "changePct": -1.1313935767133698
+        "price": 26862.904,
+        "changePct": -0.2715061610585166
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6299.82,
-        "changePct": -0.3936933176488531
+        "price": 6272.5,
+        "changePct": -0.43366318402747556
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10705.26,
-        "changePct": -0.02866926962467265
+        "price": 10679.99,
+        "changePct": -0.23605218369288028
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3936.52,
-        "changePct": -0.33899506571035476
+        "price": 3888.374,
+        "changePct": -1.6132060433234816
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4517.278,
-        "changePct": -0.600978306073813
+        "price": 4439.1445,
+        "changePct": -1.7296654049408382
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24834.12,
-        "changePct": -0.8328974112216404
+        "price": 24761.13,
+        "changePct": -1.302107000215237
       }
     ]
+  },
+  "joke": {
+    "en": {
+      "joke": "I started watching TikTok ironically to understand Gen Z culture, and now I'm unironically recommending 'clean girl aesthetic' tutorials.",
+      "explanation": "It's funny because it plays on the shift from ironic detachment to genuine engagement, a hallmark of post-irony and internet culture."
+    },
+    "zh": {
+      "joke": "最近对周末的期待，已经从‘出去玩’变成了‘什么也不做，但要躺得很有仪式感’。"
+    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Tony Smith (sculptor)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f5/Tony_Smith_with_his_sculpture_%E2%80%9CThe_Snake_Is_Out%E2%80%9D_in_Bryant_Park_in_1967.jpg/330px-Tony_Smith_with_his_sculpture_%E2%80%9CThe_Snake_Is_Out%E2%80%9D_in_Bryant_Park_in_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American artist (1912–1980)",
-        "extract": "Anthony Peter Smith was an American sculptor, painter, architectural designer, and a noted art theorist. As a leading sculptor in the 1960s and 1970s, Smith is often associated with the minimalist art movement.",
-        "born": 1912
+        "name": "Shawn Crahan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/VivaXElRock19-12_%28cropped%29.jpg/330px-VivaXElRock19-12_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American percussionist (born 1969)",
+        "extract": "Michael Shawn Crahan, more commonly known by his stage persona \"Clown\", is an American musician. He is the co-founder and percussionist of the alternative metal band Slipknot, in which he is designated #6. He helped form Slipknot in 1995 alongside bassist Paul Gray and former vocalist Anders Colsefni. Crahan is the longest-serving member of the band, and also has extensive involvement with Slipknot's media production and music videos. Outside Slipknot, Crahan had two side project bands called To My Surprise and Dirty Little Rabbits. Aside from his musical activity, he also directed the 2016 action thriller film Officer Downe.",
+        "born": 1969,
+        "highlights": [
+          "Co-founder and percussionist of the band Slipknot.",
+          "Longest-serving member of Slipknot.",
+          "Directed the 2016 film Officer Downe."
+        ]
       },
       {
-        "name": "André Cassagnes",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Andr%C3%A9_Cassagnes_lance_un_navigateur_-_Vincennes_-_dsdm04581_%28cropped%29.jpg/330px-Andr%C3%A9_Cassagnes_lance_un_navigateur_-_Vincennes_-_dsdm04581_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French inventor",
-        "extract": "André Cassagnes was a French inventor, electrical technician, toymaker, and kite designer. Cassagnes is best known as the inventor of the Etch A Sketch, a popular mechanical drawing toy manufactured since 2016 by Spin Master, formerly by the Ohio Art Company.",
-        "born": 1926
+        "name": "André Frédéric Cournand",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "French-American physician and physiologist",
+        "extract": "André Frédéric Cournand was a French-American physician and physiologist.",
+        "born": 1895,
+        "highlights": [
+          "French-American physician and physiologist."
+        ]
       },
       {
-        "name": "Kairi Sane",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kairi_Sane_2024_%28cropped%29.jpg/330px-Kairi_Sane_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese professional wrestler and actress (born 1988)",
-        "extract": "Kaori Housako  is a Japanese professional wrestler and actress. She is best known for her two tenures in WWE, where she performed under the ring name Kairi Sane .",
-        "born": 1988
+        "name": "Jean Servais",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Jean_Servais.jpg/330px-Jean_Servais.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Belgian actor (1910–1976)",
+        "extract": "Jean Servais was a Belgian film and stage actor. He acted in many 20th century French cinema productions, from the 1930s through the early 1970s.",
+        "born": 1910,
+        "highlights": [
+          "Belgian film and stage actor.",
+          "Acted in many 20th century French cinema productions."
+        ]
       }
     ]
   }
