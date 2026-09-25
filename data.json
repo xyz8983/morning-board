@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-25T17:46:44.112Z",
+  "generatedAt": "2026-09-25T21:58:04.311Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.9,
-    "condition": "Drizzle",
-    "code": 53,
-    "highC": 22.4,
+    "tempC": 20.2,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 21.7,
     "lowC": 12.2,
-    "rainChance": 35
+    "rainChance": 30
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Hasim Rahman",
-          "Boxing Loss"
-        ],
-        "summary": "Hasim Rahman's comeback loss is buzzing as fans react to the unexpected outcome of his fight."
-      },
-      {
-        "keywords": [
           "Dow Jones",
-          "Market Index"
+          "Stock Market"
         ],
-        "summary": "The Dow Jones is buzzing due to recent market fluctuations and economic indicators impacting its performance."
+        "summary": "Why it's buzzing: The Dow Jones Industrial Average is a key indicator of market performance, often discussed for economic trends."
       },
       {
         "keywords": [
-          "Hunchback",
-          "Paris Soul"
+          "Connor Nelson",
+          "Burglary"
         ],
-        "summary": "\"The Hunchback Soul of Paris\" is buzzing as people discuss its unique cultural and historical themes."
+        "summary": "Why it's buzzing: News about Connor Nelson's apartment burglary in California is circulating, drawing local attention."
       },
       {
         "keywords": [
-          "Strait Hormuz",
-          "Geopolitical News"
+          "Cornell University",
+          "Education News"
         ],
-        "summary": "Strait of Hormuz news is buzzing due to ongoing geopolitical tensions and shipping concerns in the region."
+        "summary": "Why it's buzzing: Cornell University is frequently in the news for academic achievements, research, or campus events."
+      },
+      {
+        "keywords": [
+          "Life Surge",
+          "Event Series"
+        ],
+        "summary": "Why it's buzzing: Life Surge is a popular event series focusing on financial literacy and personal development."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7739.25,
-        "changePct": 0.45585938970396256
+        "price": 7743.41,
+        "changePct": 0.5098564016962298
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27075.49,
-        "changePct": 0.5052715963359726
+        "price": 27068.717,
+        "changePct": 0.4801299569964043
       },
       {
         "region": "Europe",
@@ -97,49 +97,54 @@
   },
   "joke": {
     "en": {
-      "joke": "My work laptop just asked if I was still watching. I said 'yes' but it was actually my reflection in the screen, contemplating my existence.",
-      "explanation": "It blends the familiar streaming service prompt with the existential dread and self-reflection often associated with remote work and screen time."
+      "joke": "I asked AI to write my obituary. It came up with 'She scrolled tirelessly, but never found what she was looking for.'",
+      "explanation": "It's funny because it's a dark, self-aware comment on the endless, often fruitless scrolling inherent to modern digital life, delivered by AI."
     },
     "zh": {
-      "joke": "我的人生哲学就是，能用表情包解决的对话，绝不打字；能用表情包解决的尴尬，绝不解释。"
+      "joke": "我宣布今天正式进入‘省钱模式’。具体操作是：把所有想买的东西加入购物车，然后，把APP卸载。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Plutarco Elías Calles",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/General_PE_Calles_%28cropped%29.jpg/330px-General_PE_Calles_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "President of Mexico from 1924 to 1928",
-        "extract": "Plutarco Elías Calles was a Mexican politician and military officer who served as the 47th president of Mexico from 1924 to 1928. After the assassination of Álvaro Obregón, Calles founded the Institutional Revolutionary Party and held unofficial power as Mexico's de facto leader from 1929 to 1934, a period known as the Maximato. Previously, he served as a general in the Constitutional Army, as Governor of Sonora, Secretary of War, and Secretary of the Interior. During the Maximato, he served as Secretariat of Public Education, Secretary of War again, and Secretary of the Economy. During his presidency, he implemented many left-wing populist and secularist reforms, opposition to which sparked the Cristero War.",
-        "born": 1877,
+        "name": "Dee Dee Warwick",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/Dee_Dee_Warwick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American soul singer (1942–2008)",
+        "extract": "Delia Juanita Warrick, known professionally as Dee Dee Warwick, was an American soul singer. Born in East Orange, New Jersey, she was the sister of singer Dionne Warwick, the niece of Cissy Houston, and a first cousin of singers Whitney Houston and Leontyne Price.",
+        "born": 1942,
         "highlights": [
-          "47th president of Mexico (1924-1928).",
-          "Founded the Institutional Revolutionary Party.",
-          "De facto leader during the Maximato (1929-1934)."
+          "American soul singer.",
+          "Sister of singer Dionne Warwick.",
+          "Niece of Cissy Houston."
         ]
       },
       {
-        "name": "Tim Severin",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tim_Severin.jpg/330px-Tim_Severin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British explorer, historian, writer (1940–2020)",
-        "extract": "Timothy Severin was a British explorer, historian, and writer. Severin was noted for his work in retracing the legendary journeys of historical figures. Severin was awarded both the Founder's Medal of the Royal Geographical Society and the Livingstone Medal of the Royal Scottish Geographical Society. He received the Thomas Cook Travel Book Award for his 1982 book The Sindbad Voyage.",
-        "born": 1940,
+        "name": "Agostino Bassi",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Agostino_Bassi_by_G.C._Ainsworth.jpg/330px-Agostino_Bassi_by_G.C._Ainsworth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian entomologist (1773-1856)",
+        "extract": "Agostino Bassi, sometimes called de Lodi, was an Italian entomologist. He preceded Louis Pasteur in the discovery that microorganisms can be the cause of disease. He discovered that the muscardine disease of silkworms was caused by a living, very small, parasitic organism, a fungus that would be named eventually Beauveria bassiana in his honor. In 1844, he stated the idea that not only animal (insect), but also human diseases are caused by other living microorganisms; for example, measles, syphilis, and the plague.",
+        "born": 1773,
         "highlights": [
-          "British explorer, historian, and writer.",
-          "Noted for retracing legendary journeys.",
-          "Won Thomas Cook Travel Book Award for The Sindbad Voyage."
+          "Discovered microorganisms cause disease, preceding Pasteur.",
+          "Identified fungus causing muscardine disease in silkworms.",
+          "Fungus Beauveria bassiana named in his honor."
         ]
       },
       {
-        "name": "Kemel Thompson",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Kemel_Thompson_2007.jpg/330px-Kemel_Thompson_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Jamaican hurdler",
-        "extract": "Kemel Thompson is a former Jamaican athlete who competes in the 400 metres hurdles.",
-        "born": 1974,
+        "name": "Ian Tyson",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ian_Tyson_%284396806840%29.jpg/330px-Ian_Tyson_%284396806840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian singer-songwriter (1933–2022)",
+        "extract": "Ian Dawson Tyson was a Canadian singer-songwriter who wrote many folk and cowboy songs, including \"Four Strong Winds\" and \"Someday Soon\", and performed with partner Sylvia Tyson as the duo Ian & Sylvia. as well as a solo act after the duo split up in 1975.",
+        "born": 1933,
         "highlights": [
-          "Former Jamaican athlete.",
-          "Competes in 400 metres hurdles."
+          "Canadian singer-songwriter.",
+          "Wrote ",
+          "Four Strong Winds",
+          " and ",
+          "Someday Soon",
+          ".",
+          "Performed as duo Ian & Sylvia."
         ]
       }
     ]
