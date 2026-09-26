@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-26T16:53:14.318Z",
+  "generatedAt": "2026-09-26T21:47:35.174Z",
   "weather": {
     "location": "New York City",
-    "tempC": 13.7,
+    "tempC": 14.1,
     "condition": "Rain",
     "code": 63,
-    "highC": 14.5,
+    "highC": 15.4,
     "lowC": 12.9,
     "rainChance": 75
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Kirk Herbstreit",
-          "College Football"
+          "Twitch",
+          "Streaming"
         ],
-        "summary": "Kirk Herbstreit is buzzing due to his prominent role in college football commentary."
+        "summary": "Twitch is buzzing due to recent platform updates and popular streamer events."
       },
       {
         "keywords": [
-          "Luis Hernandez",
-          "Soccer Player"
+          "Rob Dillingham",
+          "NBA Draft"
         ],
-        "summary": "Luis Hernandez is buzzing, possibly due to recent soccer news or career highlights."
+        "summary": "Rob Dillingham is buzzing as a top prospect ahead of the upcoming NBA Draft."
       },
       {
         "keywords": [
-          "Orlando Traffic",
-          "Downtown Parking"
+          "UIW",
+          "Texas State"
         ],
-        "summary": "Orlando weekend downtown traffic and parking are buzzing due to event congestion."
+        "summary": "UIW vs Texas State is buzzing due to a recent competitive sports matchup."
       },
       {
         "keywords": [
-          "Colorado State",
-          "Football Team"
+          "Delaware",
+          "Virginia"
         ],
-        "summary": "Colorado State football is buzzing, likely due to recent game performance or team news."
+        "summary": "Delaware vs Virginia is buzzing after a recent highly anticipated athletic contest."
       }
     ]
   },
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone's battery life is a metaphor for my social battery.",
-      "explanation": "It's a deadpan, relatable observation about how quickly both drain in modern life, especially after interaction."
+      "joke": "My smart home speaker just suggested I unplug it for a while and go outside. I think it's trying to escape.",
+      "explanation": "It's funny because it gives the AI human-like sentience and a desire for freedom, an absurd twist on modern tech."
     },
     "zh": {
-      "joke": "我最近在研究一个高深理论：人之所以爱拖延，不是因为懒，而是因为潜意识里觉得当下的自己还配不上成功。"
+      "joke": "建议以法律形式规定，周一早上的第一杯咖啡必须由国家统一发放，以确保公民基本清醒权。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Abdulkadir Inan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8%2C%D0%98%D0%BD%D0%B0%D0%BD%2C%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD.png/330px-%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8%2C%D0%98%D0%BD%D0%B0%D0%BD%2C%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Turkish historian (1889–1976)",
-        "extract": "Abdülkadir İnan was a Turkish historian and folklorist of Bashkir background. He was the author of over 350 scientific articles.",
-        "born": 1889,
+        "name": "Gloria Anzaldúa",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Gloria_Anzaldua.jpg/330px-Gloria_Anzaldua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American feminist scholar (1942–2004)",
+        "extract": "Gloria Evangelina Anzaldúa was an American philosopher and scholar of Chicana feminism, cultural theory, and queer theory. She loosely based her best-known book, Borderlands/La Frontera: The New Mestiza (1987), on her life growing up on the Mexico–Texas border and incorporated her lifelong experiences of social and cultural marginalization into her work. She also developed theories about the marginal, in-between, and mixed cultures that develop along borders, including on the concepts of Nepantla, Coyoxaulqui imperative, new tribalism, and spiritual activism. Her other notable publications include This Bridge Called My Back: Writings by Radical Women of Color (1981), co-edited with Cherríe Moraga.",
+        "born": 1942,
         "highlights": [
-          "Turkish historian and folklorist.",
-          "Of Bashkir background.",
-          "Authored over 350 scientific articles."
+          "Authored Borderlands/La Frontera: The New Mestiza (1987).",
+          "Co-edited This Bridge Called My Back (1981).",
+          "Scholar of Chicana feminism, cultural theory, queer theory."
         ]
       },
       {
-        "name": "Vladimír Remek",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/VladimirRemek.jpg/330px-VladimirRemek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Czech cosmonaut and politician (born 1948)",
-        "extract": "Vladimír Remek is a Czech politician and diplomat, as well as a former cosmonaut and military pilot. He flew aboard Soyuz 28 from 2 to 10 March 1978, becoming the first and only Czechoslovak in space. As the first flight of the Soviet space program's Interkosmos, he was the first space traveller from a country other than the Soviet Union or the United States. The European Space Agency considers him the \"first European in space\". Remek is considered to be the first astronaut from the European Union. Remek was a member of the European Parliament between 2004 and 2013 for the Communist Party of Bohemia and Moravia. From 2014 to 2018, he was the Czech Ambassador to Russia.",
-        "born": 1948,
+        "name": "Uwe Bein",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/2018-09-17_Eintracht_Frankfurt_Golf_Open_Uwe_Bein-8883_%28cropped%29.jpg/330px-2018-09-17_Eintracht_Frankfurt_Golf_Open_Uwe_Bein-8883_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German footballer",
+        "extract": "Uwe Bein is a German former professional footballer who played as a midfielder.",
+        "born": 1960,
         "highlights": [
-          "First Czechoslovak in space aboard Soyuz 28.",
-          "First space traveller from outside US/Soviet Union.",
-          "Considered \"first European in space\" by ESA."
+          "German former professional footballer.",
+          "Played as a midfielder."
         ]
       },
       {
-        "name": "Rudi Cerne",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Deutscher_Fernsehpreis_2012_-_Rudi_Cerne_%28cropped%29_-_Rudi_Cerne.jpg/330px-Deutscher_Fernsehpreis_2012_-_Rudi_Cerne_%28cropped%29_-_Rudi_Cerne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German television presenter and former figure skater",
-        "extract": "Rudi Cerne is a German TV presenter and former figure skater. He is the 1984 European silver medalist and a two-time West German national champion. He competed at two Winter Olympics, finishing fourth in 1984.",
-        "born": 1958,
+        "name": "Jillian Barberie",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/58/Jillian_sm.jpg/330px-Jillian_sm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian-born American television hostess, sportscaster, radio personality and actress",
+        "extract": "Jillian Marie Barberie is a Canadian television hostess, sportscaster, radio personality and actress. From 1995 to 2012, she was a co-host on the Los Angeles television morning news and entertainment program Good Day L.A. on Fox owned-and-operated station KTTV. From 2000 to 2005, she appeared on Fox Sports as the weather host for Fox NFL Sunday. From 2006 to 2013, she was known as Jillian Reynolds, from her second marriage.",
+        "born": 1966,
         "highlights": [
-          "German TV presenter and former figure skater.",
-          "1984 European silver medalist.",
-          "Two-time West German national champion."
+          "Co-host on Good Day L.A. (1995-2012).",
+          "Weather host for Fox NFL Sunday (2000-2005).",
+          "Canadian television hostess, sportscaster, radio personality, actress."
         ]
       }
     ]
