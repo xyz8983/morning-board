@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-25T21:58:04.311Z",
+  "generatedAt": "2026-09-26T16:53:14.318Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.2,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 21.7,
-    "lowC": 12.2,
-    "rainChance": 30
+    "tempC": 13.7,
+    "condition": "Rain",
+    "code": 63,
+    "highC": 14.5,
+    "lowC": 12.9,
+    "rainChance": 75
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Dow Jones",
-          "Stock Market"
+          "Kirk Herbstreit",
+          "College Football"
         ],
-        "summary": "Why it's buzzing: The Dow Jones Industrial Average is a key indicator of market performance, often discussed for economic trends."
+        "summary": "Kirk Herbstreit is buzzing due to his prominent role in college football commentary."
       },
       {
         "keywords": [
-          "Connor Nelson",
-          "Burglary"
+          "Luis Hernandez",
+          "Soccer Player"
         ],
-        "summary": "Why it's buzzing: News about Connor Nelson's apartment burglary in California is circulating, drawing local attention."
+        "summary": "Luis Hernandez is buzzing, possibly due to recent soccer news or career highlights."
       },
       {
         "keywords": [
-          "Cornell University",
-          "Education News"
+          "Orlando Traffic",
+          "Downtown Parking"
         ],
-        "summary": "Why it's buzzing: Cornell University is frequently in the news for academic achievements, research, or campus events."
+        "summary": "Orlando weekend downtown traffic and parking are buzzing due to event congestion."
       },
       {
         "keywords": [
-          "Life Surge",
-          "Event Series"
+          "Colorado State",
+          "Football Team"
         ],
-        "summary": "Why it's buzzing: Life Surge is a popular event series focusing on financial literacy and personal development."
+        "summary": "Colorado State football is buzzing, likely due to recent game performance or team news."
       }
     ]
   },
@@ -91,60 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24510.09,
-        "changePct": -1.3046979757671848
+        "changePct": -1.0137271769024738
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write my obituary. It came up with 'She scrolled tirelessly, but never found what she was looking for.'",
-      "explanation": "It's funny because it's a dark, self-aware comment on the endless, often fruitless scrolling inherent to modern digital life, delivered by AI."
+      "joke": "My phone's battery life is a metaphor for my social battery.",
+      "explanation": "It's a deadpan, relatable observation about how quickly both drain in modern life, especially after interaction."
     },
     "zh": {
-      "joke": "我宣布今天正式进入‘省钱模式’。具体操作是：把所有想买的东西加入购物车，然后，把APP卸载。"
+      "joke": "我最近在研究一个高深理论：人之所以爱拖延，不是因为懒，而是因为潜意识里觉得当下的自己还配不上成功。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Dee Dee Warwick",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/Dee_Dee_Warwick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American soul singer (1942–2008)",
-        "extract": "Delia Juanita Warrick, known professionally as Dee Dee Warwick, was an American soul singer. Born in East Orange, New Jersey, she was the sister of singer Dionne Warwick, the niece of Cissy Houston, and a first cousin of singers Whitney Houston and Leontyne Price.",
-        "born": 1942,
+        "name": "Abdulkadir Inan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8%2C%D0%98%D0%BD%D0%B0%D0%BD%2C%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD.png/330px-%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8%2C%D0%98%D0%BD%D0%B0%D0%BD%2C%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Turkish historian (1889–1976)",
+        "extract": "Abdülkadir İnan was a Turkish historian and folklorist of Bashkir background. He was the author of over 350 scientific articles.",
+        "born": 1889,
         "highlights": [
-          "American soul singer.",
-          "Sister of singer Dionne Warwick.",
-          "Niece of Cissy Houston."
+          "Turkish historian and folklorist.",
+          "Of Bashkir background.",
+          "Authored over 350 scientific articles."
         ]
       },
       {
-        "name": "Agostino Bassi",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Agostino_Bassi_by_G.C._Ainsworth.jpg/330px-Agostino_Bassi_by_G.C._Ainsworth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian entomologist (1773-1856)",
-        "extract": "Agostino Bassi, sometimes called de Lodi, was an Italian entomologist. He preceded Louis Pasteur in the discovery that microorganisms can be the cause of disease. He discovered that the muscardine disease of silkworms was caused by a living, very small, parasitic organism, a fungus that would be named eventually Beauveria bassiana in his honor. In 1844, he stated the idea that not only animal (insect), but also human diseases are caused by other living microorganisms; for example, measles, syphilis, and the plague.",
-        "born": 1773,
+        "name": "Vladimír Remek",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/VladimirRemek.jpg/330px-VladimirRemek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Czech cosmonaut and politician (born 1948)",
+        "extract": "Vladimír Remek is a Czech politician and diplomat, as well as a former cosmonaut and military pilot. He flew aboard Soyuz 28 from 2 to 10 March 1978, becoming the first and only Czechoslovak in space. As the first flight of the Soviet space program's Interkosmos, he was the first space traveller from a country other than the Soviet Union or the United States. The European Space Agency considers him the \"first European in space\". Remek is considered to be the first astronaut from the European Union. Remek was a member of the European Parliament between 2004 and 2013 for the Communist Party of Bohemia and Moravia. From 2014 to 2018, he was the Czech Ambassador to Russia.",
+        "born": 1948,
         "highlights": [
-          "Discovered microorganisms cause disease, preceding Pasteur.",
-          "Identified fungus causing muscardine disease in silkworms.",
-          "Fungus Beauveria bassiana named in his honor."
+          "First Czechoslovak in space aboard Soyuz 28.",
+          "First space traveller from outside US/Soviet Union.",
+          "Considered \"first European in space\" by ESA."
         ]
       },
       {
-        "name": "Ian Tyson",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ian_Tyson_%284396806840%29.jpg/330px-Ian_Tyson_%284396806840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian singer-songwriter (1933–2022)",
-        "extract": "Ian Dawson Tyson was a Canadian singer-songwriter who wrote many folk and cowboy songs, including \"Four Strong Winds\" and \"Someday Soon\", and performed with partner Sylvia Tyson as the duo Ian & Sylvia. as well as a solo act after the duo split up in 1975.",
-        "born": 1933,
+        "name": "Rudi Cerne",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Deutscher_Fernsehpreis_2012_-_Rudi_Cerne_%28cropped%29_-_Rudi_Cerne.jpg/330px-Deutscher_Fernsehpreis_2012_-_Rudi_Cerne_%28cropped%29_-_Rudi_Cerne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German television presenter and former figure skater",
+        "extract": "Rudi Cerne is a German TV presenter and former figure skater. He is the 1984 European silver medalist and a two-time West German national champion. He competed at two Winter Olympics, finishing fourth in 1984.",
+        "born": 1958,
         "highlights": [
-          "Canadian singer-songwriter.",
-          "Wrote ",
-          "Four Strong Winds",
-          " and ",
-          "Someday Soon",
-          ".",
-          "Performed as duo Ian & Sylvia."
+          "German TV presenter and former figure skater.",
+          "1984 European silver medalist.",
+          "Two-time West German national champion."
         ]
       }
     ]
