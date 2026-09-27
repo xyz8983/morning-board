@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-27T17:31:29.453Z",
+  "generatedAt": "2026-09-27T21:50:06.965Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17,
+    "tempC": 16.1,
     "condition": "Rain",
     "code": 63,
-    "highC": 17.7,
+    "highC": 17.4,
     "lowC": 14,
     "rainChance": 100
   },
@@ -14,31 +14,30 @@
     "topics": [
       {
         "keywords": [
-          "Devon Achane",
-          "NFL Rookie"
+          "Social Reckoning"
         ],
-        "summary": "Devon Achane is buzzing for his record-breaking performance as a rookie running back for the Dolphins."
+        "summary": "Social reckoning is buzzing as societies reflect on past injustices and demand systemic change."
       },
       {
         "keywords": [
-          "Liga MX",
-          "Football Match"
+          "JP Crawford",
+          "MLB"
         ],
-        "summary": "The Pumas vs. San Luis match is buzzing due to its significant impact on the Liga MX standings."
+        "summary": "JP Crawford is buzzing due to his recent strong performance in MLB, impacting team standings."
       },
       {
         "keywords": [
-          "Keaton Mitchell",
-          "Ravens RB"
+          "Travis Etienne",
+          "NFL"
         ],
-        "summary": "Keaton Mitchell is buzzing after his explosive debut as a running back for the Baltimore Ravens."
+        "summary": "Travis Etienne is buzzing for his impactful play in recent NFL games, boosting his team's offense."
       },
       {
         "keywords": [
-          "YouTube TV",
-          "Streaming Service"
+          "Furious",
+          "Fast Saga"
         ],
-        "summary": "YouTube TV is buzzing for its new features and growing subscriber base in the live TV streaming market."
+        "summary": "Furious is buzzing, likely referring to the latest developments or news surrounding the Fast & Furious movie saga."
       }
     ]
   },
@@ -97,50 +96,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My therapist suggested I disconnect from screens. My phone immediately notified me about a new 'digital detox' app.",
-      "explanation": "It's funny because it highlights the inescapable irony of modern tech; even solutions for screen addiction often come via screens."
+      "joke": "My smart fridge just sent a passive-aggressive notification about my late-night snack choices.",
+      "explanation": "This is funny because it gives a mundane appliance human-like, annoying behavior, highlighting the intrusive and often unnecessary 'intelligence' of modern tech."
     },
     "zh": {
-      "joke": "我最近开始健身了，效果特别明显。以前是肚子大，现在是肚子和大腿都大了一圈，非常均衡。"
+      "joke": "鉴于本人当前作息紊乱，睡眠不足，碳水化合物摄入超标，严重违背了健康生活的基本原则，特向我的新陈代谢致以最诚挚的歉意，并承诺下周一定争取改正。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Yoshiharu Habu",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%E7%BE%BD%E7%94%9F%E5%96%84%E6%B2%BB_2018%E5%B9%B4_%E7%AB%9C%E7%8E%8B%E5%B0%B1%E4%BD%8D%E5%BC%8F%E3%81%AB%E6%96%BC%E3%81%84%E3%81%A6_%28cropped%29.jpg/330px-%E7%BE%BD%E7%94%9F%E5%96%84%E6%B2%BB_2018%E5%B9%B4_%E7%AB%9C%E7%8E%8B%E5%B0%B1%E4%BD%8D%E5%BC%8F%E3%81%AB%E6%96%BC%E3%81%84%E3%81%A6_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese shogi and chess player (born 1970)",
-        "extract": "Yoshiharu Habu  is a professional shogi player and a chess FIDE Master. He is a former holder of the Ryūō, Meijin, Ōi, Ōza, Kiō, Ōshō and Kisei major titles. He was the first person to simultaneously hold seven major professional shogi titles at the same time and is the only person to qualify as a lifetime title holder for seven major titles. In January 2018, Habu became the first professional shogi player to be awarded Japan's People's Honour Award. Habu is also a former president of the Japan Shogi Association (JSA).",
-        "born": 1970,
+        "name": "Jim Shooter",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jim_Shooter_1982_%28cropped%29.jpg/330px-Jim_Shooter_1982_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American comic book writer (1951–2025)",
+        "extract": "James Charles Shooter was an American writer, editor and publisher in the comics industry. Beginning his career writing for DC Comics at the age of 14, he had a successful but controversial run as editor-in-chief at Marvel Comics, and launched comics publishers Valiant, Defiant, and Broadway.",
+        "born": 1951,
         "highlights": [
-          "First to simultaneously hold seven major shogi titles.",
-          "Only lifetime holder for seven major shogi titles.",
-          "Awarded Japan's People's Honour Award in 2018."
+          "Began writing for DC Comics at age 14.",
+          "Editor-in-chief at Marvel Comics.",
+          "Launched Valiant, Defiant, and Broadway comics publishers."
         ]
       },
       {
-        "name": "Lawrence Sullivan Ross",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Half_portrait_of_Lawrence_Sullivan_Ross.jpg/330px-Half_portrait_of_Lawrence_Sullivan_Ross.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Governor of Texas from 1887 to 1891",
-        "extract": "Lawrence Sullivan \"Sul\" Ross was the 19th governor of Texas, a Confederate States Army general during the American Civil War, and the fourth president of the Agricultural and Mechanical College of Texas, now called Texas A&M University.",
-        "born": 1838,
+        "name": "Paul Reichmann",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Paul_Reichmann.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Canadian businessman (1930–2013)",
+        "extract": "Paul Reichmann was a Canadian businessman and member of the Reichmann family. He is best known for his leadership of the Olympia & York real estate development company.",
+        "born": 1930,
         "highlights": [
-          "19th governor of Texas.",
-          "Confederate States Army general.",
-          "Fourth president of Texas A&M University."
+          "Led Olympia & York real estate development company.",
+          "Canadian businessman.",
+          "Member of the Reichmann family."
         ]
       },
       {
-        "name": "Charles H. Percy",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sen._Charles_Percy_%283x4%29.jpg/330px-Sen._Charles_Percy_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American businessman and U.S. senator (1919–2011)",
-        "extract": "Charles Harting \"Chuck\" Percy was an American businessman and politician. He was president of the Bell & Howell Corporation from 1949 to 1964, and served as a Republican U.S. senator from Illinois from 1967 until 1985, following a defeat to Paul Simon. He was mentioned as a Republican presidential hopeful from 1968 through 1988. During his Senate career, Percy concentrated on business and foreign relations.",
-        "born": 1919,
+        "name": "Henri-Frédéric Amiel",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Portrait_of_Henri-Fr%C3%A9d%C3%A9ric_Amiel.jpg/330px-Portrait_of_Henri-Fr%C3%A9d%C3%A9ric_Amiel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swiss philosopher and poet (1821–1881)",
+        "extract": "Henri Frédéric Amiel was a Swiss moral philosopher, poet, and critic.",
+        "born": 1821,
         "highlights": [
-          "President of Bell & Howell Corporation (1949-1964).",
-          "Republican U.S. senator from Illinois (1967-1985).",
-          "Mentioned as a Republican presidential hopeful."
+          "Swiss moral philosopher.",
+          "Poet.",
+          "Critic."
         ]
       }
     ]
