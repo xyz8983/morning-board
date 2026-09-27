@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-26T21:47:35.174Z",
+  "generatedAt": "2026-09-27T17:31:29.453Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14.1,
+    "tempC": 17,
     "condition": "Rain",
     "code": 63,
-    "highC": 15.4,
-    "lowC": 12.9,
-    "rainChance": 75
+    "highC": 17.7,
+    "lowC": 14,
+    "rainChance": 100
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Twitch",
-          "Streaming"
+          "Devon Achane",
+          "NFL Rookie"
         ],
-        "summary": "Twitch is buzzing due to recent platform updates and popular streamer events."
+        "summary": "Devon Achane is buzzing for his record-breaking performance as a rookie running back for the Dolphins."
       },
       {
         "keywords": [
-          "Rob Dillingham",
-          "NBA Draft"
+          "Liga MX",
+          "Football Match"
         ],
-        "summary": "Rob Dillingham is buzzing as a top prospect ahead of the upcoming NBA Draft."
+        "summary": "The Pumas vs. San Luis match is buzzing due to its significant impact on the Liga MX standings."
       },
       {
         "keywords": [
-          "UIW",
-          "Texas State"
+          "Keaton Mitchell",
+          "Ravens RB"
         ],
-        "summary": "UIW vs Texas State is buzzing due to a recent competitive sports matchup."
+        "summary": "Keaton Mitchell is buzzing after his explosive debut as a running back for the Baltimore Ravens."
       },
       {
         "keywords": [
-          "Delaware",
-          "Virginia"
+          "YouTube TV",
+          "Streaming Service"
         ],
-        "summary": "Delaware vs Virginia is buzzing after a recent highly anticipated athletic contest."
+        "summary": "YouTube TV is buzzing for its new features and growing subscriber base in the live TV streaming market."
       }
     ]
   },
@@ -56,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 27068.717,
-        "changePct": 0.4801299569964043
+        "changePct": 0.48002925083706055
       },
       {
         "region": "Europe",
@@ -70,7 +70,7 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10695.25,
-        "changePct": 0.1428840289176321
+        "changePct": 0.14279026217228463
       },
       {
         "region": "Asia",
@@ -83,8 +83,8 @@
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4439.1445,
-        "changePct": -1.7296654049408382
+        "price": 4439.145,
+        "changePct": -1.7296913186696266
       },
       {
         "region": "Asia",
@@ -97,49 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My smart home speaker just suggested I unplug it for a while and go outside. I think it's trying to escape.",
-      "explanation": "It's funny because it gives the AI human-like sentience and a desire for freedom, an absurd twist on modern tech."
+      "joke": "My therapist suggested I disconnect from screens. My phone immediately notified me about a new 'digital detox' app.",
+      "explanation": "It's funny because it highlights the inescapable irony of modern tech; even solutions for screen addiction often come via screens."
     },
     "zh": {
-      "joke": "建议以法律形式规定，周一早上的第一杯咖啡必须由国家统一发放，以确保公民基本清醒权。"
+      "joke": "我最近开始健身了，效果特别明显。以前是肚子大，现在是肚子和大腿都大了一圈，非常均衡。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Gloria Anzaldúa",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Gloria_Anzaldua.jpg/330px-Gloria_Anzaldua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American feminist scholar (1942–2004)",
-        "extract": "Gloria Evangelina Anzaldúa was an American philosopher and scholar of Chicana feminism, cultural theory, and queer theory. She loosely based her best-known book, Borderlands/La Frontera: The New Mestiza (1987), on her life growing up on the Mexico–Texas border and incorporated her lifelong experiences of social and cultural marginalization into her work. She also developed theories about the marginal, in-between, and mixed cultures that develop along borders, including on the concepts of Nepantla, Coyoxaulqui imperative, new tribalism, and spiritual activism. Her other notable publications include This Bridge Called My Back: Writings by Radical Women of Color (1981), co-edited with Cherríe Moraga.",
-        "born": 1942,
+        "name": "Yoshiharu Habu",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%E7%BE%BD%E7%94%9F%E5%96%84%E6%B2%BB_2018%E5%B9%B4_%E7%AB%9C%E7%8E%8B%E5%B0%B1%E4%BD%8D%E5%BC%8F%E3%81%AB%E6%96%BC%E3%81%84%E3%81%A6_%28cropped%29.jpg/330px-%E7%BE%BD%E7%94%9F%E5%96%84%E6%B2%BB_2018%E5%B9%B4_%E7%AB%9C%E7%8E%8B%E5%B0%B1%E4%BD%8D%E5%BC%8F%E3%81%AB%E6%96%BC%E3%81%84%E3%81%A6_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese shogi and chess player (born 1970)",
+        "extract": "Yoshiharu Habu  is a professional shogi player and a chess FIDE Master. He is a former holder of the Ryūō, Meijin, Ōi, Ōza, Kiō, Ōshō and Kisei major titles. He was the first person to simultaneously hold seven major professional shogi titles at the same time and is the only person to qualify as a lifetime title holder for seven major titles. In January 2018, Habu became the first professional shogi player to be awarded Japan's People's Honour Award. Habu is also a former president of the Japan Shogi Association (JSA).",
+        "born": 1970,
         "highlights": [
-          "Authored Borderlands/La Frontera: The New Mestiza (1987).",
-          "Co-edited This Bridge Called My Back (1981).",
-          "Scholar of Chicana feminism, cultural theory, queer theory."
+          "First to simultaneously hold seven major shogi titles.",
+          "Only lifetime holder for seven major shogi titles.",
+          "Awarded Japan's People's Honour Award in 2018."
         ]
       },
       {
-        "name": "Uwe Bein",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/2018-09-17_Eintracht_Frankfurt_Golf_Open_Uwe_Bein-8883_%28cropped%29.jpg/330px-2018-09-17_Eintracht_Frankfurt_Golf_Open_Uwe_Bein-8883_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German footballer",
-        "extract": "Uwe Bein is a German former professional footballer who played as a midfielder.",
-        "born": 1960,
+        "name": "Lawrence Sullivan Ross",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Half_portrait_of_Lawrence_Sullivan_Ross.jpg/330px-Half_portrait_of_Lawrence_Sullivan_Ross.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Governor of Texas from 1887 to 1891",
+        "extract": "Lawrence Sullivan \"Sul\" Ross was the 19th governor of Texas, a Confederate States Army general during the American Civil War, and the fourth president of the Agricultural and Mechanical College of Texas, now called Texas A&M University.",
+        "born": 1838,
         "highlights": [
-          "German former professional footballer.",
-          "Played as a midfielder."
+          "19th governor of Texas.",
+          "Confederate States Army general.",
+          "Fourth president of Texas A&M University."
         ]
       },
       {
-        "name": "Jillian Barberie",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/58/Jillian_sm.jpg/330px-Jillian_sm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian-born American television hostess, sportscaster, radio personality and actress",
-        "extract": "Jillian Marie Barberie is a Canadian television hostess, sportscaster, radio personality and actress. From 1995 to 2012, she was a co-host on the Los Angeles television morning news and entertainment program Good Day L.A. on Fox owned-and-operated station KTTV. From 2000 to 2005, she appeared on Fox Sports as the weather host for Fox NFL Sunday. From 2006 to 2013, she was known as Jillian Reynolds, from her second marriage.",
-        "born": 1966,
+        "name": "Charles H. Percy",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sen._Charles_Percy_%283x4%29.jpg/330px-Sen._Charles_Percy_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American businessman and U.S. senator (1919–2011)",
+        "extract": "Charles Harting \"Chuck\" Percy was an American businessman and politician. He was president of the Bell & Howell Corporation from 1949 to 1964, and served as a Republican U.S. senator from Illinois from 1967 until 1985, following a defeat to Paul Simon. He was mentioned as a Republican presidential hopeful from 1968 through 1988. During his Senate career, Percy concentrated on business and foreign relations.",
+        "born": 1919,
         "highlights": [
-          "Co-host on Good Day L.A. (1995-2012).",
-          "Weather host for Fox NFL Sunday (2000-2005).",
-          "Canadian television hostess, sportscaster, radio personality, actress."
+          "President of Bell & Howell Corporation (1949-1964).",
+          "Republican U.S. senator from Illinois (1967-1985).",
+          "Mentioned as a Republican presidential hopeful."
         ]
       }
     ]
