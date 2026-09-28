@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-28T20:00:09.897Z",
+  "generatedAt": "2026-09-28T23:40:12.856Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.4,
+    "tempC": 15.6,
     "condition": "Light rain",
     "code": 61,
-    "highC": 16.3,
-    "lowC": 13.5,
+    "highC": 16.6,
+    "lowC": 14.1,
     "rainChance": 84
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Lieutenant Stitchie",
-          "Viral Trend"
+          "Eagles Game",
+          "NFL Today"
         ],
-        "summary": "Lieutenant Stitchie is buzzing as a new viral character captivating online audiences."
+        "summary": "Fans are buzzing about the Eagles' highly anticipated game today, a key matchup for their season."
       },
       {
         "keywords": [
-          "Data Centers",
-          "Tech Growth"
+          "John Waldron",
+          "Goldman Sachs"
         ],
-        "summary": "Data centers are buzzing due to rapid expansion and increased demand for digital infrastructure."
+        "summary": "John Waldron is buzzing as Goldman Sachs' President, often in financial news headlines."
       },
       {
         "keywords": [
-          "Warren County KY",
-          "Local Buzz"
+          "El Salvador",
+          "Guatemala Soccer"
         ],
-        "summary": "Warren County, KY is buzzing due to recent local developments or community discussions."
+        "summary": "The football match between El Salvador and Guatemala is creating significant regional excitement."
       },
       {
         "keywords": [
-          "France",
-          "Global Interest"
+          "Dollar Peso",
+          "Exchange Rate"
         ],
-        "summary": "France is buzzing due to significant political events or cultural discussions."
+        "summary": "The dollar to peso exchange rate is buzzing due to recent economic fluctuations."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7684.47,
-        "changePct": -0.7611633634277354
+        "price": 7683.69,
+        "changePct": -0.7712364449254302
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26823.287,
-        "changePct": -0.9066924006778758
+        "price": 26820.38,
+        "changePct": -0.9174317349433279
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone's battery life is a perfect metaphor for my attention span during online meetings.",
-      "explanation": "This is funny because it's a sarcastic, relatable observation about how quickly both phone batteries and attention spans drain during endless virtual calls."
+      "joke": "My therapist told me to live in the moment. So I'm currently doomscrolling on my phone, very much in this moment.",
+      "explanation": "It twists a self-help phrase into a justification for a modern, unproductive habit, using post-irony for relatable, bleak humor."
     },
     "zh": {
-      "joke": "鉴于今日工作量与薪资水平的严重不匹配，我决定启动“精神离职”紧急预案。"
+      "joke": "我宣布，从今天开始，我的主要工作内容是：在无限接近截止日期的边缘反复试探，并最终以爆发式效率完成任务。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sean Levert",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Sean_Levert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American R&B singer (1968–2008)",
-        "extract": "Sean Edward Levert was an American singer-songwriter and actor. Levert was best known as a member of the R&B vocal group LeVert. Levert was the son of O'Jays lead singer Eddie Levert and younger brother of singer Gerald Levert.",
-        "born": 1968,
+        "name": "Jason Jordan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Jason_Jordan_Dec_2017.jpg/330px-Jason_Jordan_Dec_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American professional wrestler (born 1988)",
+        "extract": "Nathan Everhart is an American retired professional wrestler. He is signed to WWE, where he works as the lead producer for Raw and SmackDown. He is best known for performing with WWE under the ring name Jason Jordan from 2011 to 2018.",
+        "born": 1988,
         "highlights": [
-          "American singer-songwriter and actor.",
-          "Member of the R&B vocal group LeVert.",
-          "Son of O'Jays lead singer Eddie Levert."
+          "Retired professional wrestler.",
+          "Lead producer for WWE's Raw and SmackDown.",
+          "Performed as Jason Jordan in WWE (2011-2018)."
         ]
       },
       {
-        "name": "Mika Häkkinen",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mika_H%C3%A4kkinen_Champions_for_Charity_2016-07-27.jpg/330px-Mika_H%C3%A4kkinen_Champions_for_Charity_2016-07-27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Finnish racing driver (born 1968)",
-        "extract": "Mika Pauli Häkkinen is a Finnish former racing driver who competed in Formula One from 1991 to 2001. Nicknamed \"the Flying Finn\", Häkkinen won two Formula One World Drivers' Championship titles, which he won in 1998 and 1999 with McLaren, and won 20 Grands Prix across 11 seasons.",
-        "born": 1968,
+        "name": "Ryan Zimmerman",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Ryan_Zimmerman_rounds_2nd_base_from_Nationals_vs._Braves_at_Nationals_Park%2C_April_6th%2C_2021_%28All-Pro_Reels_Photography%29_%2851101644944%29_%28cropped%29.png/330px-Ryan_Zimmerman_rounds_2nd_base_from_Nationals_vs._Braves_at_Nationals_Park%2C_April_6th%2C_2021_%28All-Pro_Reels_Photography%29_%2851101644944%29_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball player (born 1984)",
+        "extract": "Ryan Wallace Zimmerman is an American former professional baseball infielder who spent his entire 17-year Major League Baseball (MLB) career with the Washington Nationals. Zimmerman was primarily a third baseman before moving to first base in 2015. He was twice selected as an MLB All-Star, won one Gold Glove and two Silver Slugger awards, and was member of the Nationals team that won the 2019 World Series.",
+        "born": 1984,
         "highlights": [
-          "Finnish former racing driver in Formula One.",
-          "Won two Formula One World Drivers' Championship titles.",
-          "Won 20 Grands Prix with McLaren."
+          "Played entire 17-year MLB career with Washington Nationals.",
+          "Two-time MLB All-Star, Gold Glove, two Silver Slugger awards.",
+          "Won 2019 World Series with the Nationals."
         ]
       },
       {
-        "name": "Ismaël Bullialdus",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Isma%C3%ABl_Boulliau.jpeg/330px-Isma%C3%ABl_Boulliau.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French astronomer (1605–1694)",
-        "extract": "Ismaël Boulliau was a 17th-century French astronomer, mathematician, and Catholic priest, who was also interested in history, theology, classical studies, and philology. He was an active member of the Republic of Letters, an intellectual community that exchanged ideas. An early defender of the ideas of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei, Ismael Bullialdus has been called \"the most noted astronomer of his generation\" whose renown is perhaps best exemplified by the claim of 1979 Nobel laureate in Physics Steven Weinberg that in 1640 Bullialdus made \"the first suggestion of an inverse-square law.\" One of his books is Astronomia Philolaica (1645).",
-        "born": 1605,
+        "name": "Francois Botha",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Parker_v_Botha.jpg/330px-Parker_v_Botha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "South African boxer",
+        "extract": "Francois \"Frans\" Botha is a South African former professional boxer and kickboxer. He competed in boxing from 1990 to 2014, and is perhaps best known for winning the IBF heavyweight title against Axel Schulz in 1995, but this was later stripped after he failed a drug test. He challenged twice for world heavyweight titles in 2000 and 2002. Botha has competed against former Heavyweight Champions Mike Tyson, Lennox Lewis, Michael Moorer and Evander Holyfield late in their respective careers. Botha competed once in mixed martial arts in 2004.",
+        "born": 1968,
         "highlights": [
-          "17th-century French astronomer, mathematician, and Catholic priest.",
-          "Early defender of Copernicus, Kepler, and Galileo's ideas.",
-          "Made 'first suggestion of an inverse-square law' in 1640."
+          "South African former professional boxer and kickboxer.",
+          "Won IBF heavyweight title in 1995.",
+          "Fought Mike Tyson, Lennox Lewis, and Evander Holyfield."
         ]
       }
     ]
