@@ -1,43 +1,44 @@
 {
-  "generatedAt": "2026-09-27T21:50:06.965Z",
+  "generatedAt": "2026-09-28T20:00:09.897Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.1,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 17.4,
-    "lowC": 14,
-    "rainChance": 100
+    "tempC": 16.4,
+    "condition": "Light rain",
+    "code": 61,
+    "highC": 16.3,
+    "lowC": 13.5,
+    "rainChance": 84
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Social Reckoning"
+          "Lieutenant Stitchie",
+          "Viral Trend"
         ],
-        "summary": "Social reckoning is buzzing as societies reflect on past injustices and demand systemic change."
+        "summary": "Lieutenant Stitchie is buzzing as a new viral character captivating online audiences."
       },
       {
         "keywords": [
-          "JP Crawford",
-          "MLB"
+          "Data Centers",
+          "Tech Growth"
         ],
-        "summary": "JP Crawford is buzzing due to his recent strong performance in MLB, impacting team standings."
+        "summary": "Data centers are buzzing due to rapid expansion and increased demand for digital infrastructure."
       },
       {
         "keywords": [
-          "Travis Etienne",
-          "NFL"
+          "Warren County KY",
+          "Local Buzz"
         ],
-        "summary": "Travis Etienne is buzzing for his impactful play in recent NFL games, boosting his team's offense."
+        "summary": "Warren County, KY is buzzing due to recent local developments or community discussions."
       },
       {
         "keywords": [
-          "Furious",
-          "Fast Saga"
+          "France",
+          "Global Interest"
         ],
-        "summary": "Furious is buzzing, likely referring to the latest developments or news surrounding the Fast & Furious movie saga."
+        "summary": "France is buzzing due to significant political events or cultural discussions."
       }
     ]
   },
@@ -47,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7743.41,
-        "changePct": 0.5098564016962298
+        "price": 7684.47,
+        "changePct": -0.7611633634277354
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27068.717,
-        "changePct": 0.48002925083706055
+        "price": 26823.287,
+        "changePct": -0.9066924006778758
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6302.82,
-        "changePct": 0.4833798326026259
+        "price": 6301.28,
+        "changePct": -0.024433507541068343
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10695.25,
-        "changePct": 0.14279026217228463
+        "price": 10684.88,
+        "changePct": -0.09695893036629158
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3888.374,
-        "changePct": -1.2230599615904452
+        "price": 3823.6206,
+        "changePct": -1.6653028574567512
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4439.145,
-        "changePct": -1.7296913186696266
+        "price": 4340.755,
+        "changePct": -2.2164067873888813
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24510.09,
-        "changePct": -1.0137271769024738
+        "price": 24642.51,
+        "changePct": 0.5402672940001373
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My smart fridge just sent a passive-aggressive notification about my late-night snack choices.",
-      "explanation": "This is funny because it gives a mundane appliance human-like, annoying behavior, highlighting the intrusive and often unnecessary 'intelligence' of modern tech."
+      "joke": "My phone's battery life is a perfect metaphor for my attention span during online meetings.",
+      "explanation": "This is funny because it's a sarcastic, relatable observation about how quickly both phone batteries and attention spans drain during endless virtual calls."
     },
     "zh": {
-      "joke": "鉴于本人当前作息紊乱，睡眠不足，碳水化合物摄入超标，严重违背了健康生活的基本原则，特向我的新陈代谢致以最诚挚的歉意，并承诺下周一定争取改正。"
+      "joke": "鉴于今日工作量与薪资水平的严重不匹配，我决定启动“精神离职”紧急预案。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jim Shooter",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jim_Shooter_1982_%28cropped%29.jpg/330px-Jim_Shooter_1982_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American comic book writer (1951–2025)",
-        "extract": "James Charles Shooter was an American writer, editor and publisher in the comics industry. Beginning his career writing for DC Comics at the age of 14, he had a successful but controversial run as editor-in-chief at Marvel Comics, and launched comics publishers Valiant, Defiant, and Broadway.",
-        "born": 1951,
+        "name": "Sean Levert",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Sean_Levert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American R&B singer (1968–2008)",
+        "extract": "Sean Edward Levert was an American singer-songwriter and actor. Levert was best known as a member of the R&B vocal group LeVert. Levert was the son of O'Jays lead singer Eddie Levert and younger brother of singer Gerald Levert.",
+        "born": 1968,
         "highlights": [
-          "Began writing for DC Comics at age 14.",
-          "Editor-in-chief at Marvel Comics.",
-          "Launched Valiant, Defiant, and Broadway comics publishers."
+          "American singer-songwriter and actor.",
+          "Member of the R&B vocal group LeVert.",
+          "Son of O'Jays lead singer Eddie Levert."
         ]
       },
       {
-        "name": "Paul Reichmann",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Paul_Reichmann.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Canadian businessman (1930–2013)",
-        "extract": "Paul Reichmann was a Canadian businessman and member of the Reichmann family. He is best known for his leadership of the Olympia & York real estate development company.",
-        "born": 1930,
+        "name": "Mika Häkkinen",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mika_H%C3%A4kkinen_Champions_for_Charity_2016-07-27.jpg/330px-Mika_H%C3%A4kkinen_Champions_for_Charity_2016-07-27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Finnish racing driver (born 1968)",
+        "extract": "Mika Pauli Häkkinen is a Finnish former racing driver who competed in Formula One from 1991 to 2001. Nicknamed \"the Flying Finn\", Häkkinen won two Formula One World Drivers' Championship titles, which he won in 1998 and 1999 with McLaren, and won 20 Grands Prix across 11 seasons.",
+        "born": 1968,
         "highlights": [
-          "Led Olympia & York real estate development company.",
-          "Canadian businessman.",
-          "Member of the Reichmann family."
+          "Finnish former racing driver in Formula One.",
+          "Won two Formula One World Drivers' Championship titles.",
+          "Won 20 Grands Prix with McLaren."
         ]
       },
       {
-        "name": "Henri-Frédéric Amiel",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Portrait_of_Henri-Fr%C3%A9d%C3%A9ric_Amiel.jpg/330px-Portrait_of_Henri-Fr%C3%A9d%C3%A9ric_Amiel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swiss philosopher and poet (1821–1881)",
-        "extract": "Henri Frédéric Amiel was a Swiss moral philosopher, poet, and critic.",
-        "born": 1821,
+        "name": "Ismaël Bullialdus",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Isma%C3%ABl_Boulliau.jpeg/330px-Isma%C3%ABl_Boulliau.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French astronomer (1605–1694)",
+        "extract": "Ismaël Boulliau was a 17th-century French astronomer, mathematician, and Catholic priest, who was also interested in history, theology, classical studies, and philology. He was an active member of the Republic of Letters, an intellectual community that exchanged ideas. An early defender of the ideas of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei, Ismael Bullialdus has been called \"the most noted astronomer of his generation\" whose renown is perhaps best exemplified by the claim of 1979 Nobel laureate in Physics Steven Weinberg that in 1640 Bullialdus made \"the first suggestion of an inverse-square law.\" One of his books is Astronomia Philolaica (1645).",
+        "born": 1605,
         "highlights": [
-          "Swiss moral philosopher.",
-          "Poet.",
-          "Critic."
+          "17th-century French astronomer, mathematician, and Catholic priest.",
+          "Early defender of Copernicus, Kepler, and Galileo's ideas.",
+          "Made 'first suggestion of an inverse-square law' in 1640."
         ]
       }
     ]
