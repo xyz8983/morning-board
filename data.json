@@ -1,44 +1,46 @@
 {
-  "generatedAt": "2026-09-28T23:40:12.856Z",
+  "generatedAt": "2026-09-29T18:28:02.341Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.6,
-    "condition": "Light rain",
-    "code": 61,
-    "highC": 16.6,
-    "lowC": 14.1,
-    "rainChance": 84
+    "tempC": 20.2,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 20.7,
+    "lowC": 14.8,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Eagles Game",
-          "NFL Today"
+          "MLB",
+          "Baseball"
         ],
-        "summary": "Fans are buzzing about the Eagles' highly anticipated game today, a key matchup for their season."
+        "summary": "MLB is buzzing due to ongoing season games and recent trade deadline rumors."
       },
       {
         "keywords": [
-          "John Waldron",
-          "Goldman Sachs"
+          "GPT 6.1",
+          "AI Model"
         ],
-        "summary": "John Waldron is buzzing as Goldman Sachs' President, often in financial news headlines."
+        "summary": "GPT 6.1 Sol is buzzing as a new advanced AI model with enhanced capabilities."
       },
       {
         "keywords": [
-          "El Salvador",
-          "Guatemala Soccer"
+          "Czechia",
+          "England",
+          "Football"
         ],
-        "summary": "The football match between El Salvador and Guatemala is creating significant regional excitement."
+        "summary": "Czechia vs England is buzzing due to a highly anticipated football match."
       },
       {
         "keywords": [
-          "Dollar Peso",
-          "Exchange Rate"
+          "España",
+          "Croacia",
+          "Football"
         ],
-        "summary": "The dollar to peso exchange rate is buzzing due to recent economic fluctuations."
+        "summary": "España vs Croacia is buzzing due to a significant international football fixture."
       }
     ]
   },
@@ -48,99 +50,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7683.69,
-        "changePct": -0.7712364449254302
+        "price": 7669.26,
+        "changePct": -0.18780039278002342
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26820.38,
-        "changePct": -0.9174317349433279
+        "price": 26792.52,
+        "changePct": -0.1038762314329647
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6301.28,
-        "changePct": -0.024433507541068343
+        "price": 6320.26,
+        "changePct": 0.3012086433232688
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10684.88,
-        "changePct": -0.09695893036629158
+        "price": 10636.71,
+        "changePct": -0.45082396807451347
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3823.6206,
-        "changePct": -1.6653028574567512
+        "price": 3830.451,
+        "changePct": -1.489544462075365
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4340.755,
-        "changePct": -2.2164067873888813
+        "price": 4345.209,
+        "changePct": 0.10260887794864543
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24642.51,
-        "changePct": 0.5402672940001373
+        "price": 24523.57,
+        "changePct": 0.05495693612021642
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My therapist told me to live in the moment. So I'm currently doomscrolling on my phone, very much in this moment.",
-      "explanation": "It twists a self-help phrase into a justification for a modern, unproductive habit, using post-irony for relatable, bleak humor."
+      "joke": "My phone battery percentage is the only thing in my life that accurately reflects my current energy levels.",
+      "explanation": "It's relatable. Phone batteries drain quickly, mirroring the common feeling of exhaustion in modern life with deadpan irony."
     },
     "zh": {
-      "joke": "我宣布，从今天开始，我的主要工作内容是：在无限接近截止日期的边缘反复试探，并最终以爆发式效率完成任务。"
+      "joke": "下班前：今天一定要早睡！下班后：这条朋友圈不点赞真的会错过一个亿。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jason Jordan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Jason_Jordan_Dec_2017.jpg/330px-Jason_Jordan_Dec_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American professional wrestler (born 1988)",
-        "extract": "Nathan Everhart is an American retired professional wrestler. He is signed to WWE, where he works as the lead producer for Raw and SmackDown. He is best known for performing with WWE under the ring name Jason Jordan from 2011 to 2018.",
-        "born": 1988,
+        "name": "Ryan Garry",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ryan_Garry_1.png/330px-Ryan_Garry_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English footballer (born 1983)",
+        "extract": "Ryan Mayne Felix Garry is an English professional football coach and a former defender who is currently a first team coach for EFL Championship club Norwich City. During his playing career he featured for Arsenal and AFC Bournemouth.",
+        "born": 1983,
         "highlights": [
-          "Retired professional wrestler.",
-          "Lead producer for WWE's Raw and SmackDown.",
-          "Performed as Jason Jordan in WWE (2011-2018)."
+          "Professional football coach for Norwich City.",
+          "Former defender for Arsenal.",
+          "Also played for AFC Bournemouth."
         ]
       },
       {
-        "name": "Ryan Zimmerman",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Ryan_Zimmerman_rounds_2nd_base_from_Nationals_vs._Braves_at_Nationals_Park%2C_April_6th%2C_2021_%28All-Pro_Reels_Photography%29_%2851101644944%29_%28cropped%29.png/330px-Ryan_Zimmerman_rounds_2nd_base_from_Nationals_vs._Braves_at_Nationals_Park%2C_April_6th%2C_2021_%28All-Pro_Reels_Photography%29_%2851101644944%29_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player (born 1984)",
-        "extract": "Ryan Wallace Zimmerman is an American former professional baseball infielder who spent his entire 17-year Major League Baseball (MLB) career with the Washington Nationals. Zimmerman was primarily a third baseman before moving to first base in 2015. He was twice selected as an MLB All-Star, won one Gold Glove and two Silver Slugger awards, and was member of the Nationals team that won the 2019 World Series.",
-        "born": 1984,
+        "name": "Edward Pulsford",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Edward_Pulsford_-_Swiss_Studios_%28cropped%29.jpg/330px-Edward_Pulsford_-_Swiss_Studios_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian politician (1844–1919)",
+        "extract": "Edward Pulsford was an English-born Australian politician and free-trade campaigner.",
+        "born": 1844,
         "highlights": [
-          "Played entire 17-year MLB career with Washington Nationals.",
-          "Two-time MLB All-Star, Gold Glove, two Silver Slugger awards.",
-          "Won 2019 World Series with the Nationals."
+          "English-born Australian politician.",
+          "Prominent free-trade campaigner."
         ]
       },
       {
-        "name": "Francois Botha",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Parker_v_Botha.jpg/330px-Parker_v_Botha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South African boxer",
-        "extract": "Francois \"Frans\" Botha is a South African former professional boxer and kickboxer. He competed in boxing from 1990 to 2014, and is perhaps best known for winning the IBF heavyweight title against Axel Schulz in 1995, but this was later stripped after he failed a drug test. He challenged twice for world heavyweight titles in 2000 and 2002. Botha has competed against former Heavyweight Champions Mike Tyson, Lennox Lewis, Michael Moorer and Evander Holyfield late in their respective careers. Botha competed once in mixed martial arts in 2004.",
-        "born": 1968,
+        "name": "Miguel Miramón",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%28Padova%29_Ritratto_del_generale_don_Miguel_de_Miramon%2C_1867_-_T.Sanchez_-_Museo_Bottacin%2C_in_Palazzo_Zuckermann.jpg/330px-%28Padova%29_Ritratto_del_generale_don_Miguel_de_Miramon%2C_1867_-_T.Sanchez_-_Museo_Bottacin%2C_in_Palazzo_Zuckermann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "President of Mexico from 1859 to 1860",
+        "extract": "Miguel Gregorio de la Luz Atenógenes Miramón y Tarelo, known as Miguel Miramón, was a Mexican conservative general who disputed the Mexican presidency with Benito Juárez at the age of 27 during the Reform War, serving between February 1859 and December 1860. He was the first Mexican president to be born after the Mexican War of Independence.",
+        "born": 1832,
         "highlights": [
-          "South African former professional boxer and kickboxer.",
-          "Won IBF heavyweight title in 1995.",
-          "Fought Mike Tyson, Lennox Lewis, and Evander Holyfield."
+          "Mexican conservative general.",
+          "Disputed Mexican presidency with Benito Juárez.",
+          "First Mexican president born after independence."
         ]
       }
     ]
