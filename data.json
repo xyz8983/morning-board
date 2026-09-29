@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-29T18:28:02.341Z",
+  "generatedAt": "2026-09-29T22:49:35.632Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.2,
+    "tempC": 17.1,
     "condition": "Overcast",
     "code": 3,
-    "highC": 20.7,
-    "lowC": 14.8,
+    "highC": 20.9,
+    "lowC": 14.3,
     "rainChance": 1
   },
   "hotTopics": {
@@ -14,33 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "MLB",
-          "Baseball"
+          "NHL",
+          "Rivalry"
         ],
-        "summary": "MLB is buzzing due to ongoing season games and recent trade deadline rumors."
+        "summary": "The classic NHL rivalry between Canadiens and Maple Leafs is buzzing with recent game anticipation."
       },
       {
         "keywords": [
-          "GPT 6.1",
-          "AI Model"
+          "NFL",
+          "Wide Receiver"
         ],
-        "summary": "GPT 6.1 Sol is buzzing as a new advanced AI model with enhanced capabilities."
+        "summary": "Dante Pettis is buzzing as fans discuss his potential impact in upcoming NFL season."
       },
       {
         "keywords": [
-          "Czechia",
-          "England",
-          "Football"
+          "Aaron Judge",
+          "MLB"
         ],
-        "summary": "Czechia vs England is buzzing due to a highly anticipated football match."
+        "summary": "Aaron Judge is buzzing as fans follow his impressive performance and home run chase."
       },
       {
         "keywords": [
-          "España",
-          "Croacia",
-          "Football"
+          "Otto Sirgo",
+          "Actor"
         ],
-        "summary": "España vs Croacia is buzzing due to a significant international football fixture."
+        "summary": "Otto Sirgo is buzzing as fans celebrate his long career and recent appearances."
       }
     ]
   },
@@ -50,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7669.26,
-        "changePct": -0.18780039278002342
+        "price": 7670.84,
+        "changePct": -0.16723735600993084
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26792.52,
-        "changePct": -0.1038762314329647
+        "price": 26797.541,
+        "changePct": -0.08515539302575109
       },
       {
         "region": "Europe",
@@ -99,49 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone battery percentage is the only thing in my life that accurately reflects my current energy levels.",
-      "explanation": "It's relatable. Phone batteries drain quickly, mirroring the common feeling of exhaustion in modern life with deadpan irony."
+      "joke": "My favorite sport is tracking my food delivery driver like they're carrying the nuclear launch codes.",
+      "explanation": "This joke highlights the common, slightly obsessive modern habit of intensely monitoring food delivery, playfully equating it to a critical, high-stakes mission."
     },
     "zh": {
-      "joke": "下班前：今天一定要早睡！下班后：这条朋友圈不点赞真的会错过一个亿。"
+      "joke": "现在手机里那些提醒你运动、喝水、早睡的App，就像是你妈请来的数字管家，只不过它们只负责提醒，不负责帮你达成。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Ryan Garry",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ryan_Garry_1.png/330px-Ryan_Garry_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English footballer (born 1983)",
-        "extract": "Ryan Mayne Felix Garry is an English professional football coach and a former defender who is currently a first team coach for EFL Championship club Norwich City. During his playing career he featured for Arsenal and AFC Bournemouth.",
-        "born": 1983,
+        "name": "John Paxson",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/John_Paxson_in_2009.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American basketball player (born 1960)",
+        "extract": "John MacBeth Paxson is an American basketball administrator and former player who was vice president of basketball operations for the Chicago Bulls of the National Basketball Association (NBA) from 2009 to 2020. He was their general manager from 2003 to 2009. Paxson played eleven NBA seasons for the San Antonio Spurs and Chicago Bulls, winning three championships as a member of the Bulls. He was an All-American college player at the University of Notre Dame.",
+        "born": 1960,
         "highlights": [
-          "Professional football coach for Norwich City.",
-          "Former defender for Arsenal.",
-          "Also played for AFC Bournemouth."
+          "Vice president of basketball operations for Chicago Bulls.",
+          "General manager for the Chicago Bulls.",
+          "Won three NBA championships with the Chicago Bulls."
         ]
       },
       {
-        "name": "Edward Pulsford",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Edward_Pulsford_-_Swiss_Studios_%28cropped%29.jpg/330px-Edward_Pulsford_-_Swiss_Studios_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian politician (1844–1919)",
-        "extract": "Edward Pulsford was an English-born Australian politician and free-trade campaigner.",
-        "born": 1844,
+        "name": "Henry Bennett (American politician)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Henry_Bennett_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American politician",
+        "extract": "Henry Bennett was an American lawyer and politician who served five terms as a United States representative from New York from 1849 to 1859.",
+        "born": 1808,
         "highlights": [
-          "English-born Australian politician.",
-          "Prominent free-trade campaigner."
+          "American lawyer.",
+          "Served five terms as U.S. Representative.",
+          "Represented New York in Congress (1849-1859)."
         ]
       },
       {
-        "name": "Miguel Miramón",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%28Padova%29_Ritratto_del_generale_don_Miguel_de_Miramon%2C_1867_-_T.Sanchez_-_Museo_Bottacin%2C_in_Palazzo_Zuckermann.jpg/330px-%28Padova%29_Ritratto_del_generale_don_Miguel_de_Miramon%2C_1867_-_T.Sanchez_-_Museo_Bottacin%2C_in_Palazzo_Zuckermann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "President of Mexico from 1859 to 1860",
-        "extract": "Miguel Gregorio de la Luz Atenógenes Miramón y Tarelo, known as Miguel Miramón, was a Mexican conservative general who disputed the Mexican presidency with Benito Juárez at the age of 27 during the Reform War, serving between February 1859 and December 1860. He was the first Mexican president to be born after the Mexican War of Independence.",
-        "born": 1832,
+        "name": "Isla Blair",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Taste_The_Blood_of_Dracula_%281970%29_trailer_-_Isla_Blair.png/330px-Taste_The_Blood_of_Dracula_%281970%29_trailer_-_Isla_Blair.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British actress (born 1944)",
+        "extract": "Isla Blair Glover is a British actress and singer. She made her first stage appearance in 1963 as Philia in the London debut of A Funny Thing Happened on the Way to the Forum.",
+        "born": 1944,
         "highlights": [
-          "Mexican conservative general.",
-          "Disputed Mexican presidency with Benito Juárez.",
-          "First Mexican president born after independence."
+          "British actress and singer.",
+          "First stage appearance as Philia in 1963.",
+          "Performed in London debut of A Funny Thing Happened."
         ]
       }
     ]
