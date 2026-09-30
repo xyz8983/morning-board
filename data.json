@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-29T22:49:35.632Z",
+  "generatedAt": "2026-09-30T18:17:18.959Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.1,
+    "tempC": 21.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 20.9,
-    "lowC": 14.3,
+    "highC": 22.1,
+    "lowC": 15.9,
     "rainChance": 1
   },
   "hotTopics": {
@@ -14,31 +14,29 @@
     "topics": [
       {
         "keywords": [
-          "NHL",
-          "Rivalry"
+          "Phillies",
+          "Braves"
         ],
-        "summary": "The classic NHL rivalry between Canadiens and Maple Leafs is buzzing with recent game anticipation."
+        "summary": "The Phillies and Braves rivalry is buzzing due to their intense playoff series."
       },
       {
         "keywords": [
-          "NFL",
-          "Wide Receiver"
+          "Sophia Bush"
         ],
-        "summary": "Dante Pettis is buzzing as fans discuss his potential impact in upcoming NFL season."
+        "summary": "Sophia Bush is buzzing as fans discuss her recent career developments."
       },
       {
         "keywords": [
-          "Aaron Judge",
-          "MLB"
+          "PlayStation Plus",
+          "Free Games"
         ],
-        "summary": "Aaron Judge is buzzing as fans follow his impressive performance and home run chase."
+        "summary": "PlayStation Plus free games for October 2026 are buzzing as gamers anticipate new titles."
       },
       {
         "keywords": [
-          "Otto Sirgo",
-          "Actor"
+          "Ken Paxton"
         ],
-        "summary": "Otto Sirgo is buzzing as fans celebrate his long career and recent appearances."
+        "summary": "Ken Paxton is buzzing due to ongoing legal and political developments in Texas."
       }
     ]
   },
@@ -48,99 +46,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7670.84,
-        "changePct": -0.16723735600993084
+        "price": 7701.62,
+        "changePct": 0.40125983595016634
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26797.541,
-        "changePct": -0.08515539302575109
+        "price": 27049.713,
+        "changePct": 0.9410266412130824
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6320.26,
-        "changePct": 0.3012086433232688
+        "price": 6269.02,
+        "changePct": -0.8107261410131827
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10636.71,
-        "changePct": -0.45082396807451347
+        "price": 10606,
+        "changePct": -0.28871709391342937
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3830.451,
-        "changePct": -1.489544462075365
+        "price": 3842.195,
+        "changePct": 0.48579618267506375
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4345.209,
-        "changePct": 0.10260887794864543
+        "price": 4357.616,
+        "changePct": 0.28553287080092477
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24523.57,
-        "changePct": 0.05495693612021642
+        "price": 24613.27,
+        "changePct": -0.11861621182915516
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My favorite sport is tracking my food delivery driver like they're carrying the nuclear launch codes.",
-      "explanation": "This joke highlights the common, slightly obsessive modern habit of intensely monitoring food delivery, playfully equating it to a critical, high-stakes mission."
+      "joke": "My phone battery died, so I had to make eye contact with my reflection for a full minute. Horrifying.",
+      "explanation": "It's a deadpan, sarcastic take on modern discomfort with being disconnected, even briefly."
     },
     "zh": {
-      "joke": "现在手机里那些提醒你运动、喝水、早睡的App，就像是你妈请来的数字管家，只不过它们只负责提醒，不负责帮你达成。"
+      "joke": "当代年轻人，每次手机震动，内心都期待是人生转折点，结果只是快递已出库。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "John Paxson",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/John_Paxson_in_2009.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American basketball player (born 1960)",
-        "extract": "John MacBeth Paxson is an American basketball administrator and former player who was vice president of basketball operations for the Chicago Bulls of the National Basketball Association (NBA) from 2009 to 2020. He was their general manager from 2003 to 2009. Paxson played eleven NBA seasons for the San Antonio Spurs and Chicago Bulls, winning three championships as a member of the Bulls. He was an All-American college player at the University of Notre Dame.",
-        "born": 1960,
+        "name": "Kieran Culkin",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kieran_Culkin_at_the_2024_New_York_Film_Festival_2_%28cropped_II%29.jpg/330px-Kieran_Culkin_at_the_2024_New_York_Film_Festival_2_%28cropped_II%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (born 1982)",
+        "extract": "Kieran Kyle Culkin is an American actor. Known for portraying distasteful yet sympathetic characters across stage and screen, his accolades include an Academy Award, a BAFTA Award, a Primetime Emmy Award, and two Golden Globe Awards.",
+        "born": 1982,
         "highlights": [
-          "Vice president of basketball operations for Chicago Bulls.",
-          "General manager for the Chicago Bulls.",
-          "Won three NBA championships with the Chicago Bulls."
+          "Won an Academy Award.",
+          "Won a Primetime Emmy Award.",
+          "Won two Golden Globe Awards."
         ]
       },
       {
-        "name": "Henry Bennett (American politician)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Henry_Bennett_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American politician",
-        "extract": "Henry Bennett was an American lawyer and politician who served five terms as a United States representative from New York from 1849 to 1859.",
-        "born": 1808,
+        "name": "Fran Drescher",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Fran_Drescher_2018.jpg/330px-Fran_Drescher_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress and writer (born 1957)",
+        "extract": "Francine Joy Drescher is an American actress, writer, comedian, producer, and former trade union leader. She played Fran Fine in the television sitcom The Nanny (1993–1999), which she created and produced with her then-husband Peter Marc Jacobson.",
+        "born": 1957,
         "highlights": [
-          "American lawyer.",
-          "Served five terms as U.S. Representative.",
-          "Represented New York in Congress (1849-1859)."
+          "Played Fran Fine in The Nanny.",
+          "Created the television sitcom The Nanny.",
+          "Produced The Nanny."
         ]
       },
       {
-        "name": "Isla Blair",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Taste_The_Blood_of_Dracula_%281970%29_trailer_-_Isla_Blair.png/330px-Taste_The_Blood_of_Dracula_%281970%29_trailer_-_Isla_Blair.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British actress (born 1944)",
-        "extract": "Isla Blair Glover is a British actress and singer. She made her first stage appearance in 1963 as Philia in the London debut of A Funny Thing Happened on the Way to the Forum.",
-        "born": 1944,
+        "name": "Patrice Rushen",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Patrice_Rushen_2010_%28cropped%29.jpg/330px-Patrice_Rushen_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American jazz pianist and R&B singer (born 1954)",
+        "extract": "Patrice Louise Rushen is an American jazz pianist, R&B singer, record producer, multi-instrumentalist, songwriter, and music director.",
+        "born": 1954,
         "highlights": [
-          "British actress and singer.",
-          "First stage appearance as Philia in 1963.",
-          "Performed in London debut of A Funny Thing Happened."
+          "American jazz pianist.",
+          "R&B singer and record producer.",
+          "Multi-instrumentalist and songwriter."
         ]
       }
     ]
