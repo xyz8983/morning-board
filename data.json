@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-30T18:17:18.959Z",
+  "generatedAt": "2026-09-30T22:48:34.994Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.7,
+    "tempC": 18.8,
     "condition": "Overcast",
     "code": 3,
-    "highC": 22.1,
+    "highC": 23.2,
     "lowC": 15.9,
     "rainChance": 1
   },
@@ -14,29 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Phillies",
-          "Braves"
+          "Kai Cenat",
+          "Twitch Streamer"
         ],
-        "summary": "The Phillies and Braves rivalry is buzzing due to their intense playoff series."
+        "summary": "Kai Cenat is buzzing for his record-breaking Twitch streams and recent collaborations."
       },
       {
         "keywords": [
-          "Sophia Bush"
+          "Cam Smith",
+          "LIV Golf"
         ],
-        "summary": "Sophia Bush is buzzing as fans discuss her recent career developments."
+        "summary": "Golfer Cam Smith is buzzing due to his recent performance and move to LIV Golf."
       },
       {
         "keywords": [
-          "PlayStation Plus",
-          "Free Games"
+          "Hailey Bieber",
+          "Skincare Brand"
         ],
-        "summary": "PlayStation Plus free games for October 2026 are buzzing as gamers anticipate new titles."
+        "summary": "Hailey Bieber is buzzing for her Rhode skincare line and fashion influence."
       },
       {
         "keywords": [
-          "Ken Paxton"
+          "WNBA",
+          "Dream Mystics"
         ],
-        "summary": "Ken Paxton is buzzing due to ongoing legal and political developments in Texas."
+        "summary": "The Dream vs. Mystics game is buzzing due to its competitive WNBA matchup."
       }
     ]
   },
@@ -46,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7701.62,
-        "changePct": 0.40125983595016634
+        "price": 7651.54,
+        "changePct": -0.2516021713397774
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27049.713,
-        "changePct": 0.9410266412130824
+        "price": 26861.064,
+        "changePct": 0.2370478694295025
       },
       {
         "region": "Europe",
@@ -95,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone battery died, so I had to make eye contact with my reflection for a full minute. Horrifying.",
-      "explanation": "It's a deadpan, sarcastic take on modern discomfort with being disconnected, even briefly."
+      "joke": "My screen time report says I'm living my best virtual life, and my actual life mostly involves finding my charger.",
+      "explanation": "It's funny because it highlights the common irony of prioritizing digital life over real-world tasks, a self-deprecating jab at screen addiction."
     },
     "zh": {
-      "joke": "当代年轻人，每次手机震动，内心都期待是人生转折点，结果只是快递已出库。"
+      "joke": "我的作息非常规律，规律到每天凌晨一点半准时上床，然后两点半准时拿起手机刷到天亮。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Kieran Culkin",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kieran_Culkin_at_the_2024_New_York_Film_Festival_2_%28cropped_II%29.jpg/330px-Kieran_Culkin_at_the_2024_New_York_Film_Festival_2_%28cropped_II%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (born 1982)",
-        "extract": "Kieran Kyle Culkin is an American actor. Known for portraying distasteful yet sympathetic characters across stage and screen, his accolades include an Academy Award, a BAFTA Award, a Primetime Emmy Award, and two Golden Globe Awards.",
-        "born": 1982,
+        "name": "Elizabeth Gilels",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%93%D0%B8%D0%BB%D0%B5%D0%BB%D1%8C%D1%81_%D0%B8_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_%D0%93%D0%B8%D0%BB%D0%B5%D0%BB%D1%8C%D1%81.jpg/330px-%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%93%D0%B8%D0%BB%D0%B5%D0%BB%D1%8C%D1%81_%D0%B8_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_%D0%93%D0%B8%D0%BB%D0%B5%D0%BB%D1%8C%D1%81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Soviet and Russian violinist (1919–2008)",
+        "extract": "Elizabeth Gilels was a Soviet and Russian violinist and professor.",
+        "born": 1919,
         "highlights": [
-          "Won an Academy Award.",
-          "Won a Primetime Emmy Award.",
-          "Won two Golden Globe Awards."
+          "Soviet and Russian violinist.",
+          "Also a professor."
         ]
       },
       {
-        "name": "Fran Drescher",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Fran_Drescher_2018.jpg/330px-Fran_Drescher_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress and writer (born 1957)",
-        "extract": "Francine Joy Drescher is an American actress, writer, comedian, producer, and former trade union leader. She played Fran Fine in the television sitcom The Nanny (1993–1999), which she created and produced with her then-husband Peter Marc Jacobson.",
-        "born": 1957,
+        "name": "Princess Charlotte, Duchess of Valentinois",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Princess_Charlotte%2C_Duchess_of_Valentinois.jpg/330px-Princess_Charlotte%2C_Duchess_of_Valentinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Hereditary Princess of Monaco (1898–1977)",
+        "extract": "Princess Charlotte, Duchess of Valentinois, styled Hereditary Princess of Monaco between 1922 and 1944, was the daughter of Louis II, Prince of Monaco, and mother of Prince Rainier III. From 1922 until 1944, she was the Hereditary Princess of Monaco, heiress presumptive to the throne.",
+        "born": 1898,
         "highlights": [
-          "Played Fran Fine in The Nanny.",
-          "Created the television sitcom The Nanny.",
-          "Produced The Nanny."
+          "Duchess of Valentinois.",
+          "Hereditary Princess of Monaco (1922-1944).",
+          "Mother of Prince Rainier III."
         ]
       },
       {
-        "name": "Patrice Rushen",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Patrice_Rushen_2010_%28cropped%29.jpg/330px-Patrice_Rushen_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American jazz pianist and R&B singer (born 1954)",
-        "extract": "Patrice Louise Rushen is an American jazz pianist, R&B singer, record producer, multi-instrumentalist, songwriter, and music director.",
-        "born": 1954,
+        "name": "Reinhard Scheer",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Almirante_Reinhard_Scheer.jpg/330px-Almirante_Reinhard_Scheer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German admiral (1863–1928)",
+        "extract": "Carl Friedrich Heinrich Reinhard Scheer was an admiral in the Imperial German Navy. Scheer joined the navy in 1879 as an officer cadet and progressed through the ranks, commanding cruisers and battleships, as well as senior staff positions on land. At the outbreak of World War I, Scheer was the commander of the II Battle Squadron of the High Seas Fleet. He then took command of the III Battle Squadron, which consisted of the newest and most powerful battleships in the navy. In January 1916, he was promoted to admiral and given control of the High Seas Fleet. Scheer led the German fleet at the Battle of Jutland on 31 May – 1 June 1916, one of the largest naval battles in history.",
+        "born": 1863,
         "highlights": [
-          "American jazz pianist.",
-          "R&B singer and record producer.",
-          "Multi-instrumentalist and songwriter."
+          "Admiral in the Imperial German Navy.",
+          "Commander of the High Seas Fleet (from 1916).",
+          "Led German fleet at Battle of Jutland."
         ]
       }
     ]
