@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-30T22:48:34.994Z",
+  "generatedAt": "2026-10-01T18:42:09.735Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18.8,
+    "tempC": 23.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 23.2,
-    "lowC": 15.9,
-    "rainChance": 1
+    "highC": 23.9,
+    "lowC": 17.3,
+    "rainChance": 18
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Kai Cenat",
-          "Twitch Streamer"
+          "Oval Office",
+          "White House"
         ],
-        "summary": "Kai Cenat is buzzing for his record-breaking Twitch streams and recent collaborations."
+        "summary": "The Oval Office is buzzing due to recent political developments and presidential activities."
       },
       {
         "keywords": [
-          "Cam Smith",
-          "LIV Golf"
+          "Honda Civic",
+          "New Model"
         ],
-        "summary": "Golfer Cam Smith is buzzing due to his recent performance and move to LIV Golf."
+        "summary": "The 2027 Honda Civic is buzzing as enthusiasts anticipate its next-generation design and features."
       },
       {
         "keywords": [
-          "Hailey Bieber",
-          "Skincare Brand"
+          "Greece",
+          "Netherlands"
         ],
-        "summary": "Hailey Bieber is buzzing for her Rhode skincare line and fashion influence."
+        "summary": "Greece vs. Netherlands is buzzing due to a highly anticipated sports match or political discussion."
       },
       {
         "keywords": [
-          "WNBA",
-          "Dream Mystics"
+          "Social Security",
+          "Benefit Increase"
         ],
-        "summary": "The Dream vs. Mystics game is buzzing due to its competitive WNBA matchup."
+        "summary": "Social Security benefit increase projections are buzzing as recipients await potential cost-of-living adjustments."
       }
     ]
   },
@@ -48,36 +48,36 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7651.54,
-        "changePct": -0.2516021713397774
+        "price": 7673.65,
+        "changePct": 0.28896143782819766
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26861.064,
-        "changePct": 0.2370478694295025
+        "price": 26938.354,
+        "changePct": 0.2877399048675096
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6269.02,
-        "changePct": -0.8107261410131827
+        "price": 6175.45,
+        "changePct": -1.4925777872777661
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10606,
-        "changePct": -0.28871709391342937
+        "price": 10428.27,
+        "changePct": -1.675749575711857
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3842.195,
-        "changePct": 0.48579618267506375
+        "changePct": 0.3066219373702919
       },
       {
         "region": "Asia",
@@ -91,55 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24613.27,
-        "changePct": -0.11861621182915516
+        "changePct": 0.3656477841752512
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My screen time report says I'm living my best virtual life, and my actual life mostly involves finding my charger.",
-      "explanation": "It's funny because it highlights the common irony of prioritizing digital life over real-world tasks, a self-deprecating jab at screen addiction."
+      "joke": "My therapist asked if I had any hobbies. I told them I collect notification badges.",
+      "explanation": "It's funny because it's a dry, relatable observation about modern phone addiction, framed as a \"hobby\" to highlight the absurdity."
     },
     "zh": {
-      "joke": "我的作息非常规律，规律到每天凌晨一点半准时上床，然后两点半准时拿起手机刷到天亮。"
+      "joke": "每次点外卖备注“不要香菜”，都感觉自己在签署一份具有法律效力的声明。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Elizabeth Gilels",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%93%D0%B8%D0%BB%D0%B5%D0%BB%D1%8C%D1%81_%D0%B8_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_%D0%93%D0%B8%D0%BB%D0%B5%D0%BB%D1%8C%D1%81.jpg/330px-%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%93%D0%B8%D0%BB%D0%B5%D0%BB%D1%8C%D1%81_%D0%B8_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_%D0%93%D0%B8%D0%BB%D0%B5%D0%BB%D1%8C%D1%81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Soviet and Russian violinist (1919–2008)",
-        "extract": "Elizabeth Gilels was a Soviet and Russian violinist and professor.",
-        "born": 1919,
+        "name": "Scott Young (ice hockey, born 1967)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/ScottYoung.png/330px-ScottYoung.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American ice hockey player",
+        "extract": "Scott Allen Young is an American professional ice hockey coach and former player who most recently served as an assistant coach for the Vancouver Canucks of the National Hockey League (NHL). Young previously served as director of player development for the Canucks as well as for the Pittsburgh Penguins.",
+        "born": 1967,
         "highlights": [
-          "Soviet and Russian violinist.",
-          "Also a professor."
+          "American professional ice hockey coach and former player.",
+          "Assistant coach for the Vancouver Canucks (NHL).",
+          "Director of player development for Canucks and Penguins."
         ]
       },
       {
-        "name": "Princess Charlotte, Duchess of Valentinois",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Princess_Charlotte%2C_Duchess_of_Valentinois.jpg/330px-Princess_Charlotte%2C_Duchess_of_Valentinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Hereditary Princess of Monaco (1898–1977)",
-        "extract": "Princess Charlotte, Duchess of Valentinois, styled Hereditary Princess of Monaco between 1922 and 1944, was the daughter of Louis II, Prince of Monaco, and mother of Prince Rainier III. From 1922 until 1944, she was the Hereditary Princess of Monaco, heiress presumptive to the throne.",
-        "born": 1898,
+        "name": "Saint Cajetan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Francesco_Solimena_-_Estasi_di_San_Gaetano_da_Thiene.jpg/330px-Francesco_Solimena_-_Estasi_di_San_Gaetano_da_Thiene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian Catholic priest (1480–1547)",
+        "extract": "Gaetano dei Conti di Thiene, known in English as Saint Cajetan, was an Italian Catholic priest and religious reformer, co-founder of the Theatines. He is recognised as a saint in the Catholic Church, and his feast day is 7 August.",
+        "born": 1480,
         "highlights": [
-          "Duchess of Valentinois.",
-          "Hereditary Princess of Monaco (1922-1944).",
-          "Mother of Prince Rainier III."
+          "Italian Catholic priest and religious reformer.",
+          "Co-founder of the Theatines.",
+          "Recognised as a saint in the Catholic Church."
         ]
       },
       {
-        "name": "Reinhard Scheer",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Almirante_Reinhard_Scheer.jpg/330px-Almirante_Reinhard_Scheer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German admiral (1863–1928)",
-        "extract": "Carl Friedrich Heinrich Reinhard Scheer was an admiral in the Imperial German Navy. Scheer joined the navy in 1879 as an officer cadet and progressed through the ranks, commanding cruisers and battleships, as well as senior staff positions on land. At the outbreak of World War I, Scheer was the commander of the II Battle Squadron of the High Seas Fleet. He then took command of the III Battle Squadron, which consisted of the newest and most powerful battleships in the navy. In January 1916, he was promoted to admiral and given control of the High Seas Fleet. Scheer led the German fleet at the Battle of Jutland on 31 May – 1 June 1916, one of the largest naval battles in history.",
-        "born": 1863,
+        "name": "John Bligh, 3rd Earl of Darnley",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Earl_of_Darnley_COA.svg/330px-Earl_of_Darnley_COA.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British parliamentarian",
+        "extract": "John Bligh, 3rd Earl of Darnley, styled The Honourable John Bligh between 1721 and 1747, lord of the Manor of Cobham, Kent, was a British parliamentarian.",
+        "born": 1719,
         "highlights": [
-          "Admiral in the Imperial German Navy.",
-          "Commander of the High Seas Fleet (from 1916).",
-          "Led German fleet at Battle of Jutland."
+          "3rd Earl of Darnley.",
+          "Lord of the Manor of Cobham, Kent.",
+          "British parliamentarian."
         ]
       }
     ]
