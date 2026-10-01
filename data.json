@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-01T18:42:09.735Z",
+  "generatedAt": "2026-10-01T22:58:50.819Z",
   "weather": {
     "location": "New York City",
-    "tempC": 23.7,
+    "tempC": 21.3,
     "condition": "Overcast",
     "code": 3,
-    "highC": 23.9,
+    "highC": 24.8,
     "lowC": 17.3,
     "rainChance": 18
   },
@@ -14,31 +14,27 @@
     "topics": [
       {
         "keywords": [
-          "Oval Office",
-          "White House"
+          "KC Concepcion"
         ],
-        "summary": "The Oval Office is buzzing due to recent political developments and presidential activities."
+        "summary": "KC Concepcion is buzzing due to recent social media activity and public appearances."
       },
       {
         "keywords": [
-          "Honda Civic",
-          "New Model"
+          "Prince Harry"
         ],
-        "summary": "The 2027 Honda Civic is buzzing as enthusiasts anticipate its next-generation design and features."
+        "summary": "Prince Harry is buzzing with news about his recent public engagements and family updates."
       },
       {
         "keywords": [
-          "Greece",
-          "Netherlands"
+          "Lito"
         ],
-        "summary": "Greece vs. Netherlands is buzzing due to a highly anticipated sports match or political discussion."
+        "summary": "Lito is buzzing due to recent developments in a popular online discussion or event."
       },
       {
         "keywords": [
-          "Social Security",
-          "Benefit Increase"
+          "Flyers Devils"
         ],
-        "summary": "Social Security benefit increase projections are buzzing as recipients await potential cost-of-living adjustments."
+        "summary": "Flyers vs Devils is buzzing due to their recent high-stakes NHL game and rivalry."
       }
     ]
   },
@@ -48,15 +44,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7673.65,
-        "changePct": 0.28896143782819766
+        "price": 7666.45,
+        "changePct": 0.19486273351508135
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26938.354,
-        "changePct": 0.2877399048675096
+        "price": 26871.596,
+        "changePct": 0.03920916907834657
       },
       {
         "region": "Europe",
@@ -95,53 +91,29 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "My therapist asked if I had any hobbies. I told them I collect notification badges.",
-      "explanation": "It's funny because it's a dry, relatable observation about modern phone addiction, framed as a \"hobby\" to highlight the absurdity."
-    },
-    "zh": {
-      "joke": "每次点外卖备注“不要香菜”，都感觉自己在签署一份具有法律效力的声明。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Scott Young (ice hockey, born 1967)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/ScottYoung.png/330px-ScottYoung.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American ice hockey player",
-        "extract": "Scott Allen Young is an American professional ice hockey coach and former player who most recently served as an assistant coach for the Vancouver Canucks of the National Hockey League (NHL). Young previously served as director of player development for the Canucks as well as for the Pittsburgh Penguins.",
-        "born": 1967,
-        "highlights": [
-          "American professional ice hockey coach and former player.",
-          "Assistant coach for the Vancouver Canucks (NHL).",
-          "Director of player development for Canucks and Penguins."
-        ]
+        "name": "Sylvano Bussotti",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Maestro_Sylvano_Bussotti.jpg/330px-Maestro_Sylvano_Bussotti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian composer (1931–2021)",
+        "extract": "Sylvano Bussotti was an Italian composer of contemporary classical music and also a painter, set and costume designer, opera director and manager, and writer and professor. His compositions employ graphic notation, which has often created special problems of interpretation. He was known as a composer for the stage. His first opera was La Passion selon Sade, which premiered in Palermo in 1965. Later Bussotti operas and ballets were premiered at the Teatro Comunale di Firenze, Teatro Lirico di Milano, Teatro Regio di Torino, and Piccola Scala di Milano, among other venued. He was artistic director of La Fenice in Venice, the Puccini Festival, and the music section of the Venice Biennale. He taught internationally, for a decade at the Fiesole School of Music. He is regarded as a leading composer of Italy's avantgarde, and a having been a Renaissance man with many talents who combined the arts expressively.",
+        "born": 1931
       },
       {
-        "name": "Saint Cajetan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Francesco_Solimena_-_Estasi_di_San_Gaetano_da_Thiene.jpg/330px-Francesco_Solimena_-_Estasi_di_San_Gaetano_da_Thiene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian Catholic priest (1480–1547)",
-        "extract": "Gaetano dei Conti di Thiene, known in English as Saint Cajetan, was an Italian Catholic priest and religious reformer, co-founder of the Theatines. He is recognised as a saint in the Catholic Church, and his feast day is 7 August.",
-        "born": 1480,
-        "highlights": [
-          "Italian Catholic priest and religious reformer.",
-          "Co-founder of the Theatines.",
-          "Recognised as a saint in the Catholic Church."
-        ]
+        "name": "Jean-Denis Delétraz",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Jean-Denis_D%C3%A9l%C3%A9traz_-_Le_Mans_2012.JPG/330px-Jean-Denis_D%C3%A9l%C3%A9traz_-_Le_Mans_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swiss racing driver (born 1963)",
+        "extract": "Jean-Denis Delétraz is a Swiss racing driver. He participated in three Formula One Grands Prix, debuting in the 1994 Australian Grand Prix. Before reaching Formula One, he scored two third places in the 1988 Formula 3000 season, but principally earned his three Formula One drives as a pay driver. After Formula One, he competed in sports car racing, with two class wins at the 24 Hours of Le Mans.",
+        "born": 1963
       },
       {
-        "name": "John Bligh, 3rd Earl of Darnley",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Earl_of_Darnley_COA.svg/330px-Earl_of_Darnley_COA.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British parliamentarian",
-        "extract": "John Bligh, 3rd Earl of Darnley, styled The Honourable John Bligh between 1721 and 1747, lord of the Manor of Cobham, Kent, was a British parliamentarian.",
-        "born": 1719,
-        "highlights": [
-          "3rd Earl of Darnley.",
-          "Lord of the Manor of Cobham, Kent.",
-          "British parliamentarian."
-        ]
+        "name": "Giovanni Battista Cirri",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Giovanni_Battista_Cirri.jpg/330px-Giovanni_Battista_Cirri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian composer",
+        "extract": "Giovanni Battista Cirri was an Italian cellist and composer in the 18th century.",
+        "born": 1724
       }
     ]
   }
