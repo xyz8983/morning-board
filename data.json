@@ -1,40 +1,44 @@
 {
-  "generatedAt": "2026-10-01T22:58:50.819Z",
+  "generatedAt": "2026-10-02T18:13:13.858Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.3,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 24.8,
-    "lowC": 17.3,
-    "rainChance": 18
+    "tempC": 28.5,
+    "condition": "Heavy drizzle",
+    "code": 55,
+    "highC": 29.1,
+    "lowC": 18.5,
+    "rainChance": 46
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "KC Concepcion"
+          "Francia Italia",
+          "Rivalry"
         ],
-        "summary": "KC Concepcion is buzzing due to recent social media activity and public appearances."
+        "summary": "Francia - Italia is buzzing due to their intense sporting rivalry or recent match."
       },
       {
         "keywords": [
-          "Prince Harry"
+          "Bosnia Sweden",
+          "Match"
         ],
-        "summary": "Prince Harry is buzzing with news about his recent public engagements and family updates."
+        "summary": "Bosnia and Herzegovina vs Sweden is buzzing due to a recent competitive sports fixture."
       },
       {
         "keywords": [
-          "Lito"
+          "Ukraine",
+          "Conflict"
         ],
-        "summary": "Lito is buzzing due to recent developments in a popular online discussion or event."
+        "summary": "Ukraine is buzzing due to ongoing geopolitical developments and international attention."
       },
       {
         "keywords": [
-          "Flyers Devils"
+          "Bruce Willis",
+          "Health Update"
         ],
-        "summary": "Flyers vs Devils is buzzing due to their recent high-stakes NHL game and rivalry."
+        "summary": "Bruce Willis is buzzing due to recent updates regarding his health condition."
       }
     ]
   },
@@ -44,36 +48,36 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7666.45,
-        "changePct": 0.19486273351508135
+        "price": 7718.76,
+        "changePct": 0.6823236308852259
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26871.596,
-        "changePct": 0.03920916907834657
+        "price": 27173.055,
+        "changePct": 1.12185000101966
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6175.45,
-        "changePct": -1.4925777872777661
+        "price": 6238.5,
+        "changePct": 1.020978228307252
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10428.27,
-        "changePct": -1.675749575711857
+        "price": 10461.95,
+        "changePct": 0.322968239218972
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3842.195,
-        "changePct": 0.3066219373702919
+        "price": 3842.1946,
+        "changePct": 0.3065748334517412
       },
       {
         "region": "Asia",
@@ -86,34 +90,58 @@
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24613.27,
-        "changePct": 0.3656477841752512
+        "price": 23972.29,
+        "changePct": -2.604204967482986
       }
     ]
+  },
+  "joke": {
+    "en": {
+      "joke": "My phone's battery life is a direct reflection of my attempts to avoid human interaction.",
+      "explanation": "It's a deadpan, self-deprecating observation on modern dependence on phones to escape social situations."
+    },
+    "zh": {
+      "joke": "为了省钱，我把购物车里上百件商品都收藏了。这样每次打开购物车，都能体会到拥有它们的满足感。"
+    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sylvano Bussotti",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Maestro_Sylvano_Bussotti.jpg/330px-Maestro_Sylvano_Bussotti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian composer (1931–2021)",
-        "extract": "Sylvano Bussotti was an Italian composer of contemporary classical music and also a painter, set and costume designer, opera director and manager, and writer and professor. His compositions employ graphic notation, which has often created special problems of interpretation. He was known as a composer for the stage. His first opera was La Passion selon Sade, which premiered in Palermo in 1965. Later Bussotti operas and ballets were premiered at the Teatro Comunale di Firenze, Teatro Lirico di Milano, Teatro Regio di Torino, and Piccola Scala di Milano, among other venued. He was artistic director of La Fenice in Venice, the Puccini Festival, and the music section of the Venice Biennale. He taught internationally, for a decade at the Fiesole School of Music. He is regarded as a leading composer of Italy's avantgarde, and a having been a Renaissance man with many talents who combined the arts expressively.",
-        "born": 1931
+        "name": "Omar Sívori",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Omar_Sivori.jpg/330px-Omar_Sivori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Argentine-Italian footballer (1935–2005)",
+        "extract": "Enrique Omar Sívori was an Argentine-Italian football player and manager who played as a forward. At club level, he is known for his successful time with Italian side Juventus during the late 1950s and early 1960s, where he won three Serie A titles among other trophies; he also played for River Plate in Argentina and Napoli in Italy.",
+        "born": 1935,
+        "highlights": [
+          "Argentine-Italian football player and manager.",
+          "Successful with Juventus, winning three Serie A titles.",
+          "Played for River Plate, Juventus, and Napoli."
+        ]
       },
       {
-        "name": "Jean-Denis Delétraz",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Jean-Denis_D%C3%A9l%C3%A9traz_-_Le_Mans_2012.JPG/330px-Jean-Denis_D%C3%A9l%C3%A9traz_-_Le_Mans_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swiss racing driver (born 1963)",
-        "extract": "Jean-Denis Delétraz is a Swiss racing driver. He participated in three Formula One Grands Prix, debuting in the 1994 Australian Grand Prix. Before reaching Formula One, he scored two third places in the 1988 Formula 3000 season, but principally earned his three Formula One drives as a pay driver. After Formula One, he competed in sports car racing, with two class wins at the 24 Hours of Le Mans.",
-        "born": 1963
+        "name": "Esra Gümüş",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Esra_G%C3%BCm%C3%BC%C5%9F_2.jpg/330px-Esra_G%C3%BCm%C3%BC%C5%9F_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Turkish volleyball player",
+        "extract": "Esra Gümüş Kirici is a former Turkish volleyball player. She is 181 cm and plays as an outside hitter. She is a former team captain of the Turkey women's national volleyball team. She started her career with VakıfBank Istanbul in 1995 to 2000. Then she played for Yeşilyurt between 2000 and 2004. She transferred to Eczacıbaşı VitrA in 2004. She played for Sariyer Belediyesi before she quit volleyball.",
+        "born": 1982,
+        "highlights": [
+          "Former Turkish volleyball player.",
+          "Former captain of Turkey women's national volleyball team.",
+          "Played for VakıfBank, Yeşilyurt, and Eczacıbaşı VitrA."
+        ]
       },
       {
-        "name": "Giovanni Battista Cirri",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Giovanni_Battista_Cirri.jpg/330px-Giovanni_Battista_Cirri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian composer",
-        "extract": "Giovanni Battista Cirri was an Italian cellist and composer in the 18th century.",
-        "born": 1724
+        "name": "Brittany Howard",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Alabama_Shakes%2C_Hyde_Park%2C_London_%2833573853938%29.jpg/330px-Alabama_Shakes%2C_Hyde_Park%2C_London_%2833573853938%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American musician (born 1988)",
+        "extract": "Brittany Amber Howard is an American musician from Athens, Alabama. She rose to prominence in the early 2010s as the lead vocalist, rhythm guitarist, and primary songwriter of Alabama Shakes. Her work with Alabama Shakes and as a solo artist have garnered her five Grammy Awards from 18 nominations. Later in the decade, Howard played bass in the side project Thunderbitch and both acoustic guitar and double bass for the trio Bermuda Triangle.",
+        "born": 1988,
+        "highlights": [
+          "Lead vocalist, guitarist, songwriter for Alabama Shakes.",
+          "Won five Grammy Awards from 18 nominations.",
+          "Also played in Thunderbitch and Bermuda Triangle."
+        ]
       }
     ]
   }
