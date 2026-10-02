@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-02T18:13:13.858Z",
+  "generatedAt": "2026-10-02T22:48:10.120Z",
   "weather": {
     "location": "New York City",
-    "tempC": 28.5,
-    "condition": "Heavy drizzle",
-    "code": 55,
-    "highC": 29.1,
+    "tempC": 26.4,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 30,
     "lowC": 18.5,
-    "rainChance": 46
+    "rainChance": 35
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Francia Italia",
-          "Rivalry"
+          "São Paulo",
+          "Santos"
         ],
-        "summary": "Francia - Italia is buzzing due to their intense sporting rivalry or recent match."
+        "summary": "São Paulo vs Santos is buzzing due to an anticipated football match."
       },
       {
         "keywords": [
-          "Bosnia Sweden",
-          "Match"
+          "Dylan Larkin",
+          "NHL"
         ],
-        "summary": "Bosnia and Herzegovina vs Sweden is buzzing due to a recent competitive sports fixture."
+        "summary": "Dylan Larkin is buzzing as a key player in recent NHL discussions."
       },
       {
         "keywords": [
-          "Ukraine",
-          "Conflict"
+          "Liberty",
+          "Delaware"
         ],
-        "summary": "Ukraine is buzzing due to ongoing geopolitical developments and international attention."
+        "summary": "Liberty vs Delaware is buzzing due to an upcoming sports event."
       },
       {
         "keywords": [
-          "Bruce Willis",
-          "Health Update"
+          "Capitals",
+          "Hurricanes"
         ],
-        "summary": "Bruce Willis is buzzing due to recent updates regarding his health condition."
+        "summary": "Capitals vs Hurricanes is buzzing due to an anticipated hockey game."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7718.76,
-        "changePct": 0.6823236308852259
+        "price": 7722.72,
+        "changePct": 0.7339772645748741
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27173.055,
-        "changePct": 1.12185000101966
+        "price": 27190.863,
+        "changePct": 1.1881207204812092
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone's battery life is a direct reflection of my attempts to avoid human interaction.",
-      "explanation": "It's a deadpan, self-deprecating observation on modern dependence on phones to escape social situations."
+      "joke": "My dating app profile says 'looking for someone to split the emotional labor of existential dread.'",
+      "explanation": "It's funny because it's a deadpan, ironic take on the emotional toll of modern life, framed within dating app expectations."
     },
     "zh": {
-      "joke": "为了省钱，我把购物车里上百件商品都收藏了。这样每次打开购物车，都能体会到拥有它们的满足感。"
+      "joke": "我每天上班的心情，就像手机电量低于20%还没找到充电器，充满焦虑却无能为力。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Omar Sívori",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Omar_Sivori.jpg/330px-Omar_Sivori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Argentine-Italian footballer (1935–2005)",
-        "extract": "Enrique Omar Sívori was an Argentine-Italian football player and manager who played as a forward. At club level, he is known for his successful time with Italian side Juventus during the late 1950s and early 1960s, where he won three Serie A titles among other trophies; he also played for River Plate in Argentina and Napoli in Italy.",
-        "born": 1935,
+        "name": "Thomas Muster",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%C3%963-Wecker-Tennis-Challenge_26_10_2016-10_%28cropped%29.jpg/330px-%C3%963-Wecker-Tennis-Challenge_26_10_2016-10_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Austrian tennis player",
+        "extract": "Thomas Muster is an Austrian former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP). Muster won 44 ATP Tour-level singles titles, including the 1995 French Open and eight Masters titles. One of the world's leading clay court players in the 1990s, at his peak he was called \"The King of Clay\". He is the first Austrian to win a major singles title, followed by Dominic Thiem at the 2020 US Open.",
+        "born": 1967,
         "highlights": [
-          "Argentine-Italian football player and manager.",
-          "Successful with Juventus, winning three Serie A titles.",
-          "Played for River Plate, Juventus, and Napoli."
+          "World No. 1 in men's singles.",
+          "Won 1995 French Open and eight Masters titles.",
+          "First Austrian to win a major singles title."
         ]
       },
       {
-        "name": "Esra Gümüş",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Esra_G%C3%BCm%C3%BC%C5%9F_2.jpg/330px-Esra_G%C3%BCm%C3%BC%C5%9F_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Turkish volleyball player",
-        "extract": "Esra Gümüş Kirici is a former Turkish volleyball player. She is 181 cm and plays as an outside hitter. She is a former team captain of the Turkey women's national volleyball team. She started her career with VakıfBank Istanbul in 1995 to 2000. Then she played for Yeşilyurt between 2000 and 2004. She transferred to Eczacıbaşı VitrA in 2004. She played for Sariyer Belediyesi before she quit volleyball.",
-        "born": 1982,
+        "name": "Dave Barrett",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Dave_Barrett%2C_1975.jpg/330px-Dave_Barrett%2C_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Premier of British Columbia from 1972 to 1975",
+        "extract": "David Barrett was a Canadian politician and social worker in British Columbia. A member of the British Columbia New Democratic Party (BCNDP), he was the 26th premier of British Columbia from 1972 to 1975. He was the first NDP premier in the province.",
+        "born": 1930,
         "highlights": [
-          "Former Turkish volleyball player.",
-          "Former captain of Turkey women's national volleyball team.",
-          "Played for VakıfBank, Yeşilyurt, and Eczacıbaşı VitrA."
+          "Served as 26th premier of British Columbia (1972-1975).",
+          "First NDP premier in British Columbia.",
+          "Canadian politician and social worker."
         ]
       },
       {
-        "name": "Brittany Howard",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Alabama_Shakes%2C_Hyde_Park%2C_London_%2833573853938%29.jpg/330px-Alabama_Shakes%2C_Hyde_Park%2C_London_%2833573853938%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American musician (born 1988)",
-        "extract": "Brittany Amber Howard is an American musician from Athens, Alabama. She rose to prominence in the early 2010s as the lead vocalist, rhythm guitarist, and primary songwriter of Alabama Shakes. Her work with Alabama Shakes and as a solo artist have garnered her five Grammy Awards from 18 nominations. Later in the decade, Howard played bass in the side project Thunderbitch and both acoustic guitar and double bass for the trio Bermuda Triangle.",
-        "born": 1988,
+        "name": "Tom Moody",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tom_Moody_Sunrisers.jpg/330px-Tom_Moody_Sunrisers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian cricketer",
+        "extract": "Thomas Masson Moody is a former Australian international cricketer and current Director of Cricket of Sri Lanka Cricket. He ended his long tenure with the Indian Premier League team Sunrisers Hyderabad in August 2022 and was earlier appointed Director of Cricket at Desert Vipers, one of the six franchises in the ILT20, which was scheduled to begin in the UAE in January 2023. Moody was a part of the Australian team that won their first world title during the 1987 Cricket World Cup, and their second in the 1999 Cricket World Cup. He was the coach of the Sri Lankan team which finished as runners-up at the 2007 Cricket World Cup.",
+        "born": 1965,
         "highlights": [
-          "Lead vocalist, guitarist, songwriter for Alabama Shakes.",
-          "Won five Grammy Awards from 18 nominations.",
-          "Also played in Thunderbitch and Bermuda Triangle."
+          "Won 1987 and 1999 Cricket World Cups with Australia.",
+          "Coached Sri Lanka to 2007 Cricket World Cup runners-up.",
+          "Current Director of Cricket of Sri Lanka Cricket."
         ]
       }
     ]
