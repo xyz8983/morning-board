@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-02T22:48:10.120Z",
+  "generatedAt": "2026-10-03T17:00:04.081Z",
   "weather": {
     "location": "New York City",
-    "tempC": 26.4,
+    "tempC": 21.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 30,
-    "lowC": 18.5,
-    "rainChance": 35
+    "highC": 22.3,
+    "lowC": 14.3,
+    "rainChance": 16
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "São Paulo",
-          "Santos"
+          "Bill Belichick",
+          "NFL Coach"
         ],
-        "summary": "São Paulo vs Santos is buzzing due to an anticipated football match."
+        "summary": "Bill Belichick is buzzing due to recent coaching changes and speculation about his future in the NFL."
       },
       {
         "keywords": [
-          "Dylan Larkin",
-          "NHL"
+          "Drake Lindsey",
+          "Football Recruit"
         ],
-        "summary": "Dylan Larkin is buzzing as a key player in recent NHL discussions."
+        "summary": "Drake Lindsey is buzzing as a top quarterback recruit committing to a major college football program."
       },
       {
         "keywords": [
-          "Liberty",
-          "Delaware"
+          "UGA Football",
+          "Vanderbilt"
         ],
-        "summary": "Liberty vs Delaware is buzzing due to an upcoming sports event."
+        "summary": "UGA vs Vanderbilt is buzzing as fans discuss the outcome of their recent college football matchup."
       },
       {
         "keywords": [
-          "Capitals",
-          "Hurricanes"
+          "WMU Football",
+          "Buffalo"
         ],
-        "summary": "Capitals vs Hurricanes is buzzing due to an anticipated hockey game."
+        "summary": "WMU vs Buffalo is buzzing due to the recent college football game and its impact on standings."
       }
     ]
   },
@@ -91,57 +91,42 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23972.29,
-        "changePct": -2.604204967482986
+        "changePct": -2.60432367866153
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My dating app profile says 'looking for someone to split the emotional labor of existential dread.'",
-      "explanation": "It's funny because it's a deadpan, ironic take on the emotional toll of modern life, framed within dating app expectations."
+      "joke": "My smart fridge just told me I'm out of existential dread and offered to order more.",
+      "explanation": "It's funny because it personifies a smart appliance giving a philosophical, absurd diagnosis and offering a solution to a non-physical problem, satirizing tech overreach."
     },
     "zh": {
-      "joke": "我每天上班的心情，就像手机电量低于20%还没找到充电器，充满焦虑却无能为力。"
+      "joke": "我宣布，我的手机屏幕上那条“你已达到今日屏幕使用时间限制”的通知，是比任何哲学大师都能让我反思人生的金句。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Thomas Muster",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%C3%963-Wecker-Tennis-Challenge_26_10_2016-10_%28cropped%29.jpg/330px-%C3%963-Wecker-Tennis-Challenge_26_10_2016-10_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Austrian tennis player",
-        "extract": "Thomas Muster is an Austrian former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP). Muster won 44 ATP Tour-level singles titles, including the 1995 French Open and eight Masters titles. One of the world's leading clay court players in the 1990s, at his peak he was called \"The King of Clay\". He is the first Austrian to win a major singles title, followed by Dominic Thiem at the 2020 US Open.",
-        "born": 1967,
-        "highlights": [
-          "World No. 1 in men's singles.",
-          "Won 1995 French Open and eight Masters titles.",
-          "First Austrian to win a major singles title."
-        ]
+        "name": "Pierre Bonnard",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/T%C3%AAte_de_Bonnard_%28Portrait_photograph_of_Pierre_Bonnard%29%2C_c.1899%2C_Mus%C3%A9e_d%27Orsay%2C_restaur%C3%A9e.jpg/330px-T%C3%AAte_de_Bonnard_%28Portrait_photograph_of_Pierre_Bonnard%29%2C_c.1899%2C_Mus%C3%A9e_d%27Orsay%2C_restaur%C3%A9e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French painter and printmaker (1867–1947)",
+        "extract": "Pierre Bonnard was a French painter, illustrator and printmaker, known especially for the stylized decorative qualities of his paintings and his bold use of color. A founding member of the Post-Impressionist group of avant-garde painters Les Nabis, his early work was strongly influenced by the work of Paul Gauguin, as well as the prints of Hokusai and other Japanese artists. Bonnard was a leading figure in the transition from Impressionism to Modernism. He painted landscapes, urban scenes, portraits and intimate domestic scenes, where the backgrounds, colors and painting style usually took precedence over the subject.",
+        "born": 1867
       },
       {
-        "name": "Dave Barrett",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Dave_Barrett%2C_1975.jpg/330px-Dave_Barrett%2C_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Premier of British Columbia from 1972 to 1975",
-        "extract": "David Barrett was a Canadian politician and social worker in British Columbia. A member of the British Columbia New Democratic Party (BCNDP), he was the 26th premier of British Columbia from 1972 to 1975. He was the first NDP premier in the province.",
-        "born": 1930,
-        "highlights": [
-          "Served as 26th premier of British Columbia (1972-1975).",
-          "First NDP premier in British Columbia.",
-          "Canadian politician and social worker."
-        ]
+        "name": "Shridath Ramphal",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/S._Ramphal_1975_%28cropped%29.jpg/330px-S._Ramphal_1975_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Guyanese diplomat (1928–2024)",
+        "extract": "Sir Shridath Surendranath Ramphal OM, often known as Sir Sonny Ramphal, was a Guyanese politician who was the second Commonwealth Secretary-General, holding the position from 1975 to 1990. He was also the foreign minister of Guyana from 1972 to 1975, and assistant attorney general of the West Indies Federation from 1958 to 1962.",
+        "born": 1928
       },
       {
-        "name": "Tom Moody",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tom_Moody_Sunrisers.jpg/330px-Tom_Moody_Sunrisers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian cricketer",
-        "extract": "Thomas Masson Moody is a former Australian international cricketer and current Director of Cricket of Sri Lanka Cricket. He ended his long tenure with the Indian Premier League team Sunrisers Hyderabad in August 2022 and was earlier appointed Director of Cricket at Desert Vipers, one of the six franchises in the ILT20, which was scheduled to begin in the UAE in January 2023. Moody was a part of the Australian team that won their first world title during the 1987 Cricket World Cup, and their second in the 1999 Cricket World Cup. He was the coach of the Sri Lankan team which finished as runners-up at the 2007 Cricket World Cup.",
-        "born": 1965,
-        "highlights": [
-          "Won 1987 and 1999 Cricket World Cups with Australia.",
-          "Coached Sri Lanka to 2007 Cricket World Cup runners-up.",
-          "Current Director of Cricket of Sri Lanka Cricket."
-        ]
+        "name": "Keb' Mo'",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Keb_Mo_with_Hamer_guitar_26Jun2010.jpg/330px-Keb_Mo_with_Hamer_guitar_26Jun2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American blues singer, guitarist and songwriter (born 1951)",
+        "extract": "Kevin Roosevelt Moore, known as Keb' Mo', is an American blues musician. He is a singer, guitarist and songwriter, living in Nashville, Tennessee. He has been described as \"a living link to the seminal Delta blues that travelled up the Mississippi River and across the expanse of America.\" His post-modern blues style is influenced by many eras and genres, including folk, rock, jazz, pop and country. The moniker \"Keb Mo\" was coined by his original drummer, Quentin Dennard, and picked up by his record label as a \"street talk\" abbreviation of his given name.",
+        "born": 1951
       }
     ]
   }
