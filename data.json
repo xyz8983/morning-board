@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-04T17:18:37.599Z",
+  "generatedAt": "2026-10-04T22:11:10.865Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.8,
+    "tempC": 14,
     "condition": "Light drizzle",
     "code": 51,
-    "highC": 16.3,
-    "lowC": 13.6,
-    "rainChance": 35
+    "highC": 16,
+    "lowC": 13.1,
+    "rainChance": 33
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Dallas Cowboys",
-          "Game Today"
+          "Valkyries",
+          "Mythology"
         ],
-        "summary": "Dallas Cowboys game today is buzzing as fans eagerly anticipate the outcome."
+        "summary": "Valkyries are buzzing due to renewed interest in Norse mythology and fantasy media."
       },
       {
         "keywords": [
-          "ESPN FPI",
-          "Top 25 Week 5"
+          "Marshalls",
+          "Season 2"
         ],
-        "summary": "ESPN FPI Top 25 Week 5 is buzzing as college football rankings shift and generate debate."
+        "summary": "Marshalls Season 2 is buzzing as fans anticipate new episodes of the popular show."
       },
       {
         "keywords": [
-          "Angel City FC",
-          "Gotham FC"
+          "Donald Trump",
+          "Politics"
         ],
-        "summary": "Angel City FC vs Gotham is buzzing as fans follow the intense NWSL matchup."
+        "summary": "Donald Trump is buzzing due to ongoing political discussions and upcoming election news."
       },
       {
         "keywords": [
-          "Bears Jets",
-          "NFL Matchup"
+          "Football",
+          "Match"
         ],
-        "summary": "Bears Jets is buzzing as fans discuss the upcoming NFL game and team performances."
+        "summary": "Trinidad and Tobago vs Curaçao is buzzing as fans discuss the recent football match results."
       }
     ]
   },
@@ -91,56 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23972.29,
-        "changePct": -2.604204967482986
+        "changePct": -2.60432367866153
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My social battery percentage perfectly matches my phone's, and neither is charged.",
-      "explanation": "Connects the 'social battery' metaphor with low phone battery, highlighting a relatable, constantly drained modern existence."
+      "joke": "I love it when my phone tells me I've spent 8 hours on 'Screen Time'. My brain just goes, 'Finally, some recognition for my dedication.'",
+      "explanation": "It uses sarcasm to highlight the absurdity of modern digital addiction, framing excessive screen time as a laudable achievement."
     },
     "zh": {
-      "joke": "我每天用于思考午饭吃什么的脑力，已经足够写一篇博士论文了。"
+      "joke": "每次点外卖，看到“建议为骑手点赞”那个选项，我都会认真思考：这是道德绑架，还是社会责任抽查？"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Leigh-Anne Pinnock",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Leigh-Anne_Pinnock_%282022%29_%28cropped%29.jpg/330px-Leigh-Anne_Pinnock_%282022%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English singer (born 1991)",
-        "extract": "Leigh-Anne Pinnock is an English singer and actress. She rose to prominence as a member of the girl group Little Mix, which was formed on and won the eighth series of The X Factor. As part of the group, she won three Brit Awards and achieved 19 top-ten singles and five number-one entries on the UK Singles Chart before the group went on hiatus in 2022. In 2023, Pinnock began her solo career, releasing the singles \"Don't Say Love\" and \"My Love\" featuring Ayra Starr, both of which reached the top 30 of the UK Singles Chart.",
-        "born": 1991,
+        "name": "Auguste-Réal Angers",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Auguste-R%C3%A9al_Angers.jpg/330px-Auguste-R%C3%A9al_Angers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian politician and Lieutenant Governor of Quebec (1837–1919)",
+        "extract": "Sir Auguste-Réal Angers was a Canadian judge and parliamentarian, holding seats both as a member of the House of Commons of Canada, and as a Senator. He was born in 1837 probably in Quebec City and died in Westmount, Quebec, in 1919.",
+        "born": 1837,
         "highlights": [
-          "Member of the girl group Little Mix.",
-          "Won The X Factor and three Brit Awards with Little Mix.",
-          "Began solo career in 2023, releasing \"Don't Say Love\"."
+          "Canadian judge and parliamentarian.",
+          "Member of House of Commons of Canada.",
+          "Served as a Senator."
         ]
       },
       {
-        "name": "Violeta Parra",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Parra01f.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Chilean musician and folklorist (1917–1967)",
-        "extract": "Violeta del Carmen Parra Sandoval was a Chilean composer, singer-songwriter, folklorist, ethnomusicologist and visual artist. She pioneered the Nueva Canción Chilena, a renewal and a reinvention of Chilean folk music that would extend its sphere of influence outside Chile.",
-        "born": 1917,
+        "name": "Skip Heller",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Skip_Heller.jpg/330px-Skip_Heller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Musical artist",
+        "extract": "Fred Steven \"Skip\" Heller is an American singer, songwriter, and guitarist. Although active in many different types of music as a performer, producer, and historian coming out of the Philadelphia jazz scene, and in spite of local critical recognition, he did not make a large mark in his hometown.",
+        "born": 1965,
         "highlights": [
-          "Chilean composer, singer-songwriter, folklorist, and visual artist.",
-          "Pioneered the Nueva Canción Chilena.",
-          "Renewed and reinvented Chilean folk music."
+          "American singer, songwriter, and guitarist.",
+          "Active as performer, producer, and historian.",
+          "Came from the Philadelphia jazz scene."
         ]
       },
       {
-        "name": "Alvin Toffler",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Alvin_Toffler_02.jpg/330px-Alvin_Toffler_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American writer, futurist and businessman",
-        "extract": "Alvin Eugene Toffler was an American writer, futurist, and businessman known for his works discussing modern technologies, including the digital revolution and the communication revolution, with emphasis on their effects on cultures worldwide. He is regarded as one of the world's outstanding futurists.",
-        "born": 1928,
+        "name": "Adam Voges",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Adam_Voges.jpg/330px-Adam_Voges.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian cricketer",
+        "extract": "Adam Charles Voges is an Australian cricket coach and former cricketer who played for the Australian national team at Test, One Day International (ODI), and Twenty20 International (T20I) level, and also captained Western Australia and Perth Scorchers in domestic cricket. Voges' Test match batting average of 61.87 is third among men's Test cricketers who have played a minimum of 20 innings. Voges was included in the 2016 ICC Test Match Team of the Year. With his country, he won the 2009 ICC Champions Trophy.",
+        "born": 1979,
         "highlights": [
-          "American writer, futurist, and businessman.",
-          "Known for works discussing modern technologies.",
-          "Regarded as one of the world's outstanding futurists."
+          "Australian cricket coach and former cricketer.",
+          "Third highest Test batting average (61.87).",
+          "Won 2009 ICC Champions Trophy."
         ]
       }
     ]
