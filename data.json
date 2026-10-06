@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-06T18:48:35.121Z",
+  "generatedAt": "2026-10-06T22:52:31.268Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.7,
+    "tempC": 14,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 17.2,
+    "highC": 17.9,
     "lowC": 7.7,
     "rainChance": 0
   },
@@ -14,32 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Andrew Tate",
-          "Controversial Figure"
+          "Shohei Ohtani",
+          "MLB"
         ],
-        "summary": "Andrew Tate is buzzing due to his controversial online presence and legal issues."
+        "summary": "Why is Shohei Ohtani buzzing? He continues to dominate MLB with his two-way play, setting new records."
       },
       {
         "keywords": [
-          "Moon Jupiter",
-          "Celestial Event"
+          "Freddie Freeman",
+          "Dodgers"
         ],
-        "summary": "The conjunction of the Moon and Jupiter is buzzing, offering a stunning celestial viewing opportunity."
+        "summary": "Why is Freddie Freeman buzzing? His consistent hitting and leadership are key to the Dodgers' success."
       },
       {
         "keywords": [
-          "CBS News",
-          "Media Coverage"
+          "Kiké Hernández",
+          "Red Sox"
         ],
-        "summary": "CBS News is buzzing due to recent breaking stories and in-depth investigative reports."
+        "summary": "Why is Kiké Hernández buzzing? His recent performance and versatility are making headlines for the Red Sox."
       },
       {
         "keywords": [
-          "Albania",
-          "San Marino",
-          "Football Match"
+          "Famous Birthdays",
+          "Celebrities"
         ],
-        "summary": "The football match between Albania and San Marino is buzzing among sports fans."
+        "summary": "Why are famous birthdays buzzing? People are checking who shares their special day or celebrating notable figures."
       }
     ]
   },
@@ -49,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7826.08,
-        "changePct": 0.6705728747933818
+        "price": 7818.93,
+        "changePct": 0.5785990390985339
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27636.506,
-        "changePct": 0.5793725805036952
+        "price": 27599.887,
+        "changePct": 0.4461026206713739
       },
       {
         "region": "Europe",
@@ -98,36 +97,51 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone battery percentage is just a countdown to when I have to socially interact.",
-      "explanation": "It highlights modern reliance on phones for distraction and the dread of social interaction when the battery dies."
+      "joke": "My smart fridge just suggested I reorganize my entire life based on its inventory of half a lemon and some expired yogurt.",
+      "explanation": "Funny because it exaggerates AI's overreach and the absurdity of applying complex advice to mundane, irrelevant data."
     },
     "zh": {
-      "joke": "健身房里，我办的卡比我本人去得更勤。"
+      "joke": "感觉我不是在工作，我是在为人类发展贡献一份珍贵的‘无效内卷’样本。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sergei Mylnikov",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/8/81/Sergei_Mylnikov_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Soviet-Russian ice hockey player (1958–2017)",
-        "extract": "Sergei Aleksandrovich Mylnikov was a Soviet and Russian ice hockey goaltender and coach who competed in the Soviet Hockey League, National Hockey League, and the Swedish Division 2 between 1977 and 1995.",
-        "born": 1958
+        "name": "Sadiq al-Ahmar",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sheikh_sadiq_al-ahmar.jpg/330px-Sheikh_sadiq_al-ahmar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Yemeni politician and tribal leader (1956–2023)",
+        "extract": "Sheikh Sadiq bin Abdullah bin Hussein bin Nasser al-Ahmar was a Yemeni politician and leader of the Hashid tribal federation. He succeeded his father Abdullah ibn Husayn al-Ahmar in these positions after Abdullah's death in 2007. He is best known for his role in the 2011 Yemeni uprising, in which fighters under his command attacked and seized government facilities in the Battle of Sana'a.",
+        "born": 1956,
+        "highlights": [
+          "Yemeni politician and leader of Hashid tribal federation.",
+          "Succeeded father as leader in 2007.",
+          "Known for role in 2011 Yemeni uprising."
+        ]
       },
       {
-        "name": "Morné Morkel",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Morne_Morkel_as_Pakistan_bowling_coach_in_2023_%28cropped%29.jpg/330px-Morne_Morkel_as_Pakistan_bowling_coach_in_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South African cricketer",
-        "extract": "Morné Morkel is a South African-born cricket coach and former cricketer. He played international cricket for South Africa national cricket team between 2006 and 2018. He briefly served as the bowling coach of the Pakistan national cricket team in 2023 and was the bowling coach of the Indian team which won the 2025 ICC Champions Trophy, 2025 Asia Cup and 2026 Men's T20 World Cup",
-        "born": 1984
+        "name": "Tarmo Kink",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Tarmo_Kink.jpg/330px-Tarmo_Kink.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Estonian footballer",
+        "extract": "Tarmo Kink is an Estonian former footballer who played as a winger. He is the current manager of Paide Linnameeskond.",
+        "born": 1985,
+        "highlights": [
+          "Estonian former footballer.",
+          "Played as a winger.",
+          "Current manager of Paide Linnameeskond."
+        ]
       },
       {
-        "name": "Jan Keizer (referee)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Jan_Keizer_%281968%29.jpg/330px-Jan_Keizer_%281968%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Dutch football referee (1940–2024)",
-        "extract": "Johannes \"Jan\" Nicolaus Ignacius Keizer was a Dutch football referee. He refereed two matches in the 1986 FIFA World Cup in Mexico, and one match in the 1984 UEFA European Football Championship in France.",
-        "born": 1940
+        "name": "Lonnie Johnson (inventor)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Lonnie_Johnson%2C_Office_of_Naval_Research_%28crop%29.jpg/330px-Lonnie_Johnson%2C_Office_of_Naval_Research_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American inventor and engineer (born 1949)",
+        "extract": "Lonnie George Johnson is an American inventor, aerospace engineer, and entrepreneur, best known for inventing the bestselling Super Soaker water gun in 1989. He previously served in the U.S. Air Force and worked at NASA's Jet Propulsion Laboratory.",
+        "born": 1949,
+        "highlights": [
+          "American inventor and aerospace engineer.",
+          "Invented the bestselling Super Soaker water gun.",
+          "Worked at NASA's Jet Propulsion Laboratory."
+        ]
       }
     ]
   }
