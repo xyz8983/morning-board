@@ -1,44 +1,45 @@
 {
-  "generatedAt": "2026-10-06T00:34:15.606Z",
+  "generatedAt": "2026-10-06T18:48:35.121Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 21.6,
-    "lowC": 12.5,
-    "rainChance": 1
+    "tempC": 16.7,
+    "condition": "Clear sky",
+    "code": 0,
+    "highC": 17.2,
+    "lowC": 7.7,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Timberwolves",
-          "Bucks"
+          "Andrew Tate",
+          "Controversial Figure"
         ],
-        "summary": "Timberwolves vs Bucks is buzzing due to a recent high-stakes basketball game."
+        "summary": "Andrew Tate is buzzing due to his controversial online presence and legal issues."
       },
       {
         "keywords": [
-          "Trump",
-          "Grand Island"
+          "Moon Jupiter",
+          "Celestial Event"
         ],
-        "summary": "Trump in Grand Island is buzzing due to a recent political rally or campaign event."
+        "summary": "The conjunction of the Moon and Jupiter is buzzing, offering a stunning celestial viewing opportunity."
       },
       {
         "keywords": [
-          "Taysom Hill",
-          "NFL Player"
+          "CBS News",
+          "Media Coverage"
         ],
-        "summary": "Taysom Hill is buzzing due to his versatile play or recent NFL performance."
+        "summary": "CBS News is buzzing due to recent breaking stories and in-depth investigative reports."
       },
       {
         "keywords": [
-          "Surfing",
-          "Water Sport"
+          "Albania",
+          "San Marino",
+          "Football Match"
         ],
-        "summary": "Surfing is buzzing due to its growing popularity and recent major competitions."
+        "summary": "The football match between Albania and San Marino is buzzing among sports fans."
       }
     ]
   },
@@ -48,29 +49,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7773.95,
-        "changePct": 0.6633673109992277
+        "price": 7826.08,
+        "changePct": 0.6705728747933818
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27477.31,
-        "changePct": 1.0534678505790718
+        "price": 27636.506,
+        "changePct": 0.5793725805036952
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6242.14,
-        "changePct": 0.05834735914082436
+        "price": 6272.23,
+        "changePct": 0.48204622132792974
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10497.94,
-        "changePct": 0.344008526135183
+        "price": 10541.69,
+        "changePct": 0.41674842873935264
       },
       {
         "region": "Asia",
@@ -90,58 +91,43 @@
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24040.34,
-        "changePct": 0.28386941756502726
+        "price": 24280.56,
+        "changePct": 1.2859008105188157
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My social battery is so low, I just updated my 'Do Not Disturb' settings to 'Do Not Exist'.",
-      "explanation": "It uses tech terminology to comically express extreme social exhaustion, a relatable modern feeling."
+      "joke": "My phone battery percentage is just a countdown to when I have to socially interact.",
+      "explanation": "It highlights modern reliance on phones for distraction and the dread of social interaction when the battery dies."
     },
     "zh": {
-      "joke": "我的人生理想就是早日实现躺平，但目前看来，我只实现了躺着加班。"
+      "joke": "健身房里，我办的卡比我本人去得更勤。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Goh Keng Swee",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Goh_Keng_Swee%2C_1967_%283x4_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Former Deputy Prime Minister of Singapore",
-        "extract": "Goh Keng Swee was a Singaporean statesman and economist who served as the second Deputy Prime Minister of Singapore between 1973 and 1985. Goh is widely recognised as one of the founding fathers of modern Singapore.",
-        "born": 1918,
-        "highlights": [
-          "Second Deputy Prime Minister of Singapore (1973-1985).",
-          "Recognised as a founding father of modern Singapore.",
-          "Singaporean statesman and economist."
-        ]
+        "name": "Sergei Mylnikov",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/8/81/Sergei_Mylnikov_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Soviet-Russian ice hockey player (1958–2017)",
+        "extract": "Sergei Aleksandrovich Mylnikov was a Soviet and Russian ice hockey goaltender and coach who competed in the Soviet Hockey League, National Hockey League, and the Swedish Division 2 between 1977 and 1995.",
+        "born": 1958
       },
       {
-        "name": "Fred Travalena",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fred_Travelena_1999.jpg/330px-Fred_Travelena_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American comedian (1942–2009)",
-        "extract": "Frederick Albert Travalena III was an American entertainer, specializing in comedy and impressions.",
-        "born": 1942,
-        "highlights": [
-          "American entertainer.",
-          "Specialized in comedy.",
-          "Specialized in impressions."
-        ]
+        "name": "Morné Morkel",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Morne_Morkel_as_Pakistan_bowling_coach_in_2023_%28cropped%29.jpg/330px-Morne_Morkel_as_Pakistan_bowling_coach_in_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "South African cricketer",
+        "extract": "Morné Morkel is a South African-born cricket coach and former cricketer. He played international cricket for South Africa national cricket team between 2006 and 2018. He briefly served as the bowling coach of the Pakistan national cricket team in 2023 and was the bowling coach of the Indian team which won the 2025 ICC Champions Trophy, 2025 Asia Cup and 2026 Men's T20 World Cup",
+        "born": 1984
       },
       {
-        "name": "Richard Dedekind",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Richard_Dedekind_1900s.jpg/330px-Richard_Dedekind_1900s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German mathematician (1831–1916)",
-        "extract": "Julius Wilhelm Richard Dedekind was a German mathematician who made important contributions to number theory, abstract algebra, and the axiomatic foundations of arithmetic. His best known contribution is the definition of real numbers through the notion of Dedekind cut. He is also considered a pioneer in the development of modern set theory and of the philosophy of mathematics known as logicism.",
-        "born": 1831,
-        "highlights": [
-          "Defined real numbers through the Dedekind cut.",
-          "Pioneer in modern set theory.",
-          "Contributions to number theory and abstract algebra."
-        ]
+        "name": "Jan Keizer (referee)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Jan_Keizer_%281968%29.jpg/330px-Jan_Keizer_%281968%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Dutch football referee (1940–2024)",
+        "extract": "Johannes \"Jan\" Nicolaus Ignacius Keizer was a Dutch football referee. He refereed two matches in the 1986 FIFA World Cup in Mexico, and one match in the 1984 UEFA European Football Championship in France.",
+        "born": 1940
       }
     ]
   }
