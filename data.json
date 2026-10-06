@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-04T22:11:10.865Z",
+  "generatedAt": "2026-10-06T00:34:15.606Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 16,
-    "lowC": 13.1,
-    "rainChance": 33
+    "tempC": 15,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 21.6,
+    "lowC": 12.5,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Valkyries",
-          "Mythology"
+          "Timberwolves",
+          "Bucks"
         ],
-        "summary": "Valkyries are buzzing due to renewed interest in Norse mythology and fantasy media."
+        "summary": "Timberwolves vs Bucks is buzzing due to a recent high-stakes basketball game."
       },
       {
         "keywords": [
-          "Marshalls",
-          "Season 2"
+          "Trump",
+          "Grand Island"
         ],
-        "summary": "Marshalls Season 2 is buzzing as fans anticipate new episodes of the popular show."
+        "summary": "Trump in Grand Island is buzzing due to a recent political rally or campaign event."
       },
       {
         "keywords": [
-          "Donald Trump",
-          "Politics"
+          "Taysom Hill",
+          "NFL Player"
         ],
-        "summary": "Donald Trump is buzzing due to ongoing political discussions and upcoming election news."
+        "summary": "Taysom Hill is buzzing due to his versatile play or recent NFL performance."
       },
       {
         "keywords": [
-          "Football",
-          "Match"
+          "Surfing",
+          "Water Sport"
         ],
-        "summary": "Trinidad and Tobago vs Curaçao is buzzing as fans discuss the recent football match results."
+        "summary": "Surfing is buzzing due to its growing popularity and recent major competitions."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7722.72,
-        "changePct": 0.7339772645748741
+        "price": 7773.95,
+        "changePct": 0.6633673109992277
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27190.863,
-        "changePct": 1.1881056580181406
+        "price": 27477.31,
+        "changePct": 1.0534678505790718
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6238.5,
-        "changePct": 1.020978228307252
+        "price": 6242.14,
+        "changePct": 0.05834735914082436
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10461.95,
-        "changePct": 0.32267963138768024
+        "price": 10497.94,
+        "changePct": 0.344008526135183
       },
       {
         "region": "Asia",
@@ -90,57 +90,57 @@
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23972.29,
-        "changePct": -2.60432367866153
+        "price": 24040.34,
+        "changePct": 0.28386941756502726
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I love it when my phone tells me I've spent 8 hours on 'Screen Time'. My brain just goes, 'Finally, some recognition for my dedication.'",
-      "explanation": "It uses sarcasm to highlight the absurdity of modern digital addiction, framing excessive screen time as a laudable achievement."
+      "joke": "My social battery is so low, I just updated my 'Do Not Disturb' settings to 'Do Not Exist'.",
+      "explanation": "It uses tech terminology to comically express extreme social exhaustion, a relatable modern feeling."
     },
     "zh": {
-      "joke": "每次点外卖，看到“建议为骑手点赞”那个选项，我都会认真思考：这是道德绑架，还是社会责任抽查？"
+      "joke": "我的人生理想就是早日实现躺平，但目前看来，我只实现了躺着加班。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Auguste-Réal Angers",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Auguste-R%C3%A9al_Angers.jpg/330px-Auguste-R%C3%A9al_Angers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian politician and Lieutenant Governor of Quebec (1837–1919)",
-        "extract": "Sir Auguste-Réal Angers was a Canadian judge and parliamentarian, holding seats both as a member of the House of Commons of Canada, and as a Senator. He was born in 1837 probably in Quebec City and died in Westmount, Quebec, in 1919.",
-        "born": 1837,
+        "name": "Goh Keng Swee",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Goh_Keng_Swee%2C_1967_%283x4_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Former Deputy Prime Minister of Singapore",
+        "extract": "Goh Keng Swee was a Singaporean statesman and economist who served as the second Deputy Prime Minister of Singapore between 1973 and 1985. Goh is widely recognised as one of the founding fathers of modern Singapore.",
+        "born": 1918,
         "highlights": [
-          "Canadian judge and parliamentarian.",
-          "Member of House of Commons of Canada.",
-          "Served as a Senator."
+          "Second Deputy Prime Minister of Singapore (1973-1985).",
+          "Recognised as a founding father of modern Singapore.",
+          "Singaporean statesman and economist."
         ]
       },
       {
-        "name": "Skip Heller",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Skip_Heller.jpg/330px-Skip_Heller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Musical artist",
-        "extract": "Fred Steven \"Skip\" Heller is an American singer, songwriter, and guitarist. Although active in many different types of music as a performer, producer, and historian coming out of the Philadelphia jazz scene, and in spite of local critical recognition, he did not make a large mark in his hometown.",
-        "born": 1965,
+        "name": "Fred Travalena",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fred_Travelena_1999.jpg/330px-Fred_Travelena_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American comedian (1942–2009)",
+        "extract": "Frederick Albert Travalena III was an American entertainer, specializing in comedy and impressions.",
+        "born": 1942,
         "highlights": [
-          "American singer, songwriter, and guitarist.",
-          "Active as performer, producer, and historian.",
-          "Came from the Philadelphia jazz scene."
+          "American entertainer.",
+          "Specialized in comedy.",
+          "Specialized in impressions."
         ]
       },
       {
-        "name": "Adam Voges",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Adam_Voges.jpg/330px-Adam_Voges.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian cricketer",
-        "extract": "Adam Charles Voges is an Australian cricket coach and former cricketer who played for the Australian national team at Test, One Day International (ODI), and Twenty20 International (T20I) level, and also captained Western Australia and Perth Scorchers in domestic cricket. Voges' Test match batting average of 61.87 is third among men's Test cricketers who have played a minimum of 20 innings. Voges was included in the 2016 ICC Test Match Team of the Year. With his country, he won the 2009 ICC Champions Trophy.",
-        "born": 1979,
+        "name": "Richard Dedekind",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Richard_Dedekind_1900s.jpg/330px-Richard_Dedekind_1900s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German mathematician (1831–1916)",
+        "extract": "Julius Wilhelm Richard Dedekind was a German mathematician who made important contributions to number theory, abstract algebra, and the axiomatic foundations of arithmetic. His best known contribution is the definition of real numbers through the notion of Dedekind cut. He is also considered a pioneer in the development of modern set theory and of the philosophy of mathematics known as logicism.",
+        "born": 1831,
         "highlights": [
-          "Australian cricket coach and former cricketer.",
-          "Third highest Test batting average (61.87).",
-          "Won 2009 ICC Champions Trophy."
+          "Defined real numbers through the Dedekind cut.",
+          "Pioneer in modern set theory.",
+          "Contributions to number theory and abstract algebra."
         ]
       }
     ]
