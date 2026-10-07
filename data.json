@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-07T19:13:05.181Z",
+  "generatedAt": "2026-10-07T23:26:24.370Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19,
+    "tempC": 15.1,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 19,
+    "highC": 19.5,
     "lowC": 7.2,
     "rainChance": 0
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Tank Dell",
-          "NFL Player"
+          "Amber Alert",
+          "Emergency"
         ],
-        "summary": "Tank Dell is buzzing due to his impressive rookie season performance and recent injury updates."
+        "summary": "Amber Alert is buzzing due to recent activations and public safety concerns."
       },
       {
         "keywords": [
-          "Year 2027",
-          "Future Planning"
+          "Shohei Ohtani",
+          "MLB Star"
         ],
-        "summary": "The year 2027 is buzzing often in discussions about future tech, climate goals, or political timelines."
+        "summary": "Shohei Ohtani is buzzing as fans discuss his latest performance and team impact."
       },
       {
         "keywords": [
-          "Haiku OS",
-          "Operating System"
+          "Dodgers",
+          "Braves"
         ],
-        "summary": "Haiku 5.5 is buzzing among open-source enthusiasts for its continued development and new features."
+        "summary": "Dodgers Braves is buzzing as fans follow their highly anticipated baseball matchup."
       },
       {
         "keywords": [
-          "Robert Gasser",
-          "MLB Pitcher"
+          "Mike Yastrzemski",
+          "Baseball Player"
         ],
-        "summary": "Robert Gasser is buzzing due to his recent MLB debut and strong performance for the Brewers."
+        "summary": "Mike Yastrzemski is buzzing due to his recent impressive plays and fan discussions."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7800.28,
-        "changePct": -0.23852368546592112
+        "price": 7801.77,
+        "changePct": -0.21946736957614218
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27506.771,
-        "changePct": -0.3373781928889715
+        "price": 27538.691,
+        "changePct": -0.22172554547053008
       },
       {
         "region": "Europe",
@@ -95,43 +95,51 @@
       }
     ]
   },
+  "joke": {
+    "en": {
+      "joke": "My current relationship status is 'waiting for the delivery driver to arrive'.",
+      "explanation": "It's a deadpan, ironic comment on modern life and relationships, highlighting reliance on delivery apps over human connection."
+    },
+    "zh": {
+      "joke": "根据最新情感数据分析，我的单身状态属于‘国家一级保护非物质文化遗产’。"
+    }
+  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Rhyno",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Rhyno_At_Raw_2017.jpg/330px-Rhyno_At_Raw_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American professional wrestler (born 1975)",
-        "extract": "Terrance Guido Gerin is an American professional wrestler better known by the ring name Rhyno. He is best known for his tenures in Extreme Championship Wrestling (ECW), WWE, and Total Nonstop Action Wrestling (TNA).",
-        "born": 1975,
+        "name": "Clive James",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Author_photo_of_Clive_James_by_Brian_Aris_%281986%29.jpg/330px-Author_photo_of_Clive_James_by_Brian_Aris_%281986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian writer and broadcaster (1939–2019)",
+        "extract": "Clive James was an Australian critic, journalist, broadcaster, writer and lyricist who lived and worked in the United Kingdom from 1962 until his death in 2019. He began his career specialising in literary criticism before becoming television critic for The Observer in 1972, where he made his name for his wry, deadpan humour.",
+        "born": 1939,
         "highlights": [
-          "American professional wrestler Rhyno.",
-          "Known for tenures in ECW.",
-          "Also in WWE and TNA."
+          "Australian critic, journalist, broadcaster, writer, and lyricist.",
+          "Television critic for The Observer from 1972.",
+          "Known for his wry, deadpan humour."
         ]
       },
       {
-        "name": "Frederick I of Denmark",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Frederik1dk.jpg/330px-Frederik1dk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "King of Denmark (1523–1533) and Norway (1524–1533)",
-        "extract": "Frederick I was King of Denmark and Norway from 1523 and 1524, respectively, until his death in 1533, and earlier co-duke Duke of Schleswig and Holstein.",
-        "born": 1471,
+        "name": "Sami Hyypiä",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sami_Hyypia_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Finnish football manager (born 1973)",
+        "extract": "Sami Tuomas Hyypiä is a Finnish professional football manager and a former player who played as a centre-back.",
+        "born": 1973,
         "highlights": [
-          "King of Denmark from 1523 to 1533.",
-          "King of Norway from 1524 to 1533.",
-          "Co-duke of Schleswig and Holstein."
+          "Finnish professional football manager.",
+          "Former player, played as a centre-back."
         ]
       },
       {
-        "name": "Jean-Baptiste Vuillaume",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/J.B.Vuillaume_photo_1860_Moulin_Workshop.jpg/330px-J.B.Vuillaume_photo_1860_Moulin_Workshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French luthier and inventor (1798–1875)",
-        "extract": "Jean-Baptiste Vuillaume was a French luthier, businessman, inventor and winner of many awards.",
-        "born": 1798,
+        "name": "Mathias Dyngeland",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Keeper_Mathias_Dyngeland%2C_Sogndal-Rosenborg_07-15-2017-2_%28cropped%29.jpg/330px-Keeper_Mathias_Dyngeland%2C_Sogndal-Rosenborg_07-15-2017-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Norwegian footballer (born 1995)",
+        "extract": "Mathias Lønne Dyngeland is a Norwegian footballer who plays as a goalkeeper for Brann in Eliteserien and the Norway national team. He has previously played for Fana and Sogndal.",
+        "born": 1995,
         "highlights": [
-          "French luthier and businessman.",
-          "Also an inventor.",
-          "Winner of many awards."
+          "Norwegian footballer and goalkeeper.",
+          "Plays for Brann in Eliteserien.",
+          "Plays for the Norway national team."
         ]
       }
     ]
