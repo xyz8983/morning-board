@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-06T22:52:31.268Z",
+  "generatedAt": "2026-10-07T19:13:05.181Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14,
+    "tempC": 19,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 17.9,
-    "lowC": 7.7,
+    "highC": 19,
+    "lowC": 7.2,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Shohei Ohtani",
-          "MLB"
+          "Tank Dell",
+          "NFL Player"
         ],
-        "summary": "Why is Shohei Ohtani buzzing? He continues to dominate MLB with his two-way play, setting new records."
+        "summary": "Tank Dell is buzzing due to his impressive rookie season performance and recent injury updates."
       },
       {
         "keywords": [
-          "Freddie Freeman",
-          "Dodgers"
+          "Year 2027",
+          "Future Planning"
         ],
-        "summary": "Why is Freddie Freeman buzzing? His consistent hitting and leadership are key to the Dodgers' success."
+        "summary": "The year 2027 is buzzing often in discussions about future tech, climate goals, or political timelines."
       },
       {
         "keywords": [
-          "Kiké Hernández",
-          "Red Sox"
+          "Haiku OS",
+          "Operating System"
         ],
-        "summary": "Why is Kiké Hernández buzzing? His recent performance and versatility are making headlines for the Red Sox."
+        "summary": "Haiku 5.5 is buzzing among open-source enthusiasts for its continued development and new features."
       },
       {
         "keywords": [
-          "Famous Birthdays",
-          "Celebrities"
+          "Robert Gasser",
+          "MLB Pitcher"
         ],
-        "summary": "Why are famous birthdays buzzing? People are checking who shares their special day or celebrating notable figures."
+        "summary": "Robert Gasser is buzzing due to his recent MLB debut and strong performance for the Brewers."
       }
     ]
   },
@@ -48,29 +48,29 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7818.93,
-        "changePct": 0.5785990390985339
+        "price": 7800.28,
+        "changePct": -0.23852368546592112
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27599.887,
-        "changePct": 0.4461026206713739
+        "price": 27506.771,
+        "changePct": -0.3373781928889715
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6272.23,
-        "changePct": 0.48204622132792974
+        "price": 6180.29,
+        "changePct": -1.465826348842431
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10541.69,
-        "changePct": 0.41674842873935264
+        "price": 10458.5,
+        "changePct": -0.7891524034571354
       },
       {
         "region": "Asia",
@@ -90,57 +90,48 @@
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24280.56,
-        "changePct": 1.2859008105188157
+        "price": 24130.5,
+        "changePct": 0.3752033044512786
       }
     ]
-  },
-  "joke": {
-    "en": {
-      "joke": "My smart fridge just suggested I reorganize my entire life based on its inventory of half a lemon and some expired yogurt.",
-      "explanation": "Funny because it exaggerates AI's overreach and the absurdity of applying complex advice to mundane, irrelevant data."
-    },
-    "zh": {
-      "joke": "感觉我不是在工作，我是在为人类发展贡献一份珍贵的‘无效内卷’样本。"
-    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sadiq al-Ahmar",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sheikh_sadiq_al-ahmar.jpg/330px-Sheikh_sadiq_al-ahmar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Yemeni politician and tribal leader (1956–2023)",
-        "extract": "Sheikh Sadiq bin Abdullah bin Hussein bin Nasser al-Ahmar was a Yemeni politician and leader of the Hashid tribal federation. He succeeded his father Abdullah ibn Husayn al-Ahmar in these positions after Abdullah's death in 2007. He is best known for his role in the 2011 Yemeni uprising, in which fighters under his command attacked and seized government facilities in the Battle of Sana'a.",
-        "born": 1956,
+        "name": "Rhyno",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Rhyno_At_Raw_2017.jpg/330px-Rhyno_At_Raw_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American professional wrestler (born 1975)",
+        "extract": "Terrance Guido Gerin is an American professional wrestler better known by the ring name Rhyno. He is best known for his tenures in Extreme Championship Wrestling (ECW), WWE, and Total Nonstop Action Wrestling (TNA).",
+        "born": 1975,
         "highlights": [
-          "Yemeni politician and leader of Hashid tribal federation.",
-          "Succeeded father as leader in 2007.",
-          "Known for role in 2011 Yemeni uprising."
+          "American professional wrestler Rhyno.",
+          "Known for tenures in ECW.",
+          "Also in WWE and TNA."
         ]
       },
       {
-        "name": "Tarmo Kink",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Tarmo_Kink.jpg/330px-Tarmo_Kink.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Estonian footballer",
-        "extract": "Tarmo Kink is an Estonian former footballer who played as a winger. He is the current manager of Paide Linnameeskond.",
-        "born": 1985,
+        "name": "Frederick I of Denmark",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Frederik1dk.jpg/330px-Frederik1dk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "King of Denmark (1523–1533) and Norway (1524–1533)",
+        "extract": "Frederick I was King of Denmark and Norway from 1523 and 1524, respectively, until his death in 1533, and earlier co-duke Duke of Schleswig and Holstein.",
+        "born": 1471,
         "highlights": [
-          "Estonian former footballer.",
-          "Played as a winger.",
-          "Current manager of Paide Linnameeskond."
+          "King of Denmark from 1523 to 1533.",
+          "King of Norway from 1524 to 1533.",
+          "Co-duke of Schleswig and Holstein."
         ]
       },
       {
-        "name": "Lonnie Johnson (inventor)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Lonnie_Johnson%2C_Office_of_Naval_Research_%28crop%29.jpg/330px-Lonnie_Johnson%2C_Office_of_Naval_Research_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American inventor and engineer (born 1949)",
-        "extract": "Lonnie George Johnson is an American inventor, aerospace engineer, and entrepreneur, best known for inventing the bestselling Super Soaker water gun in 1989. He previously served in the U.S. Air Force and worked at NASA's Jet Propulsion Laboratory.",
-        "born": 1949,
+        "name": "Jean-Baptiste Vuillaume",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/J.B.Vuillaume_photo_1860_Moulin_Workshop.jpg/330px-J.B.Vuillaume_photo_1860_Moulin_Workshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French luthier and inventor (1798–1875)",
+        "extract": "Jean-Baptiste Vuillaume was a French luthier, businessman, inventor and winner of many awards.",
+        "born": 1798,
         "highlights": [
-          "American inventor and aerospace engineer.",
-          "Invented the bestselling Super Soaker water gun.",
-          "Worked at NASA's Jet Propulsion Laboratory."
+          "French luthier and businessman.",
+          "Also an inventor.",
+          "Winner of many awards."
         ]
       }
     ]
