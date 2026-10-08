@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-07T23:26:24.370Z",
+  "generatedAt": "2026-10-08T19:09:21.290Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.1,
-    "condition": "Clear sky",
-    "code": 0,
-    "highC": 19.5,
-    "lowC": 7.2,
-    "rainChance": 0
+    "tempC": 24.3,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 24.3,
+    "lowC": 13.1,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Amber Alert",
-          "Emergency"
+          "MTG",
+          "Warhammer 40k"
         ],
-        "summary": "Amber Alert is buzzing due to recent activations and public safety concerns."
+        "summary": "Why it's buzzing: Fans are excited about the potential reprint of popular Magic: The Gathering Warhammer 40k cards."
       },
       {
         "keywords": [
-          "Shohei Ohtani",
-          "MLB Star"
+          "Collision",
+          "Event"
         ],
-        "summary": "Shohei Ohtani is buzzing as fans discuss his latest performance and team impact."
+        "summary": "Why it's buzzing: Discussions are emerging around a recent significant collision event, sparking public interest."
       },
       {
         "keywords": [
-          "Dodgers",
-          "Braves"
+          "Nobel Prize",
+          "Peace"
         ],
-        "summary": "Dodgers Braves is buzzing as fans follow their highly anticipated baseball matchup."
+        "summary": "Why it's buzzing: Speculation and anticipation are high for the upcoming announcement of the Nobel Peace Prize winner."
       },
       {
         "keywords": [
-          "Mike Yastrzemski",
-          "Baseball Player"
+          "Trump",
+          "Financial Disclosure"
         ],
-        "summary": "Mike Yastrzemski is buzzing due to his recent impressive plays and fan discussions."
+        "summary": "Why it's buzzing: Donald Trump's August financial disclosure is generating significant public and media attention."
       }
     ]
   },
@@ -48,99 +48,85 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7801.77,
-        "changePct": -0.21946736957614218
+        "price": 7754.71,
+        "changePct": -0.6031964541379764
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27538.691,
-        "changePct": -0.22172554547053008
+        "price": 27154.766,
+        "changePct": -1.3941294450052084
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6180.29,
-        "changePct": -1.465826348842431
+        "price": 6126.73,
+        "changePct": -0.8666259997508273
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10458.5,
-        "changePct": -0.7891524034571354
+        "price": 10441.6,
+        "changePct": -0.16159105034182372
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3842.195,
-        "changePct": 0.3066219373702919
+        "price": 3811.9043,
+        "changePct": -0.7883593402582904
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4357.616,
-        "changePct": 0.28550979124138876
+        "price": 4310.2764,
+        "changePct": -1.0863578447268893
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24130.5,
-        "changePct": 0.3752033044512786
+        "price": 23785.79,
+        "changePct": -2.0378820951706205
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My current relationship status is 'waiting for the delivery driver to arrive'.",
-      "explanation": "It's a deadpan, ironic comment on modern life and relationships, highlighting reliance on delivery apps over human connection."
+      "joke": "I just hope my Wi-Fi lasts long enough during the apocalypse so I can post a 'last selfie' and check for likes before impact.",
+      "explanation": "It's a deadpan, dark commentary on modern social media addiction and the need for validation, even during a global catastrophe."
     },
     "zh": {
-      "joke": "根据最新情感数据分析，我的单身状态属于‘国家一级保护非物质文化遗产’。"
+      "joke": "我不是在健身，我只是在为身体举办一场名为‘抵抗地心引力’的长期艺术展。目前的展品嘛，看起来是快要和大地母亲深度融合了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Clive James",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Author_photo_of_Clive_James_by_Brian_Aris_%281986%29.jpg/330px-Author_photo_of_Clive_James_by_Brian_Aris_%281986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian writer and broadcaster (1939–2019)",
-        "extract": "Clive James was an Australian critic, journalist, broadcaster, writer and lyricist who lived and worked in the United Kingdom from 1962 until his death in 2019. He began his career specialising in literary criticism before becoming television critic for The Observer in 1972, where he made his name for his wry, deadpan humour.",
-        "born": 1939,
-        "highlights": [
-          "Australian critic, journalist, broadcaster, writer, and lyricist.",
-          "Television critic for The Observer from 1972.",
-          "Known for his wry, deadpan humour."
-        ]
+        "name": "Georgy Geshev",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Georgi_Geshev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Bulgarian chess player",
+        "extract": "Georgy (Georgi) Geshev (Geschew) was a Bulgarian chess master.",
+        "born": 1903
       },
       {
-        "name": "Sami Hyypiä",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sami_Hyypia_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Finnish football manager (born 1973)",
-        "extract": "Sami Tuomas Hyypiä is a Finnish professional football manager and a former player who played as a centre-back.",
-        "born": 1973,
-        "highlights": [
-          "Finnish professional football manager.",
-          "Former player, played as a centre-back."
-        ]
+        "name": "César Milstein",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Milstein_lnp_restauraci%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Argentine biochemist (1927–2002)",
+        "extract": "César Milstein, CH, FRS was an Argentine biochemist in the field of antibody research. Milstein shared the Nobel Prize in Physiology or Medicine in 1984 with Niels Kaj Jerne and Georges J. F. Köhler for developing the hybridoma technique for the production of monoclonal antibodies.",
+        "born": 1927
       },
       {
-        "name": "Mathias Dyngeland",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Keeper_Mathias_Dyngeland%2C_Sogndal-Rosenborg_07-15-2017-2_%28cropped%29.jpg/330px-Keeper_Mathias_Dyngeland%2C_Sogndal-Rosenborg_07-15-2017-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Norwegian footballer (born 1995)",
-        "extract": "Mathias Lønne Dyngeland is a Norwegian footballer who plays as a goalkeeper for Brann in Eliteserien and the Norway national team. He has previously played for Fana and Sogndal.",
-        "born": 1995,
-        "highlights": [
-          "Norwegian footballer and goalkeeper.",
-          "Plays for Brann in Eliteserien.",
-          "Plays for the Norway national team."
-        ]
+        "name": "Ursula von der Leyen",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/330px-Ursula_von_der_Leyen_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "President of the European Commission since 2019",
+        "extract": "Ursula Gertrud von der Leyen is a German politician and physician who has served as President of the European Commission since 2019. She served in the German federal government between 2005 and 2019, holding positions in Angela Merkel's cabinet, most recently as Federal Minister for Defence. She is a member of the centre-right Christian Democratic Union (CDU) and its affiliated European political party, the European People's Party (EPP). On 7 March 2024, the EPP elected her as its Spitzenkandidat to lead the campaign for the 2024 European Parliament elections. She was re-elected to head the Commission in July 2024.",
+        "born": 1958
       }
     ]
   }
