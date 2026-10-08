@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-08T19:09:21.290Z",
+  "generatedAt": "2026-10-08T23:37:42.412Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.3,
+    "tempC": 18,
     "condition": "Overcast",
     "code": 3,
-    "highC": 24.3,
+    "highC": 24.7,
     "lowC": 13.1,
     "rainChance": 1
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "MTG",
-          "Warhammer 40k"
+          "Jayson Tatum",
+          "NBA Star"
         ],
-        "summary": "Why it's buzzing: Fans are excited about the potential reprint of popular Magic: The Gathering Warhammer 40k cards."
+        "summary": "Jayson Tatum is buzzing due to his recent standout performances in the NBA playoffs."
       },
       {
         "keywords": [
-          "Collision",
-          "Event"
+          "James Harden",
+          "Trade Rumors"
         ],
-        "summary": "Why it's buzzing: Discussions are emerging around a recent significant collision event, sparking public interest."
+        "summary": "James Harden is buzzing amidst ongoing trade speculation and team performance discussions."
       },
       {
         "keywords": [
-          "Nobel Prize",
-          "Peace"
+          "NHL",
+          "Sharks Blues"
         ],
-        "summary": "Why it's buzzing: Speculation and anticipation are high for the upcoming announcement of the Nobel Peace Prize winner."
+        "summary": "Sharks vs. Blues is buzzing as fans react to their recent intense hockey matchup."
       },
       {
         "keywords": [
-          "Trump",
-          "Financial Disclosure"
+          "Matthew Rhys",
+          "New Role"
         ],
-        "summary": "Why it's buzzing: Donald Trump's August financial disclosure is generating significant public and media attention."
+        "summary": "Matthew Rhys is buzzing due to his critically acclaimed performance in a new television series."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7754.71,
-        "changePct": -0.6031964541379764
+        "price": 7765.36,
+        "changePct": -0.46668896929800235
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27154.766,
-        "changePct": -1.3941294450052084
+        "price": 27193.34,
+        "changePct": -1.254057427784054
       },
       {
         "region": "Europe",
@@ -97,36 +97,51 @@
   },
   "joke": {
     "en": {
-      "joke": "I just hope my Wi-Fi lasts long enough during the apocalypse so I can post a 'last selfie' and check for likes before impact.",
-      "explanation": "It's a deadpan, dark commentary on modern social media addiction and the need for validation, even during a global catastrophe."
+      "joke": "The algorithm knows I'm sad before I do.",
+      "explanation": "This joke is funny because it's a relatable, deadpan observation on how eerily accurate social media algorithms are at predicting our emotional states through our digital behavior."
     },
     "zh": {
-      "joke": "我不是在健身，我只是在为身体举办一场名为‘抵抗地心引力’的长期艺术展。目前的展品嘛，看起来是快要和大地母亲深度融合了。"
+      "joke": "每次我下定决心要高效工作时，手机就会自动识别到这种紧张气氛，然后立马给我推送一堆轻松愉快的短视频，美其名曰“放松辅助”。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Georgy Geshev",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Georgi_Geshev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Bulgarian chess player",
-        "extract": "Georgy (Georgi) Geshev (Geschew) was a Bulgarian chess master.",
-        "born": 1903
+        "name": "Saumyendranath Tagore",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Saumyendranath_Tagore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Indian communist leader and intellectual",
+        "extract": "Saumyendranath Tagore, son of Sudhindranath Tagore, fourth child of Dwijendranath Tagore, and grandnephew of Rabindranath Tagore, was the leader of the Revolutionary Communist Party of India, and the first translator of The Communist Manifesto into Bengali, which was published in Langal magazine edited by Kazi Nazrul Islam.",
+        "born": 1901,
+        "highlights": [
+          "Leader of the Revolutionary Communist Party of India.",
+          "First translator of The Communist Manifesto into Bengali.",
+          "Grandnephew of Rabindranath Tagore."
+        ]
       },
       {
-        "name": "César Milstein",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Milstein_lnp_restauraci%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Argentine biochemist (1927–2002)",
-        "extract": "César Milstein, CH, FRS was an Argentine biochemist in the field of antibody research. Milstein shared the Nobel Prize in Physiology or Medicine in 1984 with Niels Kaj Jerne and Georges J. F. Köhler for developing the hybridoma technique for the production of monoclonal antibodies.",
-        "born": 1927
+        "name": "Ernst Kretschmer",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ernst_Kretschmer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "German psychchiatrist",
+        "extract": "Ernst Kretschmer was a German psychiatrist who researched the human constitution and established a typology.",
+        "born": 1888,
+        "highlights": [
+          "German psychiatrist.",
+          "Researched the human constitution.",
+          "Established a typology."
+        ]
       },
       {
-        "name": "Ursula von der Leyen",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/330px-Ursula_von_der_Leyen_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "President of the European Commission since 2019",
-        "extract": "Ursula Gertrud von der Leyen is a German politician and physician who has served as President of the European Commission since 2019. She served in the German federal government between 2005 and 2019, holding positions in Angela Merkel's cabinet, most recently as Federal Minister for Defence. She is a member of the centre-right Christian Democratic Union (CDU) and its affiliated European political party, the European People's Party (EPP). On 7 March 2024, the EPP elected her as its Spitzenkandidat to lead the campaign for the 2024 European Parliament elections. She was re-elected to head the Commission in July 2024.",
-        "born": 1958
+        "name": "Rona Barrett",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rona_Barrett_1975.JPG/330px-Rona_Barrett_1975.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American gossip columnist, book writer, businesswoman, and philanthropist (born 1936)",
+        "extract": "Rona Barrett is a retired American television news correspondent, interviewer, gossip columnist and businesswoman. She runs the Rona Barrett Foundation, a non-profit organization in Santa Ynez, California, dedicated to the aid and support of senior citizens in need.",
+        "born": 1936,
+        "highlights": [
+          "Retired American television news correspondent.",
+          "Runs the Rona Barrett Foundation.",
+          "Foundation aids senior citizens in need."
+        ]
       }
     ]
   }
