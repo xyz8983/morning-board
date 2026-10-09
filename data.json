@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-08T23:37:42.412Z",
+  "generatedAt": "2026-10-09T18:39:45.610Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18,
+    "tempC": 22.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 24.7,
-    "lowC": 13.1,
-    "rainChance": 1
+    "highC": 22.9,
+    "lowC": 10.8,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Jayson Tatum",
-          "NBA Star"
+          "Málaga",
+          "RCD Espanyol"
         ],
-        "summary": "Jayson Tatum is buzzing due to his recent standout performances in the NBA playoffs."
+        "summary": "Málaga vs. RCD Espanyol is buzzing as fans discuss the upcoming match."
       },
       {
         "keywords": [
-          "James Harden",
-          "Trade Rumors"
+          "Football Match",
+          "Málaga Espanyol"
         ],
-        "summary": "James Harden is buzzing amidst ongoing trade speculation and team performance discussions."
+        "summary": "The football match between Málaga and Espanyol is buzzing with fan anticipation."
       },
       {
         "keywords": [
-          "NHL",
-          "Sharks Blues"
+          "Reimbursement",
+          "Policy Change"
         ],
-        "summary": "Sharks vs. Blues is buzzing as fans react to their recent intense hockey matchup."
+        "summary": "Reimbursement policies are buzzing as people discuss recent changes or updates."
       },
       {
         "keywords": [
-          "Matthew Rhys",
-          "New Role"
+          "One Piece",
+          "Season 3"
         ],
-        "summary": "Matthew Rhys is buzzing due to his critically acclaimed performance in a new television series."
+        "summary": "One Piece Season 3 is buzzing as fans eagerly await news and release details."
       }
     ]
   },
@@ -48,99 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7765.36,
-        "changePct": -0.46668896929800235
+        "price": 7812.17,
+        "changePct": 0.6028052788280311
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27193.34,
-        "changePct": -1.254057427784054
+        "price": 27358.701,
+        "changePct": 0.6080937464835169
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6126.73,
-        "changePct": -0.8666259997508273
+        "price": 6173.37,
+        "changePct": 0.76125437223446
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10441.6,
-        "changePct": -0.16159105034182372
+        "price": 10552.05,
+        "changePct": 1.0577880784553986
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3811.9043,
-        "changePct": -0.7883593402582904
+        "price": 3813.7913,
+        "changePct": 1859927722.6583204
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4310.2764,
-        "changePct": -1.0863578447268893
+        "price": 4317.255,
+        "changePct": 0.16190609029157318
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23785.79,
-        "changePct": -2.0378820951706205
+        "price": 24211.35,
+        "changePct": 0.335053148504998
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "The algorithm knows I'm sad before I do.",
-      "explanation": "This joke is funny because it's a relatable, deadpan observation on how eerily accurate social media algorithms are at predicting our emotional states through our digital behavior."
+      "joke": "I've started ironically enjoying things I genuinely enjoy. It's the only way to feel authentic online now.",
+      "explanation": "It highlights the convoluted modern online performance where even genuine enjoyment needs an ironic filter to be perceived as authentic."
     },
     "zh": {
-      "joke": "每次我下定决心要高效工作时，手机就会自动识别到这种紧张气氛，然后立马给我推送一堆轻松愉快的短视频，美其名曰“放松辅助”。"
+      "joke": "我的睡眠质量已经进入了一个‘量子叠加态’：它既好又不好，取决于我明天需不需要早起。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Saumyendranath Tagore",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Saumyendranath_Tagore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Indian communist leader and intellectual",
-        "extract": "Saumyendranath Tagore, son of Sudhindranath Tagore, fourth child of Dwijendranath Tagore, and grandnephew of Rabindranath Tagore, was the leader of the Revolutionary Communist Party of India, and the first translator of The Communist Manifesto into Bengali, which was published in Langal magazine edited by Kazi Nazrul Islam.",
-        "born": 1901,
+        "name": "Eddie Guerrero",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Eddie_Guerrero_2004.jpg/330px-Eddie_Guerrero_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American professional wrestler (1967–2005)",
+        "extract": "Eduardo Gory Guerrero Llanes was an American professional wrestler. He was best known for his tenures in World Championship Wrestling (WCW) and the World Wrestling Federation (WWF) / World Wrestling Entertainment (WWE), along with his appearances in Mexico and Japan. A prominent member of the Guerrero wrestling family, he was the son of first-generation wrestler Gory Guerrero, the brother of Chavo Guerrero, Mando Guerrero, and Héctor Guerrero, the uncle of Chavo Guerrero Jr., and the father of Shaul Guerrero.",
+        "born": 1967,
         "highlights": [
-          "Leader of the Revolutionary Communist Party of India.",
-          "First translator of The Communist Manifesto into Bengali.",
-          "Grandnephew of Rabindranath Tagore."
+          "American professional wrestler.",
+          "Best known for tenures in WCW and WWF/WWE.",
+          "Prominent member of the Guerrero wrestling family."
         ]
       },
       {
-        "name": "Ernst Kretschmer",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ernst_Kretschmer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "German psychchiatrist",
-        "extract": "Ernst Kretschmer was a German psychiatrist who researched the human constitution and established a typology.",
-        "born": 1888,
+        "name": "Al Jourgensen",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Al_Jourgensen_Live.jpg/330px-Al_Jourgensen_Live.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Cuban-American musician (born 1958)",
+        "extract": "Alain David Jourgensen is a Cuban-American singer, musician and music producer, closely related to the independent record label Wax Trax! Records. His musical career spans nearly five decades. He is the frontman and lyricist of the industrial metal band Ministry, which he founded in 1981 and of which he remains the only constant member. He was the primary musician of several Ministry-related projects, such as Revolting Cocks, Lard, and Buck Satan and the 666 Shooters. Jourgensen is a prominent figure in industrial music, influencing numerous other groups and musicians, both in alternative and industrial-associated acts.",
+        "born": 1958,
         "highlights": [
-          "German psychiatrist.",
-          "Researched the human constitution.",
-          "Established a typology."
+          "Cuban-American singer, musician, and music producer.",
+          "Frontman and lyricist of industrial metal band Ministry.",
+          "Primary musician for Revolting Cocks, Lard, Buck Satan."
         ]
       },
       {
-        "name": "Rona Barrett",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rona_Barrett_1975.JPG/330px-Rona_Barrett_1975.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American gossip columnist, book writer, businesswoman, and philanthropist (born 1936)",
-        "extract": "Rona Barrett is a retired American television news correspondent, interviewer, gossip columnist and businesswoman. She runs the Rona Barrett Foundation, a non-profit organization in Santa Ynez, California, dedicated to the aid and support of senior citizens in need.",
-        "born": 1936,
+        "name": "James Fearnley",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_fearnley_munich.jpg/330px-James_fearnley_munich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Musical artist",
+        "extract": "James Fearnley is an English musician. He plays accordion in the Pogues.",
+        "born": 1954,
         "highlights": [
-          "Retired American television news correspondent.",
-          "Runs the Rona Barrett Foundation.",
-          "Foundation aids senior citizens in need."
+          "English musician.",
+          "Plays accordion in the Pogues."
         ]
       }
     ]
