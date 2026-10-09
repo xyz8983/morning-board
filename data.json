@@ -1,46 +1,13 @@
 {
-  "generatedAt": "2026-10-09T18:39:45.610Z",
+  "generatedAt": "2026-10-09T23:01:41.308Z",
   "weather": {
     "location": "New York City",
-    "tempC": 22.9,
+    "tempC": 17.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 22.9,
+    "highC": 23.3,
     "lowC": 10.8,
     "rainChance": 0
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "Málaga",
-          "RCD Espanyol"
-        ],
-        "summary": "Málaga vs. RCD Espanyol is buzzing as fans discuss the upcoming match."
-      },
-      {
-        "keywords": [
-          "Football Match",
-          "Málaga Espanyol"
-        ],
-        "summary": "The football match between Málaga and Espanyol is buzzing with fan anticipation."
-      },
-      {
-        "keywords": [
-          "Reimbursement",
-          "Policy Change"
-        ],
-        "summary": "Reimbursement policies are buzzing as people discuss recent changes or updates."
-      },
-      {
-        "keywords": [
-          "One Piece",
-          "Season 3"
-        ],
-        "summary": "One Piece Season 3 is buzzing as fans eagerly await news and release details."
-      }
-    ]
   },
   "market": {
     "indices": [
@@ -48,15 +15,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7812.17,
-        "changePct": 0.6028052788280311
+        "price": 7811.54,
+        "changePct": 0.5946923259192143
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27358.701,
-        "changePct": 0.6080937464835169
+        "price": 27366.17,
+        "changePct": 0.6355600305074629
       },
       {
         "region": "Europe",
@@ -95,52 +62,29 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "I've started ironically enjoying things I genuinely enjoy. It's the only way to feel authentic online now.",
-      "explanation": "It highlights the convoluted modern online performance where even genuine enjoyment needs an ironic filter to be perceived as authentic."
-    },
-    "zh": {
-      "joke": "我的睡眠质量已经进入了一个‘量子叠加态’：它既好又不好，取决于我明天需不需要早起。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Eddie Guerrero",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Eddie_Guerrero_2004.jpg/330px-Eddie_Guerrero_2004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American professional wrestler (1967–2005)",
-        "extract": "Eduardo Gory Guerrero Llanes was an American professional wrestler. He was best known for his tenures in World Championship Wrestling (WCW) and the World Wrestling Federation (WWF) / World Wrestling Entertainment (WWE), along with his appearances in Mexico and Japan. A prominent member of the Guerrero wrestling family, he was the son of first-generation wrestler Gory Guerrero, the brother of Chavo Guerrero, Mando Guerrero, and Héctor Guerrero, the uncle of Chavo Guerrero Jr., and the father of Shaul Guerrero.",
-        "born": 1967,
-        "highlights": [
-          "American professional wrestler.",
-          "Best known for tenures in WCW and WWF/WWE.",
-          "Prominent member of the Guerrero wrestling family."
-        ]
+        "name": "Spencer Grammer",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Spencer_Grammer_by_Gage_Skidmore.jpg/330px-Spencer_Grammer_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1983)",
+        "extract": "Spencer Karen Grammer is an American actress best known for her roles as the voice of Summer Smith in the Adult Swim animated science-fiction series Rick and Morty and as Casey Cartwright in the ABC Family college comedy-drama series Greek.",
+        "born": 1983
       },
       {
-        "name": "Al Jourgensen",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Al_Jourgensen_Live.jpg/330px-Al_Jourgensen_Live.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Cuban-American musician (born 1958)",
-        "extract": "Alain David Jourgensen is a Cuban-American singer, musician and music producer, closely related to the independent record label Wax Trax! Records. His musical career spans nearly five decades. He is the frontman and lyricist of the industrial metal band Ministry, which he founded in 1981 and of which he remains the only constant member. He was the primary musician of several Ministry-related projects, such as Revolting Cocks, Lard, and Buck Satan and the 666 Shooters. Jourgensen is a prominent figure in industrial music, influencing numerous other groups and musicians, both in alternative and industrial-associated acts.",
-        "born": 1958,
-        "highlights": [
-          "Cuban-American singer, musician, and music producer.",
-          "Frontman and lyricist of industrial metal band Ministry.",
-          "Primary musician for Revolting Cocks, Lard, Buck Satan."
-        ]
+        "name": "Henrik Zetterberg",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Henrik_Zetterberg_%2803%29.jpg/330px-Henrik_Zetterberg_%2803%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish ice hockey player (born 1980)",
+        "extract": "Henrik Zetterberg is a Swedish former professional ice hockey forward. He played his entire National Hockey League career, from 2002 to 2018, with the Detroit Red Wings of the National Hockey League.",
+        "born": 1980
       },
       {
-        "name": "James Fearnley",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/James_fearnley_munich.jpg/330px-James_fearnley_munich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Musical artist",
-        "extract": "James Fearnley is an English musician. He plays accordion in the Pogues.",
-        "born": 1954,
-        "highlights": [
-          "English musician.",
-          "Plays accordion in the Pogues."
-        ]
+        "name": "Mick Young",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Mick_Young_1974_%28cropped%29.jpg/330px-Mick_Young_1974_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian politician (1936–1996)",
+        "extract": "Michael Jerome Young was an Australian politician. He rose through the Australian Labor Party (ALP) to become its National Secretary, before serving as a Labor member of the House of Representatives from the 1974 election to 1988. He was a senior minister in the Hawke government, and was a prominent political figure during the 1970s and 1980s. Young was also President of the Australian Labor Party from 1986 to 1988.",
+        "born": 1936
       }
     ]
   }
