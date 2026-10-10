@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-10T17:39:30.712Z",
+  "generatedAt": "2026-10-10T22:11:47.160Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.4,
+    "tempC": 17.8,
     "condition": "Overcast",
     "code": 3,
-    "highC": 21.5,
+    "highC": 22.2,
     "lowC": 11.7,
     "rainChance": 0
   },
@@ -14,31 +14,30 @@
     "topics": [
       {
         "keywords": [
-          "Dragons Dogma 2",
-          "Game Buzz"
+          "Max Gilbert"
         ],
-        "summary": "Dragons Dogma 2 Dark Arisen is buzzing due to its recent release and player discussions."
+        "summary": "Max Gilbert is buzzing due to recent social media activity and public appearances."
       },
       {
         "keywords": [
-          "Xavi",
-          "Football News"
+          "Ryan Day",
+          "Ohio State"
         ],
-        "summary": "Xavi Espart is buzzing as a key figure in recent football management discussions."
+        "summary": "Ryan Day is buzzing as Ohio State's football coach faces high expectations for the season."
       },
       {
         "keywords": [
-          "Michael Strahan",
-          "TV Personality"
+          "Chris Henry Jr",
+          "Football recruit"
         ],
-        "summary": "Michael Strahan is buzzing due to his ongoing television appearances and public engagements."
+        "summary": "Chris Henry Jr. is buzzing as a top football recruit making waves with his college commitments."
       },
       {
         "keywords": [
-          "Hellebuyck",
-          "NHL Goalie"
+          "Boxing",
+          "Fight Night"
         ],
-        "summary": "Connor Hellebuyck is buzzing for his standout performance as an NHL goalie this season."
+        "summary": "Boxing Tonight is buzzing as fans eagerly anticipate major fights scheduled for this evening."
       }
     ]
   },
@@ -97,49 +96,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My algorithm recommended a documentary about algorithms recommending things. I think it's trying to tell me something, but I'm just scrolling past it.",
-      "explanation": "Funny due to the meta-absurdity of algorithms recommending content about themselves, highlighting our passive digital consumption."
+      "joke": "My phone warned me about \"excessive screen time\" while I was trying to turn off the \"excessive screen time\" notification.",
+      "explanation": "It's funny because it highlights the absurd, self-defeating loop of modern tech usage and our awareness of it."
     },
     "zh": {
-      "joke": "我的拖延症已经发展到，能花一整天时间去思考如何高效地开始工作，而不是真的开始工作。"
+      "joke": "根据能量守恒定律，我今天消耗的摸鱼能量，会在晚上以刷手机的形式补偿回来。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Julius Shulman",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Julius_Shulman%2C_2007.jpg/330px-Julius_Shulman%2C_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American architectural photographer",
-        "extract": "Julius Shulman was an American architectural photographer best known for his photograph \"Case Study House #22, Los Angeles, 1960. Pierre Koenig, Architect.\" The house is also known as the Stahl House. Shulman's photography spread the aesthetic of California's Mid-century modern architecture around the world. Through his many books, exhibits and personal appearances his work ushered in a new appreciation for the movement beginning in the 1990s.",
-        "born": 1910,
+        "name": "Brett Favre",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Brett_Favre_Super_Bowl_50.jpg/330px-Brett_Favre_Super_Bowl_50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player (born 1969)",
+        "extract": "Brett Lorenzo Favre is an American former professional football quarterback who played in the National Football League (NFL) for 20 seasons, primarily with the Green Bay Packers. Favre had 321 consecutive starts from 1992 to 2010, including 297 regular season games, the most in league history. He was also the first NFL quarterback to obtain 70,000 yards, 10,000 passes, 6,000 completions, 500 touchdowns, and victories over all 32 teams.",
+        "born": 1969,
         "highlights": [
-          "American architectural photographer.",
-          "Best known for 'Case Study House #22'.",
-          "Spread California's Mid-century modern architecture aesthetic."
+          "Played 20 NFL seasons, mostly with Green Bay Packers.",
+          "Holds NFL record for 321 consecutive starts.",
+          "First NFL QB with 70,000 yards, 500 touchdowns."
         ]
       },
       {
-        "name": "Troy Tulowitzki",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/IMG_1880_Troy_Tulowitzki.jpg/330px-IMG_1880_Troy_Tulowitzki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player (born 1984)",
-        "extract": "Troy Trevor Tulowitzki, nicknamed \"Tulo\", is an American professional baseball coach and former shortstop who played 13 seasons in Major League Baseball (MLB), primarily with the Colorado Rockies. He also played for the Toronto Blue Jays and New York Yankees. Tulowitzki is currently an assistant baseball coach for the Texas Longhorns.",
-        "born": 1984,
+        "name": "Julia Sweeney",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Sweeney_julia.jpg/330px-Sweeney_julia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1959)",
+        "extract": "Julia Sweeney is an American actress and comedian. She gained fame as a cast member on the NBC sketch comedy series Saturday Night Live from 1990 to 1994. She played Mrs. Keeper in the film Stuart Little and voiced Brittany in Father of the Pride. She appeared in the Hulu series Shrill, the Showtime series Work in Progress, and the Starz series American Gods. Sweeney also had a recurring role on Frasier.",
+        "born": 1959,
         "highlights": [
-          "Former MLB shortstop, primarily with Colorado Rockies.",
-          "Played 13 seasons in Major League Baseball.",
-          "Currently assistant baseball coach for Texas Longhorns."
+          "Cast member on Saturday Night Live (1990-1994).",
+          "Played Mrs. Keeper in the film Stuart Little.",
+          "Voiced Brittany in Father of the Pride."
         ]
       },
       {
-        "name": "David Hempleman-Adams",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Everestblessings.jpg/330px-Everestblessings.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British industrialist and adventurer (born 1956)",
-        "extract": "Sir David Kim Hempleman-Adams is a British industrialist and adventurer.",
-        "born": 1956,
+        "name": "Ryan Mathews (American football)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ryan_Mathews_%28American_football%29.JPG/330px-Ryan_Mathews_%28American_football%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player (born 1987)",
+        "extract": "Ryan Jefforey Mathews is an American former professional football player who was a running back in the National Football League (NFL). He played college football for the Fresno State Bulldogs, earning second-team All-American honors in 2009. Mathews was selected by the San Diego Chargers in the first round of the 2010 NFL draft with the 12th overall pick. He was named to the Pro Bowl in 2011. He also played for the Philadelphia Eagles.",
+        "born": 1987,
         "highlights": [
-          "British industrialist.",
-          "British adventurer."
+          "Former NFL running back for Chargers and Eagles.",
+          "Second-team All-American at Fresno State in 2009.",
+          "Named to the Pro Bowl in 2011."
         ]
       }
     ]
