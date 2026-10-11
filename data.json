@@ -1,43 +1,44 @@
 {
-  "generatedAt": "2026-10-10T22:11:47.160Z",
+  "generatedAt": "2026-10-11T17:54:33.983Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.8,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 22.2,
-    "lowC": 11.7,
-    "rainChance": 0
+    "tempC": 16.9,
+    "condition": "Rain",
+    "code": 63,
+    "highC": 18,
+    "lowC": 13.5,
+    "rainChance": 92
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Max Gilbert"
+          "Case Keenum",
+          "NFL Buzz"
         ],
-        "summary": "Max Gilbert is buzzing due to recent social media activity and public appearances."
+        "summary": "Case Keenum is buzzing due to his recent performance or a significant team role."
       },
       {
         "keywords": [
-          "Ryan Day",
-          "Ohio State"
+          "Josh Jacobs",
+          "Football News"
         ],
-        "summary": "Ryan Day is buzzing as Ohio State's football coach faces high expectations for the season."
+        "summary": "Josh Jacobs is buzzing amidst contract talks or a potential team change."
       },
       {
         "keywords": [
-          "Chris Henry Jr",
-          "Football recruit"
+          "Braelon Allen",
+          "Draft Prospect"
         ],
-        "summary": "Chris Henry Jr. is buzzing as a top football recruit making waves with his college commitments."
+        "summary": "Braelon Allen is buzzing as a top college football prospect."
       },
       {
         "keywords": [
-          "Boxing",
-          "Fight Night"
+          "Ollie Gordon",
+          "Rising Star"
         ],
-        "summary": "Boxing Tonight is buzzing as fans eagerly anticipate major fights scheduled for this evening."
+        "summary": "Ollie Gordon II is buzzing for his standout college football season."
       }
     ]
   },
@@ -55,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 27366.17,
-        "changePct": 0.6355600305074629
+        "changePct": 0.635708060441355
       },
       {
         "region": "Europe",
@@ -83,7 +84,7 @@
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4317.255,
-        "changePct": 0.16190609029157318
+        "changePct": 0.16182243380941294
       },
       {
         "region": "Asia",
@@ -96,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone warned me about \"excessive screen time\" while I was trying to turn off the \"excessive screen time\" notification.",
-      "explanation": "It's funny because it highlights the absurd, self-defeating loop of modern tech usage and our awareness of it."
+      "joke": "My therapist asked if I felt seen. I told her only by targeted ads.",
+      "explanation": "It subverts emotional validation with invasive online advertising, highlighting a relatable modern paradox of being 'seen' only by algorithms."
     },
     "zh": {
-      "joke": "根据能量守恒定律，我今天消耗的摸鱼能量，会在晚上以刷手机的形式补偿回来。"
+      "joke": "我的人生格言：早睡早起，身体健康，再不赚钱就晚了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Brett Favre",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Brett_Favre_Super_Bowl_50.jpg/330px-Brett_Favre_Super_Bowl_50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player (born 1969)",
-        "extract": "Brett Lorenzo Favre is an American former professional football quarterback who played in the National Football League (NFL) for 20 seasons, primarily with the Green Bay Packers. Favre had 321 consecutive starts from 1992 to 2010, including 297 regular season games, the most in league history. He was also the first NFL quarterback to obtain 70,000 yards, 10,000 passes, 6,000 completions, 500 touchdowns, and victories over all 32 teams.",
-        "born": 1969,
+        "name": "Eleanor Roosevelt",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg/330px-Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American diplomat and activist (1884–1962)",
+        "extract": "Anna Eleanor Roosevelt was an American political figure, diplomat, and activist. She was the longest-serving first lady of the United States, during her husband Franklin D. Roosevelt's four terms as president from 1933 to 1945. Through her travels, public engagement, and advocacy, she largely redefined the role. Widowed in 1945, she served as a United States delegate to the United Nations General Assembly from 1945 to 1952, and took a leading role in designing the text and gaining international support for the Universal Declaration of Human Rights. In 1948, she was given a standing ovation by the assembly upon their adoption of the declaration. President Harry S. Truman called her the \"First Lady of the World\" in tribute to her human rights achievements.",
+        "born": 1884,
         "highlights": [
-          "Played 20 NFL seasons, mostly with Green Bay Packers.",
-          "Holds NFL record for 321 consecutive starts.",
-          "First NFL QB with 70,000 yards, 500 touchdowns."
+          "Longest-serving First Lady of the United States.",
+          "Redefined the role of First Lady.",
+          "Led design of Universal Declaration of Human Rights."
         ]
       },
       {
-        "name": "Julia Sweeney",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Sweeney_julia.jpg/330px-Sweeney_julia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (born 1959)",
-        "extract": "Julia Sweeney is an American actress and comedian. She gained fame as a cast member on the NBC sketch comedy series Saturday Night Live from 1990 to 1994. She played Mrs. Keeper in the film Stuart Little and voiced Brittany in Father of the Pride. She appeared in the Hulu series Shrill, the Showtime series Work in Progress, and the Starz series American Gods. Sweeney also had a recurring role on Frasier.",
-        "born": 1959,
+        "name": "Lennie James",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lennie_James_%2848403597296%29_%28cropped%29.jpg/330px-Lennie_James_%2848403597296%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British actor (born 1965)",
+        "extract": "Lennie Michael James is a British actor. He is best known for portraying Morgan Jones in the AMC series The Walking Dead (2010–2018) and in its spin-off, Fear the Walking Dead (2018–2023), and starring as DCI Tony Gates in Line of Duty series one.",
+        "born": 1965,
         "highlights": [
-          "Cast member on Saturday Night Live (1990-1994).",
-          "Played Mrs. Keeper in the film Stuart Little.",
-          "Voiced Brittany in Father of the Pride."
+          "Portrayed Morgan Jones in The Walking Dead.",
+          "Also starred in Fear the Walking Dead.",
+          "Played DCI Tony Gates in Line of Duty."
         ]
       },
       {
-        "name": "Ryan Mathews (American football)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ryan_Mathews_%28American_football%29.JPG/330px-Ryan_Mathews_%28American_football%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player (born 1987)",
-        "extract": "Ryan Jefforey Mathews is an American former professional football player who was a running back in the National Football League (NFL). He played college football for the Fresno State Bulldogs, earning second-team All-American honors in 2009. Mathews was selected by the San Diego Chargers in the first round of the 2010 NFL draft with the 12th overall pick. He was named to the Pro Bowl in 2011. He also played for the Philadelphia Eagles.",
-        "born": 1987,
+        "name": "Terrell Suggs",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Terrell_Suggs_2015.jpg/330px-Terrell_Suggs_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player (born 1982)",
+        "extract": "Terrell Raymonn Suggs, nicknamed \"T-Sizzle\", is an American former professional football player who was a linebacker for 17 seasons in the National Football League (NFL). He played college football for the Arizona State Sun Devils, and was recognized as a unanimous All-American. He was selected by the Baltimore Ravens with the 10th overall pick in the 2003 NFL draft, and is the franchise's all-time leader in sacks. He also played for the Arizona Cardinals and the Kansas City Chiefs.",
+        "born": 1982,
         "highlights": [
-          "Former NFL running back for Chargers and Eagles.",
-          "Second-team All-American at Fresno State in 2009.",
-          "Named to the Pro Bowl in 2011."
+          "NFL linebacker for 17 seasons.",
+          "Baltimore Ravens' all-time leader in sacks.",
+          "Unanimous All-American in college football."
         ]
       }
     ]
