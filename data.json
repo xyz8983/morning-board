@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-11T17:54:33.983Z",
+  "generatedAt": "2026-10-11T22:39:34.670Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.9,
+    "tempC": 14.7,
     "condition": "Rain",
     "code": 63,
-    "highC": 18,
+    "highC": 17.3,
     "lowC": 13.5,
-    "rainChance": 92
+    "rainChance": 100
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Case Keenum",
-          "NFL Buzz"
+          "Trey McBride",
+          "NFL Performance"
         ],
-        "summary": "Case Keenum is buzzing due to his recent performance or a significant team role."
+        "summary": "Trey McBride is buzzing due to his recent strong performance as an NFL tight end."
       },
       {
         "keywords": [
-          "Josh Jacobs",
-          "Football News"
+          "Steve Sarkisian",
+          "Texas Football"
         ],
-        "summary": "Josh Jacobs is buzzing amidst contract talks or a potential team change."
+        "summary": "Steve Sarkisian is buzzing as coach of the Texas Longhorns, leading them to a successful season."
       },
       {
         "keywords": [
-          "Braelon Allen",
-          "Draft Prospect"
+          "LA Galaxy",
+          "St. Louis City SC"
         ],
-        "summary": "Braelon Allen is buzzing as a top college football prospect."
+        "summary": "The LA Galaxy vs St. Louis match is buzzing due to exciting MLS playoff implications."
       },
       {
         "keywords": [
-          "Ollie Gordon",
-          "Rising Star"
+          "Chase Briscoe",
+          "NASCAR Driver"
         ],
-        "summary": "Ollie Gordon II is buzzing for his standout college football season."
+        "summary": "Chase Briscoe is buzzing as a NASCAR driver, recently making headlines with his racing results."
       }
     ]
   },
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "My therapist asked if I felt seen. I told her only by targeted ads.",
-      "explanation": "It subverts emotional validation with invasive online advertising, highlighting a relatable modern paradox of being 'seen' only by algorithms."
+      "joke": "My favorite part of remote work is being able to have a full-blown existential crisis between meetings without anyone noticing.",
+      "explanation": "It uses deadpan irony to highlight the isolating nature of remote work and the common struggle with mental well-being in modern corporate life."
     },
     "zh": {
-      "joke": "我的人生格言：早睡早起，身体健康，再不赚钱就晚了。"
+      "joke": "每天早上醒来，我都会问自己一个深刻的问题：今天的打工，是为了早日退休，还是为了凑齐下个月的花呗？"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Eleanor Roosevelt",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg/330px-Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American diplomat and activist (1884–1962)",
-        "extract": "Anna Eleanor Roosevelt was an American political figure, diplomat, and activist. She was the longest-serving first lady of the United States, during her husband Franklin D. Roosevelt's four terms as president from 1933 to 1945. Through her travels, public engagement, and advocacy, she largely redefined the role. Widowed in 1945, she served as a United States delegate to the United Nations General Assembly from 1945 to 1952, and took a leading role in designing the text and gaining international support for the Universal Declaration of Human Rights. In 1948, she was given a standing ovation by the assembly upon their adoption of the declaration. President Harry S. Truman called her the \"First Lady of the World\" in tribute to her human rights achievements.",
-        "born": 1884,
+        "name": "Thích Nhất Hạnh",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Thich_Nhat_Hanh_12_%28cropped%29.jpg/330px-Thich_Nhat_Hanh_12_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Vietnamese Buddhist monk and activist (1926–2022)",
+        "extract": "Thích Nhất Hạnh was a Vietnamese Thiền Buddhist monk, peace activist, prolific author, poet, and teacher, who founded the Plum Village Tradition, historically recognized as the main inspiration for engaged Buddhism. Known as the \"father of mindfulness\", Nhất Hạnh was a major influence on Western practices of Buddhism.",
+        "born": 1926,
         "highlights": [
-          "Longest-serving First Lady of the United States.",
-          "Redefined the role of First Lady.",
-          "Led design of Universal Declaration of Human Rights."
+          "Founded the Plum Village Tradition.",
+          "Main inspiration for engaged Buddhism.",
+          "Known as the \"father of mindfulness\"."
         ]
       },
       {
-        "name": "Lennie James",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lennie_James_%2848403597296%29_%28cropped%29.jpg/330px-Lennie_James_%2848403597296%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British actor (born 1965)",
-        "extract": "Lennie Michael James is a British actor. He is best known for portraying Morgan Jones in the AMC series The Walking Dead (2010–2018) and in its spin-off, Fear the Walking Dead (2018–2023), and starring as DCI Tony Gates in Line of Duty series one.",
+        "name": "Nello Pagani",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Nello_Pagani_wordt_gefeliciteerd_door_G._J._Bruinsman%2C_voorzitter_KNMV%2C_Bestanddeelnr_903-4797.jpg/330px-Nello_Pagani_wordt_gefeliciteerd_door_G._J._Bruinsman%2C_voorzitter_KNMV%2C_Bestanddeelnr_903-4797.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian motorcycle racer and racing driver (1911–2003)",
+        "extract": "Cirillo Pagani, nicknamed \"Nello\", was an Italian Grand Prix motorcycle road racer and Formula One driver. He was born in Milan, Lombardy, and died in Bresso.",
+        "born": 1911,
+        "highlights": [
+          "Italian Grand Prix motorcycle road racer.",
+          "Also a Formula One driver."
+        ]
+      },
+      {
+        "name": "Sean Patrick Flanery",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sean_Patrick_Flanery_April_2014.jpg/330px-Sean_Patrick_Flanery_April_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (born 1965)",
+        "extract": "Sean Patrick Flanery is an American actor. He is known for playing Connor MacManus in The Boondock Saints (1999) and its sequel The Boondock Saints II: All Saints Day (2009), Greg Stillson in the television series The Dead Zone, Jeremy \"Powder\" Reed in Powder (1995), Indiana Jones in the George Lucas television series The Young Indiana Jones Chronicles, as well as Bobby Dagen in Saw 3D (2010). He is also known for his role as Sam Gibson on the CBS soap opera The Young and the Restless in 2011. He starred in Devil's Carnival, a short film which was screened on tour beginning in April 2012.",
         "born": 1965,
         "highlights": [
-          "Portrayed Morgan Jones in The Walking Dead.",
-          "Also starred in Fear the Walking Dead.",
-          "Played DCI Tony Gates in Line of Duty."
-        ]
-      },
-      {
-        "name": "Terrell Suggs",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Terrell_Suggs_2015.jpg/330px-Terrell_Suggs_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player (born 1982)",
-        "extract": "Terrell Raymonn Suggs, nicknamed \"T-Sizzle\", is an American former professional football player who was a linebacker for 17 seasons in the National Football League (NFL). He played college football for the Arizona State Sun Devils, and was recognized as a unanimous All-American. He was selected by the Baltimore Ravens with the 10th overall pick in the 2003 NFL draft, and is the franchise's all-time leader in sacks. He also played for the Arizona Cardinals and the Kansas City Chiefs.",
-        "born": 1982,
-        "highlights": [
-          "NFL linebacker for 17 seasons.",
-          "Baltimore Ravens' all-time leader in sacks.",
-          "Unanimous All-American in college football."
+          "Played Connor MacManus in The Boondock Saints.",
+          "Starred as Indiana Jones in Young Indiana Jones Chronicles.",
+          "Portrayed Greg Stillson in The Dead Zone series."
         ]
       }
     ]
