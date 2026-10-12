@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-11T22:39:34.670Z",
+  "generatedAt": "2026-10-12T21:34:14.197Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14.7,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 17.3,
-    "lowC": 13.5,
-    "rainChance": 100
+    "tempC": 19.2,
+    "condition": "Heavy drizzle",
+    "code": 55,
+    "highC": 21.4,
+    "lowC": 12,
+    "rainChance": 40
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Trey McBride",
-          "NFL Performance"
+          "Dow Jones",
+          "Stock Market"
         ],
-        "summary": "Trey McBride is buzzing due to his recent strong performance as an NFL tight end."
+        "summary": "The Dow Jones Industrial Average is buzzing due to recent market fluctuations and economic indicators."
       },
       {
         "keywords": [
-          "Steve Sarkisian",
-          "Texas Football"
+          "La Liga",
+          "Football Match"
         ],
-        "summary": "Steve Sarkisian is buzzing as coach of the Texas Longhorns, leading them to a successful season."
+        "summary": "Levante UD vs Sevilla FC standings are buzzing as fans track the latest Spanish football league results."
       },
       {
         "keywords": [
-          "LA Galaxy",
-          "St. Louis City SC"
+          "Aaron Paul",
+          "Actor News"
         ],
-        "summary": "The LA Galaxy vs St. Louis match is buzzing due to exciting MLS playoff implications."
+        "summary": "Aaron Paul is buzzing due to new project announcements and recent public appearances."
       },
       {
         "keywords": [
-          "Chase Briscoe",
-          "NASCAR Driver"
+          "Mike Elko",
+          "College Football"
         ],
-        "summary": "Chase Briscoe is buzzing as a NASCAR driver, recently making headlines with his racing results."
+        "summary": "Mike Elko is buzzing due to his recent coaching changes and strategic moves in college football."
       }
     ]
   },
@@ -48,98 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7811.54,
-        "changePct": 0.5946923259192143
+        "price": 7807.24,
+        "changePct": -0.055046764146380635
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27366.17,
-        "changePct": 0.635708060441355
+        "price": 27245.902,
+        "changePct": -0.43947691620712737
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6173.37,
-        "changePct": 0.76125437223446
+        "price": 6201.21,
+        "changePct": 0.4509692437031985
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10552.05,
-        "changePct": 1.0577880784553986
+        "price": 10656.28,
+        "changePct": 0.9877701489284204
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3813.791,
-        "changePct": 0.04960780713030448
+        "price": 3797.2424,
+        "changePct": -0.433922537921773
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4317.255,
-        "changePct": 0.16182243380941294
+        "price": 4287.98,
+        "changePct": -0.6780929085727052
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24211.35,
-        "changePct": 1.7890926519183683
+        "price": 24271.2,
+        "changePct": 0.24719811162947206
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My favorite part of remote work is being able to have a full-blown existential crisis between meetings without anyone noticing.",
-      "explanation": "It uses deadpan irony to highlight the isolating nature of remote work and the common struggle with mental well-being in modern corporate life."
+      "joke": "The most thrilling part of my day is deciding whether to click 'Accept All Cookies' or 'Manage Preferences' and then still accepting all cookies.",
+      "explanation": "It's funny because it subverts the expectation of excitement with a mundane, relatable, and slightly self-deprecating observation about digital fatigue."
     },
     "zh": {
-      "joke": "每天早上醒来，我都会问自己一个深刻的问题：今天的打工，是为了早日退休，还是为了凑齐下个月的花呗？"
+      "joke": "远程办公久了，我现在下楼拿个快递都觉得是出了趟远门，得提前在心里规划路线，思考穿什么才能不输给楼道里的摄像头。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Thích Nhất Hạnh",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Thich_Nhat_Hanh_12_%28cropped%29.jpg/330px-Thich_Nhat_Hanh_12_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Vietnamese Buddhist monk and activist (1926–2022)",
-        "extract": "Thích Nhất Hạnh was a Vietnamese Thiền Buddhist monk, peace activist, prolific author, poet, and teacher, who founded the Plum Village Tradition, historically recognized as the main inspiration for engaged Buddhism. Known as the \"father of mindfulness\", Nhất Hạnh was a major influence on Western practices of Buddhism.",
-        "born": 1926,
+        "name": "Albert Shiryaev",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Albert_Shiryaev.jpg/330px-Albert_Shiryaev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Soviet and Russian mathematician (born 1934)",
+        "extract": "Albert Nikolayevich Shiryaev is a Soviet and Russian mathematician. He is known for his work in probability theory, statistics and financial mathematics.",
+        "born": 1934,
         "highlights": [
-          "Founded the Plum Village Tradition.",
-          "Main inspiration for engaged Buddhism.",
-          "Known as the \"father of mindfulness\"."
+          "Soviet and Russian mathematician.",
+          "Known for work in probability theory.",
+          "Also known for statistics and financial mathematics."
         ]
       },
       {
-        "name": "Nello Pagani",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Nello_Pagani_wordt_gefeliciteerd_door_G._J._Bruinsman%2C_voorzitter_KNMV%2C_Bestanddeelnr_903-4797.jpg/330px-Nello_Pagani_wordt_gefeliciteerd_door_G._J._Bruinsman%2C_voorzitter_KNMV%2C_Bestanddeelnr_903-4797.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian motorcycle racer and racing driver (1911–2003)",
-        "extract": "Cirillo Pagani, nicknamed \"Nello\", was an Italian Grand Prix motorcycle road racer and Formula One driver. He was born in Milan, Lombardy, and died in Bresso.",
-        "born": 1911,
+        "name": "Steve Johnston",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2007_Oxford_Steve_Johnston.jpg/330px-2007_Oxford_Steve_Johnston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian speedway rider (born 1971)",
+        "extract": "Steven Paul Johnston is former international motorcycle speedway rider from Australia.",
+        "born": 1971,
         "highlights": [
-          "Italian Grand Prix motorcycle road racer.",
-          "Also a Formula One driver."
+          "Former international motorcycle speedway rider.",
+          "Hails from Australia."
         ]
       },
       {
-        "name": "Sean Patrick Flanery",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sean_Patrick_Flanery_April_2014.jpg/330px-Sean_Patrick_Flanery_April_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (born 1965)",
-        "extract": "Sean Patrick Flanery is an American actor. He is known for playing Connor MacManus in The Boondock Saints (1999) and its sequel The Boondock Saints II: All Saints Day (2009), Greg Stillson in the television series The Dead Zone, Jeremy \"Powder\" Reed in Powder (1995), Indiana Jones in the George Lucas television series The Young Indiana Jones Chronicles, as well as Bobby Dagen in Saw 3D (2010). He is also known for his role as Sam Gibson on the CBS soap opera The Young and the Restless in 2011. He starred in Devil's Carnival, a short film which was screened on tour beginning in April 2012.",
-        "born": 1965,
+        "name": "Mike Green (ice hockey, born 1985)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/MikeGreen.jpg/330px-MikeGreen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian ice hockey player (born 1985)",
+        "extract": "Michael David Green is a Canadian former professional ice hockey defenceman who played in the National Hockey League (NHL) with the Washington Capitals, Detroit Red Wings and Edmonton Oilers.",
+        "born": 1985,
         "highlights": [
-          "Played Connor MacManus in The Boondock Saints.",
-          "Starred as Indiana Jones in Young Indiana Jones Chronicles.",
-          "Portrayed Greg Stillson in The Dead Zone series."
+          "Canadian former professional ice hockey defenceman.",
+          "Played in the National Hockey League (NHL).",
+          "Played for Capitals, Red Wings, and Oilers."
         ]
       }
     ]
