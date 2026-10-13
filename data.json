@@ -1,46 +1,13 @@
 {
-  "generatedAt": "2026-10-12T21:34:14.197Z",
+  "generatedAt": "2026-10-13T01:05:30.606Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19.2,
+    "tempC": 16.2,
     "condition": "Heavy drizzle",
     "code": 55,
     "highC": 21.4,
     "lowC": 12,
     "rainChance": 40
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "Dow Jones",
-          "Stock Market"
-        ],
-        "summary": "The Dow Jones Industrial Average is buzzing due to recent market fluctuations and economic indicators."
-      },
-      {
-        "keywords": [
-          "La Liga",
-          "Football Match"
-        ],
-        "summary": "Levante UD vs Sevilla FC standings are buzzing as fans track the latest Spanish football league results."
-      },
-      {
-        "keywords": [
-          "Aaron Paul",
-          "Actor News"
-        ],
-        "summary": "Aaron Paul is buzzing due to new project announcements and recent public appearances."
-      },
-      {
-        "keywords": [
-          "Mike Elko",
-          "College Football"
-        ],
-        "summary": "Mike Elko is buzzing due to his recent coaching changes and strategic moves in college football."
-      }
-    ]
   },
   "market": {
     "indices": [
@@ -95,51 +62,43 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "The most thrilling part of my day is deciding whether to click 'Accept All Cookies' or 'Manage Preferences' and then still accepting all cookies.",
-      "explanation": "It's funny because it subverts the expectation of excitement with a mundane, relatable, and slightly self-deprecating observation about digital fatigue."
-    },
-    "zh": {
-      "joke": "远程办公久了，我现在下楼拿个快递都觉得是出了趟远门，得提前在心里规划路线，思考穿什么才能不输给楼道里的摄像头。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Albert Shiryaev",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Albert_Shiryaev.jpg/330px-Albert_Shiryaev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Soviet and Russian mathematician (born 1934)",
-        "extract": "Albert Nikolayevich Shiryaev is a Soviet and Russian mathematician. He is known for his work in probability theory, statistics and financial mathematics.",
-        "born": 1934,
+        "name": "Matt Walsh (comedian)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Matt_Walsh_%2849358582052%29_%28cropped%29.jpg/330px-Matt_Walsh_%2849358582052%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American comedian and actor (born 1964)",
+        "extract": "Matthew Paul Walsh is an American comedian and actor. He is best known for his role as Mike McLintock in Veep for which he received two Primetime Emmy Award nominations. He is a founding member of the Upright Citizens Brigade sketch comedy troupe, with which he co-starred in its original television series and the 2015 reboot. He also previously starred in short-lived comedy programs such as Dog Bites Man and Players, and was a correspondent on The Daily Show with Jon Stewart. He has also appeared in films such as Road Trip (2000), Bad Santa (2003), School for Scoundrels (2006), Role Models (2008), The Hangover (2009), Into the Storm (2014), and The Do-Over (2016).",
+        "born": 1964,
         "highlights": [
-          "Soviet and Russian mathematician.",
-          "Known for work in probability theory.",
-          "Also known for statistics and financial mathematics."
+          "Best known for Mike McLintock in Veep.",
+          "Founding member of Upright Citizens Brigade.",
+          "Correspondent on The Daily Show with Jon Stewart."
         ]
       },
       {
-        "name": "Steve Johnston",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2007_Oxford_Steve_Johnston.jpg/330px-2007_Oxford_Steve_Johnston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian speedway rider (born 1971)",
-        "extract": "Steven Paul Johnston is former international motorcycle speedway rider from Australia.",
-        "born": 1971,
+        "name": "Tom Bingham, Baron Bingham of Cornhill",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Thomas_Bingham%2C_Baron_Bingham_of_Cornhill.jpg/330px-Thomas_Bingham%2C_Baron_Bingham_of_Cornhill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British judge (1933–2010)",
+        "extract": "Thomas Henry Bingham, Baron Bingham of Cornhill was a British judge who was successively Master of the Rolls, Lord Chief Justice and Senior Lord of Appeal in Ordinary. On his death in 2010, he was described as the greatest judge of his generation. Baroness Hale of Richmond observed that his pioneering role in the formation of the United Kingdom Supreme Court may be his most important and long-lasting legacy. The Lord Phillips of Worth Matravers regarded Bingham as \"one of the two great legal figures of my lifetime in the law\". Lord Hope of Craighead described Bingham as \"the greatest jurist of our time\".",
+        "born": 1933,
         "highlights": [
-          "Former international motorcycle speedway rider.",
-          "Hails from Australia."
+          "Master of the Rolls, Lord Chief Justice, Senior Lord of Appeal.",
+          "Described as \"greatest judge of his generation\".",
+          "Pioneering role in forming the UK Supreme Court."
         ]
       },
       {
-        "name": "Mike Green (ice hockey, born 1985)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/MikeGreen.jpg/330px-MikeGreen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian ice hockey player (born 1985)",
-        "extract": "Michael David Green is a Canadian former professional ice hockey defenceman who played in the National Hockey League (NHL) with the Washington Capitals, Detroit Red Wings and Edmonton Oilers.",
-        "born": 1985,
+        "name": "Serena Altschul",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Serena_Altschul_2011.jpg/330px-Serena_Altschul_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American broadcast journalist",
+        "extract": "Serena Altschul is an American broadcast journalist, known for her work at MTV News and CBS.",
+        "born": 1970,
         "highlights": [
-          "Canadian former professional ice hockey defenceman.",
-          "Played in the National Hockey League (NHL).",
-          "Played for Capitals, Red Wings, and Oilers."
+          "American broadcast journalist.",
+          "Known for work at MTV News.",
+          "Known for work at CBS."
         ]
       }
     ]
