@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-13T23:11:02.606Z",
+  "generatedAt": "2026-10-14T17:47:24.932Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19.1,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 21.7,
-    "lowC": 13.8,
-    "rainChance": 2
+    "tempC": 25.2,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 25.5,
+    "lowC": 17.6,
+    "rainChance": 19
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Clavicular",
-          "Fashion Trend"
+          "Josh Jacobs",
+          "NFL News"
         ],
-        "summary": "Clavicular fashion is buzzing as a new style emphasizing collarbone exposure."
+        "summary": "Josh Jacobs is buzzing due to recent NFL contract negotiations and team updates."
       },
       {
         "keywords": [
-          "Saudi Arabia",
-          "Regional News"
+          "Ronald Araújo",
+          "Soccer Buzz"
         ],
-        "summary": "Saudi Arabia news is buzzing due to recent economic reforms and geopolitical developments."
+        "summary": "Ronald Araújo is buzzing as transfer rumors and performance discussions circulate in soccer."
       },
       {
         "keywords": [
-          "Orlando Magic",
-          "NBA Buzz"
+          "FotMob",
+          "Sports App"
         ],
-        "summary": "Orlando Magic is buzzing with excitement over their recent performance and playoff prospects."
+        "summary": "FotMob is buzzing for its real-time sports scores and comprehensive football statistics."
       },
       {
         "keywords": [
-          "NY Governor",
-          "Political Debate"
+          "Barcola",
+          "Football Talent"
         ],
-        "summary": "The NY Governor debate is buzzing as candidates present their platforms before the election."
+        "summary": "Barcola is buzzing due to his emerging talent and recent performances in European football."
       }
     ]
   },
@@ -48,99 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7807.24,
-        "changePct": -0.055046764146380635
+        "price": 7706.76,
+        "changePct": -1.2643729701682749
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 27204.38,
-        "changePct": -0.15239723023299873
+        "price": 26682.422,
+        "changePct": -1.9186542755247586
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6167.01,
-        "changePct": -0.5515052707455451
+        "price": 6190.37,
+        "changePct": 0.37878972143712547
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10656.3,
-        "changePct": 0.9874811648865998
+        "price": 10724.86,
+        "changePct": 0.6997905229227701
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3797.24,
-        "changePct": -0.43395152853199
+        "price": 3767.227,
+        "changePct": -0.7903898621103729
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4275.68,
-        "changePct": -0.2868483528374497
+        "price": 4217.68,
+        "changePct": -1.3565093739475358
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24271.2,
-        "changePct": 0.24740513727061933
+        "price": 24314.17,
+        "changePct": 0.17704110221166455
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My Wi-Fi is so fast, it loaded the buffering icon in record time.",
-      "explanation": "It sarcastically praises the Wi-Fi for being 'fast' when its only speed accomplishment is loading the symbol for slowness."
+      "joke": "My daily commute has been significantly reduced to the distance between my bed and my 'office' chair. It's a miracle I still manage to be late for meetings.",
+      "explanation": "This joke uses sarcasm to highlight the irony of struggling with punctuality in remote work, despite the minimal 'commute.'"
     },
     "zh": {
-      "joke": "我决定从今天开始减肥。第一步：把冰箱里所有高热量食物处理掉。处理方法：吃掉。"
+      "joke": "我的财务状况是如此稳定，稳定到每个月都能精准地在发工资那天达到巅峰，然后以肉眼可见的速度坠入谷底。这是一种完美的经济循环。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Charles Frederick Worth",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Charles_Frederick_Worth_%28Mars_1895%29.jpg/330px-Charles_Frederick_Worth_%28Mars_1895%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English fashion designer (1825–1895)",
-        "extract": "Charles Frederick Worth was an English fashion designer who founded the House of Worth, one of the foremost fashion houses of the 19th and early 20th centuries. He is considered by many fashion historians to be the father of haute couture. Worth is also credited with revolutionising the business of fashion.",
-        "born": 1825,
+        "name": "Charlie Parker (cricketer)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/9/95/CWL_Parker_Cr_Apr_81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "English cricketer",
+        "extract": "Charles Warrington Leonard Parker was an English cricketer, who stands as the third highest wicket taker in the history of first-class cricket, behind Wilfred Rhodes and Tich Freeman.",
+        "born": 1882,
         "highlights": [
-          "Founded the House of Worth fashion house.",
-          "Considered the father of haute couture.",
-          "Revolutionised the business of fashion."
+          "English cricketer.",
+          "Third highest wicket taker in first-class cricket."
         ]
       },
       {
-        "name": "Piero Dusio",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Taruffi-Dusio-Savonuzzi.jpg/330px-Taruffi-Dusio-Savonuzzi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian footballer and racing driver (1899–1975)",
-        "extract": "Piero Dusio was an Italian footballer, businessman, racing driver and racing car manufacturer.",
-        "born": 1899,
+        "name": "Roger Taylor (tennis)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Roger_Taylor_%28tennis%29.jpg/330px-Roger_Taylor_%28tennis%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British tennis player (born 1941)",
+        "extract": "Roger Taylor MBE is a British former tennis player, born in Sheffield, South Yorkshire. He achieved success at several Grand Slam tournaments, reaching the quarter-finals of the French Open in 1973, the semi-finals of Wimbledon during the same year and winning back to back US Open men's doubles titles in 1971 and 1972. He also enjoyed particular success in 1970, again reaching the semi-finals of Wimbledon, where he achieved an upset win over defending champion Rod Laver en route, and the semi-finals of the Australian Open. Taylor also reached the semi-finals at Wimbledon in 1967. His career-high ATP ranking was 11 in its early listings in 1973; earlier unofficial year-end listings ranked him joint-7th (amateur) for 1967 and 8th (open) for 1970.",
+        "born": 1941,
         "highlights": [
-          "Italian footballer.",
-          "Businessman and racing driver.",
-          "Racing car manufacturer."
+          "Won back-to-back US Open men's doubles titles (1971, 1972).",
+          "Reached Wimbledon semi-finals multiple times (1967, 1970, 1973).",
+          "Achieved upset win over Rod Laver at Wimbledon 1970."
         ]
       },
       {
-        "name": "John Hervey, 2nd Baron Hervey",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/JhnHervey.jpg/330px-JhnHervey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English courtier and political writer (1696-1743)",
-        "extract": "John Hervey, 2nd Baron Hervey, was an English courtier and political writer. Heir to the Earl of Bristol, he obtained the key patronage of Walpole, and was involved in many court intrigues and literary quarrels, being apparently caricatured by Pope and Fielding. His memoirs of the early reign of George II were too revealing to be published in his time and did not appear for more than a century.",
-        "born": 1696,
+        "name": "Hans Kraay Sr.",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Hans_Kraay_sr..jpg/330px-Hans_Kraay_sr..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Dutch footballer (1936–2017)",
+        "extract": "Johan Hendrik \"Hans\" Kraay was a Dutch professional football player and manager who played as a defender. Subsequently, he became well known for his football management skills as well as analysis of matches on Dutch television.",
+        "born": 1936,
         "highlights": [
-          "English courtier and political writer.",
-          "Obtained key patronage of Walpole.",
-          "Authored revealing memoirs of George II's reign."
+          "Dutch professional football player and manager.",
+          "Played as a defender.",
+          "Well known for football analysis on Dutch television."
         ]
       }
     ]
