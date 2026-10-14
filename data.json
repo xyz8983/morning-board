@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-14T17:47:24.932Z",
+  "generatedAt": "2026-10-14T22:01:46.995Z",
   "weather": {
     "location": "New York City",
-    "tempC": 25.2,
+    "tempC": 24.4,
     "condition": "Light drizzle",
     "code": 51,
-    "highC": 25.5,
-    "lowC": 17.6,
-    "rainChance": 19
+    "highC": 26.4,
+    "lowC": 17.3,
+    "rainChance": 20
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Josh Jacobs",
-          "NFL News"
+          "John Stamos",
+          "Actor News"
         ],
-        "summary": "Josh Jacobs is buzzing due to recent NFL contract negotiations and team updates."
+        "summary": "John Stamos is buzzing due to recent interviews and memoir discussions."
       },
       {
         "keywords": [
-          "Ronald Araújo",
-          "Soccer Buzz"
+          "Atlético Mineiro",
+          "Torque Match"
         ],
-        "summary": "Ronald Araújo is buzzing as transfer rumors and performance discussions circulate in soccer."
+        "summary": "Atlético Mineiro vs Torque is buzzing due to an upcoming or recent football match."
       },
       {
         "keywords": [
-          "FotMob",
-          "Sports App"
+          "Troy Jackson",
+          "Basketball"
         ],
-        "summary": "FotMob is buzzing for its real-time sports scores and comprehensive football statistics."
+        "summary": "Troy Jackson is buzzing, likely due to recent basketball news or a tribute."
       },
       {
         "keywords": [
-          "Barcola",
-          "Football Talent"
+          "Atlético-MG",
+          "Torque Game"
         ],
-        "summary": "Barcola is buzzing due to his emerging talent and recent performances in European football."
+        "summary": "Atlético-MG x Torque is buzzing due to high anticipation for their football game."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7706.76,
-        "changePct": -1.2643729701682749
+        "price": 7718.94,
+        "changePct": -1.10832815532737
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26682.422,
-        "changePct": -1.9186542755247586
+        "price": 26692.87,
+        "changePct": -1.8802486952468758
       },
       {
         "region": "Europe",
@@ -95,52 +95,29 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "My daily commute has been significantly reduced to the distance between my bed and my 'office' chair. It's a miracle I still manage to be late for meetings.",
-      "explanation": "This joke uses sarcasm to highlight the irony of struggling with punctuality in remote work, despite the minimal 'commute.'"
-    },
-    "zh": {
-      "joke": "我的财务状况是如此稳定，稳定到每个月都能精准地在发工资那天达到巅峰，然后以肉眼可见的速度坠入谷底。这是一种完美的经济循环。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Charlie Parker (cricketer)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/9/95/CWL_Parker_Cr_Apr_81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "English cricketer",
-        "extract": "Charles Warrington Leonard Parker was an English cricketer, who stands as the third highest wicket taker in the history of first-class cricket, behind Wilfred Rhodes and Tich Freeman.",
-        "born": 1882,
-        "highlights": [
-          "English cricketer.",
-          "Third highest wicket taker in first-class cricket."
-        ]
+        "name": "Shimazu Tadayoshi",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Shimazu_Tadayoshi%2816th%29.jpg/330px-Shimazu_Tadayoshi%2816th%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese daimyō (1493–1568)",
+        "extract": "\n\nShimazu Tadayoshi  was a daimyō of Satsuma Province during Japan's Sengoku period. He was born into the Mimasaka Shimazu family (伊作島津家), which was part of the Shimazu clan, but after his father Shimazu Yoshihisa died, his mother married Shimazu Unkyu of another branch family, the Soshū (相州家). Tadayoshi thus came to represent two families within the larger Shimazu clan.",
+        "born": 1493
       },
       {
-        "name": "Roger Taylor (tennis)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Roger_Taylor_%28tennis%29.jpg/330px-Roger_Taylor_%28tennis%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British tennis player (born 1941)",
-        "extract": "Roger Taylor MBE is a British former tennis player, born in Sheffield, South Yorkshire. He achieved success at several Grand Slam tournaments, reaching the quarter-finals of the French Open in 1973, the semi-finals of Wimbledon during the same year and winning back to back US Open men's doubles titles in 1971 and 1972. He also enjoyed particular success in 1970, again reaching the semi-finals of Wimbledon, where he achieved an upset win over defending champion Rod Laver en route, and the semi-finals of the Australian Open. Taylor also reached the semi-finals at Wimbledon in 1967. His career-high ATP ranking was 11 in its early listings in 1973; earlier unofficial year-end listings ranked him joint-7th (amateur) for 1967 and 8th (open) for 1970.",
-        "born": 1941,
-        "highlights": [
-          "Won back-to-back US Open men's doubles titles (1971, 1972).",
-          "Reached Wimbledon semi-finals multiple times (1967, 1970, 1973).",
-          "Achieved upset win over Rod Laver at Wimbledon 1970."
-        ]
+        "name": "Lê Đức Thọ",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Le_Duc_Tho_at_Orly_Field_1972_%28cropped%29.jpg/330px-Le_Duc_Tho_at_Orly_Field_1972_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Vietnamese revolutionary, diplomat, and politician (1911–1990)",
+        "extract": "Lê Đức Thọ, born Phan Đình Khải in Nam Dinh Province, was a Vietnamese revolutionary, diplomat, and politician. He was the first Asian to be awarded the Nobel Peace Prize, jointly with United States Secretary of State Henry Kissinger in 1973, but refused the award.",
+        "born": 1911
       },
       {
-        "name": "Hans Kraay Sr.",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Hans_Kraay_sr..jpg/330px-Hans_Kraay_sr..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Dutch footballer (1936–2017)",
-        "extract": "Johan Hendrik \"Hans\" Kraay was a Dutch professional football player and manager who played as a defender. Subsequently, he became well known for his football management skills as well as analysis of matches on Dutch television.",
-        "born": 1936,
-        "highlights": [
-          "Dutch professional football player and manager.",
-          "Played as a defender.",
-          "Well known for football analysis on Dutch television."
-        ]
+        "name": "François Sébastien Charles Joseph de Croix, Count of Clerfayt",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Clairfait.jpg/330px-Clairfait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Austrian marshal",
+        "extract": "François Sébastien Charles Joseph de Croix, Count of Clerfayt was a military commander in the army of the Holy Roman Empire. A Walloon, he joined the army of the Habsburg monarchy and soon fought in the Seven Years' War. Later in his military career, he led Austrian troops in the Austro-Turkish War. During the War of the First Coalition he saw extensive fighting and rose to the rank of field marshal. He is regarded as one of the most capable Austrian commanders of the French Revolutionary Wars.",
+        "born": 1733
       }
     ]
   }
