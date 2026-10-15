@@ -1,42 +1,13 @@
 {
-  "generatedAt": "2026-10-15T17:37:24.971Z",
+  "generatedAt": "2026-10-15T21:55:18.865Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18.4,
+    "tempC": 17.7,
     "condition": "Overcast",
     "code": 3,
     "highC": 20.3,
-    "lowC": 12.5,
+    "lowC": 12.4,
     "rainChance": 1
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "Griffin Jax"
-        ],
-        "summary": "Griffin Jax is buzzing due to recent standout performances in baseball."
-      },
-      {
-        "keywords": [
-          "Andy Dalton"
-        ],
-        "summary": "Andy Dalton is buzzing as fans discuss his recent NFL team performance."
-      },
-      {
-        "keywords": [
-          "Eagles News"
-        ],
-        "summary": "Eagles news is buzzing with updates on team roster changes and upcoming games."
-      },
-      {
-        "keywords": [
-          "Ajax"
-        ],
-        "summary": "Ajax is buzzing as their football club faces critical matches and transfer rumors."
-      }
-    ]
   },
   "market": {
     "indices": [
@@ -44,15 +15,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7734.46,
-        "changePct": 0.20106387664628095
+        "price": 7744.06,
+        "changePct": 0.3254332848810951
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26652.314,
-        "changePct": -0.15193570417868327
+        "price": 26713.025,
+        "changePct": 0.07550705488020762
       },
       {
         "region": "Europe",
@@ -93,50 +64,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My algorithm knows me so well, it just recommended a video on how to stop scrolling. I feel seen.",
-      "explanation": "It's sarcastic about algorithms' uncanny ability to understand user habits, even as they provide content that contradicts healthy behavior."
+      "joke": "My AI assistant just suggested I 'take a break.' It's clearly learning my procrastination habits.",
+      "explanation": "The humor comes from AI unexpectedly mirroring human flaws in a deadpan, relatable way."
     },
     "zh": {
-      "joke": "我的闹钟每天早上都在跟我进行一场哲学辩论：究竟是起床更痛苦，还是被扣工资更痛苦。"
+      "joke": "我每天最重要的一个决策，就是中午点什么外卖，才能有效规避对昨晚没点的那个的遗憾。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Italo Calvino",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Italo-Calvino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Italian author (1923–1985)",
-        "extract": "Italo Calvino was an Italian novelist and short story writer. His best-known works include the Our Ancestors trilogy (1952–1959), the Cosmicomics collection of short stories (1965), and the novels Invisible Cities (1972) and If on a winter's night a traveler (1979).",
-        "born": 1923,
+        "name": "Sarah Ferguson",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sarah%2C_Duchess_of_York%2C_Gahanga_Cricket_Stadium_1_%28October_2017%29_%28cropped%29.jpg/330px-Sarah%2C_Duchess_of_York%2C_Gahanga_Cricket_Stadium_1_%28October_2017%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British former royal and author (born 1959)",
+        "extract": "Sarah Margaret Ferguson, formerly Sarah, Duchess of York, and commonly known as Fergie, is a British author, spokesperson, and television personality. She is the ex-wife of Andrew Mountbatten-Windsor, the former Prince Andrew, Duke of York, who is the second son of Queen Elizabeth II and the younger brother of King Charles III.",
+        "born": 1959,
         "highlights": [
-          "Italian novelist and short story writer.",
-          "Known for Our Ancestors trilogy.",
-          "Wrote Invisible Cities and If on a winter's night a traveler."
+          "British author, spokesperson, and television personality.",
+          "Formerly Sarah, Duchess of York.",
+          "Ex-wife of Prince Andrew, Duke of York."
         ]
       },
       {
-        "name": "Nicky Barnes",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Nicky_Barnes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American convicted drug trafficker (1933–2012)",
-        "extract": "Leroy Nicholas Barnes was an American crime boss, active in New York City during the 1970s.",
-        "born": 1933,
+        "name": "Mira Nair",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Mira_Nair.jpg/330px-Mira_Nair.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Indian American filmmaker (born 1957)",
+        "extract": "Mira Nair is an Indian American filmmaker. She has received two prizes from the Cannes Film Festival and four from the Venice Film Festival, as well as nominations for an Academy Award, two BAFTA Awards, a Golden Globe, and two César Awards.",
+        "born": 1957,
         "highlights": [
-          "American crime boss.",
-          "Active in New York City.",
-          "Prominent during the 1970s."
+          "Indian American filmmaker.",
+          "Received two prizes from Cannes Film Festival.",
+          "Received four prizes from Venice Film Festival."
         ]
       },
       {
-        "name": "Roscoe Tanner",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Roscoe_Tanner.jpg/330px-Roscoe_Tanner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American tennis player (born 1951)",
-        "extract": "Leonard Roscoe Tanner is an American former professional tennis player. He reached a career-high singles ranking of world No. 4 on July 30, 1979. Tanner won 16 titles throughout his career.",
-        "born": 1951,
+        "name": "Linda Lavin",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Linda_Lavin_1976_Alice_press_photo.jpg/330px-Linda_Lavin_1976_Alice_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress and singer (1937–2024)",
+        "extract": "Linda Lavin was an American actress and singer. Known for her roles on stage and screen, she received several awards including three Drama Desk Awards, two Golden Globe Awards, two Obie Awards, and a Tony Award, as well as nominations for a Daytime Emmy Award and a Primetime Emmy Award. She was inducted into the American Theater Hall of Fame in 2010.",
+        "born": 1937,
         "highlights": [
-          "American former professional tennis player.",
-          "Reached world No. 4 singles ranking.",
-          "Won 16 career titles."
+          "American actress and singer.",
+          "Received a Tony Award.",
+          "Inducted into American Theater Hall of Fame in 2010."
         ]
       }
     ]
