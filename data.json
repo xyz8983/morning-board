@@ -1,44 +1,40 @@
 {
-  "generatedAt": "2026-10-14T22:01:46.995Z",
+  "generatedAt": "2026-10-15T17:37:24.971Z",
   "weather": {
     "location": "New York City",
-    "tempC": 24.4,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 26.4,
-    "lowC": 17.3,
-    "rainChance": 20
+    "tempC": 18.4,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 20.3,
+    "lowC": 12.5,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "John Stamos",
-          "Actor News"
+          "Griffin Jax"
         ],
-        "summary": "John Stamos is buzzing due to recent interviews and memoir discussions."
+        "summary": "Griffin Jax is buzzing due to recent standout performances in baseball."
       },
       {
         "keywords": [
-          "Atlético Mineiro",
-          "Torque Match"
+          "Andy Dalton"
         ],
-        "summary": "Atlético Mineiro vs Torque is buzzing due to an upcoming or recent football match."
+        "summary": "Andy Dalton is buzzing as fans discuss his recent NFL team performance."
       },
       {
         "keywords": [
-          "Troy Jackson",
-          "Basketball"
+          "Eagles News"
         ],
-        "summary": "Troy Jackson is buzzing, likely due to recent basketball news or a tribute."
+        "summary": "Eagles news is buzzing with updates on team roster changes and upcoming games."
       },
       {
         "keywords": [
-          "Atlético-MG",
-          "Torque Game"
+          "Ajax"
         ],
-        "summary": "Atlético-MG x Torque is buzzing due to high anticipation for their football game."
+        "summary": "Ajax is buzzing as their football club faces critical matches and transfer rumors."
       }
     ]
   },
@@ -48,76 +44,100 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7718.94,
-        "changePct": -1.10832815532737
+        "price": 7734.46,
+        "changePct": 0.20106387664628095
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26692.87,
-        "changePct": -1.8802486952468758
+        "price": 26652.314,
+        "changePct": -0.15193570417868327
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6190.37,
-        "changePct": 0.37878972143712547
+        "price": 6168.26,
+        "changePct": -0.3571676652607142
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10724.86,
-        "changePct": 0.6997905229227701
+        "price": 10840.35,
+        "changePct": 1.0768438935333402
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3767.227,
-        "changePct": -0.7903898621103729
+        "price": 3707.476,
+        "changePct": -2.456917644954037
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4217.68,
-        "changePct": -1.3565093739475358
+        "price": 4166.012,
+        "changePct": -1.2250336677984242
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24314.17,
-        "changePct": 0.17704110221166455
+        "price": 24062.72,
+        "changePct": -1.1603108621001246
       }
     ]
+  },
+  "joke": {
+    "en": {
+      "joke": "My algorithm knows me so well, it just recommended a video on how to stop scrolling. I feel seen.",
+      "explanation": "It's sarcastic about algorithms' uncanny ability to understand user habits, even as they provide content that contradicts healthy behavior."
+    },
+    "zh": {
+      "joke": "我的闹钟每天早上都在跟我进行一场哲学辩论：究竟是起床更痛苦，还是被扣工资更痛苦。"
+    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Shimazu Tadayoshi",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Shimazu_Tadayoshi%2816th%29.jpg/330px-Shimazu_Tadayoshi%2816th%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese daimyō (1493–1568)",
-        "extract": "\n\nShimazu Tadayoshi  was a daimyō of Satsuma Province during Japan's Sengoku period. He was born into the Mimasaka Shimazu family (伊作島津家), which was part of the Shimazu clan, but after his father Shimazu Yoshihisa died, his mother married Shimazu Unkyu of another branch family, the Soshū (相州家). Tadayoshi thus came to represent two families within the larger Shimazu clan.",
-        "born": 1493
+        "name": "Italo Calvino",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Italo-Calvino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Italian author (1923–1985)",
+        "extract": "Italo Calvino was an Italian novelist and short story writer. His best-known works include the Our Ancestors trilogy (1952–1959), the Cosmicomics collection of short stories (1965), and the novels Invisible Cities (1972) and If on a winter's night a traveler (1979).",
+        "born": 1923,
+        "highlights": [
+          "Italian novelist and short story writer.",
+          "Known for Our Ancestors trilogy.",
+          "Wrote Invisible Cities and If on a winter's night a traveler."
+        ]
       },
       {
-        "name": "Lê Đức Thọ",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Le_Duc_Tho_at_Orly_Field_1972_%28cropped%29.jpg/330px-Le_Duc_Tho_at_Orly_Field_1972_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Vietnamese revolutionary, diplomat, and politician (1911–1990)",
-        "extract": "Lê Đức Thọ, born Phan Đình Khải in Nam Dinh Province, was a Vietnamese revolutionary, diplomat, and politician. He was the first Asian to be awarded the Nobel Peace Prize, jointly with United States Secretary of State Henry Kissinger in 1973, but refused the award.",
-        "born": 1911
+        "name": "Nicky Barnes",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Nicky_Barnes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American convicted drug trafficker (1933–2012)",
+        "extract": "Leroy Nicholas Barnes was an American crime boss, active in New York City during the 1970s.",
+        "born": 1933,
+        "highlights": [
+          "American crime boss.",
+          "Active in New York City.",
+          "Prominent during the 1970s."
+        ]
       },
       {
-        "name": "François Sébastien Charles Joseph de Croix, Count of Clerfayt",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Clairfait.jpg/330px-Clairfait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Austrian marshal",
-        "extract": "François Sébastien Charles Joseph de Croix, Count of Clerfayt was a military commander in the army of the Holy Roman Empire. A Walloon, he joined the army of the Habsburg monarchy and soon fought in the Seven Years' War. Later in his military career, he led Austrian troops in the Austro-Turkish War. During the War of the First Coalition he saw extensive fighting and rose to the rank of field marshal. He is regarded as one of the most capable Austrian commanders of the French Revolutionary Wars.",
-        "born": 1733
+        "name": "Roscoe Tanner",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Roscoe_Tanner.jpg/330px-Roscoe_Tanner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American tennis player (born 1951)",
+        "extract": "Leonard Roscoe Tanner is an American former professional tennis player. He reached a career-high singles ranking of world No. 4 on July 30, 1979. Tanner won 16 titles throughout his career.",
+        "born": 1951,
+        "highlights": [
+          "American former professional tennis player.",
+          "Reached world No. 4 singles ranking.",
+          "Won 16 career titles."
+        ]
       }
     ]
   }
