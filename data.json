@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-10-15T21:55:18.865Z",
+  "generatedAt": "2026-10-16T17:10:39.936Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.7,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 20.3,
-    "lowC": 12.4,
-    "rainChance": 1
+    "tempC": 19.1,
+    "condition": "Light rain",
+    "code": 61,
+    "highC": 21.7,
+    "lowC": 13.8,
+    "rainChance": 63
+  },
+  "hotTopics": {
+    "headline": "Today's buzz",
+    "topics": [
+      {
+        "keywords": [
+          "Kate Middleton",
+          "Cornwall Portraits"
+        ],
+        "summary": "New portraits of Kate Middleton in Cornwall are buzzing for their artistic style and location."
+      },
+      {
+        "keywords": [
+          "Ryan Smith",
+          "Business Leader"
+        ],
+        "summary": "Ryan Smith is buzzing due to recent business ventures and tech industry impact."
+      },
+      {
+        "keywords": [
+          "Oil Prices",
+          "Global Market"
+        ],
+        "summary": "Petróleo (oil) is buzzing due to fluctuating global prices and supply chain concerns."
+      },
+      {
+        "keywords": [
+          "Laura Bozzo",
+          "TV Personality"
+        ],
+        "summary": "Laura Bozzo is buzzing due to her controversial television appearances and public statements."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -15,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7744.06,
-        "changePct": 0.3254332848810951
+        "price": 7665.32,
+        "changePct": -1.016779312143768
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26713.025,
-        "changePct": 0.07550705488020762
+        "price": 26213.14,
+        "changePct": -1.8713155848130343
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6168.26,
-        "changePct": -0.3571676652607142
+        "price": 6204.23,
+        "changePct": 0.5831466248180093
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10840.35,
-        "changePct": 1.0768438935333402
+        "price": 10881.9,
+        "changePct": 0.3832902074194954
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3707.476,
-        "changePct": -2.456917644954037
+        "price": 3716.284,
+        "changePct": -1.3523464189868926
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4166.012,
-        "changePct": -1.2250336677984242
+        "price": 4170.613,
+        "changePct": 0.11044135254532554
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24062.72,
-        "changePct": -1.1603108621001246
+        "price": 24186.83,
+        "changePct": -0.5238502603416891
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My AI assistant just suggested I 'take a break.' It's clearly learning my procrastination habits.",
-      "explanation": "The humor comes from AI unexpectedly mirroring human flaws in a deadpan, relatable way."
+      "joke": "My phone's battery life is directly proportional to the number of 'quick sync' meetings on my calendar.",
+      "explanation": "It highlights the relatable modern irony of remote work where 'quick syncs' often drain device battery and personal energy."
     },
     "zh": {
-      "joke": "我每天最重要的一个决策，就是中午点什么外卖，才能有效规避对昨晚没点的那个的遗憾。"
+      "joke": "当代年轻人的耐心，都用在等外卖送达的地图进度条上了。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sarah Ferguson",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sarah%2C_Duchess_of_York%2C_Gahanga_Cricket_Stadium_1_%28October_2017%29_%28cropped%29.jpg/330px-Sarah%2C_Duchess_of_York%2C_Gahanga_Cricket_Stadium_1_%28October_2017%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British former royal and author (born 1959)",
-        "extract": "Sarah Margaret Ferguson, formerly Sarah, Duchess of York, and commonly known as Fergie, is a British author, spokesperson, and television personality. She is the ex-wife of Andrew Mountbatten-Windsor, the former Prince Andrew, Duke of York, who is the second son of Queen Elizabeth II and the younger brother of King Charles III.",
-        "born": 1959,
+        "name": "Zoltán Stieber",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/1_Zolt%C3%A1n_Stieber_%28cropped%29.jpg/330px-1_Zolt%C3%A1n_Stieber_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Hungarian footballer",
+        "extract": "Zoltán Stieber is a Hungarian professional footballer who plays as a winger or attacking midfielder. Having spent time in a number of Hungarian youth sides Stieber spent four years with the academy of Premier League side Aston Villa before moving to Germany where he worked his way up the league system. He became a regular international player for the Hungary national team including in their Euro 2016 finals squad.",
+        "born": 1988,
         "highlights": [
-          "British author, spokesperson, and television personality.",
-          "Formerly Sarah, Duchess of York.",
-          "Ex-wife of Prince Andrew, Duke of York."
+          "Professional footballer, plays as winger or attacking midfielder.",
+          "Spent four years with Aston Villa academy.",
+          "Played for Hungary in Euro 2016 finals squad."
         ]
       },
       {
-        "name": "Mira Nair",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Mira_Nair.jpg/330px-Mira_Nair.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Indian American filmmaker (born 1957)",
-        "extract": "Mira Nair is an Indian American filmmaker. She has received two prizes from the Cannes Film Festival and four from the Venice Film Festival, as well as nominations for an Academy Award, two BAFTA Awards, a Golden Globe, and two César Awards.",
-        "born": 1957,
+        "name": "Daniel Chodowiecki",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Adolf_Friedrich_Erdmann_von_Menzel_018.jpg/330px-Adolf_Friedrich_Erdmann_von_Menzel_018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German painter and printmaker (1726–1801)",
+        "extract": "Daniel Niklaus Chodowiecki was a German painter and printmaker of Huguenot and Polish ancestry, who is most famous as an etcher. He spent most of his life in Berlin, and became the director of the Berlin Academy of Art.",
+        "born": 1726,
         "highlights": [
-          "Indian American filmmaker.",
-          "Received two prizes from Cannes Film Festival.",
-          "Received four prizes from Venice Film Festival."
+          "German painter and printmaker.",
+          "Most famous as an etcher.",
+          "Director of the Berlin Academy of Art."
         ]
       },
       {
-        "name": "Linda Lavin",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Linda_Lavin_1976_Alice_press_photo.jpg/330px-Linda_Lavin_1976_Alice_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress and singer (1937–2024)",
-        "extract": "Linda Lavin was an American actress and singer. Known for her roles on stage and screen, she received several awards including three Drama Desk Awards, two Golden Globe Awards, two Obie Awards, and a Tony Award, as well as nominations for a Daytime Emmy Award and a Primetime Emmy Award. She was inducted into the American Theater Hall of Fame in 2010.",
-        "born": 1937,
+        "name": "Kazuyuki Fujita",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kazuyuki_Fujita.jpg/330px-Kazuyuki_Fujita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese professional wrestler and MMA fighter (born 1970)",
+        "extract": "Kazuyuki Fujita  is a Japanese professional wrestler, former mixed martial artist and freestyle wrestler, currently signed to Pro Wrestling Noah, where he is a one-time GHC Heavyweight Champion. He has most recently fought in Road FC, but is also known for his work in the PRIDE Fighting Championships, K-1, Rizin Fighting Federation, and World Victory Road.",
+        "born": 1970,
         "highlights": [
-          "American actress and singer.",
-          "Received a Tony Award.",
-          "Inducted into American Theater Hall of Fame in 2010."
+          "Japanese professional wrestler and former mixed martial artist.",
+          "One-time GHC Heavyweight Champion in Pro Wrestling Noah.",
+          "Known for work in PRIDE, K-1, Rizin."
         ]
       }
     ]
