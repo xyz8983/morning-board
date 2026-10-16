@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-16T17:10:39.936Z",
+  "generatedAt": "2026-10-16T21:54:07.299Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19.1,
-    "condition": "Light rain",
-    "code": 61,
-    "highC": 21.7,
+    "tempC": 20.9,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 22.2,
     "lowC": 13.8,
-    "rainChance": 63
+    "rainChance": 58
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Kate Middleton",
-          "Cornwall Portraits"
+          "Elizabeth Hurley",
+          "Social Media"
         ],
-        "summary": "New portraits of Kate Middleton in Cornwall are buzzing for their artistic style and location."
+        "summary": "Elizabeth Hurley is buzzing for her recent social media posts and ageless appearance."
       },
       {
         "keywords": [
-          "Ryan Smith",
-          "Business Leader"
+          "Red Rising",
+          "Movie Adaptation"
         ],
-        "summary": "Ryan Smith is buzzing due to recent business ventures and tech industry impact."
+        "summary": "The \"Red Rising\" movie is buzzing as fans eagerly await news on its adaptation status."
       },
       {
         "keywords": [
-          "Oil Prices",
-          "Global Market"
+          "Tulane Football",
+          "Season Hopes"
         ],
-        "summary": "Petróleo (oil) is buzzing due to fluctuating global prices and supply chain concerns."
+        "summary": "Tulane football is buzzing with discussions about their upcoming season and team prospects."
       },
       {
         "keywords": [
-          "Laura Bozzo",
-          "TV Personality"
+          "Appalachian State",
+          "Football Buzz"
         ],
-        "summary": "Laura Bozzo is buzzing due to her controversial television appearances and public statements."
+        "summary": "Appalachian State football is buzzing as fans anticipate their performance this season."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7665.32,
-        "changePct": -1.016779312143768
+        "price": 7659.44,
+        "changePct": -1.0927084759157444
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26213.14,
-        "changePct": -1.8713155848130343
+        "price": 26140.033,
+        "changePct": -2.14499106709181
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone's battery life is directly proportional to the number of 'quick sync' meetings on my calendar.",
-      "explanation": "It highlights the relatable modern irony of remote work where 'quick syncs' often drain device battery and personal energy."
+      "joke": "I started ironically using filters, now I don't remember what my face actually looks like.",
+      "explanation": "It's funny because it shows how ironic actions can blur into genuine behavior, satirizing modern digital identity."
     },
     "zh": {
-      "joke": "当代年轻人的耐心，都用在等外卖送达的地图进度条上了。"
+      "joke": "今天我点外卖，备注写了'请把筷子送到门口，不要敲门，以免打扰我思考人生'。结果送餐员给我发了句：'好的，哲学家。'"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Zoltán Stieber",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/1_Zolt%C3%A1n_Stieber_%28cropped%29.jpg/330px-1_Zolt%C3%A1n_Stieber_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Hungarian footballer",
-        "extract": "Zoltán Stieber is a Hungarian professional footballer who plays as a winger or attacking midfielder. Having spent time in a number of Hungarian youth sides Stieber spent four years with the academy of Premier League side Aston Villa before moving to Germany where he worked his way up the league system. He became a regular international player for the Hungary national team including in their Euro 2016 finals squad.",
-        "born": 1988,
+        "name": "J. B. Bury",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/JBagnellBury.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Anglo-Irish historian and classical scholar (1861–1927)",
+        "extract": "John Bagnell Bury was an Anglo-Irish historian, classical scholar, Medieval Roman historian and philologist. He objected to the label \"Byzantinist\" explicitly in the preface to the 1889 edition of his Later Roman Empire. He was Erasmus Smith's Professor of Modern History at Trinity College Dublin (1893–1902), before being Regius Professor of Modern History at the University of Cambridge and a Professorial Fellow of King's College, Cambridge from 1902 until his death.",
+        "born": 1861,
         "highlights": [
-          "Professional footballer, plays as winger or attacking midfielder.",
-          "Spent four years with Aston Villa academy.",
-          "Played for Hungary in Euro 2016 finals squad."
+          "Erasmus Smith's Professor of Modern History at Trinity College.",
+          "Regius Professor of Modern History at University of Cambridge.",
+          "Anglo-Irish historian and classical scholar."
         ]
       },
       {
-        "name": "Daniel Chodowiecki",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Adolf_Friedrich_Erdmann_von_Menzel_018.jpg/330px-Adolf_Friedrich_Erdmann_von_Menzel_018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German painter and printmaker (1726–1801)",
-        "extract": "Daniel Niklaus Chodowiecki was a German painter and printmaker of Huguenot and Polish ancestry, who is most famous as an etcher. He spent most of his life in Berlin, and became the director of the Berlin Academy of Art.",
-        "born": 1726,
+        "name": "Franco Armani",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Franco_Armani_2018.jpg/330px-Franco_Armani_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Argentine footballer (born 1986)",
+        "extract": "Franco Armani is an Argentine professional footballer who plays as a goalkeeper for Liga DIMAYOR club Atlético Nacional.",
+        "born": 1986,
         "highlights": [
-          "German painter and printmaker.",
-          "Most famous as an etcher.",
-          "Director of the Berlin Academy of Art."
+          "Argentine professional footballer.",
+          "Plays as a goalkeeper.",
+          "Plays for Atlético Nacional."
         ]
       },
       {
-        "name": "Kazuyuki Fujita",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kazuyuki_Fujita.jpg/330px-Kazuyuki_Fujita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese professional wrestler and MMA fighter (born 1970)",
-        "extract": "Kazuyuki Fujita  is a Japanese professional wrestler, former mixed martial artist and freestyle wrestler, currently signed to Pro Wrestling Noah, where he is a one-time GHC Heavyweight Champion. He has most recently fought in Road FC, but is also known for his work in the PRIDE Fighting Championships, K-1, Rizin Fighting Federation, and World Victory Road.",
-        "born": 1970,
+        "name": "Robert Stephenson",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Robert_Stephenson_by_Maull_%26_Polybank%2C_1856_%28crop%29.jpg/330px-Robert_Stephenson_by_Maull_%26_Polybank%2C_1856_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English civil and locomotive engineer (1803–1859)",
+        "extract": "Robert Stephenson, DCL  was an English civil engineer and designer of locomotives. The only son of George Stephenson, the \"Father of Railways\", he built on the achievements of his father.",
+        "born": 1803,
         "highlights": [
-          "Japanese professional wrestler and former mixed martial artist.",
-          "One-time GHC Heavyweight Champion in Pro Wrestling Noah.",
-          "Known for work in PRIDE, K-1, Rizin."
+          "English civil engineer.",
+          "Designer of locomotives.",
+          "Son of George Stephenson, \"Father of Railways\"."
         ]
       }
     ]
