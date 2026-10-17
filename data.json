@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-16T21:54:07.299Z",
+  "generatedAt": "2026-10-17T16:09:03.958Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.9,
+    "tempC": 10.8,
     "condition": "Light drizzle",
     "code": 51,
-    "highC": 22.2,
-    "lowC": 13.8,
-    "rainChance": 58
+    "highC": 17.4,
+    "lowC": 4.3,
+    "rainChance": 41
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Elizabeth Hurley",
-          "Social Media"
+          "PSG",
+          "Football"
         ],
-        "summary": "Elizabeth Hurley is buzzing for her recent social media posts and ageless appearance."
+        "summary": "PSG is buzzing due to recent transfer rumors and upcoming match performances."
       },
       {
         "keywords": [
-          "Red Rising",
-          "Movie Adaptation"
+          "Harry Meghan",
+          "Royal News"
         ],
-        "summary": "The \"Red Rising\" movie is buzzing as fans eagerly await news on its adaptation status."
+        "summary": "Harry and Meghan are buzzing with news about their latest public appearances and projects."
       },
       {
         "keywords": [
-          "Tulane Football",
-          "Season Hopes"
+          "Bo Jackson",
+          "Ohio State"
         ],
-        "summary": "Tulane football is buzzing with discussions about their upcoming season and team prospects."
+        "summary": "Bo Jackson's name is buzzing in relation to Ohio State football history and discussions."
       },
       {
         "keywords": [
-          "Appalachian State",
-          "Football Buzz"
+          "Newcastle",
+          "Aston Villa"
         ],
-        "summary": "Appalachian State football is buzzing as fans anticipate their performance this season."
+        "summary": "Newcastle vs Aston Villa is buzzing due to their highly anticipated Premier League match."
       }
     ]
   },
@@ -70,14 +70,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10881.9,
-        "changePct": 0.3832902074194954
+        "changePct": 0.3828272019482676
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3716.284,
-        "changePct": -1.3523464189868926
+        "changePct": 0.23746587978896952
       },
       {
         "region": "Asia",
@@ -91,56 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24186.83,
-        "changePct": -0.5238502603416891
+        "changePct": 0.5158606473920259
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I started ironically using filters, now I don't remember what my face actually looks like.",
-      "explanation": "It's funny because it shows how ironic actions can blur into genuine behavior, satirizing modern digital identity."
+      "joke": "I tried to optimize my morning routine, but now I just have 17 more tabs open on 'productivity hacks'.",
+      "explanation": "This joke highlights the modern paradox where seeking productivity advice online often leads to digital distraction rather than actual work."
     },
     "zh": {
-      "joke": "今天我点外卖，备注写了'请把筷子送到门口，不要敲门，以免打扰我思考人生'。结果送餐员给我发了句：'好的，哲学家。'"
+      "joke": "我的闹钟是用来提醒我“该醒了”，不是“该起床了”，两者之间还有漫长的心理建设。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "J. B. Bury",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/JBagnellBury.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Anglo-Irish historian and classical scholar (1861–1927)",
-        "extract": "John Bagnell Bury was an Anglo-Irish historian, classical scholar, Medieval Roman historian and philologist. He objected to the label \"Byzantinist\" explicitly in the preface to the 1889 edition of his Later Roman Empire. He was Erasmus Smith's Professor of Modern History at Trinity College Dublin (1893–1902), before being Regius Professor of Modern History at the University of Cambridge and a Professorial Fellow of King's College, Cambridge from 1902 until his death.",
-        "born": 1861,
+        "name": "Louis-Léon Cugnot",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Monument_Clement-Thomas_Lecomte.JPG/330px-Monument_Clement-Thomas_Lecomte.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French sculptor (1835–1894)",
+        "extract": "Louis-Léon Cugnot was a French sculptor.",
+        "born": 1835,
         "highlights": [
-          "Erasmus Smith's Professor of Modern History at Trinity College.",
-          "Regius Professor of Modern History at University of Cambridge.",
-          "Anglo-Irish historian and classical scholar."
+          "French sculptor.",
+          "Known for his sculpting.",
+          "An artist."
         ]
       },
       {
-        "name": "Franco Armani",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Franco_Armani_2018.jpg/330px-Franco_Armani_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Argentine footballer (born 1986)",
-        "extract": "Franco Armani is an Argentine professional footballer who plays as a goalkeeper for Liga DIMAYOR club Atlético Nacional.",
-        "born": 1986,
+        "name": "Danny Ferry",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Danny_Ferry%2C_Duke_Chronicle_1985-11-21.jpg/330px-Danny_Ferry%2C_Duke_Chronicle_1985-11-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player and executive (born 1966)",
+        "extract": "Daniel John Willard Ferry is an American executive and former professional basketball player who played the forward position.",
+        "born": 1966,
         "highlights": [
-          "Argentine professional footballer.",
-          "Plays as a goalkeeper.",
-          "Plays for Atlético Nacional."
+          "American executive.",
+          "Former professional basketball player.",
+          "Played the forward position in basketball."
         ]
       },
       {
-        "name": "Robert Stephenson",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Robert_Stephenson_by_Maull_%26_Polybank%2C_1856_%28crop%29.jpg/330px-Robert_Stephenson_by_Maull_%26_Polybank%2C_1856_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English civil and locomotive engineer (1803–1859)",
-        "extract": "Robert Stephenson, DCL  was an English civil engineer and designer of locomotives. The only son of George Stephenson, the \"Father of Railways\", he built on the achievements of his father.",
-        "born": 1803,
+        "name": "Patrick Lambie",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Patrick_Lambie_cropped.jpg/330px-Patrick_Lambie_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "South Africa international rugby union player",
+        "extract": "Patrick Jonathan Lambie is a retired South African professional rugby union player who represented the Sharks and Racing 92, and played fly-half, fullback and centre. Widely regarded as one of the most composed and talented South African players of his generation, he earned 56 Test caps for South Africa between 2010 and 2016. He concluded his career with Racing 92 in the French Top 14 before announcing his retirement in January 2019 due to multiple concussions.",
+        "born": 1990,
         "highlights": [
-          "English civil engineer.",
-          "Designer of locomotives.",
-          "Son of George Stephenson, \"Father of Railways\"."
+          "South African professional rugby union player.",
+          "Earned 56 Test caps for South Africa.",
+          "Retired in 2019 due to multiple concussions."
         ]
       }
     ]
