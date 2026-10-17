@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-17T16:09:03.958Z",
+  "generatedAt": "2026-10-17T21:13:24.534Z",
   "weather": {
     "location": "New York City",
-    "tempC": 10.8,
+    "tempC": 11.3,
     "condition": "Light drizzle",
     "code": 51,
     "highC": 17.4,
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "PSG",
-          "Football"
+          "France",
+          "Travel"
         ],
-        "summary": "PSG is buzzing due to recent transfer rumors and upcoming match performances."
+        "summary": "France is buzzing as a top travel destination for summer vacations."
       },
       {
         "keywords": [
-          "Harry Meghan",
-          "Royal News"
+          "Bruce Brown",
+          "NBA Trade"
         ],
-        "summary": "Harry and Meghan are buzzing with news about their latest public appearances and projects."
+        "summary": "Bruce Brown is buzzing due to recent NBA trade rumors and team changes."
       },
       {
         "keywords": [
-          "Bo Jackson",
-          "Ohio State"
+          "Husker Volleyball",
+          "Schedule Release"
         ],
-        "summary": "Bo Jackson's name is buzzing in relation to Ohio State football history and discussions."
+        "summary": "Husker volleyball schedule is buzzing as fans eagerly await the new season's lineup."
       },
       {
         "keywords": [
-          "Newcastle",
-          "Aston Villa"
+          "Christopher Walken",
+          "New Project"
         ],
-        "summary": "Newcastle vs Aston Villa is buzzing due to their highly anticipated Premier League match."
+        "summary": "Christopher Walken is buzzing for his recent role in a highly anticipated new series."
       }
     ]
   },
@@ -97,50 +97,46 @@
   },
   "joke": {
     "en": {
-      "joke": "I tried to optimize my morning routine, but now I just have 17 more tabs open on 'productivity hacks'.",
-      "explanation": "This joke highlights the modern paradox where seeking productivity advice online often leads to digital distraction rather than actual work."
+      "joke": "My smart home speaker just suggested I automate my existential dread.",
+      "explanation": "It's funny because it takes the concept of home automation and applies it to an un-automatable, abstract human emotion, highlighting the absurdity of tech solutions for everything."
     },
     "zh": {
-      "joke": "我的闹钟是用来提醒我“该醒了”，不是“该起床了”，两者之间还有漫长的心理建设。"
+      "joke": "我今天算是想明白了，当代打工人的工作状态，就是用最专业的态度，实现最抽象的产出。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Louis-Léon Cugnot",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Monument_Clement-Thomas_Lecomte.JPG/330px-Monument_Clement-Thomas_Lecomte.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French sculptor (1835–1894)",
-        "extract": "Louis-Léon Cugnot was a French sculptor.",
-        "born": 1835,
+        "name": "Philippe Sands",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Philippe_Sands_at_the_Frankfurt_Book_Fair_2026-6399.jpg/330px-Philippe_Sands_at_the_Frankfurt_Book_Fair_2026-6399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British/French lawyer, legal academic and author (born 1960)",
+        "extract": "Philippe Joseph Sands is a British and French writer and lawyer at 11 King's Bench Walk and Professor of Laws and Director of the Centre on International Courts and Tribunals at the Faculty of Laws, University College London. A specialist in international law, he appears as counsel and advocate before many international courts and tribunals, including the International Court of Justice, the International Tribunal for the Law of the Sea, the European Court of Justice, the European Court of Human Rights and the International Criminal Court.",
+        "born": 1960,
         "highlights": [
-          "French sculptor.",
-          "Known for his sculpting.",
-          "An artist."
+          "British and French writer and lawyer.",
+          "Professor of Laws at University College London.",
+          "Specialist in international law, appears before international courts."
         ]
       },
       {
-        "name": "Danny Ferry",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Danny_Ferry%2C_Duke_Chronicle_1985-11-21.jpg/330px-Danny_Ferry%2C_Duke_Chronicle_1985-11-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball player and executive (born 1966)",
-        "extract": "Daniel John Willard Ferry is an American executive and former professional basketball player who played the forward position.",
-        "born": 1966,
+        "name": "Michael Hossack",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Michael_Hossack_%28cropped%29.gif/330px-Michael_Hossack_%28cropped%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American drummer (1946–2012)",
+        "extract": "Michael Joseph Hossack was an American drummer for the rock band The Doobie Brothers.",
+        "born": 1946,
         "highlights": [
-          "American executive.",
-          "Former professional basketball player.",
-          "Played the forward position in basketball."
+          "American drummer for the rock band The Doobie Brothers."
         ]
       },
       {
-        "name": "Patrick Lambie",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Patrick_Lambie_cropped.jpg/330px-Patrick_Lambie_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South Africa international rugby union player",
-        "extract": "Patrick Jonathan Lambie is a retired South African professional rugby union player who represented the Sharks and Racing 92, and played fly-half, fullback and centre. Widely regarded as one of the most composed and talented South African players of his generation, he earned 56 Test caps for South Africa between 2010 and 2016. He concluded his career with Racing 92 in the French Top 14 before announcing his retirement in January 2019 due to multiple concussions.",
-        "born": 1990,
+        "name": "Baccio Bandinelli",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Baccio_Bandinelli_self-portrait%2C_Vasari_Corridor_2016-05-06.jpg/330px-Baccio_Bandinelli_self-portrait%2C_Vasari_Corridor_2016-05-06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian artist (1493–1560)",
+        "extract": "Baccio Bandinelli was an Italian Renaissance sculptor, draughtsman, and painter.",
+        "born": 1493,
         "highlights": [
-          "South African professional rugby union player.",
-          "Earned 56 Test caps for South Africa.",
-          "Retired in 2019 due to multiple concussions."
+          "Italian Renaissance sculptor, draughtsman, and painter."
         ]
       }
     ]
