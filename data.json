@@ -1,44 +1,42 @@
 {
-  "generatedAt": "2026-10-17T21:13:24.534Z",
+  "generatedAt": "2026-10-18T16:21:52.990Z",
   "weather": {
     "location": "New York City",
-    "tempC": 11.3,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 17.4,
-    "lowC": 4.3,
-    "rainChance": 41
+    "tempC": 12.4,
+    "condition": "Clear sky",
+    "code": 0,
+    "highC": 15,
+    "lowC": 2.9,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "France",
-          "Travel"
+          "Lamar Jackson",
+          "Playing Status"
         ],
-        "summary": "France is buzzing as a top travel destination for summer vacations."
+        "summary": "Fans are buzzing about Lamar Jackson's playing status for upcoming games."
       },
       {
         "keywords": [
-          "Bruce Brown",
-          "NBA Trade"
+          "Nate Boerkircher"
         ],
-        "summary": "Bruce Brown is buzzing due to recent NBA trade rumors and team changes."
+        "summary": "Nate Boerkircher is buzzing due to recent college football performance."
       },
       {
         "keywords": [
-          "Husker Volleyball",
-          "Schedule Release"
+          "Charissa Thompson"
         ],
-        "summary": "Husker volleyball schedule is buzzing as fans eagerly await the new season's lineup."
+        "summary": "Charissa Thompson is buzzing following recent comments on sports reporting."
       },
       {
         "keywords": [
-          "Christopher Walken",
-          "New Project"
+          "Sporting Cristal",
+          "Comerciantes Unidos"
         ],
-        "summary": "Christopher Walken is buzzing for his recent role in a highly anticipated new series."
+        "summary": "The match between Sporting Cristal and Comerciantes Unidos is buzzing among football fans."
       }
     ]
   },
@@ -77,7 +75,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3716.284,
-        "changePct": 0.23746587978896952
+        "changePct": 0.23757402610293343
       },
       {
         "region": "Asia",
@@ -91,52 +89,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24186.83,
-        "changePct": 0.5158606473920259
+        "changePct": 0.5157771025054548
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My smart home speaker just suggested I automate my existential dread.",
-      "explanation": "It's funny because it takes the concept of home automation and applies it to an un-automatable, abstract human emotion, highlighting the absurdity of tech solutions for everything."
+      "joke": "I asked an AI to tell me a joke. It responded, 'The weather forecast for tomorrow is partly cloudy.'",
+      "explanation": "This is anti-humor: it sets up a joke expectation but delivers a mundane fact, creating humor from the subversion of expectations."
     },
     "zh": {
-      "joke": "我今天算是想明白了，当代打工人的工作状态，就是用最专业的态度，实现最抽象的产出。"
+      "joke": "我发现我的人生就像一个没更新的App，功能还行，但总感觉少了点什么新东西，而且偶尔会闪退。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Philippe Sands",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Philippe_Sands_at_the_Frankfurt_Book_Fair_2026-6399.jpg/330px-Philippe_Sands_at_the_Frankfurt_Book_Fair_2026-6399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British/French lawyer, legal academic and author (born 1960)",
-        "extract": "Philippe Joseph Sands is a British and French writer and lawyer at 11 King's Bench Walk and Professor of Laws and Director of the Centre on International Courts and Tribunals at the Faculty of Laws, University College London. A specialist in international law, he appears as counsel and advocate before many international courts and tribunals, including the International Court of Justice, the International Tribunal for the Law of the Sea, the European Court of Justice, the European Court of Human Rights and the International Criminal Court.",
-        "born": 1960,
+        "name": "Flavio Cotti",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Dodis-P25146-F4.jpg/330px-Dodis-P25146-F4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swiss politician (1939–2020)",
+        "extract": "Flavio Cotti was a Swiss politician who served as member of the Federal Council from 1986 to 1999. He was a member of the Christian Democratic People's Party from the canton of Ticino. In the 1990s, Cotti led the Swiss government's unsuccessful attempts to further Switzerland's political integration into the European Union. He was President of the Confederation in 1991 and 1998 and headed the departments of Home Affairs and Foreign Affairs.",
+        "born": 1939,
         "highlights": [
-          "British and French writer and lawyer.",
-          "Professor of Laws at University College London.",
-          "Specialist in international law, appears before international courts."
+          "Served on Federal Council (1986-1999).",
+          "President of the Confederation in 1991 and 1998.",
+          "Headed Home Affairs and Foreign Affairs departments."
         ]
       },
       {
-        "name": "Michael Hossack",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Michael_Hossack_%28cropped%29.gif/330px-Michael_Hossack_%28cropped%29.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American drummer (1946–2012)",
-        "extract": "Michael Joseph Hossack was an American drummer for the rock band The Doobie Brothers.",
-        "born": 1946,
+        "name": "Lindsey Vonn",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Lindsey_Vonn_-_240422_181204_%28cropped%29.jpg/330px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Lindsey_Vonn_-_240422_181204_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American alpine skier (born 1984)",
+        "extract": "Lindsey Caroline Vonn is an American alpine ski racer. She won four World Cup overall championships with titles in 2008, 2009, 2010, and 2012. Vonn won the gold medal in downhill at the 2010 Winter Olympics, the first one for an American woman. She also won a record eight World Cup season titles in the downhill discipline, five titles in super-G, and three consecutive titles in the combined (2010–2012). In 2016, she won her 20th World Cup crystal globe title, the overall record for men or women, surpassing Ingemar Stenmark of Sweden, who won 19 globes from 1975 to 1984. She has the third highest super ranking of all skiers, men or women.",
+        "born": 1984,
         "highlights": [
-          "American drummer for the rock band The Doobie Brothers."
+          "Won record 20th World Cup crystal globe title.",
+          "2010 Winter Olympics downhill gold medalist.",
+          "Won four World Cup overall championships."
         ]
       },
       {
-        "name": "Baccio Bandinelli",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Baccio_Bandinelli_self-portrait%2C_Vasari_Corridor_2016-05-06.jpg/330px-Baccio_Bandinelli_self-portrait%2C_Vasari_Corridor_2016-05-06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian artist (1493–1560)",
-        "extract": "Baccio Bandinelli was an Italian Renaissance sculptor, draughtsman, and painter.",
-        "born": 1493,
+        "name": "Brittney Griner",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/260706_Lynx_Sun_JohnMc164_%28cropped%29.jpg/330px-260706_Lynx_Sun_JohnMc164_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player (born 1990)",
+        "extract": "Brittney Yvette Griner is an American professional basketball player for the Connecticut Sun of the Women's National Basketball Association (WNBA) and for the Vinyl of Unrivaled. She is a three-time Olympic gold medalist with the U.S. women's national basketball team and a six-time WNBA All-Star. Griner was named one of the 100 most influential people in the world by Time magazine in 2023.",
+        "born": 1990,
         "highlights": [
-          "Italian Renaissance sculptor, draughtsman, and painter."
+          "Three-time Olympic gold medalist in basketball.",
+          "Six-time WNBA All-Star.",
+          "Named one of Time's 100 most influential people (2023)."
         ]
       }
     ]
