@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T16:21:52.990Z",
+  "generatedAt": "2026-10-18T21:13:33.804Z",
   "weather": {
     "location": "New York City",
-    "tempC": 12.4,
+    "tempC": 14.9,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 15,
+    "highC": 15.7,
     "lowC": 2.9,
     "rainChance": 0
   },
@@ -14,29 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Lamar Jackson",
-          "Playing Status"
+          "Ladd McConkey",
+          "NFL Draft"
         ],
-        "summary": "Fans are buzzing about Lamar Jackson's playing status for upcoming games."
+        "summary": "Ladd McConkey is buzzing as a top wide receiver prospect ahead of the NFL Draft."
       },
       {
         "keywords": [
-          "Nate Boerkircher"
+          "Jude Bellingham",
+          "Real Madrid"
         ],
-        "summary": "Nate Boerkircher is buzzing due to recent college football performance."
+        "summary": "Jude Bellingham is buzzing for his exceptional performance with Real Madrid this season."
       },
       {
         "keywords": [
-          "Charissa Thompson"
+          "Colby Parkinson",
+          "NFL Free Agency"
         ],
-        "summary": "Charissa Thompson is buzzing following recent comments on sports reporting."
+        "summary": "Colby Parkinson is buzzing due to his recent signing in NFL free agency."
       },
       {
         "keywords": [
-          "Sporting Cristal",
-          "Comerciantes Unidos"
+          "Tre Tucker",
+          "Raiders"
         ],
-        "summary": "The match between Sporting Cristal and Comerciantes Unidos is buzzing among football fans."
+        "summary": "Tre Tucker is buzzing among Raiders fans for his potential impact next season."
       }
     ]
   },
@@ -54,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 26140.033,
-        "changePct": -2.14499106709181
+        "changePct": -2.1448994871410947
       },
       {
         "region": "Europe",
@@ -75,70 +77,69 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3716.284,
-        "changePct": 0.23757402610293343
+        "changePct": 0.23746587978896952
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4170.613,
-        "changePct": 0.11044135254532554
+        "changePct": 0.11048941313151109
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24186.83,
-        "changePct": 0.5157771025054548
+        "changePct": 0.5158606473920259
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked an AI to tell me a joke. It responded, 'The weather forecast for tomorrow is partly cloudy.'",
-      "explanation": "This is anti-humor: it sets up a joke expectation but delivers a mundane fact, creating humor from the subversion of expectations."
+      "joke": "My phone's 'screen time' report told me I needed a digital detox, then immediately notified me about a new streaming service.",
+      "explanation": "It highlights the absurd, self-defeating paradox of tech companies diagnosing problems they perpetuate, observed with detached, knowing irony."
     },
     "zh": {
-      "joke": "我发现我的人生就像一个没更新的App，功能还行，但总感觉少了点什么新东西，而且偶尔会闪退。"
+      "joke": "每天上班就像玩一个大型闯关游戏，唯一的区别是，我的血条永远是满的，但精神值总是空的。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Flavio Cotti",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Dodis-P25146-F4.jpg/330px-Dodis-P25146-F4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Swiss politician (1939–2020)",
-        "extract": "Flavio Cotti was a Swiss politician who served as member of the Federal Council from 1986 to 1999. He was a member of the Christian Democratic People's Party from the canton of Ticino. In the 1990s, Cotti led the Swiss government's unsuccessful attempts to further Switzerland's political integration into the European Union. He was President of the Confederation in 1991 and 1998 and headed the departments of Home Affairs and Foreign Affairs.",
-        "born": 1939,
+        "name": "Wendy Wasserstein",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/ce/Wendy_Wasserstein.jpg/330px-Wendy_Wasserstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American playwright (1950–2006)",
+        "extract": "Wendy Wasserstein was an American playwright. She was an Andrew Dickson White Professor-at-Large at Cornell University. She received the Tony Award for Best Play and the Pulitzer Prize for Drama in 1989 for her play The Heidi Chronicles.",
+        "born": 1950,
         "highlights": [
-          "Served on Federal Council (1986-1999).",
-          "President of the Confederation in 1991 and 1998.",
-          "Headed Home Affairs and Foreign Affairs departments."
+          "American playwright.",
+          "Won Tony Award for Best Play (1989).",
+          "Won Pulitzer Prize for Drama for The Heidi Chronicles (1989)."
         ]
       },
       {
-        "name": "Lindsey Vonn",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Lindsey_Vonn_-_240422_181204_%28cropped%29.jpg/330px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Lindsey_Vonn_-_240422_181204_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American alpine skier (born 1984)",
-        "extract": "Lindsey Caroline Vonn is an American alpine ski racer. She won four World Cup overall championships with titles in 2008, 2009, 2010, and 2012. Vonn won the gold medal in downhill at the 2010 Winter Olympics, the first one for an American woman. She also won a record eight World Cup season titles in the downhill discipline, five titles in super-G, and three consecutive titles in the combined (2010–2012). In 2016, she won her 20th World Cup crystal globe title, the overall record for men or women, surpassing Ingemar Stenmark of Sweden, who won 19 globes from 1975 to 1984. She has the third highest super ranking of all skiers, men or women.",
-        "born": 1984,
+        "name": "Edward Winslow",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Edward_Winslow.jpg/330px-Edward_Winslow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Governor of Plymouth Colony (1595–1655)",
+        "extract": "Edward Winslow was a Separatist and New England political leader who traveled on the Mayflower in 1620. He was one of several senior leaders on the ship and also later at Plymouth Colony. Both Edward Winslow and his brother, Gilbert Winslow signed the Mayflower Compact. In Plymouth he served in a number of governmental positions such as assistant governor, three times was governor and also was the colony's agent in London. In early 1621 he had been one of several key leaders on whom Governor Bradford depended after the death of John Carver. He was the author of several important pamphlets, including Good Newes from New England and co-wrote with William Bradford the historic Mourt's Relation, which ends with an account of the First Thanksgiving and the abundance of the New World. In 1655 he died of fever while on an English naval expedition in the Caribbean against the Spanish.",
+        "born": 1595,
         "highlights": [
-          "Won record 20th World Cup crystal globe title.",
-          "2010 Winter Olympics downhill gold medalist.",
-          "Won four World Cup overall championships."
+          "Traveled on the Mayflower in 1620.",
+          "Signed the Mayflower Compact.",
+          "Served as governor of Plymouth Colony three times."
         ]
       },
       {
-        "name": "Brittney Griner",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/260706_Lynx_Sun_JohnMc164_%28cropped%29.jpg/330px-260706_Lynx_Sun_JohnMc164_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball player (born 1990)",
-        "extract": "Brittney Yvette Griner is an American professional basketball player for the Connecticut Sun of the Women's National Basketball Association (WNBA) and for the Vinyl of Unrivaled. She is a three-time Olympic gold medalist with the U.S. women's national basketball team and a six-time WNBA All-Star. Griner was named one of the 100 most influential people in the world by Time magazine in 2023.",
-        "born": 1990,
+        "name": "Miriam Hopkins",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/MiriamHopkins.jpg/330px-MiriamHopkins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American film and TV actress (1902–1972)",
+        "extract": "Ellen Miriam Hopkins was an American actress known for her versatility. She signed with Paramount Pictures in 1930.",
+        "born": 1902,
         "highlights": [
-          "Three-time Olympic gold medalist in basketball.",
-          "Six-time WNBA All-Star.",
-          "Named one of Time's 100 most influential people (2023)."
+          "American actress known for her versatility.",
+          "Signed with Paramount Pictures in 1930."
         ]
       }
     ]
