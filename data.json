@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T21:13:33.804Z",
+  "generatedAt": "2026-10-19T19:02:55.126Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14.9,
+    "tempC": 17.8,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 15.7,
-    "lowC": 2.9,
+    "highC": 18,
+    "lowC": 5.3,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Ladd McConkey",
-          "NFL Draft"
+          "Charles Oliveira",
+          "UFC Buzz"
         ],
-        "summary": "Ladd McConkey is buzzing as a top wide receiver prospect ahead of the NFL Draft."
+        "summary": "Charles Oliveira is buzzing as fans discuss his next fight and potential return."
       },
       {
         "keywords": [
-          "Jude Bellingham",
-          "Real Madrid"
+          "Natalie Nakase",
+          "NBA Coach"
         ],
-        "summary": "Jude Bellingham is buzzing for his exceptional performance with Real Madrid this season."
+        "summary": "Natalie Nakase is buzzing for her trailblazing career as a professional basketball coach."
       },
       {
         "keywords": [
-          "Colby Parkinson",
-          "NFL Free Agency"
+          "Parma Torino",
+          "Soccer Match"
         ],
-        "summary": "Colby Parkinson is buzzing due to his recent signing in NFL free agency."
+        "summary": "Parma vs Torino is buzzing as fans anticipate or react to their recent soccer match."
       },
       {
         "keywords": [
-          "Tre Tucker",
-          "Raiders"
+          "Gluten-Free",
+          "Ritz Crackers"
         ],
-        "summary": "Tre Tucker is buzzing among Raiders fans for his potential impact next season."
+        "summary": "Gluten-free Ritz crackers are buzzing as a new product offering for dietary needs."
       }
     ]
   },
@@ -48,43 +48,43 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7659.44,
-        "changePct": -1.0927084759157444
+        "price": 7704.36,
+        "changePct": 0.5864658512893903
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26140.033,
-        "changePct": -2.1448994871410947
+        "price": 26472.494,
+        "changePct": 1.2718461373021195
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6204.23,
-        "changePct": 0.5831466248180093
+        "price": 6144.81,
+        "changePct": -0.9577336752505817
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10881.9,
-        "changePct": 0.3828272019482676
+        "price": 10764.69,
+        "changePct": -1.0771096959170654
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3716.284,
-        "changePct": 0.23746587978896952
+        "price": 3730.92,
+        "changePct": 0.3938288680935655
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4170.613,
-        "changePct": 0.11048941313151109
+        "price": 4174.5347,
+        "changePct": 0.09402454070724264
       },
       {
         "region": "Asia",
@@ -95,52 +95,29 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "My phone's 'screen time' report told me I needed a digital detox, then immediately notified me about a new streaming service.",
-      "explanation": "It highlights the absurd, self-defeating paradox of tech companies diagnosing problems they perpetuate, observed with detached, knowing irony."
-    },
-    "zh": {
-      "joke": "每天上班就像玩一个大型闯关游戏，唯一的区别是，我的血条永远是满的，但精神值总是空的。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Wendy Wasserstein",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/ce/Wendy_Wasserstein.jpg/330px-Wendy_Wasserstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American playwright (1950–2006)",
-        "extract": "Wendy Wasserstein was an American playwright. She was an Andrew Dickson White Professor-at-Large at Cornell University. She received the Tony Award for Best Play and the Pulitzer Prize for Drama in 1989 for her play The Heidi Chronicles.",
-        "born": 1950,
-        "highlights": [
-          "American playwright.",
-          "Won Tony Award for Best Play (1989).",
-          "Won Pulitzer Prize for Drama for The Heidi Chronicles (1989)."
-        ]
+        "name": "Endō Shōta",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Endo_2014.JPG/330px-Endo_2014.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese sumo wrestler",
+        "extract": "Endō Shōta  is a Japanese former professional sumo wrestler from Anamizu, Ishikawa. After a successful amateur career, he turned professional in March 2013, making the top makuuchi division that September. His highest rank has been komusubi. He has been awarded one special prize for Fighting Spirit, one for Outstanding Performance and four for Technique, as well as seven gold stars for defeating yokozuna. He was runner-up in the September 2016 and September 2021 tournaments. He wrestled for the Oitekaze stable. He is extremely popular with sumo fans and was regarded as one of the most promising home-grown wrestlers in sumo.",
+        "born": 1990
       },
       {
-        "name": "Edward Winslow",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Edward_Winslow.jpg/330px-Edward_Winslow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Governor of Plymouth Colony (1595–1655)",
-        "extract": "Edward Winslow was a Separatist and New England political leader who traveled on the Mayflower in 1620. He was one of several senior leaders on the ship and also later at Plymouth Colony. Both Edward Winslow and his brother, Gilbert Winslow signed the Mayflower Compact. In Plymouth he served in a number of governmental positions such as assistant governor, three times was governor and also was the colony's agent in London. In early 1621 he had been one of several key leaders on whom Governor Bradford depended after the death of John Carver. He was the author of several important pamphlets, including Good Newes from New England and co-wrote with William Bradford the historic Mourt's Relation, which ends with an account of the First Thanksgiving and the abundance of the New World. In 1655 he died of fever while on an English naval expedition in the Caribbean against the Spanish.",
-        "born": 1595,
-        "highlights": [
-          "Traveled on the Mayflower in 1620.",
-          "Signed the Mayflower Compact.",
-          "Served as governor of Plymouth Colony three times."
-        ]
+        "name": "Roger Wolfe Kahn",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Roger_Wolfe_Kahn_circa_1919.jpg/330px-Roger_Wolfe_Kahn_circa_1919.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American composer, bandleader, test pilot (1907–1962)",
+        "extract": "Roger Wolfe Kahn was an American jazz and popular musician, composer, bandleader and an aviator.",
+        "born": 1907
       },
       {
-        "name": "Miriam Hopkins",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/MiriamHopkins.jpg/330px-MiriamHopkins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American film and TV actress (1902–1972)",
-        "extract": "Ellen Miriam Hopkins was an American actress known for her versatility. She signed with Paramount Pictures in 1930.",
-        "born": 1902,
-        "highlights": [
-          "American actress known for her versatility.",
-          "Signed with Paramount Pictures in 1930."
-        ]
+        "name": "Emilio Eduardo Massera",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/EmilioMassera1975.jpg/330px-EmilioMassera1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Argentine naval officer (1925–2010)",
+        "extract": "Emilio Eduardo Massera was an Argentine Naval military officer and a leading participant in the Argentine coup d'état of 1976. In 1981, he was found to be a member of P2, a clandestine Masonic lodge involved in Italy's strategy of tension. Many considered Massera to have masterminded the junta's Dirty War against political opponents, which resulted in over 30,000 deaths and disappearances.",
+        "born": 1925
       }
     ]
   }
