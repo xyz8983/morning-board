@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T19:02:55.126Z",
+  "generatedAt": "2026-10-19T22:47:55.407Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.8,
+    "tempC": 13.7,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 18,
+    "highC": 18.4,
     "lowC": 5.3,
     "rainChance": 0
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Charles Oliveira",
-          "UFC Buzz"
+          "Stefon Diggs",
+          "NFL Trade"
         ],
-        "summary": "Charles Oliveira is buzzing as fans discuss his next fight and potential return."
+        "summary": "Stefon Diggs is buzzing due to his recent trade from the Buffalo Bills to the Houston Texans."
       },
       {
         "keywords": [
-          "Natalie Nakase",
-          "NBA Coach"
+          "Corinthians",
+          "Vitória"
         ],
-        "summary": "Natalie Nakase is buzzing for her trailblazing career as a professional basketball coach."
+        "summary": "The match between Corinthians and Vitória is buzzing, likely due to a recent game or upcoming fixture."
       },
       {
         "keywords": [
-          "Parma Torino",
-          "Soccer Match"
+          "Kate Middleton",
+          "Health Update"
         ],
-        "summary": "Parma vs Torino is buzzing as fans anticipate or react to their recent soccer match."
+        "summary": "Kate Middleton is buzzing as the public awaits updates on her health and recovery."
       },
       {
         "keywords": [
-          "Gluten-Free",
-          "Ritz Crackers"
+          "Aaron Boone",
+          "Yankees Manager"
         ],
-        "summary": "Gluten-free Ritz crackers are buzzing as a new product offering for dietary needs."
+        "summary": "Aaron Boone is buzzing due to recent discussions or pressure regarding his role as Yankees manager."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7704.36,
-        "changePct": 0.5864658512893903
+        "price": 7690.73,
+        "changePct": 0.40851550504997713
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26472.494,
-        "changePct": 1.2718461373021195
+        "price": 26430.887,
+        "changePct": 1.1126764836142302
       },
       {
         "region": "Europe",
@@ -95,29 +95,53 @@
       }
     ]
   },
+  "joke": {
+    "en": {
+      "joke": "I spent an hour curating the perfect Spotify playlist for my workout. Then I just listened to a podcast.",
+      "explanation": "The humor comes from the relatable, mundane anticlimax: putting effort into a playlist, only to choose a podcast."
+    },
+    "zh": {
+      "joke": "我发现当代都市人的幸福阈值很低，一份外卖能准时送达，就足以支撑一整天的情绪稳定。"
+    }
+  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Endō Shōta",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Endo_2014.JPG/330px-Endo_2014.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese sumo wrestler",
-        "extract": "Endō Shōta  is a Japanese former professional sumo wrestler from Anamizu, Ishikawa. After a successful amateur career, he turned professional in March 2013, making the top makuuchi division that September. His highest rank has been komusubi. He has been awarded one special prize for Fighting Spirit, one for Outstanding Performance and four for Technique, as well as seven gold stars for defeating yokozuna. He was runner-up in the September 2016 and September 2021 tournaments. He wrestled for the Oitekaze stable. He is extremely popular with sumo fans and was regarded as one of the most promising home-grown wrestlers in sumo.",
-        "born": 1990
+        "name": "Takeshi Koshida",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Takeshi_Honda.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Japanese footballer",
+        "extract": "Takeshi Koshida  is a Japanese football manager and former footballer. He is the technical director of Vietnam national football team and Vietnam women's national football team.",
+        "born": 1960,
+        "highlights": [
+          "Japanese football manager and former footballer.",
+          "Technical director of Vietnam national football team.",
+          "Technical director of Vietnam women's national football team."
+        ]
       },
       {
-        "name": "Roger Wolfe Kahn",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Roger_Wolfe_Kahn_circa_1919.jpg/330px-Roger_Wolfe_Kahn_circa_1919.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American composer, bandleader, test pilot (1907–1962)",
-        "extract": "Roger Wolfe Kahn was an American jazz and popular musician, composer, bandleader and an aviator.",
-        "born": 1907
+        "name": "Bendik Hofseth",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/BendikHofseth-JazzMunch-065.jpg/330px-BendikHofseth-JazzMunch-065.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Norwegian jazz musician",
+        "extract": "Bendik Hofseth is a Norwegian jazz musician and a professor with the University of Agder. In 2026, he was appointed Knight First Class of the Royal Norwegian Order of St. Olav for his contributions to Norwegian and international musical life.",
+        "born": 1962,
+        "highlights": [
+          "Norwegian jazz musician and University of Agder professor.",
+          "Appointed Knight First Class of Royal Norwegian Order of St. Olav.",
+          "Recognized for contributions to Norwegian and international musical life."
+        ]
       },
       {
-        "name": "Emilio Eduardo Massera",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/EmilioMassera1975.jpg/330px-EmilioMassera1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Argentine naval officer (1925–2010)",
-        "extract": "Emilio Eduardo Massera was an Argentine Naval military officer and a leading participant in the Argentine coup d'état of 1976. In 1981, he was found to be a member of P2, a clandestine Masonic lodge involved in Italy's strategy of tension. Many considered Massera to have masterminded the junta's Dirty War against political opponents, which resulted in over 30,000 deaths and disappearances.",
-        "born": 1925
+        "name": "Robert S. Strauss",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/RobertStrauss.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American diplomat (1918–2014)",
+        "extract": "Robert Schwarz Strauss was an influential figure in American politics, diplomacy, and law whose service dated back to future President Lyndon Johnson's first congressional campaign in 1937. By the 1950s, he was associated in Texas politics with the faction of the Democratic Party that was led by Johnson and John Connally. He served as the Chairman of the Democratic National Committee between 1972 and 1977 and served under President Jimmy Carter as the U.S. Trade Representative and special envoy to the Middle East. He later served as the Ambassador to Russia under President George H. W. Bush. Strauss also served as the last United States Ambassador to the Soviet Union.",
+        "born": 1918,
+        "highlights": [
+          "Chairman of the Democratic National Committee (1972-1977).",
+          "U.S. Trade Representative under President Jimmy Carter.",
+          "Ambassador to Russia and last Ambassador to Soviet Union."
+        ]
       }
     ]
   }
