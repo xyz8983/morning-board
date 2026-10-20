@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T17:47:08.650Z",
+  "generatedAt": "2026-10-20T22:03:49.915Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.7,
+    "tempC": 17.2,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 20.8,
-    "lowC": 8,
+    "highC": 21.6,
+    "lowC": 7.7,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Great White",
-          "Shark Breach"
+          "Tyrese Maxey",
+          "NBA"
         ],
-        "summary": "It's buzzing due to recent rare sightings and stunning footage capturing these powerful predators."
+        "summary": "Tyrese Maxey is buzzing due to his recent standout performances in the NBA."
       },
       {
         "keywords": [
-          "Al-Nassr",
-          "NEOM"
+          "Karl-Anthony Towns",
+          "NBA"
         ],
-        "summary": "Speculation is high about a potential football match or partnership between the club and the futuristic city project."
+        "summary": "Karl-Anthony Towns is buzzing following his strong offensive displays in recent games."
       },
       {
         "keywords": [
-          "Trump",
-          "Vance Announcement"
+          "College Football",
+          "Game Prediction"
         ],
-        "summary": "Anticipation surrounds a potential endorsement or joint appearance by Trump with JD Vance today."
+        "summary": "South Alabama vs Marshall prediction is buzzing as fans anticipate the outcome of their upcoming game."
       },
       {
         "keywords": [
-          "Elon Musk",
-          "Congressional Oversight"
+          "VJ Edgecombe",
+          "Basketball Recruit"
         ],
-        "summary": "Democrats are reportedly seeking increased scrutiny of Musk's various companies and influence."
+        "summary": "VJ Edgecombe is buzzing as a top basketball recruit drawing significant attention."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7723.06,
-        "changePct": 0.4203762191625612
+        "price": 7712.57,
+        "changePct": 0.28397824393783355
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26488.736,
-        "changePct": 0.21886893164047797
+        "price": 26424.816,
+        "changePct": -0.0229693388647907
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write my obituary, and it suggested I 'explore more outdoor activities' before it's too late. Thanks, I'm already dead inside.",
-      "explanation": "It's funny due to the AI's generic advice clashing with the user's bleak, self-deprecating modern sentiment."
+      "joke": "My screen time report basically just says 'You ok, bro?'",
+      "explanation": "It personifies the screen time report as a concerned friend, highlighting our excessive digital consumption in a relatable, self-aware way."
     },
     "zh": {
-      "joke": "决定从今天开始实施“准时入睡战略”，第一阶段目标：零点前躺到床上，第二阶段目标：零点后半小时内闭眼。"
+      "joke": "办了张健身卡，然后发现我最擅长的运动是“去健身房的路上思考人生”。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Arlene Francis",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Arlene_Francis.JPG/330px-Arlene_Francis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress and TV host (1907–2001)",
-        "extract": "Arlene Francis was an American game show panelist, actress, and radio and television talk show host. She was a pioneer for women in television, and is best known for her long-running role as a panelist on the television game show What's My Line?, on which she appeared regularly from 1950 to 1975.",
-        "born": 1907,
+        "name": "Art Buchwald",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Art_Buchwald_1995.jpg/330px-Art_Buchwald_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American humorist",
+        "extract": "Arthur Buchwald was an American humorist best known for his column in The Washington Post. At the height of his popularity, it was published nationwide as a syndicated column in more than 500 newspapers. His column focused on political satire and commentary.",
+        "born": 1925,
         "highlights": [
-          "Pioneer for women in television.",
-          "Long-running panelist on What's My Line?",
-          "American game show panelist, actress, and host."
+          "American humorist known for his column in The Washington Post.",
+          "Syndicated column published in over 500 newspapers nationwide.",
+          "Column focused on political satire and commentary."
         ]
       },
       {
-        "name": "Scott Hall",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Razor_Ramon_Intercontinental_Champion_%28cropped%29.jpg/330px-Razor_Ramon_Intercontinental_Champion_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American professional wrestler (1958–2022)",
-        "extract": "Scott Oliver Hall was an American professional wrestler. He was best known for his tenures with World Championship Wrestling (WCW) under his real name and with the World Wrestling Federation under the ring name Razor Ramon.",
-        "born": 1958,
+        "name": "Patrick Hall (politician)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Patrick_Hall.jpg/330px-Patrick_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British politician (born 1951)",
+        "extract": "Patrick Hall is a British Labour Party politician who was the Member of Parliament (MP) for Bedford from 1997 to 2010. He was reselected by the Labour Party as their candidate in Bedford for the 2015 general election, but failed to win re-election to Parliament.",
+        "born": 1951,
         "highlights": [
-          "American professional wrestler.",
-          "Known for tenures with WCW.",
-          "Also known as Razor Ramon in WWF."
+          "British Labour Party politician.",
+          "MP for Bedford from 1997 to 2010.",
+          "Labour candidate for Bedford in 2015 general election."
         ]
       },
       {
-        "name": "Jonathan Dayton and Valerie Faris",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dayton_and_Faris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American filmmakers",
-        "extract": "Jonathan Dayton and Valerie Faris are two American directors and producers for films and music videos. They started their career directing videos for such artists as Red Hot Chili Peppers, R.E.M. and the Smashing Pumpkins. Together they directed the films Little Miss Sunshine (2006), Ruby Sparks (2012), and Battle of the Sexes (2017). They also directed the Netflix comedy series Living with Yourself (2019) and episodes of the Hulu series Fleishman Is In Trouble (2022).",
-        "born": 1958,
+        "name": "Nalin de Silva",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Nalin_de_Silva_%282006%29.jpg/330px-Nalin_de_Silva_%282006%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Sri Lankan philosopher (1944–2024)",
+        "extract": "Thakurartha Devadithya Guardiyawasam Lindamulage Nalin Kumar de Silva  was a Sri Lankan philosopher, polymath and a political analyst. He was the former Sri Lankan ambassador in Myanmar. He was a professor in the department of mathematics, a member of University Grant Commission and the dean of the faculty of science at the University of Kelaniya, Sri Lanka.",
+        "born": 1944,
         "highlights": [
-          "Directed films Little Miss Sunshine and Ruby Sparks.",
-          "Directed music videos for Red Hot Chili Peppers, R.E.M.",
-          "Also directed TV series Living with Yourself."
+          "Sri Lankan philosopher, polymath, and political analyst.",
+          "Former Sri Lankan ambassador in Myanmar.",
+          "Professor of mathematics at University of Kelaniya."
         ]
       }
     ]
