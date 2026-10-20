@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T22:47:55.407Z",
+  "generatedAt": "2026-10-20T17:47:08.650Z",
   "weather": {
     "location": "New York City",
-    "tempC": 13.7,
+    "tempC": 20.7,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 18.4,
-    "lowC": 5.3,
+    "highC": 20.8,
+    "lowC": 8,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Stefon Diggs",
-          "NFL Trade"
+          "Great White",
+          "Shark Breach"
         ],
-        "summary": "Stefon Diggs is buzzing due to his recent trade from the Buffalo Bills to the Houston Texans."
+        "summary": "It's buzzing due to recent rare sightings and stunning footage capturing these powerful predators."
       },
       {
         "keywords": [
-          "Corinthians",
-          "Vitória"
+          "Al-Nassr",
+          "NEOM"
         ],
-        "summary": "The match between Corinthians and Vitória is buzzing, likely due to a recent game or upcoming fixture."
+        "summary": "Speculation is high about a potential football match or partnership between the club and the futuristic city project."
       },
       {
         "keywords": [
-          "Kate Middleton",
-          "Health Update"
+          "Trump",
+          "Vance Announcement"
         ],
-        "summary": "Kate Middleton is buzzing as the public awaits updates on her health and recovery."
+        "summary": "Anticipation surrounds a potential endorsement or joint appearance by Trump with JD Vance today."
       },
       {
         "keywords": [
-          "Aaron Boone",
-          "Yankees Manager"
+          "Elon Musk",
+          "Congressional Oversight"
         ],
-        "summary": "Aaron Boone is buzzing due to recent discussions or pressure regarding his role as Yankees manager."
+        "summary": "Democrats are reportedly seeking increased scrutiny of Musk's various companies and influence."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7690.73,
-        "changePct": 0.40851550504997713
+        "price": 7723.06,
+        "changePct": 0.4203762191625612
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26430.887,
-        "changePct": 1.1126764836142302
+        "price": 26488.736,
+        "changePct": 0.21886893164047797
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6144.81,
-        "changePct": -0.9577336752505817
+        "price": 6121.66,
+        "changePct": -0.3767406966204088
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10764.69,
-        "changePct": -1.0771096959170654
+        "price": 10733,
+        "changePct": -0.2943884124856406
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3730.92,
-        "changePct": 0.3938288680935655
+        "price": 3735.37,
+        "changePct": 0.5136857287394838
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4174.5347,
-        "changePct": 0.09402454070724264
+        "price": 4152.1074,
+        "changePct": -0.5372407133183079
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24186.83,
-        "changePct": 0.5158606473920259
+        "price": 23867.74,
+        "changePct": -1.3192716862854708
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I spent an hour curating the perfect Spotify playlist for my workout. Then I just listened to a podcast.",
-      "explanation": "The humor comes from the relatable, mundane anticlimax: putting effort into a playlist, only to choose a podcast."
+      "joke": "I asked AI to write my obituary, and it suggested I 'explore more outdoor activities' before it's too late. Thanks, I'm already dead inside.",
+      "explanation": "It's funny due to the AI's generic advice clashing with the user's bleak, self-deprecating modern sentiment."
     },
     "zh": {
-      "joke": "我发现当代都市人的幸福阈值很低，一份外卖能准时送达，就足以支撑一整天的情绪稳定。"
+      "joke": "决定从今天开始实施“准时入睡战略”，第一阶段目标：零点前躺到床上，第二阶段目标：零点后半小时内闭眼。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Takeshi Koshida",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Takeshi_Honda.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Japanese footballer",
-        "extract": "Takeshi Koshida  is a Japanese football manager and former footballer. He is the technical director of Vietnam national football team and Vietnam women's national football team.",
-        "born": 1960,
+        "name": "Arlene Francis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Arlene_Francis.JPG/330px-Arlene_Francis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress and TV host (1907–2001)",
+        "extract": "Arlene Francis was an American game show panelist, actress, and radio and television talk show host. She was a pioneer for women in television, and is best known for her long-running role as a panelist on the television game show What's My Line?, on which she appeared regularly from 1950 to 1975.",
+        "born": 1907,
         "highlights": [
-          "Japanese football manager and former footballer.",
-          "Technical director of Vietnam national football team.",
-          "Technical director of Vietnam women's national football team."
+          "Pioneer for women in television.",
+          "Long-running panelist on What's My Line?",
+          "American game show panelist, actress, and host."
         ]
       },
       {
-        "name": "Bendik Hofseth",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/BendikHofseth-JazzMunch-065.jpg/330px-BendikHofseth-JazzMunch-065.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Norwegian jazz musician",
-        "extract": "Bendik Hofseth is a Norwegian jazz musician and a professor with the University of Agder. In 2026, he was appointed Knight First Class of the Royal Norwegian Order of St. Olav for his contributions to Norwegian and international musical life.",
-        "born": 1962,
+        "name": "Scott Hall",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Razor_Ramon_Intercontinental_Champion_%28cropped%29.jpg/330px-Razor_Ramon_Intercontinental_Champion_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American professional wrestler (1958–2022)",
+        "extract": "Scott Oliver Hall was an American professional wrestler. He was best known for his tenures with World Championship Wrestling (WCW) under his real name and with the World Wrestling Federation under the ring name Razor Ramon.",
+        "born": 1958,
         "highlights": [
-          "Norwegian jazz musician and University of Agder professor.",
-          "Appointed Knight First Class of Royal Norwegian Order of St. Olav.",
-          "Recognized for contributions to Norwegian and international musical life."
+          "American professional wrestler.",
+          "Known for tenures with WCW.",
+          "Also known as Razor Ramon in WWF."
         ]
       },
       {
-        "name": "Robert S. Strauss",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/RobertStrauss.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American diplomat (1918–2014)",
-        "extract": "Robert Schwarz Strauss was an influential figure in American politics, diplomacy, and law whose service dated back to future President Lyndon Johnson's first congressional campaign in 1937. By the 1950s, he was associated in Texas politics with the faction of the Democratic Party that was led by Johnson and John Connally. He served as the Chairman of the Democratic National Committee between 1972 and 1977 and served under President Jimmy Carter as the U.S. Trade Representative and special envoy to the Middle East. He later served as the Ambassador to Russia under President George H. W. Bush. Strauss also served as the last United States Ambassador to the Soviet Union.",
-        "born": 1918,
+        "name": "Jonathan Dayton and Valerie Faris",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dayton_and_Faris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American filmmakers",
+        "extract": "Jonathan Dayton and Valerie Faris are two American directors and producers for films and music videos. They started their career directing videos for such artists as Red Hot Chili Peppers, R.E.M. and the Smashing Pumpkins. Together they directed the films Little Miss Sunshine (2006), Ruby Sparks (2012), and Battle of the Sexes (2017). They also directed the Netflix comedy series Living with Yourself (2019) and episodes of the Hulu series Fleishman Is In Trouble (2022).",
+        "born": 1958,
         "highlights": [
-          "Chairman of the Democratic National Committee (1972-1977).",
-          "U.S. Trade Representative under President Jimmy Carter.",
-          "Ambassador to Russia and last Ambassador to Soviet Union."
+          "Directed films Little Miss Sunshine and Ruby Sparks.",
+          "Directed music videos for Red Hot Chili Peppers, R.E.M.",
+          "Also directed TV series Living with Yourself."
         ]
       }
     ]
