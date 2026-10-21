@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T17:54:36.460Z",
+  "generatedAt": "2026-10-21T22:04:16.962Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18,
+    "tempC": 14.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 18,
-    "lowC": 9,
+    "highC": 17.6,
+    "lowC": 8.5,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,30 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Joanna Gaines",
-          "Ella Birthday"
+          "NBA",
+          "Games Tonight"
         ],
-        "summary": "Joanna Gaines' daughter Ella's 20th birthday is buzzing as fans celebrate the milestone."
+        "summary": "Why it's buzzing: Fans are checking schedules for tonight's professional basketball matchups."
       },
       {
         "keywords": [
-          "Soriba Diaoune"
+          "Orlando Magic",
+          "NBA Team"
         ],
-        "summary": "Soriba Diaoune is buzzing due to recent sports achievements or transfer rumors."
+        "summary": "Why it's buzzing: People are searching for updates on the Orlando Magic NBA team."
       },
       {
         "keywords": [
-          "Levante",
-          "Athletic Match"
+          "Dolly Parton",
+          "TV Special"
         ],
-        "summary": "The Levante vs. Athletic football match is buzzing due to its anticipated outcome or recent results."
+        "summary": "Why it's buzzing: Viewers are looking for information on Dolly Parton's television special airing tonight."
       },
       {
         "keywords": [
-          "Fantasy Football",
-          "Week 7"
+          "LaMelo Ball",
+          "Player Stats"
         ],
-        "summary": "Fantasy football's Week 7 start/sit advice is buzzing as managers optimize their lineups."
+        "summary": "Why it's buzzing: Basketball enthusiasts are searching for the latest statistics on LaMelo Ball."
       }
     ]
   },
@@ -47,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7766.83,
-        "changePct": 0.7035268399508883
+        "price": 7757.17,
+        "changePct": 0.5782767611833716
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26754.283,
-        "changePct": 1.2468090600895785
+        "price": 26702.857,
+        "changePct": 1.052196541311777
       },
       {
         "region": "Europe",
@@ -96,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My favorite streaming service is the 45 minutes I spend scrolling, only to rewatch something I've already seen.",
-      "explanation": "It's funny because it captures the universal modern struggle of infinite choice leading to decision paralysis and comfort rewatching."
+      "joke": "I asked my smart speaker for a moment of zen, and it started listing my browser tabs.",
+      "explanation": "The humor comes from the deadpan absurdity of a smart speaker responding to a request for peace with a reminder of digital clutter."
     },
     "zh": {
-      "joke": "我不是在居家办公，我只是在居家陪电脑一起待机。"
+      "joke": "我在网上买了两斤橘子，结果收到货一看，其中一个坏了。我立刻打开我的《消费者权益保护法》，准备进行一场跨次元的维权斗争。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Nikos Engonopoulos",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nikos_Engonopoulos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Greek painter and poet (1907–1985)",
-        "extract": "Nikos Engonopoulos was a Greek painter and poet. He was one of the most important members of \"Generation of the '30s\", as well as a major representative of the surrealist movement in Greece. His work as a writer also includes critique and essays.",
-        "born": 1907,
+        "name": "Everett McGill",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Everett_McGill_by_Gage_Skidmore.jpg/330px-Everett_McGill_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (born 1945)",
+        "extract": " Charles Everett McGill III \nis an American retired actor, who rose to prominence for his portrayal of a caveman in Quest for Fire (1981). He went on to have prominent roles in the films Dune (1984), Silver Bullet (1985), Heartbreak Ridge (1986), Iguana (1988), Licence to Kill (1989), The People Under the Stairs (1991) and Under Siege 2: Dark Territory (1995).",
+        "born": 1945,
         "highlights": [
-          "Greek painter and poet.",
-          "Member of \"Generation of the '30s\".",
-          "Representative of surrealist movement in Greece."
+          "Prominent for caveman role in Quest for Fire (1981).",
+          "Had prominent roles in films like Dune (1984).",
+          "Also appeared in The People Under the Stairs (1991)."
         ]
       },
       {
-        "name": "Catherine Hardwicke",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Catherine_Hardwicke_%26_Madison.JPG/330px-Catherine_Hardwicke_%26_Madison.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American filmmaker (born 1955)",
-        "extract": "Catherine Hardwicke is an American film director, production designer, and screenwriter. Her directorial work includes Thirteen (2003), which she co-wrote with Nikki Reed, the film's co-star, Lords of Dogtown (2005), The Nativity Story (2006), Twilight (2008), Red Riding Hood (2011), Plush (2013), Miss You Already (2015), Miss Bala (2019), Prisoner's Daughter (2022), and Mafia Mamma (2023).",
-        "born": 1955,
+        "name": "Carrie Fisher",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Carrie_Fisher_2013-a_straightened.jpg/330px-Carrie_Fisher_2013-a_straightened.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress and writer (1956–2016)",
+        "extract": "Carrie Frances Fisher was an American actress and writer. She starred as Princess Leia in the original Star Wars films (1977–1983) and reprised the role in The Force Awakens (2015), The Last Jedi (2017)—a posthumous release that was dedicated to her—and The Rise of Skywalker (2019), the latter using unreleased footage from The Force Awakens. Her other film credits include Shampoo (1975), The Blues Brothers (1980), Hannah and Her Sisters (1986), The 'Burbs (1989), When Harry Met Sally... (1989), Soapdish (1991), and The Women (2008). She was nominated twice for the Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series for her performances in the NBC sitcom 30 Rock (2007) and the Channel 4 series Catastrophe (2017).",
+        "born": 1956,
         "highlights": [
-          "American film director and screenwriter.",
-          "Directed the film Thirteen (2003).",
-          "Directed the hit film Twilight (2008)."
+          "Starred as Princess Leia in original Star Wars films.",
+          "Reprised Princess Leia role in The Force Awakens.",
+          "Two-time Primetime Emmy nominee for guest actress."
         ]
       },
       {
-        "name": "Fred Hersch",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Fred-hersch_DSC05858.jpg/330px-Fred-hersch_DSC05858.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American jazz pianist (born 1955)",
-        "extract": "Fred Hersch is an American jazz pianist, composer, and a 17-time Grammy nominee. He was the first person to play weeklong engagements as a solo pianist at the Village Vanguard in New York City. He has written and recorded more than 75 original compositions.",
-        "born": 1955,
+        "name": "Brian Tobin",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Briantobin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Canadian politician",
+        "extract": "Brian Vincent Tobin is a Canadian businessman and former politician. Tobin served as the sixth premier of Newfoundland from 1996 to 2000. Tobin was also a prominent Member of Parliament and served as a cabinet minister in Jean Chrétien's Liberal government.",
+        "born": 1954,
         "highlights": [
-          "American jazz pianist and composer.",
-          "17-time Grammy nominee.",
-          "First solo pianist at Village Vanguard."
+          "Sixth premier of Newfoundland (1996-2000).",
+          "Prominent Member of Parliament.",
+          "Cabinet minister in Jean Chrétien's Liberal government."
         ]
       }
     ]
