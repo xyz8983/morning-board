@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T22:03:49.915Z",
+  "generatedAt": "2026-10-21T17:54:36.460Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.2,
-    "condition": "Clear sky",
-    "code": 0,
-    "highC": 21.6,
-    "lowC": 7.7,
+    "tempC": 18,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 18,
+    "lowC": 9,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,30 @@
     "topics": [
       {
         "keywords": [
-          "Tyrese Maxey",
-          "NBA"
+          "Joanna Gaines",
+          "Ella Birthday"
         ],
-        "summary": "Tyrese Maxey is buzzing due to his recent standout performances in the NBA."
+        "summary": "Joanna Gaines' daughter Ella's 20th birthday is buzzing as fans celebrate the milestone."
       },
       {
         "keywords": [
-          "Karl-Anthony Towns",
-          "NBA"
+          "Soriba Diaoune"
         ],
-        "summary": "Karl-Anthony Towns is buzzing following his strong offensive displays in recent games."
+        "summary": "Soriba Diaoune is buzzing due to recent sports achievements or transfer rumors."
       },
       {
         "keywords": [
-          "College Football",
-          "Game Prediction"
+          "Levante",
+          "Athletic Match"
         ],
-        "summary": "South Alabama vs Marshall prediction is buzzing as fans anticipate the outcome of their upcoming game."
+        "summary": "The Levante vs. Athletic football match is buzzing due to its anticipated outcome or recent results."
       },
       {
         "keywords": [
-          "VJ Edgecombe",
-          "Basketball Recruit"
+          "Fantasy Football",
+          "Week 7"
         ],
-        "summary": "VJ Edgecombe is buzzing as a top basketball recruit drawing significant attention."
+        "summary": "Fantasy football's Week 7 start/sit advice is buzzing as managers optimize their lineups."
       }
     ]
   },
@@ -48,99 +47,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7712.57,
-        "changePct": 0.28397824393783355
+        "price": 7766.83,
+        "changePct": 0.7035268399508883
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26424.816,
-        "changePct": -0.0229693388647907
+        "price": 26754.283,
+        "changePct": 1.2468090600895785
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6121.66,
-        "changePct": -0.3767406966204088
+        "price": 6207.52,
+        "changePct": 1.4025607433277998
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10733,
-        "changePct": -0.2943884124856406
+        "price": 10752.88,
+        "changePct": 0.18522314357588
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3735.37,
-        "changePct": 0.5136857287394838
+        "price": 3713.028,
+        "changePct": -0.47956000128655346
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4152.1074,
-        "changePct": -0.5372407133183079
+        "price": 4111.9326,
+        "changePct": -0.9675761277273267
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23867.74,
-        "changePct": -1.3192716862854708
+        "price": 23651.87,
+        "changePct": -2.2116609059487002
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My screen time report basically just says 'You ok, bro?'",
-      "explanation": "It personifies the screen time report as a concerned friend, highlighting our excessive digital consumption in a relatable, self-aware way."
+      "joke": "My favorite streaming service is the 45 minutes I spend scrolling, only to rewatch something I've already seen.",
+      "explanation": "It's funny because it captures the universal modern struggle of infinite choice leading to decision paralysis and comfort rewatching."
     },
     "zh": {
-      "joke": "办了张健身卡，然后发现我最擅长的运动是“去健身房的路上思考人生”。"
+      "joke": "我不是在居家办公，我只是在居家陪电脑一起待机。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Art Buchwald",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Art_Buchwald_1995.jpg/330px-Art_Buchwald_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American humorist",
-        "extract": "Arthur Buchwald was an American humorist best known for his column in The Washington Post. At the height of his popularity, it was published nationwide as a syndicated column in more than 500 newspapers. His column focused on political satire and commentary.",
-        "born": 1925,
+        "name": "Nikos Engonopoulos",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nikos_Engonopoulos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Greek painter and poet (1907–1985)",
+        "extract": "Nikos Engonopoulos was a Greek painter and poet. He was one of the most important members of \"Generation of the '30s\", as well as a major representative of the surrealist movement in Greece. His work as a writer also includes critique and essays.",
+        "born": 1907,
         "highlights": [
-          "American humorist known for his column in The Washington Post.",
-          "Syndicated column published in over 500 newspapers nationwide.",
-          "Column focused on political satire and commentary."
+          "Greek painter and poet.",
+          "Member of \"Generation of the '30s\".",
+          "Representative of surrealist movement in Greece."
         ]
       },
       {
-        "name": "Patrick Hall (politician)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Patrick_Hall.jpg/330px-Patrick_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British politician (born 1951)",
-        "extract": "Patrick Hall is a British Labour Party politician who was the Member of Parliament (MP) for Bedford from 1997 to 2010. He was reselected by the Labour Party as their candidate in Bedford for the 2015 general election, but failed to win re-election to Parliament.",
-        "born": 1951,
+        "name": "Catherine Hardwicke",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Catherine_Hardwicke_%26_Madison.JPG/330px-Catherine_Hardwicke_%26_Madison.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American filmmaker (born 1955)",
+        "extract": "Catherine Hardwicke is an American film director, production designer, and screenwriter. Her directorial work includes Thirteen (2003), which she co-wrote with Nikki Reed, the film's co-star, Lords of Dogtown (2005), The Nativity Story (2006), Twilight (2008), Red Riding Hood (2011), Plush (2013), Miss You Already (2015), Miss Bala (2019), Prisoner's Daughter (2022), and Mafia Mamma (2023).",
+        "born": 1955,
         "highlights": [
-          "British Labour Party politician.",
-          "MP for Bedford from 1997 to 2010.",
-          "Labour candidate for Bedford in 2015 general election."
+          "American film director and screenwriter.",
+          "Directed the film Thirteen (2003).",
+          "Directed the hit film Twilight (2008)."
         ]
       },
       {
-        "name": "Nalin de Silva",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Nalin_de_Silva_%282006%29.jpg/330px-Nalin_de_Silva_%282006%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Sri Lankan philosopher (1944–2024)",
-        "extract": "Thakurartha Devadithya Guardiyawasam Lindamulage Nalin Kumar de Silva  was a Sri Lankan philosopher, polymath and a political analyst. He was the former Sri Lankan ambassador in Myanmar. He was a professor in the department of mathematics, a member of University Grant Commission and the dean of the faculty of science at the University of Kelaniya, Sri Lanka.",
-        "born": 1944,
+        "name": "Fred Hersch",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Fred-hersch_DSC05858.jpg/330px-Fred-hersch_DSC05858.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American jazz pianist (born 1955)",
+        "extract": "Fred Hersch is an American jazz pianist, composer, and a 17-time Grammy nominee. He was the first person to play weeklong engagements as a solo pianist at the Village Vanguard in New York City. He has written and recorded more than 75 original compositions.",
+        "born": 1955,
         "highlights": [
-          "Sri Lankan philosopher, polymath, and political analyst.",
-          "Former Sri Lankan ambassador in Myanmar.",
-          "Professor of mathematics at University of Kelaniya."
+          "American jazz pianist and composer.",
+          "17-time Grammy nominee.",
+          "First solo pianist at Village Vanguard."
         ]
       }
     ]
