@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T17:51:44.299Z",
+  "generatedAt": "2026-10-22T22:03:08.558Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18.2,
+    "tempC": 16.7,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 18.8,
-    "lowC": 6.7,
+    "highC": 20.5,
+    "lowC": 7.1,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Princess Catherine",
-          "Health Update"
+          "Cuba",
+          "Travel"
         ],
-        "summary": "Princess Catherine is buzzing why due to public interest in her recent health update and recovery."
+        "summary": "Cuba is buzzing as travel restrictions ease, sparking renewed interest in its culture and history."
       },
       {
         "keywords": [
-          "Calley Means",
-          "Health Advocate"
+          "Patriots",
+          "NFL Schedule"
         ],
-        "summary": "Calley Means is buzzing why for his advocacy on health, nutrition, and challenging industry norms."
+        "summary": "The Patriots' 2024 schedule is buzzing as fans eagerly anticipate key matchups and season outlook."
       },
       {
         "keywords": [
-          "Bayer Leverkusen",
-          "Football Success"
+          "Market",
+          "Correction"
         ],
-        "summary": "Bayer Leverkusen is buzzing why after their historic unbeaten run and potential Bundesliga title win."
+        "summary": "Market correction is buzzing as investors analyze recent economic shifts and potential impacts on portfolios."
       },
       {
         "keywords": [
-          "Nathan Fillion",
-          "Actor Buzz"
+          "Giants",
+          "Cam Skattebo"
         ],
-        "summary": "Nathan Fillion is buzzing why as fans celebrate his ongoing acting roles and popular TV appearances."
+        "summary": "Cam Skattebo is buzzing as the Giants' new draft pick generates excitement among football fans."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7653.85,
-        "changePct": -1.3319290411322648
+        "price": 7663.43,
+        "changePct": -1.2084303940741246
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26025.588,
-        "changePct": -2.5363166196036633
+        "price": 26008.86,
+        "changePct": -2.598961601749204
       },
       {
         "region": "Europe",
@@ -97,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone battery lasts longer than my motivation to do chores.",
-      "explanation": "It humorously contrasts the long-lasting battery life of modern phones with a common human struggle: a short-lived desire to do household tasks."
+      "joke": "I love how dating apps let me reject people from the comfort of my own couch. So efficient.",
+      "explanation": "It's a deadpan, sarcastic take on the impersonal nature of modern dating and the convenience of avoiding human interaction."
     },
     "zh": {
-      "joke": "我以为我只是社恐，结果出门一看，是穷。"
+      "joke": "我发现自己上班就像玩《动物森友会》，每天上线就是为了还房贷。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Roddy Ricch",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Roddy_Ricch_2022.png/330px-Roddy_Ricch_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American rapper (born 1998)",
-        "extract": "Rodrick Wayne Moore Jr., known professionally as Roddy Ricch, is an American rapper. Born and raised in Compton, California, Moore rose to fame in 2018 following the release of his song \"Die Young\" — which marked his first entry on the Billboard Hot 100 as a tribute to deceased rappers XXXTentacion, Lil Snupe, and Speaker Knockerz. Ricch's first two mixtapes: Feed Tha Streets (2017) and Feed Tha Streets II (2018) were both met with critical acclaim. In 2019, Ricch guest appeared alongside Hit-Boy on Nipsey Hussle's single \"Racks in the Middle\"—which earned him a Grammy Award for Best Rap Performance—and Mustard's single \"Ballin'\"—which peaked at number 11 on the Billboard Hot 100 and also received a Grammy nomination for Best Rap Performance.",
-        "born": 1998,
+        "name": "Volney Howard",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/VolneyHoward.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American lawyer, statesman, and jurist (1809–1889)",
+        "extract": "Volney Erskine Howard was an American lawyer, statesman, and jurist.",
+        "born": 1809,
         "highlights": [
-          "Rose to fame in 2018 with song \"Die Young\".",
-          "Won Grammy for \"Racks in the Middle\" with Nipsey Hussle.",
-          "\"Ballin'\" with Mustard peaked at number 11 on Billboard."
+          "American lawyer.",
+          "American statesman.",
+          "American jurist."
         ]
       },
       {
-        "name": "Koos de la Rey",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/KoosDeLaRey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "South African military officer during the Boer Wars (1847–1914)",
-        "extract": "Jacobus Herculaas de la Rey, better known as Koos de la Rey, a South African military officer, served as a Transvaal Boer general during the Second Boer War of 1899 to 1902. De la Rey also had a political career and was one of the leading advocates of Boer independence. His death at the hands of the South African Police under controversial circumstances had a major role in sparking the Maritz rebellion of 1914 to 1915.",
-        "born": 1847,
+        "name": "Plan B (musician)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Plan_B_new_press_shot_March_2012.jpg/330px-Plan_B_new_press_shot_March_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British musician and actor (born 1983)",
+        "extract": "Benjamin Paul Ballance-Drew, better known by his stage name Plan B, is an English rapper, singer, songwriter, actor and filmmaker. He first emerged as a rapper, releasing his debut studio album, Who Needs Actions When You Got Words, in 2006. His second studio album, The Defamation of Strickland Banks (2010), was a soul and R&B album, and debuted at number one on the UK Albums Chart. He has also collaborated with other artists such as Chase & Status, most notably on the 2009 top ten single \"End Credits\".",
+        "born": 1983,
         "highlights": [
-          "South African military officer and Boer general.",
-          "Served during the Second Boer War (1899-1902).",
-          "His death sparked the Maritz rebellion (1914-1915)."
+          "Released debut album \"Who Needs Actions When You Got Words\".",
+          "\"The Defamation of Strickland Banks\" debuted number one UK Albums Chart.",
+          "Collaborated on top ten single \"End Credits\"."
         ]
       },
       {
-        "name": "Luis Otero (footballer)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Luis_Otero_-_El_Noroeste.jpg/330px-Luis_Otero_-_El_Noroeste.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Spanish footballer (1893–1955)",
-        "extract": "Luis Otero Sánchez-Encinas was a Spanish footballer who played as a defender and who competed in the 1920 Summer Olympics, being a member of the Spanish team that won the silver medal at the tournament.",
-        "born": 1893,
+        "name": "Johannes Høsflot Klæbo",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/20190301_FIS_NWSC_Seefeld_Medal_Ceremony_850_6079_%28cropped%29.jpg/330px-20190301_FIS_NWSC_Seefeld_Medal_Ceremony_850_6079_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Norwegian cross-country skier (born 1996)",
+        "extract": "Johannes Høsflot Klæbo is a Norwegian cross-country skier who represents Byåsen IL. He holds multiple records, among them for being the youngest skier in history to win the FIS Cross-Country World Cup, the Tour de Ski, a World Championship event, and an Olympic event in cross-country skiing.",
+        "born": 1996,
         "highlights": [
-          "Spanish footballer, played as a defender.",
-          "Competed in the 1920 Summer Olympics.",
-          "Won silver medal with Spanish team in 1920 Olympics."
+          "Norwegian cross-country skier.",
+          "Youngest to win FIS Cross-Country World Cup.",
+          "Youngest to win an Olympic event."
         ]
       }
     ]
