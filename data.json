@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T22:04:16.962Z",
+  "generatedAt": "2026-10-22T17:51:44.299Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14.5,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 17.6,
-    "lowC": 8.5,
+    "tempC": 18.2,
+    "condition": "Clear sky",
+    "code": 0,
+    "highC": 18.8,
+    "lowC": 6.7,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "NBA",
-          "Games Tonight"
+          "Princess Catherine",
+          "Health Update"
         ],
-        "summary": "Why it's buzzing: Fans are checking schedules for tonight's professional basketball matchups."
+        "summary": "Princess Catherine is buzzing why due to public interest in her recent health update and recovery."
       },
       {
         "keywords": [
-          "Orlando Magic",
-          "NBA Team"
+          "Calley Means",
+          "Health Advocate"
         ],
-        "summary": "Why it's buzzing: People are searching for updates on the Orlando Magic NBA team."
+        "summary": "Calley Means is buzzing why for his advocacy on health, nutrition, and challenging industry norms."
       },
       {
         "keywords": [
-          "Dolly Parton",
-          "TV Special"
+          "Bayer Leverkusen",
+          "Football Success"
         ],
-        "summary": "Why it's buzzing: Viewers are looking for information on Dolly Parton's television special airing tonight."
+        "summary": "Bayer Leverkusen is buzzing why after their historic unbeaten run and potential Bundesliga title win."
       },
       {
         "keywords": [
-          "LaMelo Ball",
-          "Player Stats"
+          "Nathan Fillion",
+          "Actor Buzz"
         ],
-        "summary": "Why it's buzzing: Basketball enthusiasts are searching for the latest statistics on LaMelo Ball."
+        "summary": "Nathan Fillion is buzzing why as fans celebrate his ongoing acting roles and popular TV appearances."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7757.17,
-        "changePct": 0.5782767611833716
+        "price": 7653.85,
+        "changePct": -1.3319290411322648
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26702.857,
-        "changePct": 1.052196541311777
+        "price": 26025.588,
+        "changePct": -2.5363166196036633
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6207.52,
-        "changePct": 1.4025607433277998
+        "price": 6087.01,
+        "changePct": -1.9413550016753907
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10752.88,
-        "changePct": 0.18522314357588
+        "price": 10725.03,
+        "changePct": -0.2590003794332174
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3713.028,
-        "changePct": -0.47956000128655346
+        "price": 3658.026,
+        "changePct": -2.0705847078067245
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4111.9326,
-        "changePct": -0.9675761277273267
+        "price": 4036.2966,
+        "changePct": -1.8394270373011457
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23651.87,
-        "changePct": -2.2116609059487002
+        "price": 22934.68,
+        "changePct": -3.9091324258307267
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked my smart speaker for a moment of zen, and it started listing my browser tabs.",
-      "explanation": "The humor comes from the deadpan absurdity of a smart speaker responding to a request for peace with a reminder of digital clutter."
+      "joke": "My phone battery lasts longer than my motivation to do chores.",
+      "explanation": "It humorously contrasts the long-lasting battery life of modern phones with a common human struggle: a short-lived desire to do household tasks."
     },
     "zh": {
-      "joke": "我在网上买了两斤橘子，结果收到货一看，其中一个坏了。我立刻打开我的《消费者权益保护法》，准备进行一场跨次元的维权斗争。"
+      "joke": "我以为我只是社恐，结果出门一看，是穷。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Everett McGill",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Everett_McGill_by_Gage_Skidmore.jpg/330px-Everett_McGill_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (born 1945)",
-        "extract": " Charles Everett McGill III \nis an American retired actor, who rose to prominence for his portrayal of a caveman in Quest for Fire (1981). He went on to have prominent roles in the films Dune (1984), Silver Bullet (1985), Heartbreak Ridge (1986), Iguana (1988), Licence to Kill (1989), The People Under the Stairs (1991) and Under Siege 2: Dark Territory (1995).",
-        "born": 1945,
+        "name": "Roddy Ricch",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Roddy_Ricch_2022.png/330px-Roddy_Ricch_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American rapper (born 1998)",
+        "extract": "Rodrick Wayne Moore Jr., known professionally as Roddy Ricch, is an American rapper. Born and raised in Compton, California, Moore rose to fame in 2018 following the release of his song \"Die Young\" — which marked his first entry on the Billboard Hot 100 as a tribute to deceased rappers XXXTentacion, Lil Snupe, and Speaker Knockerz. Ricch's first two mixtapes: Feed Tha Streets (2017) and Feed Tha Streets II (2018) were both met with critical acclaim. In 2019, Ricch guest appeared alongside Hit-Boy on Nipsey Hussle's single \"Racks in the Middle\"—which earned him a Grammy Award for Best Rap Performance—and Mustard's single \"Ballin'\"—which peaked at number 11 on the Billboard Hot 100 and also received a Grammy nomination for Best Rap Performance.",
+        "born": 1998,
         "highlights": [
-          "Prominent for caveman role in Quest for Fire (1981).",
-          "Had prominent roles in films like Dune (1984).",
-          "Also appeared in The People Under the Stairs (1991)."
+          "Rose to fame in 2018 with song \"Die Young\".",
+          "Won Grammy for \"Racks in the Middle\" with Nipsey Hussle.",
+          "\"Ballin'\" with Mustard peaked at number 11 on Billboard."
         ]
       },
       {
-        "name": "Carrie Fisher",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Carrie_Fisher_2013-a_straightened.jpg/330px-Carrie_Fisher_2013-a_straightened.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress and writer (1956–2016)",
-        "extract": "Carrie Frances Fisher was an American actress and writer. She starred as Princess Leia in the original Star Wars films (1977–1983) and reprised the role in The Force Awakens (2015), The Last Jedi (2017)—a posthumous release that was dedicated to her—and The Rise of Skywalker (2019), the latter using unreleased footage from The Force Awakens. Her other film credits include Shampoo (1975), The Blues Brothers (1980), Hannah and Her Sisters (1986), The 'Burbs (1989), When Harry Met Sally... (1989), Soapdish (1991), and The Women (2008). She was nominated twice for the Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series for her performances in the NBC sitcom 30 Rock (2007) and the Channel 4 series Catastrophe (2017).",
-        "born": 1956,
+        "name": "Koos de la Rey",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/KoosDeLaRey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "South African military officer during the Boer Wars (1847–1914)",
+        "extract": "Jacobus Herculaas de la Rey, better known as Koos de la Rey, a South African military officer, served as a Transvaal Boer general during the Second Boer War of 1899 to 1902. De la Rey also had a political career and was one of the leading advocates of Boer independence. His death at the hands of the South African Police under controversial circumstances had a major role in sparking the Maritz rebellion of 1914 to 1915.",
+        "born": 1847,
         "highlights": [
-          "Starred as Princess Leia in original Star Wars films.",
-          "Reprised Princess Leia role in The Force Awakens.",
-          "Two-time Primetime Emmy nominee for guest actress."
+          "South African military officer and Boer general.",
+          "Served during the Second Boer War (1899-1902).",
+          "His death sparked the Maritz rebellion (1914-1915)."
         ]
       },
       {
-        "name": "Brian Tobin",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Briantobin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Canadian politician",
-        "extract": "Brian Vincent Tobin is a Canadian businessman and former politician. Tobin served as the sixth premier of Newfoundland from 1996 to 2000. Tobin was also a prominent Member of Parliament and served as a cabinet minister in Jean Chrétien's Liberal government.",
-        "born": 1954,
+        "name": "Luis Otero (footballer)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Luis_Otero_-_El_Noroeste.jpg/330px-Luis_Otero_-_El_Noroeste.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Spanish footballer (1893–1955)",
+        "extract": "Luis Otero Sánchez-Encinas was a Spanish footballer who played as a defender and who competed in the 1920 Summer Olympics, being a member of the Spanish team that won the silver medal at the tournament.",
+        "born": 1893,
         "highlights": [
-          "Sixth premier of Newfoundland (1996-2000).",
-          "Prominent Member of Parliament.",
-          "Cabinet minister in Jean Chrétien's Liberal government."
+          "Spanish footballer, played as a defender.",
+          "Competed in the 1920 Summer Olympics.",
+          "Won silver medal with Spanish team in 1920 Olympics."
         ]
       }
     ]
