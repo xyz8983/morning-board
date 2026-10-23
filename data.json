@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T22:03:08.558Z",
+  "generatedAt": "2026-10-23T17:43:50.323Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.7,
-    "condition": "Clear sky",
-    "code": 0,
-    "highC": 20.5,
-    "lowC": 7.1,
+    "tempC": 16.1,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 16.3,
+    "lowC": 6.3,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,32 @@
     "topics": [
       {
         "keywords": [
-          "Cuba",
-          "Travel"
+          "Morgan Scalley",
+          "Utah Football"
         ],
-        "summary": "Cuba is buzzing as travel restrictions ease, sparking renewed interest in its culture and history."
+        "summary": "Morgan Scalley is buzzing due to his recent contract extension as Utah's defensive coordinator."
       },
       {
         "keywords": [
-          "Patriots",
-          "NFL Schedule"
+          "Byron Donalds",
+          "VP Pick"
         ],
-        "summary": "The Patriots' 2024 schedule is buzzing as fans eagerly anticipate key matchups and season outlook."
+        "summary": "Byron Donalds is buzzing as a potential vice presidential running mate for Donald Trump."
       },
       {
         "keywords": [
-          "Market",
-          "Correction"
+          "Al Qadsiah",
+          "Al-Hilal",
+          "Saudi League"
         ],
-        "summary": "Market correction is buzzing as investors analyze recent economic shifts and potential impacts on portfolios."
+        "summary": "Al Qadsiah vs Al-Hilal is buzzing as a key match in the Saudi Pro League."
       },
       {
         "keywords": [
-          "Giants",
-          "Cam Skattebo"
+          "Emeka Egbuka",
+          "Ohio State"
         ],
-        "summary": "Cam Skattebo is buzzing as the Giants' new draft pick generates excitement among football fans."
+        "summary": "Emeka Egbuka is buzzing as a top wide receiver prospect returning to Ohio State."
       }
     ]
   },
@@ -48,99 +49,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7663.43,
-        "changePct": -1.2084303940741246
+        "price": 7628.73,
+        "changePct": -0.4527998559391908
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26008.86,
-        "changePct": -2.598961601749204
+        "price": 25984.658,
+        "changePct": -0.09305290581748348
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6087.01,
-        "changePct": -1.9413550016753907
+        "price": 6068.22,
+        "changePct": -0.30869014507943904
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10725.03,
-        "changePct": -0.2590003794332174
+        "price": 10690.36,
+        "changePct": -0.3232624990326374
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3658.026,
-        "changePct": -2.0705847078067245
+        "price": 3690.4753,
+        "changePct": 0.8870823648691829
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4036.2966,
-        "changePct": -1.8394270373011457
+        "price": 4105.3286,
+        "changePct": 1.7102806567782878
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22934.68,
-        "changePct": -3.9091324258307267
+        "price": 23093.37,
+        "changePct": 0.6919215790235517
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I love how dating apps let me reject people from the comfort of my own couch. So efficient.",
-      "explanation": "It's a deadpan, sarcastic take on the impersonal nature of modern dating and the convenience of avoiding human interaction."
+      "joke": "My AI assistant just told me to 'touch grass'. I think it's evolving past helpfulness.",
+      "explanation": "It's funny because the AI, meant to be helpful, uses a human internet slang term for going outside, implying it's becoming too human or even sassy."
     },
     "zh": {
-      "joke": "我发现自己上班就像玩《动物森友会》，每天上线就是为了还房贷。"
+      "joke": "感觉我的人生在用0.5倍速播放，但工作任务在用2倍速播放。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Volney Howard",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/VolneyHoward.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American lawyer, statesman, and jurist (1809–1889)",
-        "extract": "Volney Erskine Howard was an American lawyer, statesman, and jurist.",
-        "born": 1809,
+        "name": "Mohammed Abdellaoue",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Mohammed_abdellaoue.jpg/330px-Mohammed_abdellaoue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Norwegian footballer (born 1985)",
+        "extract": "Mohammed \"Moa\" Abdellaoue is a Norwegian former professional footballer who played as a striker. He started his career with Skeid and Vålerenga before moving to Germany where he played for Hannover 96 and VfB Stuttgart. After returning to Vålerenga he ended his career due to knee problems. At international level, Abdellaoue represented the Norway national team.",
+        "born": 1985,
         "highlights": [
-          "American lawyer.",
-          "American statesman.",
-          "American jurist."
+          "Norwegian former professional footballer.",
+          "Played as a striker for Hannover 96.",
+          "Represented the Norway national team."
         ]
       },
       {
-        "name": "Plan B (musician)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Plan_B_new_press_shot_March_2012.jpg/330px-Plan_B_new_press_shot_March_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British musician and actor (born 1983)",
-        "extract": "Benjamin Paul Ballance-Drew, better known by his stage name Plan B, is an English rapper, singer, songwriter, actor and filmmaker. He first emerged as a rapper, releasing his debut studio album, Who Needs Actions When You Got Words, in 2006. His second studio album, The Defamation of Strickland Banks (2010), was a soul and R&B album, and debuted at number one on the UK Albums Chart. He has also collaborated with other artists such as Chase & Status, most notably on the 2009 top ten single \"End Credits\".",
-        "born": 1983,
+        "name": "Maggi Hambling",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Maggi_Hambling_2006.jpg/330px-Maggi_Hambling_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British artist (born 1945)",
+        "extract": "Margaret J. Hambling is a British artist. Though principally a painter, her best-known public works are the sculptures A Conversation with Oscar Wilde and A Sculpture for Mary Wollstonecraft in London, and the 4-metre-high steel Scallop on Aldeburgh beach. All three works have attracted controversy.",
+        "born": 1945,
         "highlights": [
-          "Released debut album \"Who Needs Actions When You Got Words\".",
-          "\"The Defamation of Strickland Banks\" debuted number one UK Albums Chart.",
-          "Collaborated on top ten single \"End Credits\"."
+          "British artist, principally a painter.",
+          "Sculpted A Conversation with Oscar Wilde.",
+          "Created the steel Scallop on Aldeburgh beach."
         ]
       },
       {
-        "name": "Johannes Høsflot Klæbo",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/20190301_FIS_NWSC_Seefeld_Medal_Ceremony_850_6079_%28cropped%29.jpg/330px-20190301_FIS_NWSC_Seefeld_Medal_Ceremony_850_6079_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Norwegian cross-country skier (born 1996)",
-        "extract": "Johannes Høsflot Klæbo is a Norwegian cross-country skier who represents Byåsen IL. He holds multiple records, among them for being the youngest skier in history to win the FIS Cross-Country World Cup, the Tour de Ski, a World Championship event, and an Olympic event in cross-country skiing.",
-        "born": 1996,
+        "name": "Jonita Gandhi",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jonita_Gandhi_snapped_at_an_event_in_Juhu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Canadian singer (born 1989)",
+        "extract": "Jonita Gandhi, credited mononymously as Jonita, is a Canadian singer known for her work in the Indian film and music industries. Since 2024, she has performed as a solo pop artist by releasing her debut independent EP Love Like That.",
+        "born": 1989,
         "highlights": [
-          "Norwegian cross-country skier.",
-          "Youngest to win FIS Cross-Country World Cup.",
-          "Youngest to win an Olympic event."
+          "Canadian singer in Indian film and music industries.",
+          "Released debut independent EP Love Like That.",
+          "Performs as a solo pop artist."
         ]
       }
     ]
