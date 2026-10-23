@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T17:43:50.323Z",
+  "generatedAt": "2026-10-23T21:50:19.360Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.1,
+    "tempC": 14,
     "condition": "Overcast",
     "code": 3,
-    "highC": 16.3,
-    "lowC": 6.3,
+    "highC": 16.6,
+    "lowC": 6.7,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,32 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Morgan Scalley",
-          "Utah Football"
+          "Gold Prices",
+          "Silver Decline"
         ],
-        "summary": "Morgan Scalley is buzzing due to his recent contract extension as Utah's defensive coordinator."
+        "summary": "Gold and silver prices are buzzing due to recent declines, sparking investor interest."
       },
       {
         "keywords": [
-          "Byron Donalds",
-          "VP Pick"
+          "Ballon d'Or",
+          "2026 Ranking"
         ],
-        "summary": "Byron Donalds is buzzing as a potential vice presidential running mate for Donald Trump."
+        "summary": "The 2026 Ballon d'Or ranking is buzzing as fans speculate on future football stars."
       },
       {
         "keywords": [
-          "Al Qadsiah",
-          "Al-Hilal",
-          "Saudi League"
+          "Dow Jones",
+          "Market Average"
         ],
-        "summary": "Al Qadsiah vs Al-Hilal is buzzing as a key match in the Saudi Pro League."
+        "summary": "The Dow Jones Industrial Average is buzzing due to its daily market performance."
       },
       {
         "keywords": [
-          "Emeka Egbuka",
-          "Ohio State"
+          "Leonard Miller",
+          "NBA Player"
         ],
-        "summary": "Emeka Egbuka is buzzing as a top wide receiver prospect returning to Ohio State."
+        "summary": "Leonard Miller is buzzing as basketball fans track his recent NBA performance."
       }
     ]
   },
@@ -49,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7628.73,
-        "changePct": -0.4527998559391908
+        "price": 7623.68,
+        "changePct": -0.5186972413136154
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25984.658,
-        "changePct": -0.09305290581748348
+        "price": 25955.342,
+        "changePct": -0.20576834201883523
       },
       {
         "region": "Europe",
@@ -98,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My AI assistant just told me to 'touch grass'. I think it's evolving past helpfulness.",
-      "explanation": "It's funny because the AI, meant to be helpful, uses a human internet slang term for going outside, implying it's becoming too human or even sassy."
+      "joke": "My phone's weekly report said I spent 7 hours a day on it. I replied, 'Someone had to keep you company.'",
+      "explanation": "It's funny because it personifies the phone, using dry irony to justify excessive screen time and highlight modern dependency."
     },
     "zh": {
-      "joke": "感觉我的人生在用0.5倍速播放，但工作任务在用2倍速播放。"
+      "joke": "最近开始注重养生，我的作息是这样的：睡前刷手机到凌晨两点，然后把手机屏幕调成护眼模式，安心入睡。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Mohammed Abdellaoue",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Mohammed_abdellaoue.jpg/330px-Mohammed_abdellaoue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Norwegian footballer (born 1985)",
-        "extract": "Mohammed \"Moa\" Abdellaoue is a Norwegian former professional footballer who played as a striker. He started his career with Skeid and Vålerenga before moving to Germany where he played for Hannover 96 and VfB Stuttgart. After returning to Vålerenga he ended his career due to knee problems. At international level, Abdellaoue represented the Norway national team.",
-        "born": 1985,
+        "name": "Jean Barker, Baroness Trumpington",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/da/Baroness_Trumpington_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "British politician (1922–2018)",
+        "extract": "Jean Alys Barker, Baroness Trumpington, was a British Conservative politician and life peer. In the 1960s and 1970s she served in local government in Cambridgeshire. In 1980 she was created a life peer after which she served in the House of Lords. From an upper-class background, she was a socialite and a secretary before entering politics, as well as serving in naval intelligence in World War II.",
+        "born": 1922,
         "highlights": [
-          "Norwegian former professional footballer.",
-          "Played as a striker for Hannover 96.",
-          "Represented the Norway national team."
+          "British Conservative politician and life peer.",
+          "Served in local government in Cambridgeshire.",
+          "Served in naval intelligence in World War II."
         ]
       },
       {
-        "name": "Maggi Hambling",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Maggi_Hambling_2006.jpg/330px-Maggi_Hambling_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British artist (born 1945)",
-        "extract": "Margaret J. Hambling is a British artist. Though principally a painter, her best-known public works are the sculptures A Conversation with Oscar Wilde and A Sculpture for Mary Wollstonecraft in London, and the 4-metre-high steel Scallop on Aldeburgh beach. All three works have attracted controversy.",
-        "born": 1945,
+        "name": "Jasmin St. Claire",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/6.8.08JasminStClaire1ByLuigiNovi.jpg/330px-6.8.08JasminStClaire1ByLuigiNovi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American pornographic film actress and professional wrestling personality",
+        "extract": "Jasmin St. Claire is an American former pornographic film actress. She is also known for her work as a professional wrestling personality, most notably for Extreme Championship Wrestling (ECW). She has made appearances in the world of professional wrestling and such films as Communication Breakdown and National Lampoon's Dorm Daze 2.",
+        "born": 1972,
         "highlights": [
-          "British artist, principally a painter.",
-          "Sculpted A Conversation with Oscar Wilde.",
-          "Created the steel Scallop on Aldeburgh beach."
+          "Former pornographic film actress.",
+          "Professional wrestling personality for ECW.",
+          "Appeared in films like Communication Breakdown."
         ]
       },
       {
-        "name": "Jonita Gandhi",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jonita_Gandhi_snapped_at_an_event_in_Juhu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Canadian singer (born 1989)",
-        "extract": "Jonita Gandhi, credited mononymously as Jonita, is a Canadian singer known for her work in the Indian film and music industries. Since 2024, she has performed as a solo pop artist by releasing her debut independent EP Love Like That.",
-        "born": 1989,
+        "name": "Maximilian Ulysses Browne",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Maximilian_Ulysses_Browne_%2818th-century_painting%29.jpg/330px-Maximilian_Ulysses_Browne_%2818th-century_painting%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Austrian field marshal (1705–1757)",
+        "extract": "Maximilian Ulysses, Reichsgraf von Browne, Baron de Camus and Mountany was an Austrian military officer, one of the highest-ranking officers serving the Habsburg Emperor during the middle of the 18th century. An Irish refugee, he was a scion of the Wild Geese.",
+        "born": 1705,
         "highlights": [
-          "Canadian singer in Indian film and music industries.",
-          "Released debut independent EP Love Like That.",
-          "Performs as a solo pop artist."
+          "Austrian military officer.",
+          "Highest-ranking officer for the Habsburg Emperor.",
+          "An Irish refugee, scion of the Wild Geese."
         ]
       }
     ]
