@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T16:26:41.527Z",
+  "generatedAt": "2026-10-24T21:24:06.814Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14,
+    "tempC": 16.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 16.7,
+    "highC": 17.4,
     "lowC": 4.7,
     "rainChance": 0
   },
@@ -14,31 +14,32 @@
     "topics": [
       {
         "keywords": [
-          "Tommy Carr",
-          "Buzzing"
+          "Marines",
+          "Military"
         ],
-        "summary": "Tommy Carr is buzzing due to recent achievements and public interest in his activities."
+        "summary": "The U.S. Marines are buzzing due to recent news regarding recruitment efforts and strategic shifts."
       },
       {
         "keywords": [
-          "Jackson State",
-          "B-CU Game"
+          "Devils",
+          "Hockey Team"
         ],
-        "summary": "The Jackson State vs B-CU game is buzzing due to its anticipated rivalry matchup and implications."
+        "summary": "The New Jersey Devils are buzzing as their recent performance sparks playoff contention talks."
       },
       {
         "keywords": [
-          "UM Game",
-          "Anticipation"
+          "UCF",
+          "College News"
         ],
-        "summary": "The UM game is buzzing with high anticipation for its crucial outcome and performance."
+        "summary": "University of Central Florida is buzzing with new research initiatives and campus expansion plans."
       },
       {
         "keywords": [
-          "Miami OH",
-          "Central MI"
+          "Heat",
+          "Hornets",
+          "NBA Game"
         ],
-        "summary": "The Miami OH vs Central MI matchup is buzzing due to its competitive nature and stakes."
+        "summary": "The Heat vs. Hornets game is buzzing due to a highly anticipated matchup and playoff implications."
       }
     ]
   },
@@ -97,50 +98,47 @@
   },
   "joke": {
     "en": {
-      "joke": "My current productivity method is opening 20 tabs and hoping one of them does the work for me.",
-      "explanation": "It's funny because it's a relatable, slightly self-deprecating observation about the overwhelming nature of online information and modern procrastination."
+      "joke": "My phone just asked if I wanted to \"enhance\" a screenshot of my blank calendar. What's next, \"decluttering\" my digital dust?",
+      "explanation": "It's funny because it exaggerates AI's tendency to offer irrelevant \"optimizations\" for trivial digital items, highlighting modern life's over-optimization."
     },
     "zh": {
-      "joke": "今天领导在会上鼓励大家发扬‘螺丝钉精神’。我琢磨了一下，是不是偶尔也会拧不紧或者滑丝，然后被淘汰？"
+      "joke": "每次我开始锻炼，就感觉手机摄像头也进入了“运动模式”，拍出来的照片全是模糊的，完美契合了我的运动状态。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Brad Sherman",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Brad_Sherman_portrait_%28118th_Congress%29.jpg/330px-Brad_Sherman_portrait_%28118th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American politician (born 1954)",
-        "extract": "Bradley James Sherman is an American accountant and politician serving as the U.S. representative for California's 32nd congressional district. A member of the Democratic Party, he first entered Congress in 1997. Sherman represented California's 24th congressional district for three terms, California's 27th congressional district for five terms, and California's 30th congressional district for five terms. His district includes parts of the San Fernando Valley in Los Angeles County and Simi Valley in Ventura County.",
-        "born": 1954,
+        "name": "Fran Zwitter",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fran_Zwitter_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Slovenian historian",
+        "extract": "Fran Zwitter was a Slovenian historian. Together with Milko Kos, Bogo Grafenauer, and Vasilij Melik, he is considered the co-founder of the Ljubljana School of Historiography.",
+        "born": 1905,
         "highlights": [
-          "U.S. representative for California's 32nd congressional district.",
-          "Member of the Democratic Party.",
-          "First entered Congress in 1997."
+          "Slovenian historian.",
+          "Co-founder of Ljubljana School of Historiography."
         ]
       },
       {
-        "name": "Ted Ditchburn",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ted_Ditchburn_%281963%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "English footballer (1921–2005)",
-        "extract": "Edwin George Ditchburn was an English professional football goalkeeper who played for Northfleet United, Tottenham Hotspur, Romford, Brentwood Town and represented England on six occasions at international level.",
-        "born": 1921,
+        "name": "Adrienne Bailon-Houghton",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Adrienne_Houghton_during_an_interview_in_July_2013_02.png/330px-Adrienne_Houghton_during_an_interview_in_July_2013_02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer, actress, and television personality",
+        "extract": "Adrienne Eliza Bailon-Houghton ; born October 24, 1983) is an American television personality, singer, and actress. She was a former member of the girl groups 3LW and The Cheetah Girls. From 2013 to 2022, Bailon co-hosted The Real. For her work on The Real, she became the first Latina host of a daytime talk show in the United States, and earned a Daytime Emmy Award. She also had a stint as co-anchor of the entertainment news show, E! News.",
+        "born": 1983,
         "highlights": [
-          "English professional football goalkeeper.",
-          "Played for Tottenham Hotspur.",
-          "Represented England on six occasions."
+          "Member of girl groups 3LW and The Cheetah Girls.",
+          "Co-hosted The Real from 2013 to 2022.",
+          "First Latina host of a US daytime talk show."
         ]
       },
       {
-        "name": "Sos Sargsyan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sos_Sargsyan_2019_stamp_of_Artsakh.jpg/330px-Sos_Sargsyan_2019_stamp_of_Artsakh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Soviet and Armenian actor (1929–2013)",
-        "extract": "Sos Artashesi Sargsyan was a prominent Armenian actor, director and writer.",
-        "born": 1929,
+        "name": "Bibhutibhushan Mukhopadhyay",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/BibhutibhushanMukhopadhyayPic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Indian Bengali-language author",
+        "extract": " Bibhutibhushan Mukhopadhyay was an Indian Bengali language author.",
+        "born": 1894,
         "highlights": [
-          "Prominent Armenian actor.",
-          "Also a director.",
-          "Also a writer."
+          "Indian Bengali language author."
         ]
       }
     ]
