@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T21:50:19.360Z",
+  "generatedAt": "2026-10-24T16:26:41.527Z",
   "weather": {
     "location": "New York City",
     "tempC": 14,
     "condition": "Overcast",
     "code": 3,
-    "highC": 16.6,
-    "lowC": 6.7,
+    "highC": 16.7,
+    "lowC": 4.7,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Gold Prices",
-          "Silver Decline"
+          "Tommy Carr",
+          "Buzzing"
         ],
-        "summary": "Gold and silver prices are buzzing due to recent declines, sparking investor interest."
+        "summary": "Tommy Carr is buzzing due to recent achievements and public interest in his activities."
       },
       {
         "keywords": [
-          "Ballon d'Or",
-          "2026 Ranking"
+          "Jackson State",
+          "B-CU Game"
         ],
-        "summary": "The 2026 Ballon d'Or ranking is buzzing as fans speculate on future football stars."
+        "summary": "The Jackson State vs B-CU game is buzzing due to its anticipated rivalry matchup and implications."
       },
       {
         "keywords": [
-          "Dow Jones",
-          "Market Average"
+          "UM Game",
+          "Anticipation"
         ],
-        "summary": "The Dow Jones Industrial Average is buzzing due to its daily market performance."
+        "summary": "The UM game is buzzing with high anticipation for its crucial outcome and performance."
       },
       {
         "keywords": [
-          "Leonard Miller",
-          "NBA Player"
+          "Miami OH",
+          "Central MI"
         ],
-        "summary": "Leonard Miller is buzzing as basketball fans track his recent NBA performance."
+        "summary": "The Miami OH vs Central MI matchup is buzzing due to its competitive nature and stakes."
       }
     ]
   },
@@ -76,8 +76,8 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3690.4753,
-        "changePct": 0.8870823648691829
+        "price": 3690.475,
+        "changePct": 0.886952813399554
       },
       {
         "region": "Asia",
@@ -91,56 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23093.37,
-        "changePct": 0.6919215790235517
+        "changePct": 0.6918337715339562
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone's weekly report said I spent 7 hours a day on it. I replied, 'Someone had to keep you company.'",
-      "explanation": "It's funny because it personifies the phone, using dry irony to justify excessive screen time and highlight modern dependency."
+      "joke": "My current productivity method is opening 20 tabs and hoping one of them does the work for me.",
+      "explanation": "It's funny because it's a relatable, slightly self-deprecating observation about the overwhelming nature of online information and modern procrastination."
     },
     "zh": {
-      "joke": "最近开始注重养生，我的作息是这样的：睡前刷手机到凌晨两点，然后把手机屏幕调成护眼模式，安心入睡。"
+      "joke": "今天领导在会上鼓励大家发扬‘螺丝钉精神’。我琢磨了一下，是不是偶尔也会拧不紧或者滑丝，然后被淘汰？"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jean Barker, Baroness Trumpington",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/da/Baroness_Trumpington_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "British politician (1922–2018)",
-        "extract": "Jean Alys Barker, Baroness Trumpington, was a British Conservative politician and life peer. In the 1960s and 1970s she served in local government in Cambridgeshire. In 1980 she was created a life peer after which she served in the House of Lords. From an upper-class background, she was a socialite and a secretary before entering politics, as well as serving in naval intelligence in World War II.",
-        "born": 1922,
+        "name": "Brad Sherman",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Brad_Sherman_portrait_%28118th_Congress%29.jpg/330px-Brad_Sherman_portrait_%28118th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American politician (born 1954)",
+        "extract": "Bradley James Sherman is an American accountant and politician serving as the U.S. representative for California's 32nd congressional district. A member of the Democratic Party, he first entered Congress in 1997. Sherman represented California's 24th congressional district for three terms, California's 27th congressional district for five terms, and California's 30th congressional district for five terms. His district includes parts of the San Fernando Valley in Los Angeles County and Simi Valley in Ventura County.",
+        "born": 1954,
         "highlights": [
-          "British Conservative politician and life peer.",
-          "Served in local government in Cambridgeshire.",
-          "Served in naval intelligence in World War II."
+          "U.S. representative for California's 32nd congressional district.",
+          "Member of the Democratic Party.",
+          "First entered Congress in 1997."
         ]
       },
       {
-        "name": "Jasmin St. Claire",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/6.8.08JasminStClaire1ByLuigiNovi.jpg/330px-6.8.08JasminStClaire1ByLuigiNovi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American pornographic film actress and professional wrestling personality",
-        "extract": "Jasmin St. Claire is an American former pornographic film actress. She is also known for her work as a professional wrestling personality, most notably for Extreme Championship Wrestling (ECW). She has made appearances in the world of professional wrestling and such films as Communication Breakdown and National Lampoon's Dorm Daze 2.",
-        "born": 1972,
+        "name": "Ted Ditchburn",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ted_Ditchburn_%281963%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "English footballer (1921–2005)",
+        "extract": "Edwin George Ditchburn was an English professional football goalkeeper who played for Northfleet United, Tottenham Hotspur, Romford, Brentwood Town and represented England on six occasions at international level.",
+        "born": 1921,
         "highlights": [
-          "Former pornographic film actress.",
-          "Professional wrestling personality for ECW.",
-          "Appeared in films like Communication Breakdown."
+          "English professional football goalkeeper.",
+          "Played for Tottenham Hotspur.",
+          "Represented England on six occasions."
         ]
       },
       {
-        "name": "Maximilian Ulysses Browne",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Maximilian_Ulysses_Browne_%2818th-century_painting%29.jpg/330px-Maximilian_Ulysses_Browne_%2818th-century_painting%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Austrian field marshal (1705–1757)",
-        "extract": "Maximilian Ulysses, Reichsgraf von Browne, Baron de Camus and Mountany was an Austrian military officer, one of the highest-ranking officers serving the Habsburg Emperor during the middle of the 18th century. An Irish refugee, he was a scion of the Wild Geese.",
-        "born": 1705,
+        "name": "Sos Sargsyan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sos_Sargsyan_2019_stamp_of_Artsakh.jpg/330px-Sos_Sargsyan_2019_stamp_of_Artsakh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Soviet and Armenian actor (1929–2013)",
+        "extract": "Sos Artashesi Sargsyan was a prominent Armenian actor, director and writer.",
+        "born": 1929,
         "highlights": [
-          "Austrian military officer.",
-          "Highest-ranking officer for the Habsburg Emperor.",
-          "An Irish refugee, scion of the Wild Geese."
+          "Prominent Armenian actor.",
+          "Also a director.",
+          "Also a writer."
         ]
       }
     ]
