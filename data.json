@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T16:57:59.390Z",
+  "generatedAt": "2026-10-25T21:23:57.748Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18,
+    "tempC": 17.4,
     "condition": "Mostly clear",
     "code": 1,
-    "highC": 19.2,
+    "highC": 19.3,
     "lowC": 3.5,
     "rainChance": 0
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "George Kittle",
+          "Trey McBride",
           "NFL Player"
         ],
-        "summary": "George Kittle is buzzing as a prominent NFL player, often discussed in sports circles."
+        "summary": "Trey McBride is buzzing for his impressive recent performances on the football field."
       },
       {
         "keywords": [
-          "Real Sociedad",
-          "Levante Match"
+          "NHL Game",
+          "Islanders Stars"
         ],
-        "summary": "Real Sociedad vs. Levante is buzzing due to a recent or upcoming football match."
+        "summary": "Islanders vs Stars is buzzing as fans anticipate a thrilling hockey game."
       },
       {
         "keywords": [
-          "Sunderland",
-          "Football Club"
+          "Brandon McManus",
+          "Kicker News"
         ],
-        "summary": "Sunderland is buzzing as the football club is currently a topic of discussion."
+        "summary": "Brandon McManus is buzzing due to recent updates concerning his NFL career."
       },
       {
         "keywords": [
-          "Drew Mehringer",
-          "Football Coach"
+          "Colby Parkinson",
+          "Tight End"
         ],
-        "summary": "Drew Mehringer is buzzing as a football coach frequently mentioned in sports news."
+        "summary": "Colby Parkinson is buzzing as a key player in recent NFL discussions."
       }
     ]
   },
@@ -70,7 +70,7 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10690.36,
-        "changePct": -0.3232624990326374
+        "changePct": -0.3229836829836775
       },
       {
         "region": "Asia",
@@ -91,56 +91,55 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23093.37,
-        "changePct": 0.6919215790235517
+        "changePct": 0.6918337715339562
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I spent 45 minutes scrolling through streaming options, then just looked at my phone.",
-      "explanation": "It highlights the modern paradox of endless choices leading to inaction and reverting to simpler distractions, delivered with a deadpan observation."
+      "joke": "I asked AI to write me a joke about my dating life. It just responded with 'Error 404: Laughter Not Found'.",
+      "explanation": "It uses a common tech error message to comically highlight a relatable, yet humorless, dating reality."
     },
     "zh": {
-      "joke": "我的周末计划通常分为两步：第一步，列出一堆要完成的事；第二步，在床上思考为什么我一步都没完成。"
+      "joke": "我每天上班都在想，什么时候才能实现“躺平自由”。后来发现，我早就实现了：每天下班回家躺在沙发上，一动不动，这不就是最纯粹的躺平吗？"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Levi Eshkol",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Portrait_of_prime_minister_Levy_Eshkol._August_1963_%283x4_cropped%29.jpg/330px-Portrait_of_prime_minister_Levy_Eshkol._August_1963_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Prime Minister of Israel from 1963 to 1969",
-        "extract": "Levi Eshkol, born Levi Yitzhak Shkolnik, was the prime minister of Israel from 1963 until his death from a heart attack in 1969. A founder of the Israeli Labor Party, he served in numerous senior roles, including Minister of Defense (1963–1967) and Minister of Finance (1952–1963).",
-        "born": 1895,
+        "name": "Alex Webster",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Cannibal_Corpse_-_2024275214324_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1119_-_B70I6697_%28cropped%29.jpg/330px-Cannibal_Corpse_-_2024275214324_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1119_-_B70I6697_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American bassist (born 1969)",
+        "extract": "Alex Webster is an American musician who is the bassist and a co-founder of the death metal band Cannibal Corpse. He is one of two original remaining members, alongside drummer Paul Mazurkiewicz. He is also the bassist of Blotted Science and the supergroup Conquering Dystopia. Before Cannibal Corpse was formed, he was a member of Beyond Death.",
+        "born": 1969,
         "highlights": [
-          "Prime Minister of Israel (1963-1969)",
-          "Founder of the Israeli Labor Party",
-          "Served as Minister of Defense and Finance"
+          "Co-founder and bassist of Cannibal Corpse.",
+          "Bassist for Blotted Science and Conquering Dystopia.",
+          "One of two original members of Cannibal Corpse."
         ]
       },
       {
-        "name": "Louis Frederick I of Schwarzburg-Rudolstadt",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ludwig_Friedrich_I._von_Schwarzburg-Rudolstadt_%281667-1718%29.jpg/330px-Ludwig_Friedrich_I._von_Schwarzburg-Rudolstadt_%281667-1718%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Prince of Schwarzburg-Rudolstadt (1667–1718)",
-        "extract": "Louis Frederick I of Schwarzburg-Rudolstadt was the ruling prince of Schwarzburg-Rudolstadt, Count of Hohenstein, Lord of Rudolstadt, Blankenburg and Sondershausen from 1710 until his death.",
-        "born": 1667,
+        "name": "Agustín Julio",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/AgustinJulio1_%28cropped%29.JPG/330px-AgustinJulio1_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Colombian footballer (born 1974)",
+        "extract": "Agustín Julio Castro is a Colombian Association football former player, who played as a goalkeeper.",
+        "born": 1975,
         "highlights": [
-          "Ruling prince of Schwarzburg-Rudolstadt from 1710",
-          "Count of Hohenstein",
-          "Lord of Rudolstadt, Blankenburg and Sondershausen"
+          "Colombian Association football former player.",
+          "Played professionally as a goalkeeper."
         ]
       },
       {
-        "name": "Dave Simmonds",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Dave_Simmonds_portrait.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "British motorcycle racer (1939–1972)",
-        "extract": "Dave Simmonds was a British professional Grand Prix motorcycle road racer. He competed in the Grand Prix world championships from 1963 to 1972. Simmonds is notable for winning the 1969 125 cc FIM road racing world championship.",
-        "born": 1939,
+        "name": "Bob Webster",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Bob_Webster_1964.jpg/330px-Bob_Webster_1964.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American diver (born 1938)",
+        "extract": "Robert David \"Bob\" Webster is a retired American diver who won the 10 m platform event at every competition he entered between 1960 and 1964, including the 1960 and 1964 Olympics and 1963 Pan American Games. He later became a diving coach at the University of Minnesota, Princeton University, and the University of Alabama. He was inducted into the International Swimming Hall of Fame in 1970 and the University of Michigan Athletic Hall of Honor in 1989.",
+        "born": 1938,
         "highlights": [
-          "British Grand Prix motorcycle road racer",
-          "Won 1969 125 cc FIM world championship",
-          "Competed in Grand Prix world championships (1963-1972)"
+          "Won 1960 and 1964 Olympic 10m platform.",
+          "Won 1963 Pan American Games 10m platform.",
+          "Inducted into International Swimming Hall of Fame."
         ]
       }
     ]
