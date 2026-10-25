@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T21:24:06.814Z",
+  "generatedAt": "2026-10-25T16:57:59.390Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.7,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 17.4,
-    "lowC": 4.7,
+    "tempC": 18,
+    "condition": "Mostly clear",
+    "code": 1,
+    "highC": 19.2,
+    "lowC": 3.5,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,32 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Marines",
-          "Military"
+          "George Kittle",
+          "NFL Player"
         ],
-        "summary": "The U.S. Marines are buzzing due to recent news regarding recruitment efforts and strategic shifts."
+        "summary": "George Kittle is buzzing as a prominent NFL player, often discussed in sports circles."
       },
       {
         "keywords": [
-          "Devils",
-          "Hockey Team"
+          "Real Sociedad",
+          "Levante Match"
         ],
-        "summary": "The New Jersey Devils are buzzing as their recent performance sparks playoff contention talks."
+        "summary": "Real Sociedad vs. Levante is buzzing due to a recent or upcoming football match."
       },
       {
         "keywords": [
-          "UCF",
-          "College News"
+          "Sunderland",
+          "Football Club"
         ],
-        "summary": "University of Central Florida is buzzing with new research initiatives and campus expansion plans."
+        "summary": "Sunderland is buzzing as the football club is currently a topic of discussion."
       },
       {
         "keywords": [
-          "Heat",
-          "Hornets",
-          "NBA Game"
+          "Drew Mehringer",
+          "Football Coach"
         ],
-        "summary": "The Heat vs. Hornets game is buzzing due to a highly anticipated matchup and playoff implications."
+        "summary": "Drew Mehringer is buzzing as a football coach frequently mentioned in sports news."
       }
     ]
   },
@@ -57,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 25955.342,
-        "changePct": -0.20576834201883523
+        "changePct": -0.2059218190696296
       },
       {
         "region": "Europe",
@@ -84,61 +83,64 @@
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4105.3286,
-        "changePct": 1.7102806567782878
+        "price": 4105.329,
+        "changePct": 1.7102048906176333
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23093.37,
-        "changePct": 0.6918337715339562
+        "changePct": 0.6919215790235517
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My phone just asked if I wanted to \"enhance\" a screenshot of my blank calendar. What's next, \"decluttering\" my digital dust?",
-      "explanation": "It's funny because it exaggerates AI's tendency to offer irrelevant \"optimizations\" for trivial digital items, highlighting modern life's over-optimization."
+      "joke": "I spent 45 minutes scrolling through streaming options, then just looked at my phone.",
+      "explanation": "It highlights the modern paradox of endless choices leading to inaction and reverting to simpler distractions, delivered with a deadpan observation."
     },
     "zh": {
-      "joke": "每次我开始锻炼，就感觉手机摄像头也进入了“运动模式”，拍出来的照片全是模糊的，完美契合了我的运动状态。"
+      "joke": "我的周末计划通常分为两步：第一步，列出一堆要完成的事；第二步，在床上思考为什么我一步都没完成。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Fran Zwitter",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fran_Zwitter_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Slovenian historian",
-        "extract": "Fran Zwitter was a Slovenian historian. Together with Milko Kos, Bogo Grafenauer, and Vasilij Melik, he is considered the co-founder of the Ljubljana School of Historiography.",
-        "born": 1905,
+        "name": "Levi Eshkol",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Portrait_of_prime_minister_Levy_Eshkol._August_1963_%283x4_cropped%29.jpg/330px-Portrait_of_prime_minister_Levy_Eshkol._August_1963_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Prime Minister of Israel from 1963 to 1969",
+        "extract": "Levi Eshkol, born Levi Yitzhak Shkolnik, was the prime minister of Israel from 1963 until his death from a heart attack in 1969. A founder of the Israeli Labor Party, he served in numerous senior roles, including Minister of Defense (1963–1967) and Minister of Finance (1952–1963).",
+        "born": 1895,
         "highlights": [
-          "Slovenian historian.",
-          "Co-founder of Ljubljana School of Historiography."
+          "Prime Minister of Israel (1963-1969)",
+          "Founder of the Israeli Labor Party",
+          "Served as Minister of Defense and Finance"
         ]
       },
       {
-        "name": "Adrienne Bailon-Houghton",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Adrienne_Houghton_during_an_interview_in_July_2013_02.png/330px-Adrienne_Houghton_during_an_interview_in_July_2013_02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer, actress, and television personality",
-        "extract": "Adrienne Eliza Bailon-Houghton ; born October 24, 1983) is an American television personality, singer, and actress. She was a former member of the girl groups 3LW and The Cheetah Girls. From 2013 to 2022, Bailon co-hosted The Real. For her work on The Real, she became the first Latina host of a daytime talk show in the United States, and earned a Daytime Emmy Award. She also had a stint as co-anchor of the entertainment news show, E! News.",
-        "born": 1983,
+        "name": "Louis Frederick I of Schwarzburg-Rudolstadt",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ludwig_Friedrich_I._von_Schwarzburg-Rudolstadt_%281667-1718%29.jpg/330px-Ludwig_Friedrich_I._von_Schwarzburg-Rudolstadt_%281667-1718%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Prince of Schwarzburg-Rudolstadt (1667–1718)",
+        "extract": "Louis Frederick I of Schwarzburg-Rudolstadt was the ruling prince of Schwarzburg-Rudolstadt, Count of Hohenstein, Lord of Rudolstadt, Blankenburg and Sondershausen from 1710 until his death.",
+        "born": 1667,
         "highlights": [
-          "Member of girl groups 3LW and The Cheetah Girls.",
-          "Co-hosted The Real from 2013 to 2022.",
-          "First Latina host of a US daytime talk show."
+          "Ruling prince of Schwarzburg-Rudolstadt from 1710",
+          "Count of Hohenstein",
+          "Lord of Rudolstadt, Blankenburg and Sondershausen"
         ]
       },
       {
-        "name": "Bibhutibhushan Mukhopadhyay",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/BibhutibhushanMukhopadhyayPic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Indian Bengali-language author",
-        "extract": " Bibhutibhushan Mukhopadhyay was an Indian Bengali language author.",
-        "born": 1894,
+        "name": "Dave Simmonds",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Dave_Simmonds_portrait.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "British motorcycle racer (1939–1972)",
+        "extract": "Dave Simmonds was a British professional Grand Prix motorcycle road racer. He competed in the Grand Prix world championships from 1963 to 1972. Simmonds is notable for winning the 1969 125 cc FIM road racing world championship.",
+        "born": 1939,
         "highlights": [
-          "Indian Bengali language author."
+          "British Grand Prix motorcycle road racer",
+          "Won 1969 125 cc FIM world championship",
+          "Competed in Grand Prix world championships (1963-1972)"
         ]
       }
     ]
