@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-25T21:23:57.748Z",
+  "generatedAt": "2026-10-26T19:02:01.133Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.4,
-    "condition": "Mostly clear",
-    "code": 1,
-    "highC": 19.3,
-    "lowC": 3.5,
-    "rainChance": 0
+    "tempC": 21.9,
+    "condition": "Clear sky",
+    "code": 0,
+    "highC": 22.2,
+    "lowC": 5.9,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Trey McBride",
-          "NFL Player"
+          "PSG",
+          "OL Match"
         ],
-        "summary": "Trey McBride is buzzing for his impressive recent performances on the football field."
+        "summary": "PSG vs OL is buzzing due to a recent high-stakes football match."
       },
       {
         "keywords": [
-          "NHL Game",
-          "Islanders Stars"
+          "PSG",
+          "Lyon Football"
         ],
-        "summary": "Islanders vs Stars is buzzing as fans anticipate a thrilling hockey game."
+        "summary": "PSG vs Lyon is buzzing after their recent football clash."
       },
       {
         "keywords": [
-          "Brandon McManus",
-          "Kicker News"
+          "Ina Garten",
+          "Barefoot Contessa"
         ],
-        "summary": "Brandon McManus is buzzing due to recent updates concerning his NFL career."
+        "summary": "Ina Garten is buzzing, likely for new recipes or a TV special."
       },
       {
         "keywords": [
-          "Colby Parkinson",
-          "Tight End"
+          "Jacob Morley",
+          "Trending Person"
         ],
-        "summary": "Colby Parkinson is buzzing as a key player in recent NFL discussions."
+        "summary": "Jacob Morley is buzzing, possibly due to a recent public appearance or news."
       }
     ]
   },
@@ -48,98 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7623.68,
-        "changePct": -0.5186972413136154
+        "price": 7670.44,
+        "changePct": 0.6133520819341749
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25955.342,
-        "changePct": -0.2059218190696296
+        "price": 26159.018,
+        "changePct": 0.7847170728861884
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6068.22,
-        "changePct": -0.30869014507943904
+        "price": 6116.23,
+        "changePct": 0.7911710518076027
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10690.36,
-        "changePct": -0.3229836829836775
+        "price": 10767.33,
+        "changePct": 0.7199944623006086
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3690.475,
-        "changePct": 0.886952813399554
+        "price": 3697.52,
+        "changePct": 0.19088869122088203
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4105.329,
-        "changePct": 1.7102048906176333
+        "price": 4103.543,
+        "changePct": -0.04349469126539977
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23093.37,
-        "changePct": 0.6918337715339562
+        "price": 23211.81,
+        "changePct": 0.5128744743621322
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write me a joke about my dating life. It just responded with 'Error 404: Laughter Not Found'.",
-      "explanation": "It uses a common tech error message to comically highlight a relatable, yet humorless, dating reality."
+      "joke": "I saw a 'live, laugh, love' sign today. My brain immediately defaulted to 'scroll, sigh, regret'.",
+      "explanation": "It subverts a common aspirational phrase with a cynical, relatable modern internet user's reaction, highlighting passive consumption and mild ennui."
     },
     "zh": {
-      "joke": "我每天上班都在想，什么时候才能实现“躺平自由”。后来发现，我早就实现了：每天下班回家躺在沙发上，一动不动，这不就是最纯粹的躺平吗？"
+      "joke": "公司说要打造狼性文化，结果把我们都饿成了哈士奇，还天天想拆家。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Alex Webster",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Cannibal_Corpse_-_2024275214324_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1119_-_B70I6697_%28cropped%29.jpg/330px-Cannibal_Corpse_-_2024275214324_2024-10-01_Cannibal_Corpse_-_Sven_-_1D_X_MK_II_-_1119_-_B70I6697_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American bassist (born 1969)",
-        "extract": "Alex Webster is an American musician who is the bassist and a co-founder of the death metal band Cannibal Corpse. He is one of two original remaining members, alongside drummer Paul Mazurkiewicz. He is also the bassist of Blotted Science and the supergroup Conquering Dystopia. Before Cannibal Corpse was formed, he was a member of Beyond Death.",
-        "born": 1969,
+        "name": "CM Punk",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/CM_Punk_at_San_Diego_Comic_Con_2026.jpg/330px-CM_Punk_at_San_Diego_Comic_Con_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American professional wrestler (born 1978)",
+        "extract": "Phillip Jack Brooks, better known by his ring name CM Punk, is an American professional wrestler, actor, and former mixed martial artist. As of November 2023, he is signed to WWE, where he performs on the SmackDown brand.",
+        "born": 1978,
         "highlights": [
-          "Co-founder and bassist of Cannibal Corpse.",
-          "Bassist for Blotted Science and Conquering Dystopia.",
-          "One of two original members of Cannibal Corpse."
+          "Professional wrestler, actor, and former mixed martial artist.",
+          "Signed to WWE.",
+          "Performs on the SmackDown brand."
         ]
       },
       {
-        "name": "Agustín Julio",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/AgustinJulio1_%28cropped%29.JPG/330px-AgustinJulio1_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Colombian footballer (born 1974)",
-        "extract": "Agustín Julio Castro is a Colombian Association football former player, who played as a goalkeeper.",
-        "born": 1975,
+        "name": "Primo Carnera",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Primo_Carnera.jpg/330px-Primo_Carnera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian boxer and professional wrestler (1906–1967)",
+        "extract": "Primo Carnera was the first Italian Heavyweight Champion boxer, holding the title from 1933 to 1934. Nicknamed the Ambling Alp, he was best known for his immense size and status as one of the most physically imposing heavyweights in boxing history. At 6 feet 5 inches (1.96 m) tall and weighing more than 275 pounds (125 kg), Carnera became the World Heavyweight Champion after defeating Jack Sharkey by knockout.",
+        "born": 1906,
         "highlights": [
-          "Colombian Association football former player.",
-          "Played professionally as a goalkeeper."
+          "First Italian Heavyweight Champion boxer.",
+          "Held World Heavyweight title from 1933 to 1934.",
+          "Defeated Jack Sharkey to become World Heavyweight Champion."
         ]
       },
       {
-        "name": "Bob Webster",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Bob_Webster_1964.jpg/330px-Bob_Webster_1964.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American diver (born 1938)",
-        "extract": "Robert David \"Bob\" Webster is a retired American diver who won the 10 m platform event at every competition he entered between 1960 and 1964, including the 1960 and 1964 Olympics and 1963 Pan American Games. He later became a diving coach at the University of Minnesota, Princeton University, and the University of Alabama. He was inducted into the International Swimming Hall of Fame in 1970 and the University of Michigan Athletic Hall of Honor in 1989.",
-        "born": 1938,
+        "name": "Antonio Carpio",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/J.carpio_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Filipino judge (born 1949)",
+        "extract": "Antonio Tirol Carpio is a former associate justice of the Supreme Court of the Philippines. He was sworn in as a member of the Supreme Court by President Gloria Macapagal Arroyo on October 26, 2001, and served until his retirement on October 26, 2019. He served as associate justice of the Supreme Court of the Philippines for a period of eighteen years. He also served as chief justice in an acting capacity several times during his tenure as Senior Associate Justice.",
+        "born": 1949,
         "highlights": [
-          "Won 1960 and 1964 Olympic 10m platform.",
-          "Won 1963 Pan American Games 10m platform.",
-          "Inducted into International Swimming Hall of Fame."
+          "Former associate justice, Supreme Court of the Philippines.",
+          "Served from October 2001 to October 2019.",
+          "Served as acting chief justice several times."
         ]
       }
     ]
