@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T23:00:52.809Z",
+  "generatedAt": "2026-10-27T18:33:43.518Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.2,
-    "condition": "Clear sky",
-    "code": 0,
-    "highC": 22.7,
-    "lowC": 5.9,
+    "tempC": 16.6,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 16.7,
+    "lowC": 8.1,
     "rainChance": 1
   },
   "hotTopics": {
@@ -14,31 +14,32 @@
     "topics": [
       {
         "keywords": [
-          "NBA",
-          "Rivalry"
+          "Dean Lowry",
+          "NFL Player"
         ],
-        "summary": "The Bulls vs Celtics matchup is buzzing due to its historic rivalry and current playoff implications."
+        "summary": "Dean Lowry is buzzing as a key player in recent NFL team discussions and free agency news."
       },
       {
         "keywords": [
-          "Ronaldo",
-          "Football Star"
+          "Tyrone Tracy",
+          "NFL Draft"
         ],
-        "summary": "Cristiano Ronaldo is buzzing due to recent match performance and transfer speculation."
+        "summary": "Tyrone Tracy is buzzing due to his impressive performance at the NFL Combine and upcoming draft prospects."
       },
       {
         "keywords": [
-          "Chris Hemsworth",
-          "New Film"
+          "Elizabeth NJ",
+          "Police Incident"
         ],
-        "summary": "Chris Hemsworth is buzzing, likely for his upcoming movie release or recent public appearance."
+        "summary": "Irvington Avenue in Elizabeth, NJ is buzzing due to a recent police-involved incident or ongoing investigation."
       },
       {
         "keywords": [
-          "NBA",
-          "Game"
+          "American Airlines",
+          "Citi Rewards",
+          "Fee Increase"
         ],
-        "summary": "The Mavericks vs Heat game is buzzing as fans anticipate a high-stakes basketball showdown."
+        "summary": "The American Airlines Citi Rewards fee increase is buzzing among cardholders due to rising annual costs."
       }
     ]
   },
@@ -48,90 +49,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7676.77,
-        "changePct": 0.6963828492276715
+        "price": 7717.43,
+        "changePct": 0.5296498397112308
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26169.38,
-        "changePct": 0.8246394903985486
+        "price": 26456.707,
+        "changePct": 1.0979511169160197
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6116.23,
-        "changePct": 0.7911710518076027
+        "price": 6164.69,
+        "changePct": 0.7923181436930927
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10767.33,
-        "changePct": 0.7199944623006086
+        "price": 10686.54,
+        "changePct": -0.750325289556455
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3697.52,
-        "changePct": 0.19088869122088203
+        "price": 3648.301,
+        "changePct": -1.1429136589278381
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4103.543,
-        "changePct": -0.04349469126539977
+        "price": 4049.552,
+        "changePct": -1.3157166867752947
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23211.81,
-        "changePct": 0.5128744743621322
+        "price": 23041.32,
+        "changePct": -0.22551897944868118
       }
     ]
+  },
+  "joke": {
+    "en": {
+      "joke": "My dating app bio says 'Seeking someone who thinks 'hanging out' means more than just silently scrolling our phones together.' The bar is truly subterranean.",
+      "explanation": "It's funny because it sarcastically highlights the low expectations for genuine human connection in the age of digital distraction, common on dating apps."
+    },
+    "zh": {
+      "joke": "我今天下定决心要好好工作，然后把这个决心发了个朋友圈。感觉我今天的KPI已经提前完成了。"
+    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jim Butcher",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Jim_Butcher_by_Gage_Skidmore.jpg/330px-Jim_Butcher_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American fantasy author (born 1971)",
-        "extract": "Jim Butcher is an American author. He has written the contemporary fantasy The Dresden Files, Codex Alera, and Cinder Spires book series.",
-        "born": 1971,
+        "name": "Arthur Blessitt",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Arthur_Blessitt_%281983%29.jpg/330px-Arthur_Blessitt_%281983%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American Christian preacher (1940–2025)",
+        "extract": "Arthur Owen Blessitt was an American traveling Christian preacher who was known for carrying a cross through every nation of the world.",
+        "born": 1940,
         "highlights": [
-          "American author of contemporary fantasy.",
-          "Wrote The Dresden Files book series.",
-          "Authored Codex Alera and Cinder Spires series."
+          "American traveling Christian preacher.",
+          "Known for carrying a cross.",
+          "Traveled through every nation of the world."
         ]
       },
       {
-        "name": "Kikka (singer)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/54/Kikka.jpg/330px-Kikka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Finnish pop/schlager singer",
-        "extract": "Kirsi Hannele Sirén, better known by her stage name Kikka, was a Finnish pop/schlager singer. She was known for her sexpot image and suggestive, double entendre-filled songs. Kikka's best-known songs were \"Mä haluun viihdyttää\", \"Sukkula Venukseen\", \"Tartu tiukasti hanuriin\" and a cover of Ami Aspelund's \"Apinamies\".",
-        "born": 1964,
+        "name": "Chris Butler (ice hockey)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Chris_Butler_Flames.png/330px-Chris_Butler_Flames.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American ice hockey player (born 1986)",
+        "extract": "Chris Butler is an American former professional ice hockey defenseman who played in the National Hockey League (NHL) with the Buffalo Sabres, Calgary Flames and hometown club, St. Louis Blues. Butler was a fourth round selection of the Sabres, chosen 96th overall at the 2005 NHL entry draft. He then played three seasons at the University of Denver before turning professional in 2008.",
+        "born": 1986,
         "highlights": [
-          "Finnish pop/schlager singer, known as Kikka.",
-          "Known for sexpot image and suggestive songs.",
-          "Best-known songs: Mä haluun viihdyttää, Sukkula Venukseen."
+          "American former professional ice hockey defenseman.",
+          "Played in NHL with Sabres, Flames, St. Louis Blues.",
+          "Fourth round selection of Sabres in 2005 NHL draft."
         ]
       },
       {
-        "name": "Steve Valentine",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Steve_Valentine.jpg/330px-Steve_Valentine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British actor (born 1966)",
-        "extract": "Stephen John Valentine is a British actor and magician. He is known for his roles as Nigel Townsend on NBC's crime drama series Crossing Jordan, the voice of Harry Flynn in the video game Uncharted 2: Among Thieves, and the voice of Alistair in the Dragon Age video game franchise. He portrayed Dracula in Monster High: The Movie and its sequel Monster High 2.",
-        "born": 1966,
+        "name": "Harry Saltzman",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Harry_Saltzman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Canadian theatre and film producer (1915–1994)",
+        "extract": "Herschel \"Harry\" Saltzman was a Canadian theatre and film producer. He is best remembered for co-producing the first nine of the James Bond film series with Albert R. Broccoli. Apart from a ten-year stint living in St. Petersburg, Florida, he lived most of his life in Denham, Buckinghamshire, England.",
+        "born": 1915,
         "highlights": [
-          "British actor and magician.",
-          "Played Nigel Townsend in Crossing Jordan.",
-          "Voiced Harry Flynn in Uncharted 2."
+          "Canadian theatre and film producer.",
+          "Co-produced first nine James Bond film series.",
+          "Lived most of his life in Denham, England."
         ]
       }
     ]
