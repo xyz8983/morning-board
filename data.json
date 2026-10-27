@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T18:33:43.518Z",
+  "generatedAt": "2026-10-27T22:50:18.075Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.6,
+    "tempC": 12.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 16.7,
-    "lowC": 8.1,
+    "highC": 17,
+    "lowC": 8.6,
     "rainChance": 1
   },
   "hotTopics": {
@@ -14,32 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Dean Lowry",
-          "NFL Player"
+          "Nets Celtics",
+          "NBA Buzz"
         ],
-        "summary": "Dean Lowry is buzzing as a key player in recent NFL team discussions and free agency news."
+        "summary": "Nets vs Celtics is buzzing due to their anticipated NBA playoff matchup."
       },
       {
         "keywords": [
-          "Tyrone Tracy",
-          "NFL Draft"
+          "Pistons Knicks",
+          "Basketball Matchup"
         ],
-        "summary": "Tyrone Tracy is buzzing due to his impressive performance at the NFL Combine and upcoming draft prospects."
+        "summary": "Pistons vs Knicks is buzzing as fans follow their latest basketball game."
       },
       {
         "keywords": [
-          "Elizabeth NJ",
-          "Police Incident"
+          "DWTS Schedule",
+          "TV Time"
         ],
-        "summary": "Irvington Avenue in Elizabeth, NJ is buzzing due to a recent police-involved incident or ongoing investigation."
+        "summary": "Dancing with the Stars is buzzing as viewers search for its broadcast time."
       },
       {
         "keywords": [
-          "American Airlines",
-          "Citi Rewards",
-          "Fee Increase"
+          "Grigor Dimitrov",
+          "Tennis Player"
         ],
-        "summary": "The American Airlines Citi Rewards fee increase is buzzing among cardholders due to rising annual costs."
+        "summary": "Grigor Dimitrov is buzzing as fans follow his recent tennis performance."
       }
     ]
   },
@@ -49,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7717.43,
-        "changePct": 0.5296498397112308
+        "price": 7722.6,
+        "changePct": 0.5969958719617746
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26456.707,
-        "changePct": 1.0979511169160197
+        "price": 26477.81,
+        "changePct": 1.1785911626488679
       },
       {
         "region": "Europe",
@@ -98,50 +97,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My dating app bio says 'Seeking someone who thinks 'hanging out' means more than just silently scrolling our phones together.' The bar is truly subterranean.",
-      "explanation": "It's funny because it sarcastically highlights the low expectations for genuine human connection in the age of digital distraction, common on dating apps."
+      "joke": "My smart fridge just informed me my existential dread levels are optimal. Thanks, I guess.",
+      "explanation": "It's funny because it juxtaposes a mundane appliance with a complex human emotion, highlighting AI's absurd attempt to quantify everything."
     },
     "zh": {
-      "joke": "我今天下定决心要好好工作，然后把这个决心发了个朋友圈。感觉我今天的KPI已经提前完成了。"
+      "joke": "最近总感觉身体不太舒服，去医院挂了个专家号，结果医生看完所有检查报告，淡定地说：'恭喜，你只是需要休息，外加一点点存款。'"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Arthur Blessitt",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Arthur_Blessitt_%281983%29.jpg/330px-Arthur_Blessitt_%281983%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American Christian preacher (1940–2025)",
-        "extract": "Arthur Owen Blessitt was an American traveling Christian preacher who was known for carrying a cross through every nation of the world.",
-        "born": 1940,
+        "name": "Kiefer Ravena",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Dominican_Republic_v_Philippines_FBWC_K._Ravena_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Filipino basketball player (born 1993)",
+        "extract": "Kiefer Isaac Crisologo Ravena is a Filipino professional basketball player who last played for the Ryukyu Golden Kings of the B.League. Ravena played for the Ateneo Blue Eagles of the UAAP during his college days. He plays the point guard position. Ravena is known for being one of the first players to utilize the Pinoy step, which is increasingly being used by NBA players.",
+        "born": 1993,
         "highlights": [
-          "American traveling Christian preacher.",
-          "Known for carrying a cross.",
-          "Traveled through every nation of the world."
+          "Filipino professional basketball player.",
+          "Played for Ryukyu Golden Kings in B.League.",
+          "Known for utilizing the Pinoy step."
         ]
       },
       {
-        "name": "Chris Butler (ice hockey)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Chris_Butler_Flames.png/330px-Chris_Butler_Flames.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American ice hockey player (born 1986)",
-        "extract": "Chris Butler is an American former professional ice hockey defenseman who played in the National Hockey League (NHL) with the Buffalo Sabres, Calgary Flames and hometown club, St. Louis Blues. Butler was a fourth round selection of the Sabres, chosen 96th overall at the 2005 NHL entry draft. He then played three seasons at the University of Denver before turning professional in 2008.",
-        "born": 1986,
+        "name": "Mike Kelley (artist)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Mike_Kelley_-_Ectoplasm_Photograph_7%2C_1978.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American artist (1954–c.2012)",
+        "extract": "Michael Kelley was an American artist whose work involved found objects, textile banners, drawings, assemblage, collage, performance, photography, sound and video. He also worked on curatorial projects; collaborated with many other artists and musicians; and left a formidable body of critical and creative writing. He often worked collaboratively and had produced projects with artists Paul McCarthy, Tony Oursler, and John Miller. Writing in The New York Times, in 2012, Holland Cotter described the artist as \"one of the most influential American artists of the past quarter century and a pungent commentator on American class, popular culture and youthful rebellion.\"",
+        "born": 1954,
         "highlights": [
-          "American former professional ice hockey defenseman.",
-          "Played in NHL with Sabres, Flames, St. Louis Blues.",
-          "Fourth round selection of Sabres in 2005 NHL draft."
+          "American artist known for diverse media.",
+          "Collaborated with artists like Paul McCarthy.",
+          "Described as \"one of the most influential American artists\"."
         ]
       },
       {
-        "name": "Harry Saltzman",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Harry_Saltzman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Canadian theatre and film producer (1915–1994)",
-        "extract": "Herschel \"Harry\" Saltzman was a Canadian theatre and film producer. He is best remembered for co-producing the first nine of the James Bond film series with Albert R. Broccoli. Apart from a ten-year stint living in St. Petersburg, Florida, he lived most of his life in Denham, Buckinghamshire, England.",
-        "born": 1915,
+        "name": "Theodore Roosevelt",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/330px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "President of the United States from 1901 to 1909",
+        "extract": "Theodore Roosevelt Jr. was the 26th president of the United States, serving from 1901 to 1909. Previously serving for six months as vice president under William McKinley, Roosevelt became president after McKinley's assassination in 1901. He was 42 years old upon his first inauguration, making him the youngest person to hold the office.",
+        "born": 1858,
         "highlights": [
-          "Canadian theatre and film producer.",
-          "Co-produced first nine James Bond film series.",
-          "Lived most of his life in Denham, England."
+          "26th president of the United States.",
+          "Served from 1901 to 1909.",
+          "Youngest US president at 42 years old."
         ]
       }
     ]
