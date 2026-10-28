@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T22:50:18.075Z",
+  "generatedAt": "2026-10-28T18:39:56.473Z",
   "weather": {
     "location": "New York City",
-    "tempC": 12.9,
+    "tempC": 16.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 17,
-    "lowC": 8.6,
+    "highC": 16.6,
+    "lowC": 5.8,
     "rainChance": 1
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Nets Celtics",
-          "NBA Buzz"
+          "Oracle Stock",
+          "Tech Buzz"
         ],
-        "summary": "Nets vs Celtics is buzzing due to their anticipated NBA playoff matchup."
+        "summary": "Oracle stock is buzzing due to recent earnings reports and AI cloud growth."
       },
       {
         "keywords": [
-          "Pistons Knicks",
-          "Basketball Matchup"
+          "FBI News",
+          "Investigation"
         ],
-        "summary": "Pistons vs Knicks is buzzing as fans follow their latest basketball game."
+        "summary": "The FBI is buzzing due to ongoing high-profile investigations and public statements."
       },
       {
         "keywords": [
-          "DWTS Schedule",
-          "TV Time"
+          "Ernie Johnson",
+          "Sports Announcer"
         ],
-        "summary": "Dancing with the Stars is buzzing as viewers search for its broadcast time."
+        "summary": "Ernie Johnson is buzzing for his beloved NBA coverage and heartfelt personal stories."
       },
       {
         "keywords": [
-          "Grigor Dimitrov",
-          "Tennis Player"
+          "Sean Romeo",
+          "Hockey Goalie"
         ],
-        "summary": "Grigor Dimitrov is buzzing as fans follow his recent tennis performance."
+        "summary": "Sean Romeo is buzzing for his recent performance in professional hockey."
       }
     ]
   },
@@ -48,99 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7722.6,
-        "changePct": 0.5969958719617746
+        "price": 7741.27,
+        "changePct": 0.2417579571646864
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26477.81,
-        "changePct": 1.1785911626488679
+        "price": 26528.693,
+        "changePct": 0.19217223780969042
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6164.69,
-        "changePct": 0.7923181436930927
+        "price": 6167.81,
+        "changePct": 0.05061081741337846
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10686.54,
-        "changePct": -0.750325289556455
+        "price": 10694.5,
+        "changePct": 0.07448622285603315
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3648.301,
-        "changePct": -1.1429136589278381
+        "price": 3681.469,
+        "changePct": -0.43410177632575164
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4049.552,
-        "changePct": -1.3157166867752947
+        "price": 4083.87,
+        "changePct": 0.8474642191857509
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23041.32,
-        "changePct": -0.22551897944868118
+        "price": 23094.83,
+        "changePct": -0.5039247279400888
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My smart fridge just informed me my existential dread levels are optimal. Thanks, I guess.",
-      "explanation": "It's funny because it juxtaposes a mundane appliance with a complex human emotion, highlighting AI's absurd attempt to quantify everything."
+      "joke": "My smart home devices seem to operate on toddler logic: I ask nicely, then repeat, then just do it myself.",
+      "explanation": "It highlights the common frustration with 'smart' technology, humorously comparing its stubbornness to that of a toddler."
     },
     "zh": {
-      "joke": "最近总感觉身体不太舒服，去医院挂了个专家号，结果医生看完所有检查报告，淡定地说：'恭喜，你只是需要休息，外加一点点存款。'"
+      "joke": "我手机桌面都是各种效率App，但每天打开最多的永远是外卖和刷短视频。我深刻怀疑，我的大脑已经把‘效率’重新定义为‘点外卖和刷短视频的效率’。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Kiefer Ravena",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Dominican_Republic_v_Philippines_FBWC_K._Ravena_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Filipino basketball player (born 1993)",
-        "extract": "Kiefer Isaac Crisologo Ravena is a Filipino professional basketball player who last played for the Ryukyu Golden Kings of the B.League. Ravena played for the Ateneo Blue Eagles of the UAAP during his college days. He plays the point guard position. Ravena is known for being one of the first players to utilize the Pinoy step, which is increasingly being used by NBA players.",
-        "born": 1993,
+        "name": "Anthony Fantano",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Anthony_fantano_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American music critic and YouTuber (born 1985)",
+        "extract": "Anthony Nicholas Fantano is an American music critic and internet personality who runs The Needle Drop, a YouTube channel with a tie-in website and Twitch streaming channel. Self-billed as \"the internet's busiest music nerd\", as a social media influencer Fantano discusses and reviews music from a variety of genres online. He also runs the channel Fantano where he talks about events in the music industry solo or with guests and conducts interviews.",
+        "born": 1985,
         "highlights": [
-          "Filipino professional basketball player.",
-          "Played for Ryukyu Golden Kings in B.League.",
-          "Known for utilizing the Pinoy step."
+          "Runs \"The Needle Drop\" YouTube channel.",
+          "American music critic and internet personality.",
+          "Discusses and reviews music online."
         ]
       },
       {
-        "name": "Mike Kelley (artist)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Mike_Kelley_-_Ectoplasm_Photograph_7%2C_1978.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American artist (1954–c.2012)",
-        "extract": "Michael Kelley was an American artist whose work involved found objects, textile banners, drawings, assemblage, collage, performance, photography, sound and video. He also worked on curatorial projects; collaborated with many other artists and musicians; and left a formidable body of critical and creative writing. He often worked collaboratively and had produced projects with artists Paul McCarthy, Tony Oursler, and John Miller. Writing in The New York Times, in 2012, Holland Cotter described the artist as \"one of the most influential American artists of the past quarter century and a pungent commentator on American class, popular culture and youthful rebellion.\"",
-        "born": 1954,
+        "name": "Annie Potts",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Annie_Potts_%2853705697262%29_%28cropped%29.jpg/330px-Annie_Potts_%2853705697262%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1952)",
+        "extract": "Anne Hampton Potts is an American actress. She was nominated for a Golden Globe Award for Corvette Summer (1978) and won a Genie Award for Heartaches (1981), before appearing in Ghostbusters (1984), Ghostbusters II (1989), and in various projects within the Ghostbusters franchise. She also appeared in the films Pretty in Pink (1986), Jumpin' Jack Flash (1986), and Who's Harry Crumb? (1989). She voiced Bo Peep in the Toy Story franchise and in various Disney video games.",
+        "born": 1952,
         "highlights": [
-          "American artist known for diverse media.",
-          "Collaborated with artists like Paul McCarthy.",
-          "Described as \"one of the most influential American artists\"."
+          "Won Genie Award for Heartaches (1981).",
+          "Appeared in Ghostbusters franchise.",
+          "Voiced Bo Peep in Toy Story franchise."
         ]
       },
       {
-        "name": "Theodore Roosevelt",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/330px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "President of the United States from 1901 to 1909",
-        "extract": "Theodore Roosevelt Jr. was the 26th president of the United States, serving from 1901 to 1909. Previously serving for six months as vice president under William McKinley, Roosevelt became president after McKinley's assassination in 1901. He was 42 years old upon his first inauguration, making him the youngest person to hold the office.",
-        "born": 1858,
+        "name": "Kanō Jigorō",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Portrait_of_late_Mr._Kano.jpg/330px-Portrait_of_late_Mr._Kano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese judoka, educator and politician (1860–1938)",
+        "extract": "Kanō Jigorō  was a Japanese judoka, educator, politician, and the founder of judo. Judo was one of the first Japanese martial arts to gain widespread international recognition, and the first to become an official Olympic sport since 1964 and 1992, as well as the Commonwealth Games sport in 1990. Pedagogical innovations attributed to Kanō include the use of black and white belts, and the introduction of dan ranking to show the relative ranking among members of a martial-art-style. Well-known mottoes attributed to Kanō include \"maximum efficiency minimal effort\"  and \"mutual welfare and benefit\" .",
+        "born": 1860,
         "highlights": [
-          "26th president of the United States.",
-          "Served from 1901 to 1909.",
-          "Youngest US president at 42 years old."
+          "Founder of judo.",
+          "Introduced black and white belts.",
+          "Introduced dan ranking system."
         ]
       }
     ]
