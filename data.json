@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-28T18:39:56.473Z",
+  "generatedAt": "2026-10-28T22:56:50.926Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.5,
+    "tempC": 12.4,
     "condition": "Overcast",
     "code": 3,
-    "highC": 16.6,
+    "highC": 16.9,
     "lowC": 5.8,
-    "rainChance": 1
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Oracle Stock",
-          "Tech Buzz"
+          "Soccer Match",
+          "Messi Impact"
         ],
-        "summary": "Oracle stock is buzzing due to recent earnings reports and AI cloud growth."
+        "summary": "The U.S. Open Cup semifinal between Cincinnati and Inter Miami is buzzing due to Messi's impact."
       },
       {
         "keywords": [
-          "FBI News",
-          "Investigation"
+          "Wendy's",
+          "Menu Changes"
         ],
-        "summary": "The FBI is buzzing due to ongoing high-profile investigations and public statements."
+        "summary": "Wendy's is buzzing due to recent menu changes and promotional offers attracting customers."
       },
       {
         "keywords": [
-          "Ernie Johnson",
-          "Sports Announcer"
+          "Kentucky Basketball",
+          "New Season"
         ],
-        "summary": "Ernie Johnson is buzzing for his beloved NBA coverage and heartfelt personal stories."
+        "summary": "Kentucky basketball is buzzing as fans anticipate the upcoming season and new recruits."
       },
       {
         "keywords": [
-          "Sean Romeo",
-          "Hockey Goalie"
+          "Jacksonville State",
+          "FBS Transition"
         ],
-        "summary": "Sean Romeo is buzzing for his recent performance in professional hockey."
+        "summary": "Jacksonville State football is buzzing following their recent transition to FBS and strong start."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7741.27,
-        "changePct": 0.2417579571646864
+        "price": 7743.98,
+        "changePct": 0.27684976562296637
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26528.693,
-        "changePct": 0.19217223780969042
+        "price": 26549.852,
+        "changePct": 0.2720844359861999
       },
       {
         "region": "Europe",
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "My smart home devices seem to operate on toddler logic: I ask nicely, then repeat, then just do it myself.",
-      "explanation": "It highlights the common frustration with 'smart' technology, humorously comparing its stubbornness to that of a toddler."
+      "joke": "My AI assistant just told me to 'take a break and reconnect with nature.' I think it's trying to get me offline.",
+      "explanation": "Humor is in the AI's unexpected human-like advice, hinting at it wanting the user offline. It's a deadpan twist."
     },
     "zh": {
-      "joke": "我手机桌面都是各种效率App，但每天打开最多的永远是外卖和刷短视频。我深刻怀疑，我的大脑已经把‘效率’重新定义为‘点外卖和刷短视频的效率’。"
+      "joke": "当代年轻人的周末计划：周五晚上雄心壮志，周六中午躺平不起，最终形成一套‘与床共舞’的独特哲学。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Anthony Fantano",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Anthony_fantano_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American music critic and YouTuber (born 1985)",
-        "extract": "Anthony Nicholas Fantano is an American music critic and internet personality who runs The Needle Drop, a YouTube channel with a tie-in website and Twitch streaming channel. Self-billed as \"the internet's busiest music nerd\", as a social media influencer Fantano discusses and reviews music from a variety of genres online. He also runs the channel Fantano where he talks about events in the music industry solo or with guests and conducts interviews.",
-        "born": 1985,
+        "name": "Devin Ebanks",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Devin_Ebanks_with_Grand_Rapids.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American basketball player (born 1989)",
+        "extract": "Devin Maurice Ebanks is an American professional basketball player for Manama Club of the Bahraini Premier League. He was selected 43rd overall by the Los Angeles Lakers in the 2010 NBA draft, after playing college basketball for two seasons at West Virginia University.",
+        "born": 1989,
         "highlights": [
-          "Runs \"The Needle Drop\" YouTube channel.",
-          "American music critic and internet personality.",
-          "Discusses and reviews music online."
+          "Professional basketball player for Manama Club.",
+          "Selected 43rd by Los Angeles Lakers in 2010 NBA draft.",
+          "Played college basketball for West Virginia University."
         ]
       },
       {
-        "name": "Annie Potts",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Annie_Potts_%2853705697262%29_%28cropped%29.jpg/330px-Annie_Potts_%2853705697262%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (born 1952)",
-        "extract": "Anne Hampton Potts is an American actress. She was nominated for a Golden Globe Award for Corvette Summer (1978) and won a Genie Award for Heartaches (1981), before appearing in Ghostbusters (1984), Ghostbusters II (1989), and in various projects within the Ghostbusters franchise. She also appeared in the films Pretty in Pink (1986), Jumpin' Jack Flash (1986), and Who's Harry Crumb? (1989). She voiced Bo Peep in the Toy Story franchise and in various Disney video games.",
-        "born": 1952,
+        "name": "Charlie Daniels",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Charlie_Daniels_in_2017.jpg/330px-Charlie_Daniels_in_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American musician and songwriter (1936–2020)",
+        "extract": "Charles Edward Daniels was an American singer, songwriter, and musician. His music fused rock, country, blues and jazz and was a pioneering contribution to Southern rock and progressive country. He was best known for his number-one country hit \"The Devil Went Down to Georgia\". Much of his output, including all but one of his eight Billboard Hot 100 charting singles, was credited to the Charlie Daniels Band.",
+        "born": 1936,
         "highlights": [
-          "Won Genie Award for Heartaches (1981).",
-          "Appeared in Ghostbusters franchise.",
-          "Voiced Bo Peep in Toy Story franchise."
+          "American singer, songwriter, and musician.",
+          "Best known for hit 'The Devil Went Down to Georgia'.",
+          "Pioneering contribution to Southern rock and progressive country."
         ]
       },
       {
-        "name": "Kanō Jigorō",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Portrait_of_late_Mr._Kano.jpg/330px-Portrait_of_late_Mr._Kano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Japanese judoka, educator and politician (1860–1938)",
-        "extract": "Kanō Jigorō  was a Japanese judoka, educator, politician, and the founder of judo. Judo was one of the first Japanese martial arts to gain widespread international recognition, and the first to become an official Olympic sport since 1964 and 1992, as well as the Commonwealth Games sport in 1990. Pedagogical innovations attributed to Kanō include the use of black and white belts, and the introduction of dan ranking to show the relative ranking among members of a martial-art-style. Well-known mottoes attributed to Kanō include \"maximum efficiency minimal effort\"  and \"mutual welfare and benefit\" .",
-        "born": 1860,
+        "name": "Aleksandar Stanojević",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aleksandar_Stanojevi%C4%872017_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Serbian footballer and manager (born 1973)",
+        "extract": "Aleksandar Stanojević is a professional Serbian football manager and former player.",
+        "born": 1973,
         "highlights": [
-          "Founder of judo.",
-          "Introduced black and white belts.",
-          "Introduced dan ranking system."
+          "Professional Serbian football manager.",
+          "Former professional Serbian football player."
         ]
       }
     ]
