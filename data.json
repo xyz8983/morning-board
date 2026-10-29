@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T18:48:11.256Z",
+  "generatedAt": "2026-10-29T23:05:24.412Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19.9,
+    "tempC": 15.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 19.9,
+    "highC": 20.3,
     "lowC": 8.5,
     "rainChance": 0
   },
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Food Safety",
-          "Outbreak Alert"
+          "USCIS",
+          "Immigration"
         ],
-        "summary": "Salmonella is buzzing due to recent food recalls and public health warnings about contaminated products."
+        "summary": "USCIS is buzzing due to recent policy changes and application updates."
       },
       {
         "keywords": [
-          "Football",
-          "Player Transfers"
+          "NHL",
+          "Hockey Rivalry"
         ],
-        "summary": "The Saudi Pro League is buzzing due to its high-profile player acquisitions and significant investment in football."
+        "summary": "The classic Blackhawks vs Red Wings rivalry is buzzing as fans anticipate an exciting game."
       },
       {
         "keywords": [
           "College Football",
-          "Coach News"
+          "Sun Belt"
         ],
-        "summary": "June Jones is buzzing as speculation grows about his potential return to coaching college football."
+        "summary": "Troy vs James Madison is buzzing as a key college football matchup with conference implications."
       },
       {
         "keywords": [
-          "Reality TV",
-          "New Season"
+          "NCAAB",
+          "Basketball"
         ],
-        "summary": "Survivor 51 is buzzing as fans anticipate the upcoming season and potential new twists."
+        "summary": "Florida Atlantic vs North Texas is buzzing as a significant college basketball game."
       }
     ]
   },
@@ -48,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7694.9,
-        "changePct": -0.6337826285708373
+        "price": 7720.39,
+        "changePct": -0.3046237206191033
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26102.053,
-        "changePct": -1.6866346373606869
+        "price": 26184.725,
+        "changePct": -1.3752506040335006
       },
       {
         "region": "Europe",
@@ -97,50 +97,49 @@
   },
   "joke": {
     "en": {
-      "joke": "I finally achieved digital detox. Now I just scroll through photos of other people's digital detoxes.",
-      "explanation": "It's funny because it satirizes the performative nature of 'digital detox' and how we consume even 'offline' experiences online."
+      "joke": "I asked AI to write me a joke. It said 'Processing...' then gave me an ad for premium.",
+      "explanation": "It's anti-humor; the 'punchline' is a mundane, relatable modern frustration (ads/paywalls), subverting the expectation of a witty AI response."
     },
     "zh": {
-      "joke": "我认真研究了我的生物钟，发现它只在两个时间点特别准时：半夜三点和闹钟响之前五分钟。"
+      "joke": "很多事情我都能做到。比如，躺在床上看着手机，从早上八点到晚上八点，完美实现了“远程办公”和“深度沉浸式休闲”的无缝切换。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Helen Coonan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Helen_Coonan_Portrait_2008.jpg/330px-Helen_Coonan_Portrait_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian politician (born 1947)",
-        "extract": "Helen Lloyd Coonan is a former Australian politician who was a Senator for New South Wales from 1996 to 2011, representing the Liberal Party. She was a minister in the Howard government, serving as Minister for Revenue and Assistant Treasurer from 2001 to 2004 and then as Minister for Communications, Information Technology and the Arts from 2004 to 2007.",
-        "born": 1947,
+        "name": "Johann Olav Koss",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Johann_Olav_Koss_1.jpg/330px-Johann_Olav_Koss_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Norwegian speed skater (born 1968)",
+        "extract": "Johann Olav Koss is a former speed skater from Norway. He won four Olympic gold medals, including three at the 1994 Winter Olympics in his home country.",
+        "born": 1968,
         "highlights": [
-          "Senator for New South Wales (1996-2011).",
-          "Minister for Revenue and Assistant Treasurer (2001-2004).",
-          "Minister for Communications, IT and the Arts (2004-2007)."
+          "Former Norwegian speed skater.",
+          "Won four Olympic gold medals.",
+          "Three golds at 1994 Winter Olympics."
         ]
       },
       {
-        "name": "Ahmed al-Sharaa",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Ahmed_al-Sharaa%2C_President_of_Syria%2C_in_March_2026.jpg/330px-Ahmed_al-Sharaa%2C_President_of_Syria%2C_in_March_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "President of Syria since 2025",
-        "extract": "Ahmed Hussein al-Sharaa, also known by his former nom de guerre Abu Mohammad al-Julani, is a Syrian statesman and former rebel commander who has served as the president of Syria since 2025. As the emir of Hay'at Tahrir al-Sham (HTS) and the de facto leader of the Syrian Salvation Government (SSG) during the Syrian civil war, he led the decisive Syrian opposition offensives that resulted in the fall of the Assad regime in 2024.",
-        "born": 1982,
+        "name": "Martin Folkes",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Martin_Folkes.jpg/330px-Portrait_of_Martin_Folkes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English mathematician and astronomer",
+        "extract": "Martin Folkes was an English antiquary, numismatist, mathematician and astronomer who served as the president of the Royal Society from 1741 to 1752.",
+        "born": 1690,
         "highlights": [
-          "President of Syria since 2025.",
-          "Emir of Hay'at Tahrir al-Sham (HTS).",
-          "Led offensives resulting in fall of Assad regime."
+          "English antiquary, numismatist, mathematician, astronomer.",
+          "President of the Royal Society (1741-1752)."
         ]
       },
       {
-        "name": "Bob Ross",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bob_Ross_publicity_photo_%28c._1982%29_%28cropped%29.jpg/330px-Bob_Ross_publicity_photo_%28c._1982%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American painter and TV host (1942–1995)",
-        "extract": "Robert Norman Ross was an American painter and art instructor who created and hosted The Joy of Painting, an instructional television program that aired from 1983 to 1994 on PBS in the United States and CBC in Canada.",
-        "born": 1942,
+        "name": "R. A. Dickey",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/R.A._Dickey_%2826954928220%29_%28Cropped%29.jpg/330px-R.A._Dickey_%2826954928220%29_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball pitcher (born 1974)",
+        "extract": "Robert Allen Dickey is an American former professional baseball pitcher. He played in Major League Baseball (MLB) for the Texas Rangers, Seattle Mariners, Minnesota Twins, New York Mets, Toronto Blue Jays, and Atlanta Braves. Internationally, Dickey represented the United States.",
+        "born": 1974,
         "highlights": [
-          "American painter and art instructor.",
-          "Created and hosted \"The Joy of Painting\".",
-          "Program aired on PBS from 1983 to 1994."
+          "American former professional baseball pitcher.",
+          "Played in Major League Baseball (MLB).",
+          "Represented United States internationally."
         ]
       }
     ]
