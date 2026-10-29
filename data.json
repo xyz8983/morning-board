@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T22:56:50.926Z",
+  "generatedAt": "2026-10-29T18:48:11.256Z",
   "weather": {
     "location": "New York City",
-    "tempC": 12.4,
+    "tempC": 19.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 16.9,
-    "lowC": 5.8,
+    "highC": 19.9,
+    "lowC": 8.5,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Soccer Match",
-          "Messi Impact"
+          "Food Safety",
+          "Outbreak Alert"
         ],
-        "summary": "The U.S. Open Cup semifinal between Cincinnati and Inter Miami is buzzing due to Messi's impact."
+        "summary": "Salmonella is buzzing due to recent food recalls and public health warnings about contaminated products."
       },
       {
         "keywords": [
-          "Wendy's",
-          "Menu Changes"
+          "Football",
+          "Player Transfers"
         ],
-        "summary": "Wendy's is buzzing due to recent menu changes and promotional offers attracting customers."
+        "summary": "The Saudi Pro League is buzzing due to its high-profile player acquisitions and significant investment in football."
       },
       {
         "keywords": [
-          "Kentucky Basketball",
+          "College Football",
+          "Coach News"
+        ],
+        "summary": "June Jones is buzzing as speculation grows about his potential return to coaching college football."
+      },
+      {
+        "keywords": [
+          "Reality TV",
           "New Season"
         ],
-        "summary": "Kentucky basketball is buzzing as fans anticipate the upcoming season and new recruits."
-      },
-      {
-        "keywords": [
-          "Jacksonville State",
-          "FBS Transition"
-        ],
-        "summary": "Jacksonville State football is buzzing following their recent transition to FBS and strong start."
+        "summary": "Survivor 51 is buzzing as fans anticipate the upcoming season and potential new twists."
       }
     ]
   },
@@ -48,98 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7743.98,
-        "changePct": 0.27684976562296637
+        "price": 7694.9,
+        "changePct": -0.6337826285708373
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26549.852,
-        "changePct": 0.2720844359861999
+        "price": 26102.053,
+        "changePct": -1.6866346373606869
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6167.81,
-        "changePct": 0.05061081741337846
+        "price": 6207.07,
+        "changePct": 0.636530632428679
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10694.5,
-        "changePct": 0.07448622285603315
+        "price": 10722.07,
+        "changePct": 0.25779606339707056
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3681.469,
-        "changePct": -0.43410177632575164
+        "price": 3651.434,
+        "changePct": 0.08590302332593303
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4083.87,
-        "changePct": 0.8474642191857509
+        "price": 4041.838,
+        "changePct": -1.0292198331484523
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23094.83,
-        "changePct": -0.5039247279400888
+        "price": 22958.65,
+        "changePct": -0.3587037189741804
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My AI assistant just told me to 'take a break and reconnect with nature.' I think it's trying to get me offline.",
-      "explanation": "Humor is in the AI's unexpected human-like advice, hinting at it wanting the user offline. It's a deadpan twist."
+      "joke": "I finally achieved digital detox. Now I just scroll through photos of other people's digital detoxes.",
+      "explanation": "It's funny because it satirizes the performative nature of 'digital detox' and how we consume even 'offline' experiences online."
     },
     "zh": {
-      "joke": "当代年轻人的周末计划：周五晚上雄心壮志，周六中午躺平不起，最终形成一套‘与床共舞’的独特哲学。"
+      "joke": "我认真研究了我的生物钟，发现它只在两个时间点特别准时：半夜三点和闹钟响之前五分钟。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Devin Ebanks",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Devin_Ebanks_with_Grand_Rapids.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American basketball player (born 1989)",
-        "extract": "Devin Maurice Ebanks is an American professional basketball player for Manama Club of the Bahraini Premier League. He was selected 43rd overall by the Los Angeles Lakers in the 2010 NBA draft, after playing college basketball for two seasons at West Virginia University.",
-        "born": 1989,
+        "name": "Helen Coonan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Helen_Coonan_Portrait_2008.jpg/330px-Helen_Coonan_Portrait_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian politician (born 1947)",
+        "extract": "Helen Lloyd Coonan is a former Australian politician who was a Senator for New South Wales from 1996 to 2011, representing the Liberal Party. She was a minister in the Howard government, serving as Minister for Revenue and Assistant Treasurer from 2001 to 2004 and then as Minister for Communications, Information Technology and the Arts from 2004 to 2007.",
+        "born": 1947,
         "highlights": [
-          "Professional basketball player for Manama Club.",
-          "Selected 43rd by Los Angeles Lakers in 2010 NBA draft.",
-          "Played college basketball for West Virginia University."
+          "Senator for New South Wales (1996-2011).",
+          "Minister for Revenue and Assistant Treasurer (2001-2004).",
+          "Minister for Communications, IT and the Arts (2004-2007)."
         ]
       },
       {
-        "name": "Charlie Daniels",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Charlie_Daniels_in_2017.jpg/330px-Charlie_Daniels_in_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American musician and songwriter (1936–2020)",
-        "extract": "Charles Edward Daniels was an American singer, songwriter, and musician. His music fused rock, country, blues and jazz and was a pioneering contribution to Southern rock and progressive country. He was best known for his number-one country hit \"The Devil Went Down to Georgia\". Much of his output, including all but one of his eight Billboard Hot 100 charting singles, was credited to the Charlie Daniels Band.",
-        "born": 1936,
+        "name": "Ahmed al-Sharaa",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Ahmed_al-Sharaa%2C_President_of_Syria%2C_in_March_2026.jpg/330px-Ahmed_al-Sharaa%2C_President_of_Syria%2C_in_March_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "President of Syria since 2025",
+        "extract": "Ahmed Hussein al-Sharaa, also known by his former nom de guerre Abu Mohammad al-Julani, is a Syrian statesman and former rebel commander who has served as the president of Syria since 2025. As the emir of Hay'at Tahrir al-Sham (HTS) and the de facto leader of the Syrian Salvation Government (SSG) during the Syrian civil war, he led the decisive Syrian opposition offensives that resulted in the fall of the Assad regime in 2024.",
+        "born": 1982,
         "highlights": [
-          "American singer, songwriter, and musician.",
-          "Best known for hit 'The Devil Went Down to Georgia'.",
-          "Pioneering contribution to Southern rock and progressive country."
+          "President of Syria since 2025.",
+          "Emir of Hay'at Tahrir al-Sham (HTS).",
+          "Led offensives resulting in fall of Assad regime."
         ]
       },
       {
-        "name": "Aleksandar Stanojević",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aleksandar_Stanojevi%C4%872017_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Serbian footballer and manager (born 1973)",
-        "extract": "Aleksandar Stanojević is a professional Serbian football manager and former player.",
-        "born": 1973,
+        "name": "Bob Ross",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bob_Ross_publicity_photo_%28c._1982%29_%28cropped%29.jpg/330px-Bob_Ross_publicity_photo_%28c._1982%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American painter and TV host (1942–1995)",
+        "extract": "Robert Norman Ross was an American painter and art instructor who created and hosted The Joy of Painting, an instructional television program that aired from 1983 to 1994 on PBS in the United States and CBC in Canada.",
+        "born": 1942,
         "highlights": [
-          "Professional Serbian football manager.",
-          "Former professional Serbian football player."
+          "American painter and art instructor.",
+          "Created and hosted \"The Joy of Painting\".",
+          "Program aired on PBS from 1983 to 1994."
         ]
       }
     ]
