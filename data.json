@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-29T23:05:24.412Z",
+  "generatedAt": "2026-10-30T18:25:06.445Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.9,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 20.3,
-    "lowC": 8.5,
-    "rainChance": 0
+    "tempC": 21.2,
+    "condition": "Mostly clear",
+    "code": 1,
+    "highC": 22.8,
+    "lowC": 8.7,
+    "rainChance": 1
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "USCIS",
-          "Immigration"
+          "General Hospital",
+          "Soap Opera"
         ],
-        "summary": "USCIS is buzzing due to recent policy changes and application updates."
+        "summary": "Why it's buzzing: The long-running soap opera \"General Hospital\" is trending due to recent plot developments and cast news."
       },
       {
         "keywords": [
-          "NHL",
-          "Hockey Rivalry"
+          "Mario Alberto Morales",
+          "ICE Indictment"
         ],
-        "summary": "The classic Blackhawks vs Red Wings rivalry is buzzing as fans anticipate an exciting game."
+        "summary": "Why it's buzzing: Mario Alberto Morales's ICE indictment is trending as details emerge about the federal charges."
       },
       {
         "keywords": [
-          "College Football",
-          "Sun Belt"
+          "Ella Stiller",
+          "Celebrity Child"
         ],
-        "summary": "Troy vs James Madison is buzzing as a key college football matchup with conference implications."
+        "summary": "Why it's buzzing: Ella Stiller, daughter of Ben Stiller and Christine Taylor, is trending for recent public appearances."
       },
       {
         "keywords": [
-          "NCAAB",
-          "Basketball"
+          "Riverchase Galleria",
+          "Shopping Mall"
         ],
-        "summary": "Florida Atlantic vs North Texas is buzzing as a significant college basketball game."
+        "summary": "Why it's buzzing: Riverchase Galleria is trending due to recent events or news surrounding the Alabama shopping mall."
       }
     ]
   },
@@ -48,98 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7720.39,
-        "changePct": -0.3046237206191033
+        "price": 7544.88,
+        "changePct": -2.273330751425773
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 26184.725,
-        "changePct": -1.3752506040335006
+        "price": 25257.486,
+        "changePct": -3.541144694091681
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6207.07,
-        "changePct": 0.636530632428679
+        "price": 6131.31,
+        "changePct": -1.2205436703629784
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10722.07,
-        "changePct": 0.25779606339707056
+        "price": 10729.78,
+        "changePct": 0.0719077566179007
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3651.434,
-        "changePct": 0.08590302332593303
+        "price": 3599.017,
+        "changePct": -2.2396759989895334
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4041.838,
-        "changePct": -1.0292198331484523
+        "price": 3985.501,
+        "changePct": -1.393836308514712
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22958.65,
-        "changePct": -0.3587037189741804
+        "price": 23294.42,
+        "changePct": 0.8643504165439795
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write me a joke. It said 'Processing...' then gave me an ad for premium.",
-      "explanation": "It's anti-humor; the 'punchline' is a mundane, relatable modern frustration (ads/paywalls), subverting the expectation of a witty AI response."
+      "joke": "My current life goal is to finally cook all the ingredients I bought instead of ordering delivery again.",
+      "explanation": "It's a relatable, self-deprecating observation about modern life's cycle of aspirational grocery shopping and actual reliance on delivery apps."
     },
     "zh": {
-      "joke": "很多事情我都能做到。比如，躺在床上看着手机，从早上八点到晚上八点，完美实现了“远程办公”和“深度沉浸式休闲”的无缝切换。"
+      "joke": "我的朋友圈只有三天可见，不是为了保护隐私，而是为了保护我三天前的尴尬。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Johann Olav Koss",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Johann_Olav_Koss_1.jpg/330px-Johann_Olav_Koss_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Norwegian speed skater (born 1968)",
-        "extract": "Johann Olav Koss is a former speed skater from Norway. He won four Olympic gold medals, including three at the 1994 Winter Olympics in his home country.",
-        "born": 1968,
+        "name": "Miguel Hernández",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Miguel_hernandez.jpg/330px-Miguel_hernandez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Spanish poet and playwright",
+        "extract": "Miguel Hernández Gilabert was a 20th-century Spanish-language poet and playwright associated with the Generation of '27 and the Generation of '36 movements. Born and raised in a family of low resources, he was self-taught in what refers to literature, and struggled against an unfavourable environment to build up his intellectual education, such as a father who physically abused him for spending time with books instead of working, and who took him out of school as soon as he finished his primary education. At school, he became a friend of Ramón Sijé, a well-educated boy who lent and recommended books to Hernández, and whose death would inspire his most famous poem, Elegy.",
+        "born": 1910,
         "highlights": [
-          "Former Norwegian speed skater.",
-          "Won four Olympic gold medals.",
-          "Three golds at 1994 Winter Olympics."
+          "20th-century Spanish-language poet and playwright.",
+          "Associated with Generation of '27 and Generation of '36.",
+          "His most famous poem is Elegy."
         ]
       },
       {
-        "name": "Martin Folkes",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Martin_Folkes.jpg/330px-Portrait_of_Martin_Folkes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English mathematician and astronomer",
-        "extract": "Martin Folkes was an English antiquary, numismatist, mathematician and astronomer who served as the president of the Royal Society from 1741 to 1752.",
-        "born": 1690,
+        "name": "Jarell Eddie",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Jarell_Eddie.jpg/330px-Jarell_Eddie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player (born 1991)",
+        "extract": "Jarell Alexander Eddie is an American professional basketball player for El Calor de Cancún of the Liga Nacional de Baloncesto Profesional (LNBP). He played college basketball for the Virginia Tech Hokies before playing parts of four NBA seasons for the Washington Wizards, Phoenix Suns, Chicago Bulls and Boston Celtics, totalling 34 games between 2015 to 2018.",
+        "born": 1991,
         "highlights": [
-          "English antiquary, numismatist, mathematician, astronomer.",
-          "President of the Royal Society (1741-1752)."
+          "Professional basketball player for El Calor de Cancún.",
+          "Played college basketball for Virginia Tech Hokies.",
+          "Played parts of four NBA seasons for four teams."
         ]
       },
       {
-        "name": "R. A. Dickey",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/R.A._Dickey_%2826954928220%29_%28Cropped%29.jpg/330px-R.A._Dickey_%2826954928220%29_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball pitcher (born 1974)",
-        "extract": "Robert Allen Dickey is an American former professional baseball pitcher. He played in Major League Baseball (MLB) for the Texas Rangers, Seattle Mariners, Minnesota Twins, New York Mets, Toronto Blue Jays, and Atlanta Braves. Internationally, Dickey represented the United States.",
-        "born": 1974,
+        "name": "Desmond Jennings",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Desmond_Jennings_June_2014.jpg/330px-Desmond_Jennings_June_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball player (born 1986)",
+        "extract": "Desmond Delane Jennings is an American former professional baseball outfielder. He played in Major League Baseball (MLB) for the Tampa Bay Rays.",
+        "born": 1986,
         "highlights": [
-          "American former professional baseball pitcher.",
+          "American former professional baseball outfielder.",
           "Played in Major League Baseball (MLB).",
-          "Represented United States internationally."
+          "Played for the Tampa Bay Rays."
         ]
       }
     ]
