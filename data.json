@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-31T17:31:03.314Z",
+  "generatedAt": "2026-10-31T22:10:11.157Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.4,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 15.8,
+    "tempC": 13.2,
+    "condition": "Clear sky",
+    "code": 0,
+    "highC": 16.1,
     "lowC": 6.9,
     "rainChance": 0
   },
@@ -14,31 +14,32 @@
     "topics": [
       {
         "keywords": [
-          "NHL",
-          "Hockey Matchup"
+          "George Santos",
+          "Scandal"
         ],
-        "summary": "Lightning vs Predators is buzzing due to an anticipated NHL matchup."
+        "summary": "George Santos is buzzing due to ongoing legal issues and expulsion from Congress."
       },
       {
         "keywords": [
-          "Actress",
-          "Fashion Icon"
+          "App State",
+          "Ga Southern",
+          "Football"
         ],
-        "summary": "Zendaya is buzzing due to her recent public appearances and fashion statements."
+        "summary": "The App State vs. Ga Southern rivalry game is buzzing with fans discussing the recent intense matchup."
       },
       {
         "keywords": [
-          "NCAAF",
-          "College Football"
+          "Polar Vortex",
+          "Weather Forecast"
         ],
-        "summary": "Coastal Carolina vs Georgia State is buzzing due to a key college football game."
+        "summary": "A potential polar vortex forecast is buzzing as people prepare for extreme cold temperatures."
       },
       {
         "keywords": [
-          "US Politics",
-          "Iowa Representative"
+          "Zelda",
+          "Ocarina of Time"
         ],
-        "summary": "Ashley Hinson is buzzing due to recent political news surrounding the Iowa representative."
+        "summary": "Nintendo's Ocarina of Time is buzzing as fans celebrate its enduring legacy and impact on gaming."
       }
     ]
   },
@@ -97,50 +98,49 @@
   },
   "joke": {
     "en": {
-      "joke": "My main skill is quickly closing apps I accidentally opened while scrolling.",
-      "explanation": "It's funny because it highlights a common, unproductive 'skill' in modern digital life, making it relatable and self-aware."
+      "joke": "I asked my smart speaker for life advice, and it suggested I restart it.",
+      "explanation": "It's funny because it subverts the expectation of profound AI wisdom with a generic tech troubleshooting response."
     },
     "zh": {
-      "joke": "我不是在摸鱼，我是在进行一项前沿的职场生存实验，代号：\b'低功耗模式'\b。"
+      "joke": "我问AI：生命的意义是什么？AI回复：请升级至最新版本，以解锁此高级功能。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Alison Wolf, Baroness Wolf of Dulwich",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Official_portrait_of_Baroness_Wolf_of_Dulwich_crop_2.jpg/330px-Official_portrait_of_Baroness_Wolf_of_Dulwich_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "British economist (born 1949)",
-        "extract": "Alison Margaret Wolf, Baroness Wolf of Dulwich, is a British economist, academic, and life peer. She is the Sir Roy Griffiths Professor of Public Sector Management at King's College London; Director of the International Centre for University Policy Research, King's Policy Institute; and Director of the university's MSc program in Public Sector Policy and Management. Her book, The XX Factor, was published in 2013.",
-        "born": 1949,
+        "name": "Bernard Edwards",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/Bernard_edwards_bassist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American bassist (1952–1996)",
+        "extract": "Bernard Edwards was an American bassist known primarily for his work in disco with guitarist Nile Rodgers, with whom he co-founded Chic. In 2017, Edwards was selected as the 53rd greatest bassist of all time by Bass Player magazine.",
+        "born": 1952,
         "highlights": [
-          "British economist, academic, and life peer.",
-          "Sir Roy Griffiths Professor at King's College London.",
-          "Authored the book \"The XX Factor\" in 2013."
+          "Co-founded disco band Chic with Nile Rodgers.",
+          "Known for his influential bass work in disco.",
+          "Ranked 53rd greatest bassist by Bass Player magazine."
         ]
       },
       {
-        "name": "Colm Ó Cíosóig",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Colm%C3%93C%C3%ADos%C3%B3ig.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Irish musician (born 1964)",
-        "extract": "Colm Ó Cíosóig is an Irish musician who achieved international fame as the drummer for the alternative rock band My Bloody Valentine. Their albums Isn't Anything (1988) and Loveless (1991) established Ó Cíosóig as a pioneering figure in the shoegaze genre.",
-        "born": 1964,
+        "name": "Alonso Núñez de Haro y Peralta",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/AlonsoNugnezdeHaroyPeralta.jpg/330px-AlonsoNugnezdeHaroyPeralta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican politician",
+        "extract": "Dr. Alonso Núñez de Haro y Peralta was archbishop of Mexico from September 12, 1772, to May 26, 1800, and viceroy of New Spain from May 8, 1787, to August 16, 1787.",
+        "born": 1729,
         "highlights": [
-          "Drummer for alternative rock band My Bloody Valentine.",
-          "Pioneering figure in the shoegaze genre.",
-          "Played on albums \"Isn't Anything\" and \"Loveless\"."
+          "Archbishop of Mexico from 1772 to 1800.",
+          "Served as Viceroy of New Spain in 1787."
         ]
       },
       {
-        "name": "John Lucas II",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/John_Lucas_II.jpg/330px-John_Lucas_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball player (born 1953)",
-        "extract": "John Harding Lucas II is an American professional basketball coach and former player who most recently served as an assistant coach for the Houston Rockets of the National Basketball Association (NBA). He played basketball and tennis at the University of Maryland, College Park and was an All-American in both.",
-        "born": 1953,
+        "name": "Ethel Waters",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ethel_Waters_Warnecke.jpg/330px-Ethel_Waters_Warnecke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American vocalist and actress (1896–1977)",
+        "extract": "Ethel Waters was an American singer and actress. Waters frequently performed jazz, swing, and pop music on the Broadway stage and in concerts. She began her career in the 1920s singing blues. Her notable recordings include \"Dinah\", \"Stormy Weather\", \"Taking a Chance on Love\", \"Chlo-e, \"Heat Wave\", \"Supper Time\", \"Am I Blue?\", \"Birmingham Bertha\", \"Cabin in the Sky\", \"I'm Coming Virginia\", and her version of \"His Eye Is on the Sparrow\". Waters was the second African American to be nominated for an Academy Award, the first African American to star on her own television show, and the first African-American woman to be nominated for a Primetime Emmy Award.",
+        "born": 1896,
         "highlights": [
-          "American professional basketball coach and former player.",
-          "Assistant coach for the NBA's Houston Rockets.",
-          "All-American in basketball and tennis at Maryland."
+          "Second African American nominated for an Academy Award.",
+          "First African American to star on her own TV show.",
+          "First African-American woman nominated for a Primetime Emmy."
         ]
       }
     ]
