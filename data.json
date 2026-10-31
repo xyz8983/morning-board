@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-30T22:45:45.572Z",
+  "generatedAt": "2026-10-31T17:31:03.314Z",
   "weather": {
     "location": "New York City",
-    "tempC": 13.8,
-    "condition": "Mostly clear",
-    "code": 1,
-    "highC": 22.8,
-    "lowC": 9,
-    "rainChance": 1
+    "tempC": 15.4,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 15.8,
+    "lowC": 6.9,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Pistons",
-          "Nets"
+          "NHL",
+          "Hockey Matchup"
         ],
-        "summary": "Pistons vs Nets is buzzing as fans discuss the recent game's outcome."
+        "summary": "Lightning vs Predators is buzzing due to an anticipated NHL matchup."
       },
       {
         "keywords": [
-          "Byron Donalds",
-          "Politics"
+          "Actress",
+          "Fashion Icon"
         ],
-        "summary": "Byron Donalds is buzzing as political discourse highlights his recent activities."
+        "summary": "Zendaya is buzzing due to her recent public appearances and fashion statements."
       },
       {
         "keywords": [
-          "Corinthians",
-          "Mirassol"
+          "NCAAF",
+          "College Football"
         ],
-        "summary": "Corinthians x Mirassol is buzzing as soccer fans react to their latest match."
+        "summary": "Coastal Carolina vs Georgia State is buzzing due to a key college football game."
       },
       {
         "keywords": [
-          "NBA",
-          "Lineups"
+          "US Politics",
+          "Iowa Representative"
         ],
-        "summary": "NBA starting lineups are buzzing as fans analyze potential team configurations."
+        "summary": "Ashley Hinson is buzzing due to recent political news surrounding the Iowa representative."
       }
     ]
   },
@@ -70,14 +70,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10729.78,
-        "changePct": 0.0719077566179007
+        "changePct": 0.07162775948741656
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3599.017,
-        "changePct": -2.2396759989895334
+        "changePct": -1.4354102365374666
       },
       {
         "region": "Asia",
@@ -91,54 +91,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23294.42,
-        "changePct": 0.8643504165439795
+        "changePct": 1.4622779164325397
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I just posted a super authentic photo of myself... after 45 minutes of editing to make it look like I didn't edit it.",
-      "explanation": "It mocks the paradox of curated authenticity on social media, where significant effort goes into looking naturally unedited."
+      "joke": "My main skill is quickly closing apps I accidentally opened while scrolling.",
+      "explanation": "It's funny because it highlights a common, unproductive 'skill' in modern digital life, making it relatable and self-aware."
     },
     "zh": {
-      "joke": "我的购物车里永远有十件以上的东西，但我每次打开它，都像在翻阅一本写满了“我买不起”的未来回忆录。"
+      "joke": "我不是在摸鱼，我是在进行一项前沿的职场生存实验，代号：\b'低功耗模式'\b。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Tommy Ridgley",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Tommy_Ridgley_1996.jpg/330px-Tommy_Ridgley_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American R&B singer, pianist, songwriter and bandleader (1925–1999)",
-        "extract": "Thomas Herman Ridgley was an American R&B singer, pianist, songwriter and bandleader in New Orleans, Louisiana. In a musical career lasting half a century Ridgley was a stalwart of the New Orleans rhythm and blues scene. Although he never had a national hit, unlike several of his contemporaries, he made numerous, popular recordings that sold mainly in New Orleans and Louisiana beginning in 1949 with a final release in 1995. His voice was variously described as similar to Roy Brown and Bull Moose Jackson and thus able to adapt to a variety of styles: blues, jump blues, rhythm and blues and soul. In the late 1950s, he became bandleader of The Untouchables with whom he held residencies at important night venues often backing visiting artists. His recording career consisted of over forty singles and three albums. Most of his recordings have been anthologised on compilations in vinyl and CDs.",
-        "born": 1925,
+        "name": "Alison Wolf, Baroness Wolf of Dulwich",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Official_portrait_of_Baroness_Wolf_of_Dulwich_crop_2.jpg/330px-Official_portrait_of_Baroness_Wolf_of_Dulwich_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British economist (born 1949)",
+        "extract": "Alison Margaret Wolf, Baroness Wolf of Dulwich, is a British economist, academic, and life peer. She is the Sir Roy Griffiths Professor of Public Sector Management at King's College London; Director of the International Centre for University Policy Research, King's Policy Institute; and Director of the university's MSc program in Public Sector Policy and Management. Her book, The XX Factor, was published in 2013.",
+        "born": 1949,
         "highlights": [
-          "American R&B singer, pianist, songwriter, and bandleader.",
-          "Stalwart of the New Orleans rhythm and blues scene.",
-          "Made numerous popular recordings from 1949 to 1995."
+          "British economist, academic, and life peer.",
+          "Sir Roy Griffiths Professor at King's College London.",
+          "Authored the book \"The XX Factor\" in 2013."
         ]
       },
       {
-        "name": "Andrea Mitchell",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Andrea_Mitchell_2026.jpg/330px-Andrea_Mitchell_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American journalist and news anchor (born 1946)",
-        "extract": "Andrea Louise Mitchell is an American television journalist, anchor and commentator for NBC News, based in Washington, D.C.",
-        "born": 1946,
+        "name": "Colm Ó Cíosóig",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Colm%C3%93C%C3%ADos%C3%B3ig.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Irish musician (born 1964)",
+        "extract": "Colm Ó Cíosóig is an Irish musician who achieved international fame as the drummer for the alternative rock band My Bloody Valentine. Their albums Isn't Anything (1988) and Loveless (1991) established Ó Cíosóig as a pioneering figure in the shoegaze genre.",
+        "born": 1964,
         "highlights": [
-          "American television journalist, anchor, and commentator for NBC News."
+          "Drummer for alternative rock band My Bloody Valentine.",
+          "Pioneering figure in the shoegaze genre.",
+          "Played on albums \"Isn't Anything\" and \"Loveless\"."
         ]
       },
       {
-        "name": "Aleksandr Dulichenko",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Aleksandr_Dulit%C5%A1enko.JPG/330px-Aleksandr_Dulit%C5%A1enko.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Russian-Estonian linguist (1941–2026)",
-        "extract": "Aleksandr Dmitrievich Dulichenko was a Russian-Estonian Esperantist, linguist, and expert in Slavic microlanguages who lived in Estonia. He was a professor at the University of Tartu, where he was the head of the department of Slavic studies.",
-        "born": 1941,
+        "name": "John Lucas II",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/John_Lucas_II.jpg/330px-John_Lucas_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player (born 1953)",
+        "extract": "John Harding Lucas II is an American professional basketball coach and former player who most recently served as an assistant coach for the Houston Rockets of the National Basketball Association (NBA). He played basketball and tennis at the University of Maryland, College Park and was an All-American in both.",
+        "born": 1953,
         "highlights": [
-          "Russian-Estonian Esperantist, linguist, and expert in Slavic microlanguages.",
-          "Professor at the University of Tartu.",
-          "Head of the department of Slavic studies."
+          "American professional basketball coach and former player.",
+          "Assistant coach for the NBA's Houston Rockets.",
+          "All-American in basketball and tennis at Maryland."
         ]
       }
     ]
