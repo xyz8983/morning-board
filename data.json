@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T22:10:11.157Z",
+  "generatedAt": "2026-11-01T18:16:07.685Z",
   "weather": {
     "location": "New York City",
-    "tempC": 13.2,
-    "condition": "Clear sky",
-    "code": 0,
-    "highC": 16.1,
-    "lowC": 6.9,
+    "tempC": 15,
+    "condition": "Partly cloudy",
+    "code": 2,
+    "highC": 15.4,
+    "lowC": 4.7,
     "rainChance": 0
   },
   "hotTopics": {
@@ -14,32 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "George Santos",
-          "Scandal"
+          "Deshaun Watson",
+          "NFL"
         ],
-        "summary": "George Santos is buzzing due to ongoing legal issues and expulsion from Congress."
+        "summary": "Deshaun Watson is buzzing due to his ongoing NFL suspension and legal issues."
       },
       {
         "keywords": [
-          "App State",
-          "Ga Southern",
+          "NBC News",
+          "Media"
+        ],
+        "summary": "NBC News is buzzing due to recent anchor changes and breaking political coverage."
+      },
+      {
+        "keywords": [
+          "Shedeur Sanders",
+          "College Football"
+        ],
+        "summary": "Shedeur Sanders is buzzing as a top college football quarterback with impressive stats."
+      },
+      {
+        "keywords": [
+          "Rio Ngumoha",
           "Football"
         ],
-        "summary": "The App State vs. Ga Southern rivalry game is buzzing with fans discussing the recent intense matchup."
-      },
-      {
-        "keywords": [
-          "Polar Vortex",
-          "Weather Forecast"
-        ],
-        "summary": "A potential polar vortex forecast is buzzing as people prepare for extreme cold temperatures."
-      },
-      {
-        "keywords": [
-          "Zelda",
-          "Ocarina of Time"
-        ],
-        "summary": "Nintendo's Ocarina of Time is buzzing as fans celebrate its enduring legacy and impact on gaming."
+        "summary": "Rio Ngumoha is buzzing as a rising young football talent attracting major club interest."
       }
     ]
   },
@@ -57,7 +56,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 25436.998,
-        "changePct": -2.8555846968031897
+        "changePct": -2.8554919475877174
       },
       {
         "region": "Europe",
@@ -85,62 +84,63 @@
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 3985.501,
-        "changePct": -1.393836308514712
+        "changePct": -1.3938948597668375
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23294.42,
-        "changePct": 1.4622779164325397
+        "changePct": 1.462498883862931
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I asked my smart speaker for life advice, and it suggested I restart it.",
-      "explanation": "It's funny because it subverts the expectation of profound AI wisdom with a generic tech troubleshooting response."
+      "joke": "I've started measuring my financial success by how many times I can justify ordering takeout instead of cooking something already in the fridge.",
+      "explanation": "It's funny because it's a relatable, slightly absurd self-justification for a common modern indulgence, highlighting convenience culture."
     },
     "zh": {
-      "joke": "我问AI：生命的意义是什么？AI回复：请升级至最新版本，以解锁此高级功能。"
+      "joke": "每次点外卖的时候，都会在结算页面郑重思考：这笔钱，我是用来取悦了我的胃，还是取悦了我的灵魂？当然，最终答案通常是后者。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Bernard Edwards",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/Bernard_edwards_bassist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American bassist (1952–1996)",
-        "extract": "Bernard Edwards was an American bassist known primarily for his work in disco with guitarist Nile Rodgers, with whom he co-founded Chic. In 2017, Edwards was selected as the 53rd greatest bassist of all time by Bass Player magazine.",
-        "born": 1952,
+        "name": "Mingun Sayadaw",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d0/Mingun_Sayadaw.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Burmese Buddhist monk and scholar",
+        "extract": "The Venerable Mingun Sayadaw U Vicittasārābhivaṃsa was a Burmese Theravāda Buddhist monk, best known for his memory skills and his role in the Sixth Buddhist Council. He was nicknamed The Book Man.",
+        "born": 1911,
         "highlights": [
-          "Co-founded disco band Chic with Nile Rodgers.",
-          "Known for his influential bass work in disco.",
-          "Ranked 53rd greatest bassist by Bass Player magazine."
+          "Best known for memory skills.",
+          "Played role in Sixth Buddhist Council.",
+          "Nicknamed \"The Book Man\"."
         ]
       },
       {
-        "name": "Alonso Núñez de Haro y Peralta",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/AlonsoNugnezdeHaroyPeralta.jpg/330px-AlonsoNugnezdeHaroyPeralta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican politician",
-        "extract": "Dr. Alonso Núñez de Haro y Peralta was archbishop of Mexico from September 12, 1772, to May 26, 1800, and viceroy of New Spain from May 8, 1787, to August 16, 1787.",
-        "born": 1729,
+        "name": "Michael D. Griffin",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Michael_D._Griffin.jpg/330px-Michael_D._Griffin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American physicist and aerospace engineer (born 1949)",
+        "extract": "Michael Douglas Griffin is an American physicist and aerospace engineer who served as the under secretary of defense for research and engineering from 2018 to 2020. He previously served as deputy of technology for the Strategic Defense Initiative, and as administrator of NASA from April 13, 2005, to January 20, 2009. As NASA administrator, Griffin oversaw such areas as private spaceflight, future human spaceflight to Mars, and the fate of the Hubble telescope.",
+        "born": 1949,
         "highlights": [
-          "Archbishop of Mexico from 1772 to 1800.",
-          "Served as Viceroy of New Spain in 1787."
+          "Served as NASA Administrator (2005-2009).",
+          "Under Secretary of Defense for Research and Engineering.",
+          "Oversaw private spaceflight, Mars missions, Hubble fate."
         ]
       },
       {
-        "name": "Ethel Waters",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ethel_Waters_Warnecke.jpg/330px-Ethel_Waters_Warnecke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American vocalist and actress (1896–1977)",
-        "extract": "Ethel Waters was an American singer and actress. Waters frequently performed jazz, swing, and pop music on the Broadway stage and in concerts. She began her career in the 1920s singing blues. Her notable recordings include \"Dinah\", \"Stormy Weather\", \"Taking a Chance on Love\", \"Chlo-e, \"Heat Wave\", \"Supper Time\", \"Am I Blue?\", \"Birmingham Bertha\", \"Cabin in the Sky\", \"I'm Coming Virginia\", and her version of \"His Eye Is on the Sparrow\". Waters was the second African American to be nominated for an Academy Award, the first African American to star on her own television show, and the first African-American woman to be nominated for a Primetime Emmy Award.",
-        "born": 1896,
+        "name": "John Williamson (singer)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/John_Williamson_Guitarist.jpg/330px-John_Williamson_Guitarist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian singer-songwriter (born 1945)",
+        "extract": "John Robert Williamson is an Australian country music and folk music singer-songwriter, multi-instrumentalist, television host and conservationist. Williamson usually writes and performs songs that relate to the history and culture of Australia, particularly the outback, in a similar vein to Slim Dusty and Buddy Williams before him. Williamson has released over fifty albums, ten videos, five DVDs, and two lyric books and has sold more than 4,000,000 albums in Australia. His best known hit is \"True Blue\". On Australia Day in 1992 Williamson was made a Member of the Order of Australia (AM) with the citation: \"for service to Australian country music and in stimulating awareness of conservation issues\". Williamson has received 28 Golden Guitar trophies at the Country Music Awards of Australia, he has won three ARIA Music Awards for Best Country Album and, in 2010, was inducted into the related Hall of Fame. Williamson has sold over 5 million records in Australia.",
+        "born": 1945,
         "highlights": [
-          "Second African American nominated for an Academy Award.",
-          "First African American to star on her own TV show.",
-          "First African-American woman nominated for a Primetime Emmy."
+          "Australian country and folk music singer-songwriter.",
+          "Best known for hit song \"True Blue\".",
+          "Sold over 5 million albums; 28 Golden Guitar trophies."
         ]
       }
     ]
