@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T18:16:07.685Z",
+  "generatedAt": "2026-11-01T22:34:46.775Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15,
-    "condition": "Partly cloudy",
-    "code": 2,
+    "tempC": 11.8,
+    "condition": "Overcast",
+    "code": 3,
     "highC": 15.4,
     "lowC": 4.7,
     "rainChance": 0
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Deshaun Watson",
-          "NFL"
+          "Matthew Wood",
+          "Hockey Prospect"
         ],
-        "summary": "Deshaun Watson is buzzing due to his ongoing NFL suspension and legal issues."
+        "summary": "Matthew Wood is buzzing as a top hockey prospect gaining attention for his skills."
       },
       {
         "keywords": [
-          "NBC News",
-          "Media"
+          "Hunter Henry",
+          "NFL Tight End"
         ],
-        "summary": "NBC News is buzzing due to recent anchor changes and breaking political coverage."
+        "summary": "Hunter Henry is buzzing due to recent team performance or trade speculation."
       },
       {
         "keywords": [
-          "Shedeur Sanders",
-          "College Football"
+          "NFL Standings",
+          "Future Projections"
         ],
-        "summary": "Shedeur Sanders is buzzing as a top college football quarterback with impressive stats."
+        "summary": "NFL Standings 2026 is buzzing as fans speculate on future team performance and playoff outlooks."
       },
       {
         "keywords": [
-          "Rio Ngumoha",
-          "Football"
+          "La Liga",
+          "Derby Standings"
         ],
-        "summary": "Rio Ngumoha is buzzing as a rising young football talent attracting major club interest."
+        "summary": "Athletic Bilbao vs Real Sociedad standings is buzzing due to the intense rivalry and league position."
       }
     ]
   },
@@ -91,56 +91,55 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23294.42,
-        "changePct": 1.462498883862931
+        "changePct": 1.4622779164325397
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I've started measuring my financial success by how many times I can justify ordering takeout instead of cooking something already in the fridge.",
-      "explanation": "It's funny because it's a relatable, slightly absurd self-justification for a common modern indulgence, highlighting convenience culture."
+      "joke": "My therapist says I need to set boundaries. My phone just sent me a notification reminding me to check my work email.",
+      "explanation": "It's a relatable, ironic observation on the struggle to set boundaries in a digitally connected world."
     },
     "zh": {
-      "joke": "每次点外卖的时候，都会在结算页面郑重思考：这笔钱，我是用来取悦了我的胃，还是取悦了我的灵魂？当然，最终答案通常是后者。"
+      "joke": "每次看到我的外卖小哥，都感觉他好像是我的私人健康顾问，每次都提醒我：“您最近营养摄入很均衡啊，各种碳水脂肪蛋白质都有了。”"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Mingun Sayadaw",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d0/Mingun_Sayadaw.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Burmese Buddhist monk and scholar",
-        "extract": "The Venerable Mingun Sayadaw U Vicittasārābhivaṃsa was a Burmese Theravāda Buddhist monk, best known for his memory skills and his role in the Sixth Buddhist Council. He was nicknamed The Book Man.",
-        "born": 1911,
+        "name": "Jean-Luc Pépin",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jean-Luc_Pepin_portrait_1968_%28edited%29.jpg/330px-Jean-Luc_Pepin_portrait_1968_%28edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian politician",
+        "extract": "Jean-Luc Pépin was a Canadian academic, politician and Cabinet minister.",
+        "born": 1924,
         "highlights": [
-          "Best known for memory skills.",
-          "Played role in Sixth Buddhist Council.",
-          "Nicknamed \"The Book Man\"."
+          "Canadian academic",
+          "Canadian politician",
+          "Canadian Cabinet minister"
         ]
       },
       {
-        "name": "Michael D. Griffin",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Michael_D._Griffin.jpg/330px-Michael_D._Griffin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American physicist and aerospace engineer (born 1949)",
-        "extract": "Michael Douglas Griffin is an American physicist and aerospace engineer who served as the under secretary of defense for research and engineering from 2018 to 2020. He previously served as deputy of technology for the Strategic Defense Initiative, and as administrator of NASA from April 13, 2005, to January 20, 2009. As NASA administrator, Griffin oversaw such areas as private spaceflight, future human spaceflight to Mars, and the fate of the Hubble telescope.",
-        "born": 1949,
+        "name": "Hermann Bondi",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/HermanBondi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Austrian-British mathematician and cosmologist (1919–2005)",
+        "extract": "Sir Hermann Bondi was an Austrian-British mathematician and cosmologist.",
+        "born": 1919,
         "highlights": [
-          "Served as NASA Administrator (2005-2009).",
-          "Under Secretary of Defense for Research and Engineering.",
-          "Oversaw private spaceflight, Mars missions, Hubble fate."
+          "Austrian-British mathematician",
+          "Austrian-British cosmologist"
         ]
       },
       {
-        "name": "John Williamson (singer)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/John_Williamson_Guitarist.jpg/330px-John_Williamson_Guitarist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian singer-songwriter (born 1945)",
-        "extract": "John Robert Williamson is an Australian country music and folk music singer-songwriter, multi-instrumentalist, television host and conservationist. Williamson usually writes and performs songs that relate to the history and culture of Australia, particularly the outback, in a similar vein to Slim Dusty and Buddy Williams before him. Williamson has released over fifty albums, ten videos, five DVDs, and two lyric books and has sold more than 4,000,000 albums in Australia. His best known hit is \"True Blue\". On Australia Day in 1992 Williamson was made a Member of the Order of Australia (AM) with the citation: \"for service to Australian country music and in stimulating awareness of conservation issues\". Williamson has received 28 Golden Guitar trophies at the Country Music Awards of Australia, he has won three ARIA Music Awards for Best Country Album and, in 2010, was inducted into the related Hall of Fame. Williamson has sold over 5 million records in Australia.",
-        "born": 1945,
+        "name": "Margarita Mamun",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Margarita_Mamun_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Russian rhythmic gymnast",
+        "extract": "Margarita Mamun is a retired Russian individual rhythmic gymnast. She is the 2016 Olympic all-around champion, two-time World all-around silver medalist, the 2015 European Games all-around silver medalist, the 2016 European Championships all-around silver medalist, three-time Grand Prix Final all-around champion and a three-time (2011–2013) Russian National all-around champion.",
+        "born": 1995,
         "highlights": [
-          "Australian country and folk music singer-songwriter.",
-          "Best known for hit song \"True Blue\".",
-          "Sold over 5 million albums; 28 Golden Guitar trophies."
+          "2016 Olympic all-around champion",
+          "Two-time World all-around silver medalist",
+          "Three-time Grand Prix Final all-around champion"
         ]
       }
     ]
