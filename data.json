@@ -1,46 +1,13 @@
 {
-  "generatedAt": "2026-11-03T19:57:58.010Z",
+  "generatedAt": "2026-11-03T23:51:07.783Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.7,
+    "tempC": 15.5,
     "condition": "Overcast",
     "code": 3,
-    "highC": 20.8,
+    "highC": 21,
     "lowC": 9.4,
-    "rainChance": 2
-  },
-  "hotTopics": {
-    "headline": "Today's buzz",
-    "topics": [
-      {
-        "keywords": [
-          "QPR",
-          "Burnley"
-        ],
-        "summary": "QPR vs Burnley is buzzing due to recent match anticipation."
-      },
-      {
-        "keywords": [
-          "Jeremiyah Love",
-          "Football Recruit"
-        ],
-        "summary": "Jeremiyah Love is buzzing as a top football recruit."
-      },
-      {
-        "keywords": [
-          "Barcelona",
-          "Aston Villa"
-        ],
-        "summary": "Barcelona vs Aston Villa is buzzing with transfer rumors."
-      },
-      {
-        "keywords": [
-          "Hallie Shoffner",
-          "Business Leader"
-        ],
-        "summary": "Hallie Shoffner is buzzing for her work in sustainable packaging."
-      }
-    ]
+    "rainChance": 1
   },
   "market": {
     "indices": [
@@ -48,15 +15,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7561.46,
-        "changePct": 0.2659983557429708
+        "price": 7568.92,
+        "changePct": 0.3649189805606444
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25324.43,
-        "changePct": 0.6360860396108541
+        "price": 25372.01,
+        "changePct": 0.825162949684032
       },
       {
         "region": "Europe",
@@ -95,53 +62,29 @@
       }
     ]
   },
-  "joke": {
-    "en": {
-      "joke": "My daily step count is mostly just walking to find my phone after I muted it.",
-      "explanation": "This captures a relatable modern frustration with a dry, slightly absurd observation about phone habits."
-    },
-    "zh": {
-      "joke": "健身房年卡我办了，我的运动量主要集中在：每天早上起床，在脑子里进行一场“去还是不去”的史诗级思想斗争。"
-    }
-  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Sticky Fingaz",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Academy_Awards_afterparty_CUN_Kirk_Jones.jpg/330px-Academy_Awards_afterparty_CUN_Kirk_Jones.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American rapper (born 1973)",
-        "extract": "Kirk Jones, better known by his stage name Sticky Fingaz, is an American rapper, record producer and actor best known as a member of platinum selling hardcore rap group Onyx.",
-        "born": 1973,
-        "highlights": [
-          "American rapper and record producer.",
-          "Also known as an actor.",
-          "Member of platinum-selling rap group Onyx."
-        ]
+        "name": "Hitomi Yamaguchi",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Yamaguchi_Hitomi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Japanese writer (1923–1995)",
+        "extract": "Hitomi Yamaguchi  was a novelist and essayist in Shōwa period Japan.",
+        "born": 1923
       },
       {
-        "name": "Jan Boerstoel",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Jan_boerstoel-1507827318.jpg/330px-Jan_boerstoel-1507827318.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Dutch writer and poet (born 1944)",
-        "extract": "Jan Boerstoel is a Dutch writer and poet who is perhaps best known for his song texts, especially for cabaret. He lives in Amsterdam. His poetry is melancholy, but often humorous as well. In his songs, Boerstoel frequently criticizes society. Many of his lyrics have been used by well-known Dutch artists such as Karin Bloemen, Martine Bijl, and Youp van 't Hek.",
-        "born": 1944,
-        "highlights": [
-          "Dutch writer and poet.",
-          "Known for song texts, especially for cabaret.",
-          "Lyrics used by well-known Dutch artists."
-        ]
+        "name": "Annette Gozon-Valdes",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Atty._Annette_Gozon-Valdes_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Filipino lawyer, film producer and actress",
+        "extract": "Anna Teresa \"Annette\" M. Gozon-Valdes is a Filipino business executive, lawyer, professor, film producer, scriptwriter and actress. She is the Senior Vice President of GMA Network, one of the largest media networks in the Philippines.",
+        "born": 1972
       },
       {
-        "name": "Christian Picciolini",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Christian_Picciolini_%28cropped%29.jpg/330px-Christian_Picciolini_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American former extremist (born 1973)",
-        "extract": "Christian Marco Picciolini is an American former extremist and political activist who founded the Free Radicals Project, a nonprofit organization that works to prevent extremism and support individuals in leaving hate groups. He was also an unsuccessful candidate for Township Supervisor in Resort Township, Michigan, during the 2024 election. He is the author of a memoir, Romantic Violence: Memoirs of an American Skinhead, which details his time as a leader of the white power movement in the U.S. An updated version of the story was published in 2017, titled White American Youth: My Descent into America's Most Violent Hate Movement--and How I Got Out. His book Breaking Hate: Confronting the New Culture of Extremism (2020) looks at how extremists recruit the vulnerable to their causes.",
-        "born": 1973,
-        "highlights": [
-          "Founded the Free Radicals Project.",
-          "Author of \"Romantic Violence\" memoir.",
-          "Authored \"Breaking Hate\" (2020)."
-        ]
+        "name": "Davis Guggenheim",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/DavisGuggenheimJI1_%28cropped%29.jpg/330px-DavisGuggenheimJI1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American film and television director and producer",
+        "extract": "Philip Davis Guggenheim is an American screenwriter, director, and producer.",
+        "born": 1963
       }
     ]
   }
