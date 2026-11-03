@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-11-03T01:26:40.021Z",
+  "generatedAt": "2026-11-03T19:57:58.010Z",
   "weather": {
     "location": "New York City",
-    "tempC": 12.8,
+    "tempC": 20.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 19.7,
-    "lowC": 6.7,
-    "rainChance": 1
+    "highC": 20.8,
+    "lowC": 9.4,
+    "rainChance": 2
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Anthrax",
-          "Health Concern"
+          "QPR",
+          "Burnley"
         ],
-        "summary": "Anthrax is buzzing due to recent reports of outbreaks or health concerns."
+        "summary": "QPR vs Burnley is buzzing due to recent match anticipation."
       },
       {
         "keywords": [
-          "NBA",
-          "Game Matchup"
+          "Jeremiyah Love",
+          "Football Recruit"
         ],
-        "summary": "Trail Blazers vs Nuggets is buzzing due to a recent exciting NBA game or playoff match."
+        "summary": "Jeremiyah Love is buzzing as a top football recruit."
       },
       {
         "keywords": [
-          "Julianne Hough",
-          "New Project"
+          "Barcelona",
+          "Aston Villa"
         ],
-        "summary": "Julianne Hough is buzzing, likely for a new professional project or public appearance."
+        "summary": "Barcelona vs Aston Villa is buzzing with transfer rumors."
       },
       {
         "keywords": [
-          "NHL",
-          "Hockey Game"
+          "Hallie Shoffner",
+          "Business Leader"
         ],
-        "summary": "Flames vs Sharks is buzzing due to a recent intense NHL hockey game or rivalry."
+        "summary": "Hallie Shoffner is buzzing for her work in sustainable packaging."
       }
     ]
   },
@@ -48,88 +48,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7541.4,
-        "changePct": -0.5101536001646433
+        "price": 7561.46,
+        "changePct": 0.2659983557429708
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25164.363,
-        "changePct": -1.071804935472332
+        "price": 25324.43,
+        "changePct": 0.6360860396108541
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6176.06,
-        "changePct": 0.7298603397968786
+        "price": 6144.56,
+        "changePct": -0.5100339051110254
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10761.33,
-        "changePct": 0.2940414435337842
+        "price": 10638.43,
+        "changePct": -1.142052144112295
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3638.031,
-        "changePct": 1.0840294540458641
+        "price": 3608.098,
+        "changePct": -0.8227802346928872
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4016.918,
-        "changePct": 0.7882823263624803
+        "price": 4008.875,
+        "changePct": -0.20022813510258664
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23393.32,
-        "changePct": 0
+        "price": 23525.97,
+        "changePct": 0.5670422154700635
       }
     ]
+  },
+  "joke": {
+    "en": {
+      "joke": "My daily step count is mostly just walking to find my phone after I muted it.",
+      "explanation": "This captures a relatable modern frustration with a dry, slightly absurd observation about phone habits."
+    },
+    "zh": {
+      "joke": "健身房年卡我办了，我的运动量主要集中在：每天早上起床，在脑子里进行一场“去还是不去”的史诗级思想斗争。"
+    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Kick Smit",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/KickSmit1946cropped.jpg/330px-KickSmit1946cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Dutch footballer (1911–1974)",
-        "extract": "Johannes Chrishostomus \"Kick\" Smit was a Dutch footballer who played as a striker. He earned 29 caps and scored 26 goals for the Netherlands national team, and played in the 1934 and 1938 World Cups. He is the first Netherlands football player who scored a goal in a World Cup. During his club career, he played for HFC Haarlem.",
-        "born": 1911,
+        "name": "Sticky Fingaz",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Academy_Awards_afterparty_CUN_Kirk_Jones.jpg/330px-Academy_Awards_afterparty_CUN_Kirk_Jones.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American rapper (born 1973)",
+        "extract": "Kirk Jones, better known by his stage name Sticky Fingaz, is an American rapper, record producer and actor best known as a member of platinum selling hardcore rap group Onyx.",
+        "born": 1973,
         "highlights": [
-          "Dutch footballer who played as a striker.",
-          "Scored 26 goals for the Netherlands national team.",
-          "First Netherlands player to score a World Cup goal."
+          "American rapper and record producer.",
+          "Also known as an actor.",
+          "Member of platinum-selling rap group Onyx."
         ]
       },
       {
-        "name": "Steve Johnson (basketball)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Steve_Johnson_OSU.jpg/330px-Steve_Johnson_OSU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball player (born 1957)",
-        "extract": "Clarence Stephen Johnson is an American former professional basketball player who played in the National Basketball Association (NBA). He played the power forward and center positions.",
-        "born": 1957,
+        "name": "Jan Boerstoel",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Jan_boerstoel-1507827318.jpg/330px-Jan_boerstoel-1507827318.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Dutch writer and poet (born 1944)",
+        "extract": "Jan Boerstoel is a Dutch writer and poet who is perhaps best known for his song texts, especially for cabaret. He lives in Amsterdam. His poetry is melancholy, but often humorous as well. In his songs, Boerstoel frequently criticizes society. Many of his lyrics have been used by well-known Dutch artists such as Karin Bloemen, Martine Bijl, and Youp van 't Hek.",
+        "born": 1944,
         "highlights": [
-          "American former professional basketball player.",
-          "Played in the National Basketball Association (NBA).",
-          "Played power forward and center positions."
+          "Dutch writer and poet.",
+          "Known for song texts, especially for cabaret.",
+          "Lyrics used by well-known Dutch artists."
         ]
       },
       {
-        "name": "Alfred Perot",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Alfred_Perot_2.jpg/330px-Alfred_Perot_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French physicist (1863–1925)",
-        "extract": "Jean-Baptiste Alfred Perot was a French physicist.",
-        "born": 1863,
+        "name": "Christian Picciolini",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Christian_Picciolini_%28cropped%29.jpg/330px-Christian_Picciolini_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American former extremist (born 1973)",
+        "extract": "Christian Marco Picciolini is an American former extremist and political activist who founded the Free Radicals Project, a nonprofit organization that works to prevent extremism and support individuals in leaving hate groups. He was also an unsuccessful candidate for Township Supervisor in Resort Township, Michigan, during the 2024 election. He is the author of a memoir, Romantic Violence: Memoirs of an American Skinhead, which details his time as a leader of the white power movement in the U.S. An updated version of the story was published in 2017, titled White American Youth: My Descent into America's Most Violent Hate Movement--and How I Got Out. His book Breaking Hate: Confronting the New Culture of Extremism (2020) looks at how extremists recruit the vulnerable to their causes.",
+        "born": 1973,
         "highlights": [
-          "French physicist."
+          "Founded the Free Radicals Project.",
+          "Author of \"Romantic Violence\" memoir.",
+          "Authored \"Breaking Hate\" (2020)."
         ]
       }
     ]
