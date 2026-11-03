@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T22:09:33.610Z",
+  "generatedAt": "2026-11-03T01:26:40.021Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.5,
+    "tempC": 12.8,
     "condition": "Overcast",
     "code": 3,
     "highC": 19.7,
@@ -14,31 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Accident",
-          "Trending"
+          "Anthrax",
+          "Health Concern"
         ],
-        "summary": "Accidente is buzzing due to recent incidents or related online discussions."
+        "summary": "Anthrax is buzzing due to recent reports of outbreaks or health concerns."
       },
       {
         "keywords": [
-          "Border Report",
-          "Immigration"
+          "NBA",
+          "Game Matchup"
         ],
-        "summary": "Border report is buzzing amid new data releases and ongoing policy debates."
+        "summary": "Trail Blazers vs Nuggets is buzzing due to a recent exciting NBA game or playoff match."
       },
       {
         "keywords": [
-          "MTA",
-          "Transit"
+          "Julianne Hough",
+          "New Project"
         ],
-        "summary": "MTA is buzzing due to recent service updates, fare discussions, or new initiatives."
+        "summary": "Julianne Hough is buzzing, likely for a new professional project or public appearance."
       },
       {
         "keywords": [
-          "Mario Morales",
-          "ICE Agent"
+          "NHL",
+          "Hockey Game"
         ],
-        "summary": "Mario Morales, an ICE agent, is buzzing due to a specific incident or public attention."
+        "summary": "Flames vs Sharks is buzzing due to a recent intense NHL hockey game or rivalry."
       }
     ]
   },
@@ -55,8 +55,8 @@
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25164.316,
-        "changePct": -1.0719897057034824
+        "price": 25164.363,
+        "changePct": -1.071804935472332
       },
       {
         "region": "Europe",
@@ -91,56 +91,45 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23393.32,
-        "changePct": 0.42456519630023615
+        "changePct": 0
       }
     ]
-  },
-  "joke": {
-    "en": {
-      "joke": "My therapist told me to set boundaries. So now I only check work emails from my bed on weekends.",
-      "explanation": "Funny because it's a deadpan, self-aware take on failed work-life boundaries in remote work, humorously framing a bad habit as setting boundaries."
-    },
-    "zh": {
-      "joke": "我早就实现‘外卖自由’了：每天晚上想吃什么就点什么，从不看价格。直到第二天，我的身体会提醒我，该戒碳水了。"
-    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Esha Deol",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Esha_Deol_snapped_at_her_mother_Hema_Malini%E2%80%99s_75th_birthday_celebration_%28cropped%29.jpg/330px-Esha_Deol_snapped_at_her_mother_Hema_Malini%E2%80%99s_75th_birthday_celebration_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Indian actress (born 1981)",
-        "extract": "Esha Deol is an Indian actress who works in Hindi films. The daughter of actors Dharmendra and Hema Malini, Deol made her acting debut in the romantic thriller Koi Mere Dil Se Poochhe (2002), which won her the Filmfare Award for Best Female Debut.",
-        "born": 1981,
+        "name": "Kick Smit",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/KickSmit1946cropped.jpg/330px-KickSmit1946cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Dutch footballer (1911–1974)",
+        "extract": "Johannes Chrishostomus \"Kick\" Smit was a Dutch footballer who played as a striker. He earned 29 caps and scored 26 goals for the Netherlands national team, and played in the 1934 and 1938 World Cups. He is the first Netherlands football player who scored a goal in a World Cup. During his club career, he played for HFC Haarlem.",
+        "born": 1911,
         "highlights": [
-          "Indian actress in Hindi films.",
-          "Daughter of actors Dharmendra and Hema Malini.",
-          "Won Filmfare Award for Best Female Debut for Koi Mere Dil Se Poochhe."
+          "Dutch footballer who played as a striker.",
+          "Scored 26 goals for the Netherlands national team.",
+          "First Netherlands player to score a World Cup goal."
         ]
       },
       {
-        "name": "Marie Antoinette",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg/330px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Consort of Louis XVI from 1774 to 1792",
-        "extract": "Marie Antoinette was the last queen consort of France before the abolition of the monarchy during the French Revolution. She served from 1774 to 1792, as the wife of King Louis XVI. Her life story and execution by beheading in 1793 made her a tragic figure in popular culture.",
-        "born": 1755,
+        "name": "Steve Johnson (basketball)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Steve_Johnson_OSU.jpg/330px-Steve_Johnson_OSU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player (born 1957)",
+        "extract": "Clarence Stephen Johnson is an American former professional basketball player who played in the National Basketball Association (NBA). He played the power forward and center positions.",
+        "born": 1957,
         "highlights": [
-          "Last queen consort of France.",
-          "Wife of King Louis XVI.",
-          "Executed by beheading in 1793."
+          "American former professional basketball player.",
+          "Played in the National Basketball Association (NBA).",
+          "Played power forward and center positions."
         ]
       },
       {
-        "name": "Danny Cipriani",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cipriani_england.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "England rugby union player (born 1987)",
-        "extract": "Danny Cipriani (Italian pronunciation: [tʃiˈprjaːni] is an English former professional rugby union player. He most recently played for Premiership Rugby side Bath and previously played for Gloucester, Sale Sharks and Wasps in the Premiership and Melbourne Rebels in Super Rugby. He plays fly-half and fullback. He has also played for England. Since starting in the Wasps academy in 2003, Cipriani has been capped for England 16 times.",
-        "born": 1987,
+        "name": "Alfred Perot",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Alfred_Perot_2.jpg/330px-Alfred_Perot_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French physicist (1863–1925)",
+        "extract": "Jean-Baptiste Alfred Perot was a French physicist.",
+        "born": 1863,
         "highlights": [
-          "English former professional rugby union player.",
-          "Played for Bath, Gloucester, Sale Sharks, Wasps, Melbourne Rebels.",
-          "Capped for England 16 times."
+          "French physicist."
         ]
       }
     ]
