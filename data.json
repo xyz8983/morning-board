@@ -1,13 +1,47 @@
 {
-  "generatedAt": "2026-11-03T23:51:07.783Z",
+  "generatedAt": "2026-11-04T20:16:47.346Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.5,
+    "tempC": 21.3,
     "condition": "Overcast",
     "code": 3,
-    "highC": 21,
-    "lowC": 9.4,
+    "highC": 22,
+    "lowC": 11.7,
     "rainChance": 1
+  },
+  "hotTopics": {
+    "headline": "Today's buzz",
+    "topics": [
+      {
+        "keywords": [
+          "Champions League",
+          "Schedule"
+        ],
+        "summary": "The Champions League schedule is buzzing as fans plan to catch upcoming matches."
+      },
+      {
+        "keywords": [
+          "Dortmund",
+          "Football Club"
+        ],
+        "summary": "Dortmund is buzzing as fans follow their performance in recent football competitions."
+      },
+      {
+        "keywords": [
+          "PSV",
+          "Club Brugge",
+          "Matchup"
+        ],
+        "summary": "The PSV vs Club Brugge matchup is buzzing as fans anticipate a key game."
+      },
+      {
+        "keywords": [
+          "Champions League",
+          "Standings"
+        ],
+        "summary": "Champions League standings are buzzing as teams vie for top positions."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -15,76 +49,100 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7568.92,
-        "changePct": 0.3649189805606444
+        "price": 7699.72,
+        "changePct": 1.7281197317450863
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25372.01,
-        "changePct": 0.825162949684032
+        "price": 25806.953,
+        "changePct": 1.7142630796693008
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6144.56,
-        "changePct": -0.5100339051110254
+        "price": 6265.71,
+        "changePct": 1.9716627390732555
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10638.43,
-        "changePct": -1.142052144112295
+        "price": 10829.21,
+        "changePct": 1.7933097270931786
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3608.098,
-        "changePct": -0.8227802346928872
+        "price": 3686.173,
+        "changePct": 1.3233260858211606
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4008.875,
-        "changePct": -0.20022813510258664
+        "price": 4101.335,
+        "changePct": 2.306387817349646
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23525.97,
-        "changePct": 0.5670422154700635
+        "price": 23919.5,
+        "changePct": 2.249361996811056
       }
     ]
+  },
+  "joke": {
+    "en": {
+      "joke": "My phone battery percentage is the only countdown that truly stresses me out.",
+      "explanation": "It's a relatable, deadpan exaggeration, humorously equating a trivial tech alert with significant stress, highlighting our daily dependence on devices."
+    },
+    "zh": {
+      "joke": "我的人生哲学就是：能用外卖解决的，就绝不用下楼；能用打车解决的，就绝不用走路；能用加班解决的，就绝不用升职。"
+    }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Hitomi Yamaguchi",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Yamaguchi_Hitomi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Japanese writer (1923–1995)",
-        "extract": "Hitomi Yamaguchi  was a novelist and essayist in Shōwa period Japan.",
-        "born": 1923
+        "name": "Benjamin Robbins Curtis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Benjamin_Robbins_Curtis_-_photo.png/330px-Benjamin_Robbins_Curtis_-_photo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "US Supreme Court justice from 1851 to 1857",
+        "extract": "Benjamin Robbins Curtis was an American lawyer and judge who served as an associate justice of the United States Supreme Court from 1851 to 1857. Curtis was the only Whig justice of the Supreme Court, and he was the first Supreme Court justice to have a formal law degree. He is often remembered as one of the two dissenters in the Supreme Court's infamous 1857 decision Dred Scott v. Sandford.",
+        "born": 1809,
+        "highlights": [
+          "US Supreme Court associate justice (1851-1857).",
+          "Only Whig justice on the Supreme Court.",
+          "Dissented in the 1857 Dred Scott v. Sandford decision."
+        ]
       },
       {
-        "name": "Annette Gozon-Valdes",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Atty._Annette_Gozon-Valdes_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Filipino lawyer, film producer and actress",
-        "extract": "Anna Teresa \"Annette\" M. Gozon-Valdes is a Filipino business executive, lawyer, professor, film producer, scriptwriter and actress. She is the Senior Vice President of GMA Network, one of the largest media networks in the Philippines.",
-        "born": 1972
+        "name": "Spyridon Marinatos",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Spyridon_Marinatos_Akrotiri_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Greek archaeologist (1901–1974)",
+        "extract": "Spyridon Marinatos was a Greek archaeologist who specialised in the Minoan and Mycenaean civilizations of the Aegean Bronze Age. He is best known for the excavation of the Minoan site of Akrotiri on Thera, which he conducted between 1967 and 1974. He received many honours in Greece and abroad, and was considered one of the most important Greek archaeologists of his day.",
+        "born": 1901,
+        "highlights": [
+          "Greek archaeologist of Minoan and Mycenaean civilizations.",
+          "Excavated the Minoan site of Akrotiri on Thera.",
+          "Considered one of the most important Greek archaeologists."
+        ]
       },
       {
-        "name": "Davis Guggenheim",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/DavisGuggenheimJI1_%28cropped%29.jpg/330px-DavisGuggenheimJI1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American film and television director and producer",
-        "extract": "Philip Davis Guggenheim is an American screenwriter, director, and producer.",
-        "born": 1963
+        "name": "Alexz Johnson",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alexz_Johnson_2015_%28Crop%29.jpg/330px-Alexz_Johnson_2015_%28Crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian actress and musician (born 1986)",
+        "extract": "Alexzandra Spencer Johnson is a Canadian actress, singer, songwriter, and musician. Known for her distinctive sound since her debut in 2010, her first album, Voodoo, was independently released with her brother, Brendan Johnson. Over the years, she has released several albums and EPs, including: The Basement Recordings series (2011–2013), Skipping Stone (2012) and her sophomore album Let 'Em Eat Cake (2014). She continued to evolve with subsequent albums A Stranger Time (2017), Still Alive (2020) and Seasons (2023).",
+        "born": 1986,
+        "highlights": [
+          "Canadian actress, singer, songwriter, and musician.",
+          "Released debut album \"Voodoo\" in 2010.",
+          "Known for albums like \"Let 'Em Eat Cake\" and \"Seasons."
+        ]
       }
     ]
   }
