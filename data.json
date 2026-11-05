@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-11-05T00:06:48.938Z",
+  "generatedAt": "2026-11-05T20:28:40.005Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.5,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 22,
-    "lowC": 11.7,
-    "rainChance": 1
+    "tempC": 21.6,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 23.1,
+    "lowC": 16.3,
+    "rainChance": 40
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "NBA",
-          "Game"
+          "Leverkusen",
+          "Unbeaten Run"
         ],
-        "summary": "Hornets vs Nets is buzzing as fans discuss their recent NBA matchup."
+        "summary": "Leverkusen is buzzing due to their historic unbeaten run and potential Bundesliga title win."
       },
       {
         "keywords": [
-          "Military Base",
-          "Okinawa"
+          "UEL",
+          "Football"
         ],
-        "summary": "Camp Schwab is buzzing due to discussions around the US military base in Okinawa."
+        "summary": "UEL is buzzing as teams battle in crucial knockout stages towards the final."
       },
       {
         "keywords": [
-          "Football",
-          "Derby"
+          "Celta",
+          "Union"
         ],
-        "summary": "São Paulo vs Corinthians is buzzing due to a highly anticipated football derby."
+        "summary": "Celta vs Union is buzzing following their recent La Liga clash and its league implications."
       },
       {
         "keywords": [
-          "Stardew Valley",
-          "Game Update"
+          "IRS",
+          "Tax Deduction"
         ],
-        "summary": "Stardew Valley 1.7 is buzzing as players anticipate the new game update."
+        "summary": "2027 IRS standard deduction amounts are buzzing as taxpayers plan for future tax changes."
       }
     ]
   },
@@ -48,85 +48,98 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7688.62,
-        "changePct": 1.5814673691887327
+        "price": 7379.87,
+        "changePct": -4.015675114649963
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25736.514,
-        "changePct": 1.4366382482113198
+        "price": 24444.078,
+        "changePct": -5.021798989560117
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6265.71,
-        "changePct": 1.9716627390732555
+        "price": 6231.54,
+        "changePct": -0.5453492102251791
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10829.21,
-        "changePct": 1.7933097270931786
+        "price": 10782.66,
+        "changePct": -0.4298559174676571
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3686.173,
-        "changePct": 1.3233260858211606
+        "price": 3689.911,
+        "changePct": 2.267426069122257
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4101.335,
-        "changePct": 2.306387817349646
+        "price": 4113.411,
+        "changePct": 0.29444071259724025
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23919.5,
-        "changePct": 2.249361996811056
+        "price": 24796.98,
+        "changePct": 5.402448355011475
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My proudest accomplishment this week was opening the fridge for a snack instead of a delivery app.",
-      "explanation": "It's funny because it sets an extremely low bar for achievement, humorously acknowledging the common reliance on delivery apps."
+      "joke": "I got a notification today that 'X people are looking for love near you.' My current mood is 'X people can keep looking.'",
+      "explanation": "It's a deadpan, slightly cynical take on dating app notifications, reflecting a common feeling of modern dating fatigue."
     },
     "zh": {
-      "joke": "我的周末计划很充实：上午进行人类基本功能测试（睡到自然醒），下午开展多媒体内容消费研讨（刷手机），晚上参与碳水化合物摄入与快乐因子关联性研究（点外卖）。"
+      "joke": "加班回家路上，看到路边有只流浪猫，我想，它应该也挺羡慕我这种有班可加的。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Etta Moten Barnett",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Etta_Moten_Barnett_%2813270182663%29.jpg/330px-Etta_Moten_Barnett_%2813270182663%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer, actress, activist (1901–2004)",
-        "extract": "Etta Moten Barnett was an American actress and contralto vocalist, who was identified with her signature role of \"Bess\" in Porgy and Bess. She created new roles for African-American women on stage and screen. After her performing career, Barnett was active in Chicago as a major philanthropist and civic activist, raising funds for and supporting cultural, social, and church institutions. She also hosted a radio program in Chicago and represented the United States in several official delegations to nations in Africa.",
-        "born": 1901
+        "name": "Quint Davis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/QuintDavisJazzfest08HowieLuvzus1_%28cropped%29.jpg/330px-QuintDavisJazzfest08HowieLuvzus1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American festival producer and director",
+        "extract": "Quint Davis is an American festival producer and director based in New Orleans. He is best known as the producer of the New Orleans Jazz & Heritage Festival founded by George Wein. Davis has been involved in the production of the event since its start in 1970. He is the CEO of Festival Productions, Inc. - New Orleans, the company that produces the Jazz Fest.",
+        "born": 1947,
+        "highlights": [
+          "American festival producer and director based in New Orleans.",
+          "Producer of the New Orleans Jazz & Heritage Festival.",
+          "Involved in Jazz Fest production since its start in 1970."
+        ]
       },
       {
-        "name": "Peter Pace",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Peter_Pace_official_portrait.jpg/330px-Peter_Pace_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "16th Chairman of the Joint Chiefs of Staff",
-        "extract": "Peter Pace is a retired United States Marine Corps general who served as the 16th chairman of the Joint Chiefs of Staff. Pace was the first Marine officer appointed as chairman and the first Marine officer to be appointed to three different four-star assignments; the others were as the sixth vice chairman of the Joint Chiefs of Staff from October 1, 2001, to August 12, 2005, and as Commander-in-Chief, U.S. Southern Command from September 8, 2000, to September 30, 2001. Appointed chairman by President George W. Bush, Pace succeeded U.S. Air Force General Richard Myers on September 30, 2005.",
-        "born": 1945
+        "name": "Takehiro Tomiyasu",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Takehiro_Tomiyasu%2C_2019_AFC_Asian_Cup_1.jpg/330px-Takehiro_Tomiyasu%2C_2019_AFC_Asian_Cup_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Japanese footballer (born 1998)",
+        "extract": "Takehiro Tomiyasu  is a Japanese professional footballer who plays as a centre-back or full-back for Premier League club Crystal Palace and the Japan national team.",
+        "born": 1998,
+        "highlights": [
+          "Japanese professional footballer.",
+          "Plays for Premier League club Crystal Palace.",
+          "Plays for the Japan national team."
+        ]
       },
       {
-        "name": "Hans Mommsen",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Hans_Mommsen_IEIS_Conference_Arno_J_Mayer_--_cropped.jpg/330px-Hans_Mommsen_IEIS_Conference_Arno_J_Mayer_--_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German historian (1930–2015)",
-        "extract": "Hans Mommsen was a German historian, known for his studies in German social history, for his functionalist interpretation of the Third Reich, and especially for arguing that Adolf Hitler was a weak dictator. Descended from Nobel Prize-winning historian Theodor Mommsen, he was a member of the Social Democratic Party of Germany.",
-        "born": 1930
+        "name": "René Froger",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ren%C3%A9_Froger_2009.jpg/330px-Ren%C3%A9_Froger_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Dutch singer",
+        "extract": "René Froger, is a Dutch singer.",
+        "born": 1960,
+        "highlights": [
+          "Dutch singer."
+        ]
       }
     ]
   }
