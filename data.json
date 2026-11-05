@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04T20:16:47.346Z",
+  "generatedAt": "2026-11-05T00:06:48.938Z",
   "weather": {
     "location": "New York City",
-    "tempC": 21.3,
+    "tempC": 17.5,
     "condition": "Overcast",
     "code": 3,
     "highC": 22,
@@ -14,32 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Champions League",
-          "Schedule"
+          "NBA",
+          "Game"
         ],
-        "summary": "The Champions League schedule is buzzing as fans plan to catch upcoming matches."
+        "summary": "Hornets vs Nets is buzzing as fans discuss their recent NBA matchup."
       },
       {
         "keywords": [
-          "Dortmund",
-          "Football Club"
+          "Military Base",
+          "Okinawa"
         ],
-        "summary": "Dortmund is buzzing as fans follow their performance in recent football competitions."
+        "summary": "Camp Schwab is buzzing due to discussions around the US military base in Okinawa."
       },
       {
         "keywords": [
-          "PSV",
-          "Club Brugge",
-          "Matchup"
+          "Football",
+          "Derby"
         ],
-        "summary": "The PSV vs Club Brugge matchup is buzzing as fans anticipate a key game."
+        "summary": "São Paulo vs Corinthians is buzzing due to a highly anticipated football derby."
       },
       {
         "keywords": [
-          "Champions League",
-          "Standings"
+          "Stardew Valley",
+          "Game Update"
         ],
-        "summary": "Champions League standings are buzzing as teams vie for top positions."
+        "summary": "Stardew Valley 1.7 is buzzing as players anticipate the new game update."
       }
     ]
   },
@@ -49,15 +48,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7699.72,
-        "changePct": 1.7281197317450863
+        "price": 7688.62,
+        "changePct": 1.5814673691887327
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25806.953,
-        "changePct": 1.7142630796693008
+        "price": 25736.514,
+        "changePct": 1.4366382482113198
       },
       {
         "region": "Europe",
@@ -98,51 +97,36 @@
   },
   "joke": {
     "en": {
-      "joke": "My phone battery percentage is the only countdown that truly stresses me out.",
-      "explanation": "It's a relatable, deadpan exaggeration, humorously equating a trivial tech alert with significant stress, highlighting our daily dependence on devices."
+      "joke": "My proudest accomplishment this week was opening the fridge for a snack instead of a delivery app.",
+      "explanation": "It's funny because it sets an extremely low bar for achievement, humorously acknowledging the common reliance on delivery apps."
     },
     "zh": {
-      "joke": "我的人生哲学就是：能用外卖解决的，就绝不用下楼；能用打车解决的，就绝不用走路；能用加班解决的，就绝不用升职。"
+      "joke": "我的周末计划很充实：上午进行人类基本功能测试（睡到自然醒），下午开展多媒体内容消费研讨（刷手机），晚上参与碳水化合物摄入与快乐因子关联性研究（点外卖）。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Benjamin Robbins Curtis",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Benjamin_Robbins_Curtis_-_photo.png/330px-Benjamin_Robbins_Curtis_-_photo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "US Supreme Court justice from 1851 to 1857",
-        "extract": "Benjamin Robbins Curtis was an American lawyer and judge who served as an associate justice of the United States Supreme Court from 1851 to 1857. Curtis was the only Whig justice of the Supreme Court, and he was the first Supreme Court justice to have a formal law degree. He is often remembered as one of the two dissenters in the Supreme Court's infamous 1857 decision Dred Scott v. Sandford.",
-        "born": 1809,
-        "highlights": [
-          "US Supreme Court associate justice (1851-1857).",
-          "Only Whig justice on the Supreme Court.",
-          "Dissented in the 1857 Dred Scott v. Sandford decision."
-        ]
+        "name": "Etta Moten Barnett",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Etta_Moten_Barnett_%2813270182663%29.jpg/330px-Etta_Moten_Barnett_%2813270182663%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer, actress, activist (1901–2004)",
+        "extract": "Etta Moten Barnett was an American actress and contralto vocalist, who was identified with her signature role of \"Bess\" in Porgy and Bess. She created new roles for African-American women on stage and screen. After her performing career, Barnett was active in Chicago as a major philanthropist and civic activist, raising funds for and supporting cultural, social, and church institutions. She also hosted a radio program in Chicago and represented the United States in several official delegations to nations in Africa.",
+        "born": 1901
       },
       {
-        "name": "Spyridon Marinatos",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Spyridon_Marinatos_Akrotiri_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Greek archaeologist (1901–1974)",
-        "extract": "Spyridon Marinatos was a Greek archaeologist who specialised in the Minoan and Mycenaean civilizations of the Aegean Bronze Age. He is best known for the excavation of the Minoan site of Akrotiri on Thera, which he conducted between 1967 and 1974. He received many honours in Greece and abroad, and was considered one of the most important Greek archaeologists of his day.",
-        "born": 1901,
-        "highlights": [
-          "Greek archaeologist of Minoan and Mycenaean civilizations.",
-          "Excavated the Minoan site of Akrotiri on Thera.",
-          "Considered one of the most important Greek archaeologists."
-        ]
+        "name": "Peter Pace",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Peter_Pace_official_portrait.jpg/330px-Peter_Pace_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "16th Chairman of the Joint Chiefs of Staff",
+        "extract": "Peter Pace is a retired United States Marine Corps general who served as the 16th chairman of the Joint Chiefs of Staff. Pace was the first Marine officer appointed as chairman and the first Marine officer to be appointed to three different four-star assignments; the others were as the sixth vice chairman of the Joint Chiefs of Staff from October 1, 2001, to August 12, 2005, and as Commander-in-Chief, U.S. Southern Command from September 8, 2000, to September 30, 2001. Appointed chairman by President George W. Bush, Pace succeeded U.S. Air Force General Richard Myers on September 30, 2005.",
+        "born": 1945
       },
       {
-        "name": "Alexz Johnson",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alexz_Johnson_2015_%28Crop%29.jpg/330px-Alexz_Johnson_2015_%28Crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian actress and musician (born 1986)",
-        "extract": "Alexzandra Spencer Johnson is a Canadian actress, singer, songwriter, and musician. Known for her distinctive sound since her debut in 2010, her first album, Voodoo, was independently released with her brother, Brendan Johnson. Over the years, she has released several albums and EPs, including: The Basement Recordings series (2011–2013), Skipping Stone (2012) and her sophomore album Let 'Em Eat Cake (2014). She continued to evolve with subsequent albums A Stranger Time (2017), Still Alive (2020) and Seasons (2023).",
-        "born": 1986,
-        "highlights": [
-          "Canadian actress, singer, songwriter, and musician.",
-          "Released debut album \"Voodoo\" in 2010.",
-          "Known for albums like \"Let 'Em Eat Cake\" and \"Seasons."
-        ]
+        "name": "Hans Mommsen",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Hans_Mommsen_IEIS_Conference_Arno_J_Mayer_--_cropped.jpg/330px-Hans_Mommsen_IEIS_Conference_Arno_J_Mayer_--_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German historian (1930–2015)",
+        "extract": "Hans Mommsen was a German historian, known for his studies in German social history, for his functionalist interpretation of the Third Reich, and especially for arguing that Adolf Hitler was a weak dictator. Descended from Nobel Prize-winning historian Theodor Mommsen, he was a member of the Social Democratic Party of Germany.",
+        "born": 1930
       }
     ]
   }
