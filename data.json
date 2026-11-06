@@ -1,43 +1,45 @@
 {
-  "generatedAt": "2026-11-05T23:56:04.990Z",
+  "generatedAt": "2026-11-06T19:51:27.653Z",
   "weather": {
     "location": "New York City",
-    "tempC": 20.3,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 22.8,
-    "lowC": 16.3,
-    "rainChance": 28
+    "tempC": 18.7,
+    "condition": "Heavy rain",
+    "code": 65,
+    "highC": 20.6,
+    "lowC": 14.9,
+    "rainChance": 97
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "UTSA",
-          "FL Atlantic"
+          "Tornado",
+          "Warning"
         ],
-        "summary": "UTSA vs FL Atlantic is buzzing as fans discuss their recent or upcoming game."
+        "summary": "Tornado warnings are buzzing due to severe weather alerts across multiple regions."
       },
       {
         "keywords": [
-          "SC State",
-          "Howard"
+          "Stephen Miller",
+          "Wife"
         ],
-        "summary": "SC State vs Howard is buzzing as fans discuss their recent or upcoming game."
+        "summary": "Stephen Miller's wife is buzzing due to recent public appearances or news mentions."
       },
       {
         "keywords": [
-          "MSU",
-          "Basketball"
+          "PBS Kids",
+          "Children's Content"
         ],
-        "summary": "MSU basketball is buzzing due to recent team performance or upcoming schedule."
+        "summary": "PBS Kids is buzzing as families discuss its educational programming and new content."
       },
       {
         "keywords": [
-          "Justice Hill"
+          "Venezia",
+          "Udinese",
+          "Football Match"
         ],
-        "summary": "Justice Hill is buzzing as fans discuss his recent performance or news."
+        "summary": "The Venezia vs. Udinese football match is buzzing due to recent game results or upcoming fixtures."
       }
     ]
   },
@@ -47,99 +49,99 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7353.73,
-        "changePct": -4.35565810249434
+        "price": 7399.45,
+        "changePct": 0.621725301309679
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24314.998,
-        "changePct": -5.523343215790606
+        "price": 24647.953,
+        "changePct": 1.3693400262669229
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6231.54,
-        "changePct": -0.5453492102251791
+        "price": 6170.49,
+        "changePct": -0.9796936230851473
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10782.66,
-        "changePct": -0.4298559174676571
+        "price": 10673.94,
+        "changePct": -1.00828552509306
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3689.911,
-        "changePct": 2.267426069122257
+        "price": 3649.177,
+        "changePct": -1.0035619626875576
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4113.411,
-        "changePct": 0.29444071259724025
+        "price": 4054.277,
+        "changePct": -1.437590359922702
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24796.98,
-        "changePct": 5.402448355011475
+        "price": 24481.86,
+        "changePct": 2.351052488555365
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My screen time report basically just says 'You did nothing productive, but you were really good at scrolling.'",
-      "explanation": "It's a relatable, ironic take on digital well-being reports, highlighting the common experience of unproductive screen time."
+      "joke": "My camera-on self for meetings is a masterpiece. My camera-off self is a cryptid.",
+      "explanation": "It's a deadpan, relatable observation about the stark contrast between curated online presence and real-life comfort during remote work."
     },
     "zh": {
-      "joke": "在朋友圈发自拍，就像在投资市场发财报，表面风光无限，实际全靠滤镜和运营。"
+      "joke": "我办了健身卡，就相当于已经运动过了。毕竟，精神上的参与也是参与嘛。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Alexei Yashin",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Alexei_Yashin_2010-12-12_%284%29.jpg/330px-Alexei_Yashin_2010-12-12_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Russian ice hockey player (born 1973)",
-        "extract": "Alexei Valeryevich Yashin is a Russian former professional ice hockey centre who played 12 seasons in the National Hockey League (NHL) for the Ottawa Senators and New York Islanders, serving as captain of both teams. He also played nine seasons in the Russian Superleague (RSL) and Kontinental Hockey League (KHL) for Dynamo Moscow, CSKA Moscow, Lokomotiv Yaroslavl, and SKA Saint Petersburg. He was inducted into the IIHF Hall of Fame in 2020. He was named the most valuable player of the RSL in 2008 and has won two gold medals, one silver, and two bronze medals in international play.",
-        "born": 1973,
+        "name": "Isaah Yeo",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Isaah_Yeo_pre-game_2021_RLWC_Final.jpg/330px-Isaah_Yeo_pre-game_2021_RLWC_Final.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australia international rugby league footballer",
+        "extract": "Isaah Patrick Ferguson-Yeo is an Australian professional rugby league footballer who co-captains and plays as a lock forward for the Penrith Panthers in the NRL and captains New South Wales in State of Origin and Australia at international level.",
+        "born": 1994,
         "highlights": [
-          "Played 12 seasons in the NHL.",
-          "Served as captain for Ottawa Senators and New York Islanders.",
-          "Inducted into the IIHF Hall of Fame in 2020."
+          "Co-captains Penrith Panthers in the NRL.",
+          "Captains New South Wales in State of Origin.",
+          "Captains Australia at international level."
         ]
       },
       {
-        "name": "Myron Floren",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Myron_Floren_1969_%28cropped%29.JPG/330px-Myron_Floren_1969_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American accordionist (1919–2005)",
-        "extract": "Myron Floren was an American musician best known as the accordionist on The Lawrence Welk Show between 1950 and 1982. Floren came to prominence primarily from his regular appearances on the weekly television series in which Lawrence Welk dubbed him as \"the happy Norwegian,\" which was also attributed to Peter Friello.",
-        "born": 1919,
+        "name": "François Englert",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Francois_Englert_%283x4_cropped%29.jpg/330px-Francois_Englert_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Belgian theoretical physicist (1932–2026)",
+        "extract": "François, Baron Englert was a Belgian theoretical physicist and 2013 Nobel Prize laureate.",
+        "born": 1932,
         "highlights": [
-          "Accordionist on The Lawrence Welk Show.",
-          "Appeared on the show from 1950 to 1982.",
-          "Dubbed \"the happy Norwegian\" by Lawrence Welk."
+          "Belgian theoretical physicist.",
+          "Awarded the Nobel Prize in 2013.",
+          "Held the title of Baron."
         ]
       },
       {
-        "name": "Walter Gieseking",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Walter-Gieseking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "German pianist (1895–1956)",
-        "extract": "Walter Wilhelm Gieseking was a French-born German pianist and composer. Gieseking was renowned for his subtle touch, pedaling, and dynamic control—particularly in the music of Debussy and Ravel; he made complete recordings of all their published works which were extant during his life. He also recorded most of Mozart's solo piano works.",
-        "born": 1895,
+        "name": "Sun Yue (basketball)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sun_Yue_with_the_Beijing_Aoshen_Olympians.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Chinese basketball player (born 1985)",
+        "extract": "Sun Yue is a Chinese former professional basketball player. He won an NBA championship with the Los Angeles Lakers in 2009, making him one of two players born in China to win an NBA championship, the other being Mongolian-Chinese center Mengke Bateer, who won the 2003 NBA Finals with the San Antonio Spurs.",
+        "born": 1985,
         "highlights": [
-          "French-born German pianist and composer.",
-          "Renowned for subtle touch and dynamic control.",
-          "Recorded complete works of Debussy and Ravel."
+          "Chinese former professional basketball player.",
+          "Won 2009 NBA championship with Los Angeles Lakers.",
+          "One of two China-born NBA champions."
         ]
       }
     ]
