@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T19:51:27.653Z",
+  "generatedAt": "2026-11-06T23:38:10.831Z",
   "weather": {
     "location": "New York City",
-    "tempC": 18.7,
+    "tempC": 16.4,
     "condition": "Heavy rain",
     "code": 65,
     "highC": 20.6,
-    "lowC": 14.9,
+    "lowC": 15.1,
     "rainChance": 97
   },
   "hotTopics": {
@@ -14,32 +14,29 @@
     "topics": [
       {
         "keywords": [
-          "Tornado",
-          "Warning"
+          "Oregon Basketball"
         ],
-        "summary": "Tornado warnings are buzzing due to severe weather alerts across multiple regions."
+        "summary": "Oregon basketball is buzzing due to recent team performance and upcoming games."
       },
       {
         "keywords": [
-          "Stephen Miller",
-          "Wife"
+          "The Bachelor",
+          "Future Season"
         ],
-        "summary": "Stephen Miller's wife is buzzing due to recent public appearances or news mentions."
+        "summary": "The Bachelor's 2027 return date is buzzing as fans discuss the show's long-term plans."
       },
       {
         "keywords": [
-          "PBS Kids",
-          "Children's Content"
+          "Sarah Matthews",
+          "Public Figure"
         ],
-        "summary": "PBS Kids is buzzing as families discuss its educational programming and new content."
+        "summary": "Sarah Matthews is buzzing due to recent public commentary or significant developments."
       },
       {
         "keywords": [
-          "Venezia",
-          "Udinese",
-          "Football Match"
+          "South Florida Football"
         ],
-        "summary": "The Venezia vs. Udinese football match is buzzing due to recent game results or upcoming fixtures."
+        "summary": "South Florida football is buzzing due to recent team performance and upcoming season anticipation."
       }
     ]
   },
@@ -49,15 +46,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7399.45,
-        "changePct": 0.621725301309679
+        "price": 7376.86,
+        "changePct": 0.31453425676493574
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24647.953,
-        "changePct": 1.3693400262669229
+        "price": 24579.424,
+        "changePct": 1.0875016317089539
       },
       {
         "region": "Europe",
@@ -98,50 +95,50 @@
   },
   "joke": {
     "en": {
-      "joke": "My camera-on self for meetings is a masterpiece. My camera-off self is a cryptid.",
-      "explanation": "It's a deadpan, relatable observation about the stark contrast between curated online presence and real-life comfort during remote work."
+      "joke": "My therapist said to live in the moment. My phone's battery percentage disagrees.",
+      "explanation": "It's a dry, relatable observation about how phone anxiety often conflicts with the modern wellness mantra of living in the present."
     },
     "zh": {
-      "joke": "我办了健身卡，就相当于已经运动过了。毕竟，精神上的参与也是参与嘛。"
+      "joke": "每次提交完工作，都感觉不是我完成了它，而是它放过了我。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Isaah Yeo",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Isaah_Yeo_pre-game_2021_RLWC_Final.jpg/330px-Isaah_Yeo_pre-game_2021_RLWC_Final.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australia international rugby league footballer",
-        "extract": "Isaah Patrick Ferguson-Yeo is an Australian professional rugby league footballer who co-captains and plays as a lock forward for the Penrith Panthers in the NRL and captains New South Wales in State of Origin and Australia at international level.",
-        "born": 1994,
+        "name": "Jozy Altidore",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jozy_Altidore_USMNT_v_Portugal_Mar_31_2026-17.jpg/330px-Jozy_Altidore_USMNT_v_Portugal_Mar_31_2026-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American soccer player (born 1989)",
+        "extract": "Josmer Volmy \"Jozy\" Altidore is an American former professional soccer player who played as a striker.",
+        "born": 1989,
         "highlights": [
-          "Co-captains Penrith Panthers in the NRL.",
-          "Captains New South Wales in State of Origin.",
-          "Captains Australia at international level."
+          "American former professional soccer player.",
+          "Primarily played as a striker.",
+          "Known as Josmer Volmy \"Jozy\" Altidore."
         ]
       },
       {
-        "name": "François Englert",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Francois_Englert_%283x4_cropped%29.jpg/330px-Francois_Englert_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Belgian theoretical physicist (1932–2026)",
-        "extract": "François, Baron Englert was a Belgian theoretical physicist and 2013 Nobel Prize laureate.",
-        "born": 1932,
+        "name": "André Schürrle",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Sch%C3%BCrrle_2019.jpg/330px-Sch%C3%BCrrle_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German footballer (born 1990)",
+        "extract": "André Horst Schürrle is a German former professional footballer who played as a winger or forward.",
+        "born": 1990,
         "highlights": [
-          "Belgian theoretical physicist.",
-          "Awarded the Nobel Prize in 2013.",
-          "Held the title of Baron."
+          "German former professional footballer.",
+          "Played as a winger or forward.",
+          "Known as André Horst Schürrle."
         ]
       },
       {
-        "name": "Sun Yue (basketball)",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sun_Yue_with_the_Beijing_Aoshen_Olympians.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Chinese basketball player (born 1985)",
-        "extract": "Sun Yue is a Chinese former professional basketball player. He won an NBA championship with the Los Angeles Lakers in 2009, making him one of two players born in China to win an NBA championship, the other being Mongolian-Chinese center Mengke Bateer, who won the 2003 NBA Finals with the San Antonio Spurs.",
-        "born": 1985,
+        "name": "George Young (rock musician)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/George_Young_1968.png/330px-George_Young_1968.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian rock musician (1946–2017)",
+        "extract": "George Redburn Young was an Australian musician, songwriter and record producer. He was a founding member of the bands The Easybeats and Flash and the Pan, and was one-half of the songwriting and production duo Vanda & Young with his long-time musical collaborator Harry Vanda, with whom he co-wrote the international hits \"Friday on My Mind\" and \"Love Is in the Air\", the latter recorded by John Paul Young.",
+        "born": 1946,
         "highlights": [
-          "Chinese former professional basketball player.",
-          "Won 2009 NBA championship with Los Angeles Lakers.",
-          "One of two China-born NBA champions."
+          "Australian musician, songwriter, and record producer.",
+          "Founding member of The Easybeats and Flash and the Pan.",
+          "Co-wrote \"Friday on My Mind\" and \"Love Is in the Air\"."
         ]
       }
     ]
