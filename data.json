@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-11-06T23:38:10.831Z",
+  "generatedAt": "2026-11-07T17:56:49.296Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.4,
-    "condition": "Heavy rain",
-    "code": 65,
-    "highC": 20.6,
-    "lowC": 15.1,
-    "rainChance": 97
+    "tempC": 14.6,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 16,
+    "lowC": 7.3,
+    "rainChance": 18
   },
   "hotTopics": {
     "headline": "Today's buzz",
     "topics": [
       {
         "keywords": [
-          "Oregon Basketball"
+          "Ty Dieffenbach"
         ],
-        "summary": "Oregon basketball is buzzing due to recent team performance and upcoming games."
+        "summary": "Ty Dieffenbach is buzzing due to recent baseball performance or related news."
       },
       {
         "keywords": [
-          "The Bachelor",
-          "Future Season"
+          "MSC Poesia",
+          "Coast Guard"
         ],
-        "summary": "The Bachelor's 2027 return date is buzzing as fans discuss the show's long-term plans."
+        "summary": "MSC Poesia's detention by the Miami Coast Guard is buzzing due to a recent incident."
       },
       {
         "keywords": [
-          "Sarah Matthews",
-          "Public Figure"
+          "Erika Donalds"
         ],
-        "summary": "Sarah Matthews is buzzing due to recent public commentary or significant developments."
+        "summary": "Erika Donalds is buzzing due to her advocacy in education policy or recent public statements."
       },
       {
         "keywords": [
-          "South Florida Football"
+          "Stuttgart FC",
+          "Football"
         ],
-        "summary": "South Florida football is buzzing due to recent team performance and upcoming season anticipation."
+        "summary": "Stuttgart FC is buzzing due to recent football match results or team news."
       }
     ]
   },
@@ -75,7 +75,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3649.177,
-        "changePct": -1.0035619626875576
+        "changePct": -1.1039022631988238
       },
       {
         "region": "Asia",
@@ -89,56 +89,56 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24481.86,
-        "changePct": 2.351052488555365
+        "changePct": -1.2708795418800638
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My therapist said to live in the moment. My phone's battery percentage disagrees.",
-      "explanation": "It's a dry, relatable observation about how phone anxiety often conflicts with the modern wellness mantra of living in the present."
+      "joke": "I asked AI to write my obituary. It returned a prompt for a 'more engaging life.'",
+      "explanation": "Humor comes from the AI's cold, algorithmic assessment contrasting with the human expectation of comfort or a simple task."
     },
     "zh": {
-      "joke": "每次提交完工作，都感觉不是我完成了它，而是它放过了我。"
+      "joke": "每次点外卖备注‘不要辣’，我都感觉自己是在参与一场全球性的文化交流，因为总有那么一两次，他们会把我送到另一个次元。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "Jozy Altidore",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jozy_Altidore_USMNT_v_Portugal_Mar_31_2026-17.jpg/330px-Jozy_Altidore_USMNT_v_Portugal_Mar_31_2026-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American soccer player (born 1989)",
-        "extract": "Josmer Volmy \"Jozy\" Altidore is an American former professional soccer player who played as a striker.",
-        "born": 1989,
+        "name": "William Stukeley",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Stukeley_attributed_to_Richard_Collins.jpg/330px-William_Stukeley_attributed_to_Richard_Collins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English antiquarian (1687–1765)",
+        "extract": "William Stukeley was an English antiquarian, physician, and Anglican clergyman. A significant influence on the later development of archaeology, he pioneered the scholarly investigation of the prehistoric monuments of Stonehenge and Avebury in Wiltshire. He published over twenty books on archaeology and other subjects during his lifetime.",
+        "born": 1687,
         "highlights": [
-          "American former professional soccer player.",
-          "Primarily played as a striker.",
-          "Known as Josmer Volmy \"Jozy\" Altidore."
+          "Pioneered investigation of Stonehenge and Avebury.",
+          "Published over twenty books on archaeology.",
+          "English antiquarian, physician, and clergyman."
         ]
       },
       {
-        "name": "André Schürrle",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Sch%C3%BCrrle_2019.jpg/330px-Sch%C3%BCrrle_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German footballer (born 1990)",
-        "extract": "André Horst Schürrle is a German former professional footballer who played as a winger or forward.",
-        "born": 1990,
+        "name": "G. Edward Griffin",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/G._Edward_Griffin.jpg/330px-G._Edward_Griffin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American conspiracy theorist, film producer, author, and political lecturer",
+        "extract": "George Edward Griffin is an American author, filmmaker, lecturer, and a conspiracy theorist. Griffin's writings promote a number of right-wing views and conspiracy theories regarding politics, defense and health care. In his book World Without Cancer, he argued in favor of a pseudo-scientific theory that asserted cancer to be a nutritional deficiency curable by consuming amygdalin. He is the author of The Creature from Jekyll Island (1994), which advances debunked conspiracy theories about the Federal Reserve System. He is an HIV/AIDS denialist, supports the 9/11 Truth movement, and supports the specific John F. Kennedy assassination conspiracy theory that Oswald was not the assassin. He also believes that the Biblical Noah's Ark is located at the Durupınar site in Turkey.",
+        "born": 1931,
         "highlights": [
-          "German former professional footballer.",
-          "Played as a winger or forward.",
-          "Known as André Horst Schürrle."
+          "Author of \"The Creature from Jekyll Island\".",
+          "Wrote \"World Without Cancer\" promoting pseudo-scientific theory.",
+          "American author, filmmaker, lecturer, and conspiracy theorist."
         ]
       },
       {
-        "name": "George Young (rock musician)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/George_Young_1968.png/330px-George_Young_1968.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian rock musician (1946–2017)",
-        "extract": "George Redburn Young was an Australian musician, songwriter and record producer. He was a founding member of the bands The Easybeats and Flash and the Pan, and was one-half of the songwriting and production duo Vanda & Young with his long-time musical collaborator Harry Vanda, with whom he co-wrote the international hits \"Friday on My Mind\" and \"Love Is in the Air\", the latter recorded by John Paul Young.",
-        "born": 1946,
+        "name": "William Alwyn",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/Williamalwyn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "English composer (1905–1985)",
+        "extract": "William Alwyn was an English composer, conductor, and music teacher who composed over 200 cinematic scores, of which some 70 were for full-length features, as well as number of operas, concertos and symphonies.",
+        "born": 1905,
         "highlights": [
-          "Australian musician, songwriter, and record producer.",
-          "Founding member of The Easybeats and Flash and the Pan.",
-          "Co-wrote \"Friday on My Mind\" and \"Love Is in the Air\"."
+          "English composer, conductor, and music teacher.",
+          "Composed over 200 cinematic scores.",
+          "Also composed operas, concertos, and symphonies."
         ]
       }
     ]
