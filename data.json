@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T17:56:49.296Z",
+  "generatedAt": "2026-11-07T22:28:37.251Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14.6,
+    "tempC": 9.3,
     "condition": "Light drizzle",
     "code": 51,
     "highC": 16,
-    "lowC": 7.3,
+    "lowC": 7.2,
     "rainChance": 18
   },
   "hotTopics": {
@@ -14,29 +14,31 @@
     "topics": [
       {
         "keywords": [
-          "Ty Dieffenbach"
+          "Boise State",
+          "Colorado State"
         ],
-        "summary": "Ty Dieffenbach is buzzing due to recent baseball performance or related news."
+        "summary": "College basketball fans are buzzing about the Boise State vs. Colorado State game."
       },
       {
         "keywords": [
-          "MSC Poesia",
-          "Coast Guard"
+          "Montana State",
+          "Idaho State"
         ],
-        "summary": "MSC Poesia's detention by the Miami Coast Guard is buzzing due to a recent incident."
+        "summary": "Another college basketball matchup, Montana State vs. Idaho State, is generating buzz."
       },
       {
         "keywords": [
-          "Erika Donalds"
+          "NM State",
+          "Gonzaga"
         ],
-        "summary": "Erika Donalds is buzzing due to her advocacy in education policy or recent public statements."
+        "summary": "The NM State vs. Gonzaga basketball game is a hot topic among sports enthusiasts."
       },
       {
         "keywords": [
-          "Stuttgart FC",
-          "Football"
+          "Gabriel Lorenco",
+          "Athlete Buzz"
         ],
-        "summary": "Stuttgart FC is buzzing due to recent football match results or team news."
+        "summary": "Gabriel Lorenco is buzzing due to recent athletic achievements and rising profile."
       }
     ]
   },
@@ -95,50 +97,48 @@
   },
   "joke": {
     "en": {
-      "joke": "I asked AI to write my obituary. It returned a prompt for a 'more engaging life.'",
-      "explanation": "Humor comes from the AI's cold, algorithmic assessment contrasting with the human expectation of comfort or a simple task."
+      "joke": "I've been on mute so long during video calls, my mic probably forgot my voice.",
+      "explanation": "It's an ironic exaggeration about the common remote work experience of silently observing, humorously implying a mic's sentience."
     },
     "zh": {
-      "joke": "每次点外卖备注‘不要辣’，我都感觉自己是在参与一场全球性的文化交流，因为总有那么一两次，他们会把我送到另一个次元。"
+      "joke": "我的微信运动步数比我本人的行动力还高。"
     }
   },
   "famousPeople": {
     "headline": "Born today",
     "people": [
       {
-        "name": "William Stukeley",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/William_Stukeley_attributed_to_Richard_Collins.jpg/330px-William_Stukeley_attributed_to_Richard_Collins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English antiquarian (1687–1765)",
-        "extract": "William Stukeley was an English antiquarian, physician, and Anglican clergyman. A significant influence on the later development of archaeology, he pioneered the scholarly investigation of the prehistoric monuments of Stonehenge and Avebury in Wiltshire. He published over twenty books on archaeology and other subjects during his lifetime.",
-        "born": 1687,
+        "name": "David Petraeus",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/DCIA_David_Petraeus.jpg/330px-DCIA_David_Petraeus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American U.S. Army general (born 1952)",
+        "extract": "David Howell Petraeus is a retired United States Army general who served as the fourth director of the Central Intelligence Agency (CIA) from September 2011 until his resignation in November 2012. Prior to his assuming the directorship of the CIA, Petraeus served 37 years in the United States Army. His last assignments in the Army were as commander of the International Security Assistance Force (ISAF) and commander, U.S. Forces – Afghanistan (USFOR-A) from July 2010 to July 2011. His other four-star assignments include serving as the 10th commander, U.S. Central Command (USCENTCOM) from October 2008 to June 2010, and as commanding general, Multi-National Force – Iraq (MNF-I) from February 2007 to September 2008. As commander of MNF-I, Petraeus oversaw all coalition forces in Iraq.",
+        "born": 1952,
         "highlights": [
-          "Pioneered investigation of Stonehenge and Avebury.",
-          "Published over twenty books on archaeology.",
-          "English antiquarian, physician, and clergyman."
+          "Director of the Central Intelligence Agency (CIA).",
+          "Commander of International Security Assistance Force (ISAF).",
+          "Commanding general, Multi-National Force – Iraq (MNF-I)."
         ]
       },
       {
-        "name": "G. Edward Griffin",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/G._Edward_Griffin.jpg/330px-G._Edward_Griffin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American conspiracy theorist, film producer, author, and political lecturer",
-        "extract": "George Edward Griffin is an American author, filmmaker, lecturer, and a conspiracy theorist. Griffin's writings promote a number of right-wing views and conspiracy theories regarding politics, defense and health care. In his book World Without Cancer, he argued in favor of a pseudo-scientific theory that asserted cancer to be a nutritional deficiency curable by consuming amygdalin. He is the author of The Creature from Jekyll Island (1994), which advances debunked conspiracy theories about the Federal Reserve System. He is an HIV/AIDS denialist, supports the 9/11 Truth movement, and supports the specific John F. Kennedy assassination conspiracy theory that Oswald was not the assassin. He also believes that the Biblical Noah's Ark is located at the Durupınar site in Turkey.",
-        "born": 1931,
+        "name": "Christian Gómez",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ChristianGomez20050717.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Argentine footballer",
+        "extract": "Christian Gómez is an Argentine former professional footballer who played as a midfielder.",
+        "born": 1974,
         "highlights": [
-          "Author of \"The Creature from Jekyll Island\".",
-          "Wrote \"World Without Cancer\" promoting pseudo-scientific theory.",
-          "American author, filmmaker, lecturer, and conspiracy theorist."
+          "Argentine former professional footballer who played as a midfielder."
         ]
       },
       {
-        "name": "William Alwyn",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/Williamalwyn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "English composer (1905–1985)",
-        "extract": "William Alwyn was an English composer, conductor, and music teacher who composed over 200 cinematic scores, of which some 70 were for full-length features, as well as number of operas, concertos and symphonies.",
-        "born": 1905,
+        "name": "Mark Philippoussis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mark_Philippoussis_%282023_US_Open%29_01_%28cropped%29.jpg/330px-Mark_Philippoussis_%282023_US_Open%29_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian tennis player (born 1976)",
+        "extract": "Mark Anthony Philippoussis is an Australian tennis coach, commentator and former professional tennis player of Greek and Italian descent. Philippoussis' greatest achievements are winning two Davis Cup titles with Australia in 1999 and 2003, winning the deciding rubber in the final of each. He also reached the final of the 1998 US Open and the 2003 Wimbledon singles tournaments. Philippoussis reached a career-high singles ranking of world No. 8.",
+        "born": 1976,
         "highlights": [
-          "English composer, conductor, and music teacher.",
-          "Composed over 200 cinematic scores.",
-          "Also composed operas, concertos, and symphonies."
+          "Won two Davis Cup titles with Australia (1999, 2003).",
+          "Reached 1998 US Open and 2003 Wimbledon singles finals.",
+          "Achieved career-high singles ranking of world No. 8."
         ]
       }
     ]
