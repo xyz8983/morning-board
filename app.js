@@ -189,6 +189,7 @@ const DECOS = {
   hotTopics: [{ pos: "tl", key: "squirrel", size: "l"  }, { pos: "br", key: "inkLeaf",  size: "s"  }],
   market:    [{ pos: "bl", key: "hedgehog", size: "l"  }, { pos: "tr", key: "seal",     size: "xs" }],
   joke:      [{ pos: "tl", key: "bat",      size: "m"  }, { pos: "br", key: "seal",     size: "xs" }],
+  idiom:     [{ pos: "tr", key: "inkLeaf",  size: "m"  }, { pos: "bl", key: "swallow",  size: "s"  }],
   famousPeople: [{ pos: "tr", key: "inkLeaf", size: "s" }, { pos: "bl", key: "seal",   size: "xs" }],
 };
 
@@ -372,6 +373,43 @@ function buildJoke(j) {
   `;
 }
 
+// Escapes text but keeps <em> tags (used to highlight the idiom phrase).
+const escIdiom = (s) =>
+  esc(s).replace(/&lt;em&gt;/g, '<em class="idiom-hl">').replace(/&lt;\/em&gt;/g, "</em>");
+
+function buildIdiom(d) {
+  const enPanel = d.interpretationEn
+    ? `<div class="idiom-panel idiom-en">
+         <div class="idiom-lang">EN</div>
+         <div class="idiom-interp">${escIdiom(d.interpretationEn)}</div>
+       </div>`
+    : "";
+  const zhText = d.interpretationZh || d.glossZh || "";
+  const zhPanel = zhText
+    ? `<div class="idiom-panel idiom-zh">
+         <div class="idiom-lang">中文</div>
+         <div class="idiom-interp">${escIdiom(zhText)}</div>
+       </div>`
+    : "";
+  const examples = (d.examples || [])
+    .map(
+      (ex) => `
+      <li class="idiom-ex">
+        <div class="idiom-ex-en">${escIdiom(ex.en || "")}</div>
+        ${ex.zh ? `<div class="idiom-ex-zh">${esc(ex.zh)}</div>` : ""}
+      </li>`
+    )
+    .join("");
+  return `
+    <div class="card-title">Idiom of the day · 每日习语</div>
+    <div class="idiom-headword">${esc(d.title || "")}</div>
+    ${d.glossZh ? `<div class="idiom-gloss">${esc(d.glossZh)}</div>` : ""}
+    <div class="idiom-grid">${enPanel}${zhPanel}</div>
+    <div class="idiom-ex-label">EXAMPLES · 例句</div>
+    <ul class="idiom-examples">${examples}</ul>
+  `;
+}
+
 function buildFamousPeople(p) {
   const people = (p.people || []).map((person) => {
     const highlights = person.highlights?.length
@@ -403,6 +441,7 @@ function render(data) {
     data.hotTopics && { kind: "hotTopics", build: () => buildHotTopics(data.hotTopics) },
     data.market    && { kind: "market",    build: () => buildMarket(data.market) },
     data.joke      && { kind: "joke",      build: () => buildJoke(data.joke) },
+    data.idiom     && { kind: "idiom",     build: () => buildIdiom(data.idiom) },
     data.famousPeople && { kind: "famousPeople", build: () => buildFamousPeople(data.famousPeople) },
   ].filter(Boolean);
 

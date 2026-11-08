@@ -1649,6 +1649,15 @@ var DECOS = {
     key: "seal",
     size: "xs"
   }],
+  idiom: [{
+    pos: "tr",
+    key: "inkLeaf",
+    size: "m"
+  }, {
+    pos: "bl",
+    key: "swallow",
+    size: "s"
+  }],
   famousPeople: [{
     pos: "tr",
     key: "inkLeaf",
@@ -1861,6 +1870,37 @@ function buildJoke(j) {
     </div>
   `;
 }
+
+// Escapes text but keeps <em> tags (used to highlight the idiom phrase).
+var escIdiom = function escIdiom(s) {
+  return esc(s).replace(/&lt;em&gt;/g, '<em class="idiom-hl">').replace(/&lt;\/em&gt;/g, "</em>");
+};
+function buildIdiom(d) {
+  var enPanel = d.interpretationEn ? `<div class="idiom-panel idiom-en">
+         <div class="idiom-lang">EN</div>
+         <div class="idiom-interp">${escIdiom(d.interpretationEn)}</div>
+       </div>` : "";
+  var zhText = d.interpretationZh || d.glossZh || "";
+  var zhPanel = zhText ? `<div class="idiom-panel idiom-zh">
+         <div class="idiom-lang">中文</div>
+         <div class="idiom-interp">${escIdiom(zhText)}</div>
+       </div>` : "";
+  var examples = (d.examples || []).map(function (ex) {
+    return `
+      <li class="idiom-ex">
+        <div class="idiom-ex-en">${escIdiom(ex.en || "")}</div>
+        ${ex.zh ? `<div class="idiom-ex-zh">${esc(ex.zh)}</div>` : ""}
+      </li>`;
+  }).join("");
+  return `
+    <div class="card-title">Idiom of the day · 每日习语</div>
+    <div class="idiom-headword">${esc(d.title || "")}</div>
+    ${d.glossZh ? `<div class="idiom-gloss">${esc(d.glossZh)}</div>` : ""}
+    <div class="idiom-grid">${enPanel}${zhPanel}</div>
+    <div class="idiom-ex-label">EXAMPLES · 例句</div>
+    <ul class="idiom-examples">${examples}</ul>
+  `;
+}
 function buildFamousPeople(p) {
   var people = (p.people || []).map(function (person) {
     var _person$highlights;
@@ -1906,6 +1946,11 @@ function render(data) {
     kind: "joke",
     build: function build() {
       return buildJoke(data.joke);
+    }
+  }, data.idiom && {
+    kind: "idiom",
+    build: function build() {
+      return buildIdiom(data.idiom);
     }
   }, data.famousPeople && {
     kind: "famousPeople",
