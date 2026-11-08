@@ -352,23 +352,22 @@ function buildMarket(m) {
 }
 
 function buildJoke(j) {
-  const en = j.en || {};
-  const zh = j.zh || {};
-  const enWhy = en.explanation
-    ? `<div class="joke-why">${esc(en.explanation)}</div>`
-    : "";
-  return `
-    <div class="card-title">Joke of the day · 今日笑话</div>
-    <div class="joke-grid">
+  const panels = (j.items || [])
+    .map((it) => {
+      const why = it.explanation
+        ? `<div class="joke-why">${esc(it.explanation)}</div>`
+        : "";
+      return `
       <div class="joke-panel joke-en">
-        <div class="joke-lang">EN</div>
-        <div class="joke-text">${esc(en.joke || "")}</div>
-        ${enWhy}
-      </div>
-      <div class="joke-panel joke-zh">
-        <div class="joke-lang">中文</div>
-        <div class="joke-text">${esc(zh.joke || "")}</div>
-      </div>
+        <div class="joke-lang">${esc(it.source || "")}</div>
+        <div class="joke-text">${esc(it.joke || "").replace(/\n/g, "<br>")}</div>
+        ${why}
+      </div>`;
+    })
+    .join("");
+  return `
+    <div class="card-title">Joke of the day</div>
+    <div class="joke-grid">${panels}
     </div>
   `;
 }
@@ -440,7 +439,7 @@ function render(data) {
     data.weather   && { kind: "weather",   build: () => buildWeather(data.weather) },
     data.hotTopics && { kind: "hotTopics", build: () => buildHotTopics(data.hotTopics) },
     data.market    && { kind: "market",    build: () => buildMarket(data.market) },
-    data.joke      && { kind: "joke",      build: () => buildJoke(data.joke) },
+    data.joke && data.joke.items && data.joke.items.length && { kind: "joke", build: () => buildJoke(data.joke) },
     data.idiom     && { kind: "idiom",     build: () => buildIdiom(data.idiom) },
     data.famousPeople && { kind: "famousPeople", build: () => buildFamousPeople(data.famousPeople) },
   ].filter(Boolean);
