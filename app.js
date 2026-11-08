@@ -353,13 +353,17 @@ function buildMarket(m) {
 
 function buildJoke(j) {
   const panels = (j.items || [])
-    .map(
-      (it) => `
+    .map((it) => {
+      const why = it.explanation
+        ? `<div class="joke-why">${esc(it.explanation)}</div>`
+        : "";
+      return `
       <div class="joke-panel joke-en">
         <div class="joke-lang">${esc(it.source || "")}</div>
         <div class="joke-text">${esc(it.joke || "").replace(/\n/g, "<br>")}</div>
-      </div>`
-    )
+        ${why}
+      </div>`;
+    })
     .join("");
   return `
     <div class="card-title">Joke of the day</div>

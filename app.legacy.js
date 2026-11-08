@@ -1853,10 +1853,12 @@ function buildMarket(m) {
 }
 function buildJoke(j) {
   var panels = (j.items || []).map(function (it) {
+    var why = it.explanation ? `<div class="joke-why">${esc(it.explanation)}</div>` : "";
     return `
       <div class="joke-panel joke-en">
         <div class="joke-lang">${esc(it.source || "")}</div>
         <div class="joke-text">${esc(it.joke || "").replace(/\n/g, "<br>")}</div>
+        ${why}
       </div>`;
   }).join("");
   return `

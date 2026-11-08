@@ -1,6 +1,8 @@
-// Fetches two human-written jokes (no API key, no AI):
-//   1. Reddit r/Jokes top-of-day (upvote-ranked)
+// Fetches two human-written jokes:
+//   1. Reddit r/Jokes top-of-day (upvote-ranked) + a short AI "why it's funny" note
 //   2. JokeAPI with safe-mode on
+import { callAI } from "./ai-client.mjs";
+
 const UA = "morning-board/1.0";
 const MAX_LEN = 220; // keep jokes short enough to fit the card
 
@@ -65,14 +67,38 @@ export async function fetchJokeApiJoke() {
   return { joke: data.joke.trim(), source: "JokeAPI" };
 }
 
-// Returns { items: [{ joke, source }, ...] } — aims for two jokes.
-// If Reddit fails, a second JokeAPI joke fills the slot.
+// Asks the AI for a one-line "why it's funny" note. Short and plain — fits under
+// the joke on the card. Returns "" on failure so the joke still renders.
+async function explainJoke(joke) {
+  try {
+    const raw = await callAI({
+      system:
+        "You write a single short note (under 15 words) that explains why a joke is funny. " +
+        "Plain, no hype, no 'the joke is funny because', no quotes. Just the explanation.",
+      user: `Explain in one short sentence why this joke is funny:\n\n${joke}`,
+      temperature: 0.4,
+    });
+    return (raw || "").trim().replace(/^["']|["']$/g, "").slice(0, 160);
+  } catch (err) {
+    console.error("joke explanation failed:", err.message);
+    return "";
+  }
+}
+
+// Returns { items: [{ joke, source, explanation? }, ...] } — aims for two jokes.
+// If Reddit fails, a second JokeAPI joke fills the slot. Only the Reddit joke
+// gets an AI-generated explanation.
 export async function fetchJokes() {
   const [reddit, jokeApi] = await Promise.allSettled([fetchRedditJoke(), fetchJokeApiJoke()]);
   const items = [];
 
-  if (reddit.status === "fulfilled") items.push(reddit.value);
-  else console.error("reddit joke failed:", reddit.reason?.message || reddit.reason);
+  if (reddit.status === "fulfilled") {
+    const r = reddit.value;
+    r.explanation = await explainJoke(r.joke);
+    items.push(r);
+  } else {
+    console.error("reddit joke failed:", reddit.reason?.message || reddit.reason);
+  }
 
   if (jokeApi.status === "fulfilled") items.push(jokeApi.value);
   else console.error("jokeapi joke failed:", jokeApi.reason?.message || jokeApi.reason);
