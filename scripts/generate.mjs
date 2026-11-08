@@ -8,7 +8,8 @@
  *   - News         Google News RSS by category (no API key) → lib/trends.mjs
  *   - Headlines    NewsAPI            (optional; NEWSAPI_KEY) → lib/trends.mjs
  *   - Famous people Wikipedia "on this day" (no API key)    → lib/famousPeople.mjs
- *   - Topic summaries + bilingual joke via an AI provider.  → lib/topics.mjs, lib/joke.mjs, lib/ai-client.mjs
+ *   - Jokes        Reddit r/Jokes + JokeAPI safe-mode (no API key) → lib/joke.mjs
+ *   - Topic summaries via an AI provider.                   → lib/topics.mjs, lib/ai-client.mjs
  *
  * AI provider is selected with the AI_PROVIDER env var:
  *   "gemini"    (default) → Google Gemini (free tier friendly)
@@ -35,7 +36,7 @@ import { fetchCategoryNews, fetchNews } from "./lib/trends.mjs";
 import { fetchFamousPeople } from "./lib/famousPeople.mjs";
 import { generatePeopleHighlights } from "./lib/peopleBio.mjs";
 import { generateTopics } from "./lib/topics.mjs";
-import { generateJoke } from "./lib/joke.mjs";
+import { fetchJokes } from "./lib/joke.mjs";
 import { pickIdiom } from "./lib/idioms.mjs";
 
 /* ---------------- config ---------------- */
@@ -87,9 +88,10 @@ async function main() {
 
   let joke = null;
   try {
-    joke = await generateJoke();
+    const fetched = await fetchJokes();
+    if (fetched.items.length) joke = fetched;
   } catch (err) {
-    console.error("joke AI failed:", err.message);
+    console.error("jokes failed:", err.message);
   }
 
   let idiom = null;

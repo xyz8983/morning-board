@@ -1852,21 +1852,16 @@ function buildMarket(m) {
   `;
 }
 function buildJoke(j) {
-  var en = j.en || {};
-  var zh = j.zh || {};
-  var enWhy = en.explanation ? `<div class="joke-why">${esc(en.explanation)}</div>` : "";
-  return `
-    <div class="card-title">Joke of the day · 今日笑话</div>
-    <div class="joke-grid">
+  var panels = (j.items || []).map(function (it) {
+    return `
       <div class="joke-panel joke-en">
-        <div class="joke-lang">EN</div>
-        <div class="joke-text">${esc(en.joke || "")}</div>
-        ${enWhy}
-      </div>
-      <div class="joke-panel joke-zh">
-        <div class="joke-lang">中文</div>
-        <div class="joke-text">${esc(zh.joke || "")}</div>
-      </div>
+        <div class="joke-lang">${esc(it.source || "")}</div>
+        <div class="joke-text">${esc(it.joke || "").replace(/\n/g, "<br>")}</div>
+      </div>`;
+  }).join("");
+  return `
+    <div class="card-title">Joke of the day</div>
+    <div class="joke-grid">${panels}
     </div>
   `;
 }
@@ -1942,7 +1937,7 @@ function render(data) {
     build: function build() {
       return buildMarket(data.market);
     }
-  }, data.joke && {
+  }, data.joke && data.joke.items && data.joke.items.length && {
     kind: "joke",
     build: function build() {
       return buildJoke(data.joke);
