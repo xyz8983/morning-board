@@ -1,42 +1,58 @@
 {
-  "generatedAt": "2026-11-06T23:38:10.831Z",
+  "generatedAt": "2026-11-08T15:35:16.040Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.4,
-    "condition": "Heavy rain",
-    "code": 65,
-    "highC": 20.6,
-    "lowC": 15.1,
-    "rainChance": 97
+    "tempC": 13.1,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 16.1,
+    "lowC": 7.7,
+    "rainChance": 16
   },
   "hotTopics": {
-    "headline": "Today's buzz",
+    "headline": "Today's news",
     "topics": [
       {
         "keywords": [
-          "Oregon Basketball"
+          "World",
+          "Extremism"
         ],
-        "summary": "Oregon basketball is buzzing due to recent team performance and upcoming games."
+        "summary": "Authorities stated a shooting in Kraków, which killed six, was motivated by far-right extremist views."
       },
       {
         "keywords": [
-          "The Bachelor",
-          "Future Season"
+          "Business",
+          "AI Investment"
         ],
-        "summary": "The Bachelor's 2027 return date is buzzing as fans discuss the show's long-term plans."
+        "summary": "Despite recent declines, AI stocks like Nvidia remain significant for investors to consider."
       },
       {
         "keywords": [
-          "Sarah Matthews",
-          "Public Figure"
+          "Business",
+          "Finance"
         ],
-        "summary": "Sarah Matthews is buzzing due to recent public commentary or significant developments."
+        "summary": "Berkshire Hathaway reported decreased operating earnings but increased share buybacks, impacting financial markets."
       },
       {
         "keywords": [
-          "South Florida Football"
+          "World",
+          "Entertainment Industry"
         ],
-        "summary": "South Florida football is buzzing due to recent team performance and upcoming season anticipation."
+        "summary": "Russell Brand's conviction raises significant questions about accountability within the UK entertainment industry."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "College Football"
+        ],
+        "summary": "Notre Dame upset top-ranked Miami, significantly boosting their college football playoff ranking."
+      },
+      {
+        "keywords": [
+          "US",
+          "Road Safety"
+        ],
+        "summary": "A vehicle struck a cycling group in Wake County, killing one person and injuring seven others."
       }
     ]
   },
@@ -75,7 +91,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3649.177,
-        "changePct": -1.0035619626875576
+        "changePct": -1.1039290649557651
       },
       {
         "region": "Asia",
@@ -89,37 +105,37 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24481.86,
-        "changePct": 2.351052488555365
+        "changePct": -1.2707999119247546
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "My therapist said to live in the moment. My phone's battery percentage disagrees.",
-      "explanation": "It's a dry, relatable observation about how phone anxiety often conflicts with the modern wellness mantra of living in the present."
+      "joke": "My most intense workout of the day is trying to skip a 30-second ad on YouTube.",
+      "explanation": "It's a relatable, ironic take on modern digital life and the minimal effort of 'working out'."
     },
     "zh": {
-      "joke": "每次提交完工作，都感觉不是我完成了它，而是它放过了我。"
+      "joke": "我最近开始养生了，具体表现为：熬夜的时候，手边一定会放一杯枸杞水，以示对健康的尊重。"
     }
   },
   "idiom": {
-    "id": "dont-do-anything-i-wouldnt-do",
-    "title": "Don’t do anything I wouldn’t do",
-    "glossZh": "“别做我不会做的事情” 或 “别做出格的事情”。",
-    "interpretationEn": "This phrase is often used to humorously advise someone to stay out of trouble or not to engage in risky or inappropriate behaviors while you are not around. It usually carries a light-hearted or joking tone and is not meant to be very strict or severe.",
-    "interpretationZh": "这个短语通常用于提醒或者开玩笑地劝告他人，在你不在的情况下要保持稳重，不去做一些冒险或不合适的行为。它一般带有幽默或轻松的成分，并不意味着非常严格的规训。",
+    "id": "fight-an-uphill-battle",
+    "title": "Fight an uphill battle",
+    "glossZh": "“艰难地奋斗” 或 “面临艰巨的挑战”。",
+    "interpretationEn": "This phrase originates from a military term, referring to soldiers having a harder time fighting uphill due to their disadvantageous position. Over time, the phrase has been adopted into everyday language to describe any difficult task or challenge that requires significant effort to overcome.",
+    "interpretationZh": "这个短语源于军事术语，指士兵们在上坡时作战会更艰难，因地势较低的一方处于劣势。后来，这个短语被借用到日常生活中，用来形容一件很困難并需要付出极大努力去争取成功的事。",
     "examples": [
       {
-        "en": "Have fun on your trip, and <em>don’t do anything I wouldn’t do!</em>",
-        "zh": "旅途愉快，别做我不会做的事情！"
+        "en": "Starting a new business in this economy feels like fighting an <em>uphill battle</em>.",
+        "zh": "在当前的经济环境下创业感觉就像在艰难地奋斗。"
       },
       {
-        "en": "Here are the house keys. While I’m gone, <em>don’t do anything I wouldn’t do.</em>",
-        "zh": "这是房子的钥匙。在我不在的时候，别做我不会做的事情。"
+        "en": "He knew he was fighting an <em>uphill battle</em> trying to change the company’s old habits.",
+        "zh": "他知道试图改变公司的陈旧习惯是一场艰难地奋斗。"
       },
       {
-        "en": "You kids have fun at the party, but <em>don’t do anything I wouldn’t do.</em>",
-        "zh": "你们在派对上玩得开心，但别做我不会做的事情。"
+        "en": "She’s been fighting an <em>uphill battle</em> to gain recognition in her field.",
+        "zh": "她一直在艰难地奋斗，试图在她的领域获得认可。"
       }
     ]
   },
@@ -127,39 +143,37 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Jozy Altidore",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jozy_Altidore_USMNT_v_Portugal_Mar_31_2026-17.jpg/330px-Jozy_Altidore_USMNT_v_Portugal_Mar_31_2026-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American soccer player (born 1989)",
-        "extract": "Josmer Volmy \"Jozy\" Altidore is an American former professional soccer player who played as a striker.",
-        "born": 1989,
+        "name": "Joshua Ferris",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Joshua_Ferris_reading.jpg/330px-Joshua_Ferris_reading.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American author (born 1974)",
+        "extract": "Joshua Ferris is an American author best known for his debut novel Then We Came to the End (2007). The novel is a comedy about the American workplace, is narrated in the first-person plural, and is set in a fictitious Chicago ad agency facing challenges at the end of the 1990s Internet boom.",
+        "born": 1974,
         "highlights": [
-          "American former professional soccer player.",
-          "Primarily played as a striker.",
-          "Known as Josmer Volmy \"Jozy\" Altidore."
+          "Author of debut novel Then We Came to the End (2007).",
+          "Novel is a comedy about the American workplace.",
+          "Narrated in the first-person plural."
         ]
       },
       {
-        "name": "André Schürrle",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Sch%C3%BCrrle_2019.jpg/330px-Sch%C3%BCrrle_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German footballer (born 1990)",
-        "extract": "André Horst Schürrle is a German former professional footballer who played as a winger or forward.",
-        "born": 1990,
+        "name": "Michael D. Brown",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Michael_D._Brown%2C_official_FEMA_photo_portrait%2C_2003.jpg/330px-Michael_D._Brown%2C_official_FEMA_photo_portrait%2C_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Director of the U.S. Federal Emergency Management Agency from 2003 to 2005",
+        "extract": "Michael DeWayne Brown is an American attorney, and former government official who served as the administrator of the Federal Emergency Management Agency (FEMA) from 2003 to 2005. He joined FEMA as general counsel in 2001 and became deputy director the same year. Appointed in January 2003 by President George W. Bush to lead FEMA, Brown resigned in September 2005 following his controversial handling of Hurricane Katrina. Brown currently hosts a radio talk show on 630 KHOW in Denver, Colorado.",
+        "born": 1954,
         "highlights": [
-          "German former professional footballer.",
-          "Played as a winger or forward.",
-          "Known as André Horst Schürrle."
+          "Administrator of FEMA from 2003 to 2005.",
+          "Joined FEMA as general counsel in 2001.",
+          "Resigned from FEMA after Hurricane Katrina."
         ]
       },
       {
-        "name": "George Young (rock musician)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/George_Young_1968.png/330px-George_Young_1968.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian rock musician (1946–2017)",
-        "extract": "George Redburn Young was an Australian musician, songwriter and record producer. He was a founding member of the bands The Easybeats and Flash and the Pan, and was one-half of the songwriting and production duo Vanda & Young with his long-time musical collaborator Harry Vanda, with whom he co-wrote the international hits \"Friday on My Mind\" and \"Love Is in the Air\", the latter recorded by John Paul Young.",
-        "born": 1946,
+        "name": "Chris Connor",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chris_Connor--Circa_1950.jpg/330px-Chris_Connor--Circa_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American jazz singer (1927–2009)",
+        "extract": "Mary Jean Loutsenhizer, known professionally as Chris Connor, was an American jazz singer.",
+        "born": 1927,
         "highlights": [
-          "Australian musician, songwriter, and record producer.",
-          "Founding member of The Easybeats and Flash and the Pan.",
-          "Co-wrote \"Friday on My Mind\" and \"Love Is in the Air\"."
+          "American jazz singer."
         ]
       }
     ]

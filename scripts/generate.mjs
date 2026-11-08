@@ -5,7 +5,7 @@
  * Pulls:
  *   - Weather      Open-Meteo         (no API key)         → lib/weather.mjs
  *   - Markets      Yahoo Finance      (no API key)         → lib/markets.mjs
- *   - Trending     Google Trends RSS  (no API key)         → lib/trends.mjs
+ *   - News         Google News RSS by category (no API key) → lib/trends.mjs
  *   - Headlines    NewsAPI            (optional; NEWSAPI_KEY) → lib/trends.mjs
  *   - Famous people Wikipedia "on this day" (no API key)    → lib/famousPeople.mjs
  *   - Topic summaries + bilingual joke via an AI provider.  → lib/topics.mjs, lib/joke.mjs, lib/ai-client.mjs
@@ -23,8 +23,7 @@
  *   LATITUDE / LONGITUDE default 40.7128 / -74.0060 (New York City)
  *   LOCATION_NAME        default "New York City"
  *   TIMEZONE             default "America/New_York"
- *   TRENDS_GEO           default "US"
- *   NEWSAPI_KEY          optional; enables NewsAPI top-headlines for US + CN
+ *   NEWSAPI_KEY          optional; adds NewsAPI top-headlines to the candidate pool
  */
 
 import fs from "node:fs/promises";
@@ -32,7 +31,7 @@ import path from "node:path";
 
 import { fetchWeather } from "./lib/weather.mjs";
 import { fetchMarkets } from "./lib/markets.mjs";
-import { fetchTrends, fetchNews } from "./lib/trends.mjs";
+import { fetchCategoryNews, fetchNews } from "./lib/trends.mjs";
 import { fetchFamousPeople } from "./lib/famousPeople.mjs";
 import { generatePeopleHighlights } from "./lib/peopleBio.mjs";
 import { generateTopics } from "./lib/topics.mjs";
@@ -46,33 +45,41 @@ const LAT = parseFloat(process.env.LATITUDE || "40.7128");
 const LON = parseFloat(process.env.LONGITUDE || "-74.0060");
 const LOCATION_NAME = process.env.LOCATION_NAME || "New York City";
 const TIMEZONE = process.env.TIMEZONE || "America/New_York";
-const TRENDS_GEO = process.env.TRENDS_GEO || "US";
 
 /* ---------------- main ---------------- */
 
 async function main() {
   console.log(`[morning-board] provider=${AI_PROVIDER} location=${LOCATION_NAME}`);
 
-  const [weather, market, trends, newsUS, famousPeople] = await Promise.all([
+  const [weather, market, categoryNews, newsUS, famousPeople] = await Promise.all([
     fetchWeather({ lat: LAT, lon: LON, locationName: LOCATION_NAME, timezone: TIMEZONE })
       .catch((err) => { console.error("weather failed:", err.message); return null; }),
     fetchMarkets().catch((err) => { console.error("markets failed:", err.message); return null; }),
-    fetchTrends(TRENDS_GEO).catch((err) => { console.error("trends failed:", err.message); return []; }),
+    fetchCategoryNews(2).catch((err) => { console.error("category news failed:", err.message); return []; }),
     fetchNews("us", 2).catch((err) => { console.error("news US failed:", err.message); return []; }),
     fetchFamousPeople(3).catch((err) => { console.error("famous people failed:", err.message); return []; }),
   ]);
 
-  const entries = [
-    ...trends.slice(0, 4).map((t) => ({ label: "Trend", text: t })),
-    ...newsUS.map((a) => ({ label: "News-US", text: `"${a.title}" — ${a.description}` })),
+  // Build the candidate pool: categorized Google News + optional NewsAPI headlines.
+  const candidates = [
+    ...categoryNews,
+    ...newsUS.map((a) => ({ category: "US/Politics", title: a.title, description: a.description, source: "", pubDate: "" })),
   ];
-  console.log(`[morning-board] hot-topics sources: trends=${Math.min(trends.length, 2)} newsUS=${newsUS.length} → ${entries.length} entries`);
+  // De-duplicate by normalized title across both sources.
+  const seen = new Set();
+  const pool = candidates.filter((c) => {
+    const key = (c.title || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+    if (!key || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+  console.log(`[morning-board] hot-topics candidates: categoryNews=${categoryNews.length} newsUS=${newsUS.length} → ${pool.length} unique`);
 
   let hotTopics = null;
-  if (entries.length) {
+  if (pool.length) {
     try {
-      const { topics } = await generateTopics(entries);
-      hotTopics = { headline: "Today's buzz", topics };
+      const { topics } = await generateTopics(pool, { count: 6 });
+      hotTopics = { headline: "Today's news", topics };
     } catch (err) {
       console.error("topics AI failed:", err.message);
     }
