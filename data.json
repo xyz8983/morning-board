@@ -1,13 +1,65 @@
 {
-  "generatedAt": "2026-11-08T18:13:31.931Z",
+  "generatedAt": "2026-11-08T22:38:51.741Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.9,
+    "tempC": 12.3,
     "condition": "Light drizzle",
     "code": 51,
-    "highC": 16.1,
+    "highC": 16,
     "lowC": 7.7,
     "rainChance": 16
+  },
+  "hotTopics": {
+    "headline": "Today's news",
+    "topics": [
+      {
+        "keywords": [
+          "World",
+          "Vatican",
+          "Argentina"
+        ],
+        "summary": "Pope Francis arrived in Argentina, his home country, for a politically sensitive visit with President Milei."
+      },
+      {
+        "keywords": [
+          "US/Politics",
+          "Impeachment",
+          "Congress"
+        ],
+        "summary": "A leading House Democrat supports impeaching Pete Hegseth, signaling potential political conflict."
+      },
+      {
+        "keywords": [
+          "Business",
+          "Nvidia",
+          "China"
+        ],
+        "summary": "Nvidia is investigating its CEO's alleged ties to a Chinese spy, raising national security concerns."
+      },
+      {
+        "keywords": [
+          "Tech",
+          "Apple",
+          "AI Strategy"
+        ],
+        "summary": "Apple's CEO is pushing for a more aggressive AI strategy, indicating future product development focus."
+      },
+      {
+        "keywords": [
+          "World",
+          "Egypt",
+          "Accident"
+        ],
+        "summary": "A train crash in Egypt killed at least seven people and injured dozens, highlighting safety concerns."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "College Football"
+        ],
+        "summary": "Former NFL quarterback Philip Rivers is a leading coaching candidate for NC State."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -37,28 +89,28 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10673.94,
-        "changePct": -1.00828552509306
+        "changePct": -1.0086527493113988
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3649.177,
-        "changePct": -1.1039290649557651
+        "changePct": -1.1039022631988238
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 4054.277,
-        "changePct": -1.437590359922702
+        "changePct": -1.4375663986813816
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24481.86,
-        "changePct": -1.2707999119247546
+        "changePct": -1.2708795418800638
       }
     ]
   },
@@ -67,32 +119,32 @@
       {
         "joke": "My wife is furious with me. She realized I was cheating when she found the letter that I had hidden.\nWe're never playing Scrabble again.",
         "source": "r/Jokes",
-        "explanation": "Misdirection from marital infidelity to cheating in a board game."
+        "explanation": "Misdirection: \\\"cheating\\\" refers to a board game, not infidelity."
       },
       {
-        "joke": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right.",
+        "joke": "I was reading a great book about an immortal dog the other day. It was impossible to put down.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "on-a-treadmill",
-    "title": "On a treadmill",
-    "glossZh": "“像在跑步机上” 或 “重复且无效的努力”。",
-    "interpretationEn": "This phrase originates from the experience of using a treadmill. On a treadmill, no matter how hard you run, you don’t actually make any forward progress; you stay in the same place. This vividly describes a state of futile effort where there is a repetitive action but no substantive progress, commonly used to describe ineffective cycles in life or work.",
-    "interpretationZh": "这个短语起源于跑步机的使用体验。在跑步机上，无论你多么努力奔跑，其实并没有前进，仍旧停留在原地。这形象地描述了一种徒劳无功、重复努力却没有实质性进展的状态，常用来形容生活或工作中的无效循环。",
+    "id": "ace-in-the-hole",
+    "title": "Ace in the hole",
+    "glossZh": "“隐藏的王牌” 或 “秘密武器”。",
+    "interpretationEn": "This phrase originates from poker. In some poker games, certain cards of the players are not revealed, known as “<em>hole cards</em>”. If one of those hidden cards is an Ace, it’s referred to as an “<em>ace in the hole</em>”. Broadly, the idiom means having a hidden advantage or a secret strategy that can be used to turn a situation around at a critical moment.",
+    "interpretationZh": "这个短语起源于扑克游戏。在某些扑克游戏中，玩家的某些牌是不可见的 “<em>hole cards</em>”。如果这张隐蔽的牌是一张 “<em>Ace</em>”，就被称为 “ace in the hole”。在更广泛的用法中，这个短语表示拥有一个在关键时刻能扭转局势的秘密优势或策略。",
     "examples": [
       {
-        "en": "I feel like I’m just <em>on a treadmill</em> with these endless meetings and no real results.",
-        "zh": "我感觉这些无休止的会议没有实际成果，就像在跑步机上一样徒劳。"
+        "en": "We thought we were losing, but we had an <em>ace in the hole</em>.",
+        "zh": "我们以为要输了，但我们有一个隐藏的王牌。"
       },
       {
-        "en": "Working in customer service sometimes feels like being <em>on a treadmill</em>, handling the same complaints day after day.",
-        "zh": "在客服部门工作有时就像是在跑步机上，每天处理相同的投诉。"
+        "en": "His experience in negotiating is his <em>ace in the hole</em> during business meetings.",
+        "zh": "他在谈判方面的经验是他在商务会议上的秘密武器。"
       },
       {
-        "en": "She realized she was <em>on a treadmill</em> in her relationship, always trying but getting nowhere.",
-        "zh": "她意识到她的感情生活像在跑步机上一样，总是付出努力却没有进展。"
+        "en": "The new product launch is our <em>ace in the hole</em> for increasing sales this quarter.",
+        "zh": "新产品发布是我们本季度增加销售额的秘密武器。"
       }
     ]
   },
@@ -100,39 +152,37 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Jim Redman",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Jim_Redman%2C_Bestanddeelnr_916-5929_%28cropped%29.jpg/330px-Jim_Redman%2C_Bestanddeelnr_916-5929_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Zimbabwean motorcycle racer (born 1931)",
-        "extract": "James Albert Redman,  is a Rhodesian former professional motorcycle racer. He competed in Grand Prix motorcycle racing from 1959 to 1966. Redman is notable for being a six-time Grand Prix road racing world champion. In 2012, the F.I.M. inducted Redman into the MotoGP Hall of Fame.",
-        "born": 1931,
+        "name": "Malcolm Thomas (basketball, born 1988)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Malcolm_Thomas_%28basketball%2C_born_1988%29_23_BC_Khimki_EuroLeague_20180321_%283%29.jpg/330px-Malcolm_Thomas_%28basketball%2C_born_1988%29_23_BC_Khimki_EuroLeague_20180321_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American basketball player (born 1988)",
+        "extract": "Malcolm Iseiah Thomas is an American professional basketball player who last played for the Sagesse Club of the Lebanese Basketball League (LBL). He played college basketball for the San Diego State Aztecs, where he twice earned second-team All-Mountain West Conference (MWC) honors.",
+        "born": 1988,
         "highlights": [
-          "Six-time Grand Prix road racing world champion.",
-          "Inducted into the MotoGP Hall of Fame.",
-          "Rhodesian former professional motorcycle racer."
+          "American professional basketball player.",
+          "Last played for Sagesse Club of Lebanese Basketball League.",
+          "Earned second-team All-Mountain West Conference honors twice."
         ]
       },
       {
-        "name": "Stéphane Audran",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/StephaneAudran-StudioHarcourt-1965.png/330px-StephaneAudran-StudioHarcourt-1965.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French actress (1932–2018)",
-        "extract": "Stéphane Audran was a French film actress. She was known for her performances in the films of her husband Claude Chabrol, including Les Biches (1968) and Le Boucher (1970), Luis Buñuel's The Discreet Charm of the Bourgeoisie (1972), and Gabriel Axel's Babette's Feast (1987). The role she was mostly associated with was that of the haughty bourgeois woman.",
-        "born": 1932,
+        "name": "Bobby Bowden",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bobby_Bowden_2007.jpg/330px-Bobby_Bowden_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player and coach (1929–2021)",
+        "extract": "Robert Cleckler Bowden was an American college football coach. Bowden coached the Florida State Seminoles of Florida State University (FSU) from 1976 to 2009 and is considered one of the greatest college football coaches of all time for his accomplishments with the team.",
+        "born": 1929,
         "highlights": [
-          "Starred in Claude Chabrol's Les Biches and Le Boucher.",
-          "Appeared in Luis Buñuel's The Discreet Charm of the Bourgeoisie.",
-          "Also known for Gabriel Axel's Babette's Feast."
+          "American college football coach.",
+          "Coached Florida State Seminoles from 1976 to 2009.",
+          "Considered one of the greatest college football coaches."
         ]
       },
       {
-        "name": "Alfre Woodard",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Alfre_Woodard_VES3125.jpg/330px-Alfre_Woodard_VES3125.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (born 1952)",
-        "extract": "Alfre LaWanda Jeen Woodard is an American actress and producer. Known for portraying strong-willed and dignified roles on stage and screen, she has received various accolades, including four Emmy Awards, a Golden Globe Award, and three Screen Actors Guild Awards as well as nominations for an Academy Award, BAFTA Award, and two Grammy Awards. In 2020, The New York Times ranked her as one of \"The 25 Greatest Actors of the 21st Century\". She is a board member of the Academy of Motion Picture Arts and Sciences.",
-        "born": 1952,
+        "name": "Al Brosch",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/7/78/Al-Brosch.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American golfer (1911–1975)",
+        "extract": "Albert Wenzel \"Red\" Brosch was an American professional golfer.",
+        "born": 1911,
         "highlights": [
-          "Won four Emmy Awards and a Golden Globe.",
-          "Received three Screen Actors Guild Awards.",
-          "Named one of \"The 25 Greatest Actors of the 21st Century\"."
+          "American professional golfer."
         ]
       }
     ]
