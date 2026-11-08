@@ -37,6 +37,7 @@ import { fetchFamousPeople } from "./lib/famousPeople.mjs";
 import { generatePeopleHighlights } from "./lib/peopleBio.mjs";
 import { generateTopics } from "./lib/topics.mjs";
 import { generateJoke } from "./lib/joke.mjs";
+import { pickIdiom } from "./lib/idioms.mjs";
 
 /* ---------------- config ---------------- */
 
@@ -84,6 +85,13 @@ async function main() {
     console.error("joke AI failed:", err.message);
   }
 
+  let idiom = null;
+  try {
+    idiom = pickIdiom();
+  } catch (err) {
+    console.error("idiom pick failed:", err.message);
+  }
+
   let famousPeopleWithHighlights = famousPeople;
   if (famousPeople.length) {
     try {
@@ -99,6 +107,7 @@ async function main() {
     ...(hotTopics && { hotTopics }),
     ...(market && { market }),
     ...(joke && { joke }),
+    ...(idiom && { idiom }),
     ...(famousPeople.length && { famousPeople: { headline: "Born today", people: famousPeopleWithHighlights } }),
   };
 

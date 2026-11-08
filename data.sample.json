@@ -13,36 +13,91 @@
     "headline": "Today's buzz",
     "topics": [
       {
-        "keywords": ["US jobs report", "Fed"],
+        "keywords": [
+          "US jobs report",
+          "Fed"
+        ],
         "summary": "Markets watch this afternoon's release, expected to shape the Fed's next move."
       },
       {
-        "keywords": ["SpaceX", "Starship"],
+        "keywords": [
+          "SpaceX",
+          "Starship"
+        ],
         "summary": "Overnight test scrubbed due to weather; rescheduled for tomorrow."
       },
       {
-        "keywords": ["Wimbledon", "Upsets"],
+        "keywords": [
+          "Wimbledon",
+          "Upsets"
+        ],
         "summary": "Quarter-finals set after two seeds crash out in five-set thrillers."
       },
       {
-        "keywords": ["AI model launch"],
+        "keywords": [
+          "AI model launch"
+        ],
         "summary": "A new frontier model release is dominating tech chatter today."
       },
       {
-        "keywords": ["Europe heatwave"],
+        "keywords": [
+          "Europe heatwave"
+        ],
         "summary": "Southern Europe breaks early-July temperature records amid ongoing wildfires."
       }
     ]
   },
   "market": {
     "indices": [
-      { "region": "US", "name": "S&P 500", "symbol": "^GSPC", "price": 5537.02, "changePct": 0.51 },
-      { "region": "US", "name": "Nasdaq", "symbol": "^IXIC", "price": 18188.30, "changePct": 0.88 },
-      { "region": "Europe", "name": "Euro Stoxx 50", "symbol": "^STOXX50E", "price": 5012.34, "changePct": -0.23 },
-      { "region": "Europe", "name": "FTSE 100", "symbol": "^FTSE", "price": 8171.12, "changePct": 0.14 },
-      { "region": "Asia", "name": "SSE Composite", "symbol": "000001.SS", "price": 3021.45, "changePct": 0.42 },
-      { "region": "Asia", "name": "CSI 300", "symbol": "000300.SS", "price": 3512.88, "changePct": 0.28 },
-      { "region": "Asia", "name": "Hang Seng", "symbol": "^HSI", "price": 17799.61, "changePct": -0.34 }
+      {
+        "region": "US",
+        "name": "S&P 500",
+        "symbol": "^GSPC",
+        "price": 5537.02,
+        "changePct": 0.51
+      },
+      {
+        "region": "US",
+        "name": "Nasdaq",
+        "symbol": "^IXIC",
+        "price": 18188.3,
+        "changePct": 0.88
+      },
+      {
+        "region": "Europe",
+        "name": "Euro Stoxx 50",
+        "symbol": "^STOXX50E",
+        "price": 5012.34,
+        "changePct": -0.23
+      },
+      {
+        "region": "Europe",
+        "name": "FTSE 100",
+        "symbol": "^FTSE",
+        "price": 8171.12,
+        "changePct": 0.14
+      },
+      {
+        "region": "Asia",
+        "name": "SSE Composite",
+        "symbol": "000001.SS",
+        "price": 3021.45,
+        "changePct": 0.42
+      },
+      {
+        "region": "Asia",
+        "name": "CSI 300",
+        "symbol": "000300.SS",
+        "price": 3512.88,
+        "changePct": 0.28
+      },
+      {
+        "region": "Asia",
+        "name": "Hang Seng",
+        "symbol": "^HSI",
+        "price": 17799.61,
+        "changePct": -0.34
+      }
     ]
   },
   "joke": {
@@ -53,6 +108,27 @@
     "zh": {
       "joke": "我朋友说他戒糖了,结果我看他还在喝可乐。他说:\"这是无糖的,是精神鼓励。\""
     }
+  },
+  "idiom": {
+    "id": "a-bad-apple",
+    "title": "A bad apple",
+    "glossZh": "“害群之马” 或 “一个有害的个体”。",
+    "interpretationEn": "This phrase originates from the old saying “one bad apple spoils the whole barrel,” illustrating that a negative or harmful individual can affect the entirety of their surroundings or group. In modern usage, “a bad apple” continues to signify someone or something that negatively impacts a group.",
+    "interpretationZh": "这个短语的起源可以追溯到一条古老的谚语 “一个烂苹果会把整篮苹果都弄坏”。这表明，一个负面或有害的个体可能会影响周围的人或整个群体。因此，“a bad apple” 仍然用于指一个对群体有负面影响的人或事物。",
+    "examples": [
+      {
+        "en": "It only takes <em>a bad apple</em> to ruin the entire team dynamic.",
+        "zh": "只需一个害群之马就能破坏整个团队的氛围。"
+      },
+      {
+        "en": "They had to fire him because he was <em>a bad apple</em> disrupting the workplace harmony.",
+        "zh": "他们不得不开除他，因为他是一个破坏职场和谐的害群之马。"
+      },
+      {
+        "en": "Be careful who you trust in this business, <em>a bad apple</em> can cause a lot of damage.",
+        "zh": "在这个行业里，要小心信任谁，一个害群之马会造成很大的损害。"
+      }
+    ]
   },
   "famousPeople": {
     "headline": "Born today",

@@ -102,6 +102,27 @@
       "joke": "每次提交完工作，都感觉不是我完成了它，而是它放过了我。"
     }
   },
+  "idiom": {
+    "id": "dont-do-anything-i-wouldnt-do",
+    "title": "Don’t do anything I wouldn’t do",
+    "glossZh": "“别做我不会做的事情” 或 “别做出格的事情”。",
+    "interpretationEn": "This phrase is often used to humorously advise someone to stay out of trouble or not to engage in risky or inappropriate behaviors while you are not around. It usually carries a light-hearted or joking tone and is not meant to be very strict or severe.",
+    "interpretationZh": "这个短语通常用于提醒或者开玩笑地劝告他人，在你不在的情况下要保持稳重，不去做一些冒险或不合适的行为。它一般带有幽默或轻松的成分，并不意味着非常严格的规训。",
+    "examples": [
+      {
+        "en": "Have fun on your trip, and <em>don’t do anything I wouldn’t do!</em>",
+        "zh": "旅途愉快，别做我不会做的事情！"
+      },
+      {
+        "en": "Here are the house keys. While I’m gone, <em>don’t do anything I wouldn’t do.</em>",
+        "zh": "这是房子的钥匙。在我不在的时候，别做我不会做的事情。"
+      },
+      {
+        "en": "You kids have fun at the party, but <em>don’t do anything I wouldn’t do.</em>",
+        "zh": "你们在派对上玩得开心，但别做我不会做的事情。"
+      }
+    ]
+  },
   "famousPeople": {
     "headline": "Born today",
     "people": [
