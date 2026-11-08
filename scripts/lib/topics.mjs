@@ -19,20 +19,31 @@ export const TOPICS_SCHEMA = {
   required: ["topics"],
 };
 
-export async function generateTopics(entries) {
+export async function generateTopics(candidates, { count = 6 } = {}) {
+  const n = Math.min(count, candidates.length);
   const system =
-    `You summarize input entries into short topic bullets for a personal morning display board. ` +
-    `Produce exactly one topic per input entry, in the same order. ` +
-    `Each topic: 1-2 short keyword chips (each ≤3 words) and one scannable summary sentence (≤20 words). ` +
-    `For entries labeled "Trend", frame as "why it's buzzing"; for "News-US", keep a factual, headline tone. ` +
-    `Skip pure celebrity gossip / reality TV framing. Return JSON only.`;
-  const list = entries
-    .map((e, i) => `${i + 1}. [${e.label}] ${e.text}`)
+    `You are the editor of a personal morning briefing. From the candidate news stories below, ` +
+    `choose the ${n} most important things a well-informed person should know today. ` +
+    `Prioritize real-world significance and impact over popularity. ` +
+    `Ensure variety across areas (world, politics/national, business, technology, entertainment, sports); ` +
+    `avoid near-duplicate stories and do not let any single area dominate ` +
+    `(at most one sports story unless a second is truly major). ` +
+    `For each chosen story, write ONE concise, plain-language sentence (≤20 words) that rewrites the ` +
+    `headline and description into what happened and why it matters. ` +
+    `Do NOT use hype words like "buzzing", "trending", "viral", or "everyone's talking about". ` +
+    `Provide 1-2 short keyword chips (each ≤3 words); the first chip must be the story's category. ` +
+    `Return JSON only.`;
+  const list = candidates
+    .map((c, i) => {
+      const desc = c.description ? ` — ${c.description}` : "";
+      return `${i + 1}. [${c.category}] ${c.title}${desc}`;
+    })
     .join("\n");
   const user =
-    `Entries (produce exactly ${entries.length} topics, one per entry, same order):\n${list}\n\n` +
+    `Candidate stories:\n${list}\n\n` +
+    `Select the ${n} most important and diverse, ordered most important first.\n` +
     `Return JSON of shape:\n` +
-    `{ "topics": [ { "keywords": ["Tag 1", "Tag 2"], "summary": "One sentence." } ] }`;
+    `{ "topics": [ { "keywords": ["Category", "Tag"], "summary": "One sentence." } ] }`;
 
   const raw = await callAI({ system, user, temperature: 0.4, jsonSchema: TOPICS_SCHEMA });
   return parseAIJson(raw);

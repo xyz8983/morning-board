@@ -1,44 +1,58 @@
 {
-  "generatedAt": "2026-11-07T22:28:37.251Z",
+  "generatedAt": "2026-11-08T15:35:16.040Z",
   "weather": {
     "location": "New York City",
-    "tempC": 9.3,
+    "tempC": 13.1,
     "condition": "Light drizzle",
     "code": 51,
-    "highC": 16,
-    "lowC": 7.2,
-    "rainChance": 18
+    "highC": 16.1,
+    "lowC": 7.7,
+    "rainChance": 16
   },
   "hotTopics": {
-    "headline": "Today's buzz",
+    "headline": "Today's news",
     "topics": [
       {
         "keywords": [
-          "Boise State",
-          "Colorado State"
+          "World",
+          "Extremism"
         ],
-        "summary": "College basketball fans are buzzing about the Boise State vs. Colorado State game."
+        "summary": "Authorities stated a shooting in Kraków, which killed six, was motivated by far-right extremist views."
       },
       {
         "keywords": [
-          "Montana State",
-          "Idaho State"
+          "Business",
+          "AI Investment"
         ],
-        "summary": "Another college basketball matchup, Montana State vs. Idaho State, is generating buzz."
+        "summary": "Despite recent declines, AI stocks like Nvidia remain significant for investors to consider."
       },
       {
         "keywords": [
-          "NM State",
-          "Gonzaga"
+          "Business",
+          "Finance"
         ],
-        "summary": "The NM State vs. Gonzaga basketball game is a hot topic among sports enthusiasts."
+        "summary": "Berkshire Hathaway reported decreased operating earnings but increased share buybacks, impacting financial markets."
       },
       {
         "keywords": [
-          "Gabriel Lorenco",
-          "Athlete Buzz"
+          "World",
+          "Entertainment Industry"
         ],
-        "summary": "Gabriel Lorenco is buzzing due to recent athletic achievements and rising profile."
+        "summary": "Russell Brand's conviction raises significant questions about accountability within the UK entertainment industry."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "College Football"
+        ],
+        "summary": "Notre Dame upset top-ranked Miami, significantly boosting their college football playoff ranking."
+      },
+      {
+        "keywords": [
+          "US",
+          "Road Safety"
+        ],
+        "summary": "A vehicle struck a cycling group in Wake County, killing one person and injuring seven others."
       }
     ]
   },
@@ -77,7 +91,7 @@
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3649.177,
-        "changePct": -1.1039022631988238
+        "changePct": -1.1039290649557651
       },
       {
         "region": "Asia",
@@ -91,37 +105,37 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24481.86,
-        "changePct": -1.2708795418800638
+        "changePct": -1.2707999119247546
       }
     ]
   },
   "joke": {
     "en": {
-      "joke": "I've been on mute so long during video calls, my mic probably forgot my voice.",
-      "explanation": "It's an ironic exaggeration about the common remote work experience of silently observing, humorously implying a mic's sentience."
+      "joke": "My most intense workout of the day is trying to skip a 30-second ad on YouTube.",
+      "explanation": "It's a relatable, ironic take on modern digital life and the minimal effort of 'working out'."
     },
     "zh": {
-      "joke": "我的微信运动步数比我本人的行动力还高。"
+      "joke": "我最近开始养生了，具体表现为：熬夜的时候，手边一定会放一杯枸杞水，以示对健康的尊重。"
     }
   },
   "idiom": {
-    "id": "dont-do-anything-i-wouldnt-do",
-    "title": "Don’t do anything I wouldn’t do",
-    "glossZh": "“别做我不会做的事情” 或 “别做出格的事情”。",
-    "interpretationEn": "This phrase is often used to humorously advise someone to stay out of trouble or not to engage in risky or inappropriate behaviors while you are not around. It usually carries a light-hearted or joking tone and is not meant to be very strict or severe.",
-    "interpretationZh": "这个短语通常用于提醒或者开玩笑地劝告他人，在你不在的情况下要保持稳重，不去做一些冒险或不合适的行为。它一般带有幽默或轻松的成分，并不意味着非常严格的规训。",
+    "id": "fight-an-uphill-battle",
+    "title": "Fight an uphill battle",
+    "glossZh": "“艰难地奋斗” 或 “面临艰巨的挑战”。",
+    "interpretationEn": "This phrase originates from a military term, referring to soldiers having a harder time fighting uphill due to their disadvantageous position. Over time, the phrase has been adopted into everyday language to describe any difficult task or challenge that requires significant effort to overcome.",
+    "interpretationZh": "这个短语源于军事术语，指士兵们在上坡时作战会更艰难，因地势较低的一方处于劣势。后来，这个短语被借用到日常生活中，用来形容一件很困難并需要付出极大努力去争取成功的事。",
     "examples": [
       {
-        "en": "Have fun on your trip, and <em>don’t do anything I wouldn’t do!</em>",
-        "zh": "旅途愉快，别做我不会做的事情！"
+        "en": "Starting a new business in this economy feels like fighting an <em>uphill battle</em>.",
+        "zh": "在当前的经济环境下创业感觉就像在艰难地奋斗。"
       },
       {
-        "en": "Here are the house keys. While I’m gone, <em>don’t do anything I wouldn’t do.</em>",
-        "zh": "这是房子的钥匙。在我不在的时候，别做我不会做的事情。"
+        "en": "He knew he was fighting an <em>uphill battle</em> trying to change the company’s old habits.",
+        "zh": "他知道试图改变公司的陈旧习惯是一场艰难地奋斗。"
       },
       {
-        "en": "You kids have fun at the party, but <em>don’t do anything I wouldn’t do.</em>",
-        "zh": "你们在派对上玩得开心，但别做我不会做的事情。"
+        "en": "She’s been fighting an <em>uphill battle</em> to gain recognition in her field.",
+        "zh": "她一直在艰难地奋斗，试图在她的领域获得认可。"
       }
     ]
   },
@@ -129,37 +143,37 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "David Petraeus",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/DCIA_David_Petraeus.jpg/330px-DCIA_David_Petraeus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American U.S. Army general (born 1952)",
-        "extract": "David Howell Petraeus is a retired United States Army general who served as the fourth director of the Central Intelligence Agency (CIA) from September 2011 until his resignation in November 2012. Prior to his assuming the directorship of the CIA, Petraeus served 37 years in the United States Army. His last assignments in the Army were as commander of the International Security Assistance Force (ISAF) and commander, U.S. Forces – Afghanistan (USFOR-A) from July 2010 to July 2011. His other four-star assignments include serving as the 10th commander, U.S. Central Command (USCENTCOM) from October 2008 to June 2010, and as commanding general, Multi-National Force – Iraq (MNF-I) from February 2007 to September 2008. As commander of MNF-I, Petraeus oversaw all coalition forces in Iraq.",
-        "born": 1952,
-        "highlights": [
-          "Director of the Central Intelligence Agency (CIA).",
-          "Commander of International Security Assistance Force (ISAF).",
-          "Commanding general, Multi-National Force – Iraq (MNF-I)."
-        ]
-      },
-      {
-        "name": "Christian Gómez",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ChristianGomez20050717.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Argentine footballer",
-        "extract": "Christian Gómez is an Argentine former professional footballer who played as a midfielder.",
+        "name": "Joshua Ferris",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Joshua_Ferris_reading.jpg/330px-Joshua_Ferris_reading.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American author (born 1974)",
+        "extract": "Joshua Ferris is an American author best known for his debut novel Then We Came to the End (2007). The novel is a comedy about the American workplace, is narrated in the first-person plural, and is set in a fictitious Chicago ad agency facing challenges at the end of the 1990s Internet boom.",
         "born": 1974,
         "highlights": [
-          "Argentine former professional footballer who played as a midfielder."
+          "Author of debut novel Then We Came to the End (2007).",
+          "Novel is a comedy about the American workplace.",
+          "Narrated in the first-person plural."
         ]
       },
       {
-        "name": "Mark Philippoussis",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mark_Philippoussis_%282023_US_Open%29_01_%28cropped%29.jpg/330px-Mark_Philippoussis_%282023_US_Open%29_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian tennis player (born 1976)",
-        "extract": "Mark Anthony Philippoussis is an Australian tennis coach, commentator and former professional tennis player of Greek and Italian descent. Philippoussis' greatest achievements are winning two Davis Cup titles with Australia in 1999 and 2003, winning the deciding rubber in the final of each. He also reached the final of the 1998 US Open and the 2003 Wimbledon singles tournaments. Philippoussis reached a career-high singles ranking of world No. 8.",
-        "born": 1976,
+        "name": "Michael D. Brown",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Michael_D._Brown%2C_official_FEMA_photo_portrait%2C_2003.jpg/330px-Michael_D._Brown%2C_official_FEMA_photo_portrait%2C_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Director of the U.S. Federal Emergency Management Agency from 2003 to 2005",
+        "extract": "Michael DeWayne Brown is an American attorney, and former government official who served as the administrator of the Federal Emergency Management Agency (FEMA) from 2003 to 2005. He joined FEMA as general counsel in 2001 and became deputy director the same year. Appointed in January 2003 by President George W. Bush to lead FEMA, Brown resigned in September 2005 following his controversial handling of Hurricane Katrina. Brown currently hosts a radio talk show on 630 KHOW in Denver, Colorado.",
+        "born": 1954,
         "highlights": [
-          "Won two Davis Cup titles with Australia (1999, 2003).",
-          "Reached 1998 US Open and 2003 Wimbledon singles finals.",
-          "Achieved career-high singles ranking of world No. 8."
+          "Administrator of FEMA from 2003 to 2005.",
+          "Joined FEMA as general counsel in 2001.",
+          "Resigned from FEMA after Hurricane Katrina."
+        ]
+      },
+      {
+        "name": "Chris Connor",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chris_Connor--Circa_1950.jpg/330px-Chris_Connor--Circa_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American jazz singer (1927–2009)",
+        "extract": "Mary Jean Loutsenhizer, known professionally as Chris Connor, was an American jazz singer.",
+        "born": 1927,
+        "highlights": [
+          "American jazz singer."
         ]
       }
     ]
