@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-08T22:38:51.741Z",
+  "generatedAt": "2026-11-09T22:52:49.286Z",
   "weather": {
     "location": "New York City",
-    "tempC": 12.3,
-    "condition": "Light drizzle",
-    "code": 51,
-    "highC": 16,
-    "lowC": 7.7,
-    "rainChance": 16
+    "tempC": 11.4,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 15.1,
+    "lowC": 6.9,
+    "rainChance": 4
   },
   "hotTopics": {
     "headline": "Today's news",
@@ -15,49 +15,44 @@
       {
         "keywords": [
           "World",
-          "Vatican",
-          "Argentina"
+          "Legal outcome"
         ],
-        "summary": "Pope Francis arrived in Argentina, his home country, for a politically sensitive visit with President Milei."
+        "summary": "Russell Brand received a 10.5-year jail sentence for rape and sexual assault, marking a major legal consequence."
       },
       {
         "keywords": [
           "US/Politics",
-          "Impeachment",
-          "Congress"
+          "Border policy"
         ],
-        "summary": "A leading House Democrat supports impeaching Pete Hegseth, signaling potential political conflict."
+        "summary": "The Supreme Court allowed construction of Trump's border wall in Big Bend, impacting immigration policy."
       },
       {
         "keywords": [
           "Business",
-          "Nvidia",
-          "China"
+          "Stock market"
         ],
-        "summary": "Nvidia is investigating its CEO's alleged ties to a Chinese spy, raising national security concerns."
+        "summary": "Major stock indexes surged, with the Dow up 1,100 points, indicating a significant market rebound for investors."
       },
       {
         "keywords": [
           "Tech",
-          "Apple",
-          "AI Strategy"
+          "Cybersecurity"
         ],
-        "summary": "Apple's CEO is pushing for a more aggressive AI strategy, indicating future product development focus."
+        "summary": "A critical vulnerability allowing hackers to access Linux devices is actively exploited, posing a significant cybersecurity risk."
       },
       {
         "keywords": [
           "World",
-          "Egypt",
-          "Accident"
+          "Cyberattack"
         ],
-        "summary": "A train crash in Egypt killed at least seven people and injured dozens, highlighting safety concerns."
+        "summary": "France accused Iran of hacking supermarket fridges, highlighting potential state-sponsored cyberattacks on civilian infrastructure."
       },
       {
         "keywords": [
           "Sports",
-          "College Football"
+          "NFL trade"
         ],
-        "summary": "Former NFL quarterback Philip Rivers is a leading coaching candidate for NC State."
+        "summary": "The Jaguars acquired Eagles DT Jordan Davis in a major trade, significantly impacting both NFL teams."
       }
     ]
   },
@@ -67,84 +62,84 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7376.86,
-        "changePct": 0.31453425676493574
+        "price": 7549.94,
+        "changePct": 2.346255723980121
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24579.424,
-        "changePct": 1.087493316882579
+        "price": 25253.139,
+        "changePct": 2.740971472724504
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6170.49,
-        "changePct": -0.9796936230851473
+        "price": 6290.45,
+        "changePct": 1.9440919602819233
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10673.94,
-        "changePct": -1.0086527493113988
+        "price": 10782.87,
+        "changePct": 1.0205228809605478
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3649.177,
-        "changePct": -1.1039022631988238
+        "price": 3660.792,
+        "changePct": 0.31820847423256954
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4054.277,
-        "changePct": -1.4375663986813816
+        "price": 4056.108,
+        "changePct": 0.0450881537535635
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24481.86,
-        "changePct": -1.2708795418800638
+        "price": 24448.95,
+        "changePct": -0.1344260607649903
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "My wife is furious with me. She realized I was cheating when she found the letter that I had hidden.\nWe're never playing Scrabble again.",
+        "joke": "What’s made of flour and butter, and sounds like a wolf?\nA roooouuux!",
         "source": "r/Jokes",
-        "explanation": "Misdirection: \\\"cheating\\\" refers to a board game, not infidelity."
+        "explanation": "The pun relies on \\\"roux\\\" sounding like a wolf's howl (\\\"roo\\\")."
       },
       {
-        "joke": "I was reading a great book about an immortal dog the other day. It was impossible to put down.",
+        "joke": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "ace-in-the-hole",
-    "title": "Ace in the hole",
-    "glossZh": "“隐藏的王牌” 或 “秘密武器”。",
-    "interpretationEn": "This phrase originates from poker. In some poker games, certain cards of the players are not revealed, known as “<em>hole cards</em>”. If one of those hidden cards is an Ace, it’s referred to as an “<em>ace in the hole</em>”. Broadly, the idiom means having a hidden advantage or a secret strategy that can be used to turn a situation around at a critical moment.",
-    "interpretationZh": "这个短语起源于扑克游戏。在某些扑克游戏中，玩家的某些牌是不可见的 “<em>hole cards</em>”。如果这张隐蔽的牌是一张 “<em>Ace</em>”，就被称为 “ace in the hole”。在更广泛的用法中，这个短语表示拥有一个在关键时刻能扭转局势的秘密优势或策略。",
+    "id": "acid-test",
+    "title": "Acid test",
+    "glossZh": "“严格考验” 或 “最终检验”。",
+    "interpretationEn": "The “<em>acid test</em>” originates from the 19th century, where people used acidic solutions (<em>often nitric acid</em>) to test the purity of gold. If the metal passed this acidic test, it was considered genuine gold; otherwise, it was fake. Nowadays, this phrase is used to describe a final test or extreme situation to determine the validity, quality, or reliability of something or someone.",
+    "interpretationZh": "“<em>Acid test</em>” 起源于 19 世纪，当时人们使用酸性试剂（通常是硝酸）来测试黄金的纯度。如果金属通过了这种酸性检验，它就被认为是真金，反之则是假货。今天，这个短语被用来描述一种最终测试或极端的情况，以检验某物、某事物或某人。",
     "examples": [
       {
-        "en": "We thought we were losing, but we had an <em>ace in the hole</em>.",
-        "zh": "我们以为要输了，但我们有一个隐藏的王牌。"
+        "en": "The <em>acid test</em> for the new product will be how well it sells in the market.",
+        "zh": "对于新产品的最终检验将是它在市场上的销售情况。"
       },
       {
-        "en": "His experience in negotiating is his <em>ace in the hole</em> during business meetings.",
-        "zh": "他在谈判方面的经验是他在商务会议上的秘密武器。"
+        "en": "Facing a crisis is often the <em>acid test</em> of true leadership.",
+        "zh": "面对危机常常是真正领导能力的严峻考验。"
       },
       {
-        "en": "The new product launch is our <em>ace in the hole</em> for increasing sales this quarter.",
-        "zh": "新产品发布是我们本季度增加销售额的秘密武器。"
+        "en": "Launching the new app is the <em>acid test</em> for our development team’s skills.",
+        "zh": "发布新应用程序是对我们开发团队技能的终极检验。"
       }
     ]
   },
@@ -152,37 +147,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Malcolm Thomas (basketball, born 1988)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Malcolm_Thomas_%28basketball%2C_born_1988%29_23_BC_Khimki_EuroLeague_20180321_%283%29.jpg/330px-Malcolm_Thomas_%28basketball%2C_born_1988%29_23_BC_Khimki_EuroLeague_20180321_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball player (born 1988)",
-        "extract": "Malcolm Iseiah Thomas is an American professional basketball player who last played for the Sagesse Club of the Lebanese Basketball League (LBL). He played college basketball for the San Diego State Aztecs, where he twice earned second-team All-Mountain West Conference (MWC) honors.",
-        "born": 1988,
+        "name": "Louisa E. Rhine",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Louisa_E._Rhine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Botanist and parapsychologist",
+        "extract": "Louisa Ella Rhine was an American doctor of botany and is known for her work in parapsychology. At the time of her death, she was recognized as the foremost researcher of spontaneous psychic experiences, and has been referred to as the \"first lady of parapsychology.\"",
+        "born": 1891,
         "highlights": [
-          "American professional basketball player.",
-          "Last played for Sagesse Club of Lebanese Basketball League.",
-          "Earned second-team All-Mountain West Conference honors twice."
+          "Foremost researcher of spontaneous psychic experiences.",
+          "Known as the \"first lady of parapsychology.\"",
+          "American doctor of botany."
         ]
       },
       {
-        "name": "Bobby Bowden",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bobby_Bowden_2007.jpg/330px-Bobby_Bowden_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player and coach (1929–2021)",
-        "extract": "Robert Cleckler Bowden was an American college football coach. Bowden coached the Florida State Seminoles of Florida State University (FSU) from 1976 to 2009 and is considered one of the greatest college football coaches of all time for his accomplishments with the team.",
-        "born": 1929,
+        "name": "Chitresh Das",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Chitresh_Das2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Indian dancer, choreographer and educator",
+        "extract": "Chitresh Das was a classical dancer of the North Indian style of Kathak. Born in Calcutta, Das was a performer, choreographer, composer and educator. He was instrumental in bringing Kathak to the US and is credited with having established Kathak amongst the Indian diaspora in America. In 1979, Das established the Chhandam School of Kathak and the Chitresh Das Dance Company in California. In 2002, he founded Chhandam Nritya Bharati in India. There were ten branches of Chhandam worldwide. Until his death in 2015, Das taught dance as a way of life, a path for attaining self-knowledge and as a service to society.",
+        "born": 1944,
         "highlights": [
-          "American college football coach.",
-          "Coached Florida State Seminoles from 1976 to 2009.",
-          "Considered one of the greatest college football coaches."
+          "Classical dancer of North Indian Kathak style.",
+          "Instrumental in bringing Kathak to the US.",
+          "Established Chhandam School of Kathak and Dance Company."
         ]
       },
       {
-        "name": "Al Brosch",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/7/78/Al-Brosch.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American golfer (1911–1975)",
-        "extract": "Albert Wenzel \"Red\" Brosch was an American professional golfer.",
-        "born": 1911,
+        "name": "Roger McGough",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ossett_-FestivalInADay_-Observer150_-_Saturday_20.09.2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "English poet and performer (b. 1937)",
+        "extract": "Roger Joseph McGough is an English poet, performance poet, broadcaster, children's author and playwright. He presents the BBC Radio 4 programme Poetry Please, as well as performing his own poetry. McGough was one of the leading members of the Liverpool poets, a group of young poets influenced by Beat poetry and the popular music and culture of 1960s Liverpool. He is an honorary fellow of Liverpool John Moores University, a fellow of the Royal Society of Literature and President of the Poetry Society.",
+        "born": 1937,
         "highlights": [
-          "American professional golfer."
+          "English poet, broadcaster, children's author, playwright.",
+          "Presents BBC Radio 4 programme Poetry Please.",
+          "Leading member of the Liverpool poets."
         ]
       }
     ]
