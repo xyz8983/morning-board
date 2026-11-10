@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T20:14:29.473Z",
+  "generatedAt": "2026-11-10T23:53:54.452Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.2,
+    "tempC": 13.9,
     "condition": "Overcast",
     "code": 3,
-    "highC": 17.3,
+    "highC": 17.6,
     "lowC": 7.2,
     "rainChance": 0
   },
@@ -15,50 +15,44 @@
       {
         "keywords": [
           "World",
-          "Diplomacy",
-          "Ukraine War"
+          "Diplomacy"
         ],
-        "summary": "Russia and Ukraine held US-mediated talks in Abu Dhabi, suggesting diplomatic efforts to resolve their ongoing conflict."
-      },
-      {
-        "keywords": [
-          "World",
-          "Geopolitics",
-          "Iran"
-        ],
-        "summary": "The U.S. moved military aircraft from a British base, adjusting its strategic posture amid rising threats from Iran."
+        "summary": "Russia and Ukraine held US-mediated talks in Abu Dhabi, a rare diplomatic effort to address the ongoing conflict."
       },
       {
         "keywords": [
           "US/Politics",
-          "House Leadership",
-          "GOP"
+          "Impeachment"
         ],
-        "summary": "Jim Jordan became the new House GOP leader, a significant shift impacting the Republican party's legislative agenda."
+        "summary": "House Republicans are moving towards an impeachment vote today, sparking debate over its political motivations."
       },
       {
         "keywords": [
           "Business",
-          "National Security",
-          "Nvidia"
+          "Nvidia Subpoena"
         ],
-        "summary": "Allegations of Nvidia's CEO having an affair with a Chinese spy raise serious national security and economic concerns."
+        "summary": "House Republicans may subpoena Nvidia's CEO, signaling increased government scrutiny on the influential chipmaker."
       },
       {
         "keywords": [
-          "Tech",
-          "AI",
-          "Google"
+          "US/Politics",
+          "House Leadership"
         ],
-        "summary": "Google launched Gemini 4 Carbon with an agent 'swarm' feature, marking a significant advancement in artificial intelligence."
+        "summary": "Republicans elected Jim Jordan as House minority leader, signaling a shift in party direction after recent defeats."
       },
       {
         "keywords": [
-          "Sports",
-          "NFL",
-          "Trade"
+          "Entertainment",
+          "Misconduct Allegations"
         ],
-        "summary": "Kirk Cousins rejoined the Vikings in a trade with the Raiders, significantly impacting both NFL teams' quarterback situations."
+        "summary": "British author David Walliams faces sexual misconduct accusations, raising concerns about accountability in entertainment."
+      },
+      {
+        "keywords": [
+          "Business",
+          "Earnings Report"
+        ],
+        "summary": "CoreWeave's earnings exceeded expectations, helping to calm market concerns about the tech sector's performance."
       }
     ]
   },
@@ -68,15 +62,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7509.36,
-        "changePct": -0.537487715134159
+        "price": 7520.93,
+        "changePct": -0.38424146417056704
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25003.25,
-        "changePct": -0.989536389911762
+        "price": 25065.875,
+        "changePct": -0.7415474171349519
       },
       {
         "region": "Europe",
@@ -120,32 +114,32 @@
       {
         "joke": "There's a reason World War I ended exactly on the eleventh day of the eleventh month (11/11/1918)\nThey needed to make sure the Americans stopped fighting on the same date everyone else did.",
         "source": "r/Jokes",
-        "explanation": "{\n  \"note\": \"Jokes about American eagerness to fight, needing a specific date to stop.\"\n}"
+        "explanation": "{\n  \"explanation\": \"Highlights American date format differences and perceived need for unique instructions.\"\n}"
       },
       {
-        "joke": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
+        "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "mad-as-a-hornet",
-    "title": "Mad as a hornet",
-    "glossZh": "“非常生气” 或 “怒不可遏”。",
-    "interpretationEn": "This phrase comes from the behavior traits of hornets. Hornets are highly aggressive insects that become very violent and threatening when disturbed or provoked. Therefore, “<em>mad as a hornet</em>” is used to describe someone who is extremely angry, as angry and irrational as a provoked hornet.",
-    "interpretationZh": "这个短语来源于黄蜂（hornet）的行为特征。黄蜂是一种攻击性很强的昆虫，当它们受惊或被激怒时会非常狂暴和具有威胁性。因而，“mad as a hornet” 用来形容一个人非常愤怒，像被激怒的黄蜂一样愤怒和不可理喻。",
+    "id": "zip-it",
+    "title": "Zip it",
+    "glossZh": "“闭嘴” 或 “安静”。",
+    "interpretationEn": "This phrase is often used in informal contexts to tell someone to stop talking. It originates from the action of zipping a zipper. You can imagine closing your mouth like a zipper, thus speaking no more. It usually carries a somewhat stern or serious tone, so be mindful of the context in which you use it.",
+    "interpretationZh": "这个短语通常用于非正式场合，要求对方停止说话，源自于拉链的动作。可以想象把嘴像拉链一样拉上，从而不再说话。它通常带有一点严厉或者严肃的语气，因此需要注意使用的场合。",
     "examples": [
       {
-        "en": "He was <em>mad as a hornet</em> when he found out someone had scratched his new car.",
-        "zh": "当他发现有人划了他的新车时，他气得怒不可遏。"
+        "en": "The teacher told the noisy students to <em>zip it</em> during the lesson.",
+        "zh": "老师叫吵闹的学生在上课期间闭嘴。"
       },
       {
-        "en": "She got <em>mad as a hornet</em> when her coworker took credit for her idea.",
-        "zh": "当她的同事把她的主意据为己有时，她非常生气。"
+        "en": "If you can’t say anything nice, then <em>zip it</em>.",
+        "zh": "如果你不能说点好话，那就闭嘴吧。"
       },
       {
-        "en": "You better apologize quickly, or he’ll be <em>mad as a hornet</em>.",
-        "zh": "你最好快点道歉，否则他会非常生气的。"
+        "en": "He was about to reveal the surprise, but she quickly told him to <em>zip it</em>.",
+        "zh": "他差点泄露惊喜，但她赶紧叫他闭嘴。"
       }
     ]
   },
@@ -153,39 +147,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "William Hogarth",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Painter_and_His_Pug_by_William_Hogarth.jpg/330px-The_Painter_and_His_Pug_by_William_Hogarth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English artist and writer (1697–1764)",
-        "extract": "William Hogarth was an English painter, engraver, cartoonist, and satirist. His work ranges from realistic portraiture to comic strip-like series of pictures called \"modern moral subjects\", and he is perhaps best known for his series A Harlot's Progress, A Rake's Progress and Marriage A-la-Mode. Familiarity with his work is so widespread that satirical political illustrations in this style are often referred to as \"Hogarthian\".",
-        "born": 1697,
+        "name": "Goran Jerković (footballer, born 1986)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Goran_jerko.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "French footballer (born 1986)",
+        "extract": "Goran Jerković is a French former professional footballer who played as a forward. He ended his career in 2021.",
+        "born": 1986,
         "highlights": [
-          "Best known for \"A Harlot's Progress\".",
-          "Created \"A Rake's Progress\" and \"Marriage A-la-Mode\".",
-          "His style inspired \"Hogarthian\" satirical illustrations."
+          "French former professional footballer.",
+          "Played as a forward.",
+          "Ended his career in 2021."
         ]
       },
       {
-        "name": "François Couperin",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Francois_Couperin_2.jpg/330px-Francois_Couperin_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French composer (1668–1733)",
-        "extract": "François Couperin was a French Baroque composer, organist and harpsichordist. He was known as Couperin le Grand to distinguish him from other members of the musically talented Couperin family.",
-        "born": 1668,
+        "name": "Jaroslav Hlinka",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jaroslav_Hlinka.jpg/330px-Jaroslav_Hlinka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Czech ice hockey player (born 1976)",
+        "extract": "Jaroslav Hlinka is a Czech former professional ice hockey forward who played in the National Hockey League for the Colorado Avalanche. He is currently the Sports manager for his longtime club, HC Sparta Praha of the Czech Extraliga.",
+        "born": 1976,
         "highlights": [
-          "French Baroque composer, organist, and harpsichordist.",
-          "Known as \"Couperin le Grand\".",
-          "Distinguished from other musically talented family members."
+          "Czech former professional ice hockey forward.",
+          "Played for the Colorado Avalanche in NHL.",
+          "Currently Sports manager for HC Sparta Praha."
         ]
       },
       {
-        "name": "Michael Cimino (actor)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Michael_Cimino_by_Gage_Skidmore.jpg/330px-Michael_Cimino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (born 1999)",
-        "extract": "Michael Cimino is an American actor. He is known for his roles as Victor Salazar in the Hulu television series Love, Victor, Bob Palmeri in Annabelle Comes Home and Ethan Morales on Never Have I Ever. Since 2022, he has voiced Kevin Grant-Gomez from the Disney Channel animated series Hamster & Gretel. On November 10, 2022, he released his debut EP, I'm Somewhere Out There. For his role in Love, Victor, Cimino was nominated for Imagen Awards for all three seasons of the show, winning consecutive Best Actor - Comedy (Television) awards in 2021 and 2022.",
-        "born": 1999,
+        "name": "Nigel Evans",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Official_portrait_of_Mr_Nigel_Evans_crop_2.jpg/330px-Official_portrait_of_Mr_Nigel_Evans_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British Conservative politician (born 1957)",
+        "extract": "Nigel Martin Evans is a former British Conservative Party politician who served as the Member of Parliament (MP) for Ribble Valley in Lancashire from 1992 until 2024. He was Joint Executive Secretary of the 1922 Committee from 2017 to 2019. He served as First Deputy Chairman of Ways and Means, one of the Speaker's three deputies, from 2010 to 2013. He was elected as Second Deputy Chairman of Ways and Means in 2020.",
+        "born": 1957,
         "highlights": [
-          "Starred as Victor Salazar in Hulu's Love, Victor.",
-          "Voiced Kevin Grant-Gomez in Hamster & Gretel.",
-          "Won Imagen Awards for Best Actor in Love, Victor."
+          "MP for Ribble Valley from 1992 until 2024.",
+          "Served as First Deputy Chairman of Ways and Means.",
+          "Joint Executive Secretary of the 1922 Committee."
         ]
       }
     ]
