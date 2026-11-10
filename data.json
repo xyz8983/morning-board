@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T22:52:49.286Z",
+  "generatedAt": "2026-11-10T01:51:50.339Z",
   "weather": {
     "location": "New York City",
-    "tempC": 11.4,
+    "tempC": 9.8,
     "condition": "Overcast",
     "code": 3,
     "highC": 15.1,
-    "lowC": 6.9,
+    "lowC": 7.6,
     "rainChance": 4
   },
   "hotTopics": {
@@ -15,44 +15,44 @@
       {
         "keywords": [
           "World",
-          "Legal outcome"
+          "Cyberattack"
         ],
-        "summary": "Russell Brand received a 10.5-year jail sentence for rape and sexual assault, marking a major legal consequence."
+        "summary": "France accused Iran of cyberattacks targeting supermarket refrigeration systems, escalating international tensions."
       },
       {
         "keywords": [
           "US/Politics",
-          "Border policy"
+          "Border Wall"
         ],
-        "summary": "The Supreme Court allowed construction of Trump's border wall in Big Bend, impacting immigration policy."
+        "summary": "The Supreme Court allowed construction of a border wall section in Texas, advancing a key Trump administration policy."
       },
       {
         "keywords": [
           "Business",
-          "Stock market"
+          "Streaming Merger"
         ],
-        "summary": "Major stock indexes surged, with the Dow up 1,100 points, indicating a significant market rebound for investors."
+        "summary": "Skydance announced cost savings and a bundled streaming service for HBO Max and Paramount+ post-merger."
       },
       {
         "keywords": [
           "Tech",
-          "Cybersecurity"
+          "Security Update"
         ],
-        "summary": "A critical vulnerability allowing hackers to access Linux devices is actively exploited, posing a significant cybersecurity risk."
+        "summary": "Apple released iOS 27.2.1 to fix critical security vulnerabilities in Messages, AirPlay, and other features."
       },
       {
         "keywords": [
-          "World",
-          "Cyberattack"
+          "Entertainment",
+          "DC Studios"
         ],
-        "summary": "France accused Iran of hacking supermarket fridges, highlighting potential state-sponsored cyberattacks on civilian infrastructure."
+        "summary": "James Gunn and Peter Safran exited leadership roles at DC Studios following the recent corporate merger."
       },
       {
         "keywords": [
           "Sports",
-          "NFL trade"
+          "NFL Trade"
         ],
-        "summary": "The Jaguars acquired Eagles DT Jordan Davis in a major trade, significantly impacting both NFL teams."
+        "summary": "The Jaguars acquired defensive tackle Jordan Davis from the Eagles in a significant NFL trade."
       }
     ]
   },
@@ -70,7 +70,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 25253.139,
-        "changePct": 2.740971472724504
+        "changePct": 2.7410717918256657
       },
       {
         "region": "Europe",
@@ -90,56 +90,56 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3660.792,
-        "changePct": 0.31820847423256954
+        "price": 3676.1516,
+        "changePct": 0.4195786392325989
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4056.108,
-        "changePct": 0.0450881537535635
+        "price": 4076.3545,
+        "changePct": 0.4991558164054843
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24448.95,
-        "changePct": -0.1344260607649903
+        "price": 24534.62,
+        "changePct": 0.3504035960644455
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "What’s made of flour and butter, and sounds like a wolf?\nA roooouuux!",
+        "joke": "How is a male prostitute like Inspector Clouseau?\nThey're both Peter Sellers",
         "source": "r/Jokes",
-        "explanation": "The pun relies on \\\"roux\\\" sounding like a wolf's howl (\\\"roo\\\")."
+        "explanation": "Wordplay on Peter Sellers, referring to the actor and selling a penis."
       },
       {
-        "joke": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+        "joke": "A horse walks into a bar.\n\"Hey\", the Bartender says.\n\"Sure\", the horse replies.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "acid-test",
-    "title": "Acid test",
-    "glossZh": "“严格考验” 或 “最终检验”。",
-    "interpretationEn": "The “<em>acid test</em>” originates from the 19th century, where people used acidic solutions (<em>often nitric acid</em>) to test the purity of gold. If the metal passed this acidic test, it was considered genuine gold; otherwise, it was fake. Nowadays, this phrase is used to describe a final test or extreme situation to determine the validity, quality, or reliability of something or someone.",
-    "interpretationZh": "“<em>Acid test</em>” 起源于 19 世纪，当时人们使用酸性试剂（通常是硝酸）来测试黄金的纯度。如果金属通过了这种酸性检验，它就被认为是真金，反之则是假货。今天，这个短语被用来描述一种最终测试或极端的情况，以检验某物、某事物或某人。",
+    "id": "at-the-end-of-your-rope",
+    "title": "At the end of your rope",
+    "glossZh": "“走投无路” 或 “忍无可忍”。",
+    "interpretationEn": "This phrase originates from farm work, referring to the point where a rope has reached its maximum length. It symbolizes someone having exhausted all means or patience. It is often used to convey extreme fatigue or helplessness.",
+    "interpretationZh": "这个短语源自农场工作，用来表示一条绳子到了尽头。比喻某人已经使尽了最后的手段或忍耐到了极限。通常用于表达极度的疲劳或无助。",
     "examples": [
       {
-        "en": "The <em>acid test</em> for the new product will be how well it sells in the market.",
-        "zh": "对于新产品的最终检验将是它在市场上的销售情况。"
+        "en": "I’m really <em>at the end of my rope</em> with this project; nothing seems to work.",
+        "zh": "我对这个项目真的走投无路了；没有什么方案有效。"
       },
       {
-        "en": "Facing a crisis is often the <em>acid test</em> of true leadership.",
-        "zh": "面对危机常常是真正领导能力的严峻考验。"
+        "en": "She was <em>at the end of her rope</em>, unable to find a solution to her problems.",
+        "zh": "她已经忍无可忍，无法找到解决问题的方法。"
       },
       {
-        "en": "Launching the new app is the <em>acid test</em> for our development team’s skills.",
-        "zh": "发布新应用程序是对我们开发团队技能的终极检验。"
+        "en": "John is <em>at the end of his rope</em> with his job; he can’t take it anymore.",
+        "zh": "约翰对他的工作已经忍无可忍了；他再也受不了了。"
       }
     ]
   },
@@ -147,39 +147,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Louisa E. Rhine",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Louisa_E._Rhine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Botanist and parapsychologist",
-        "extract": "Louisa Ella Rhine was an American doctor of botany and is known for her work in parapsychology. At the time of her death, she was recognized as the foremost researcher of spontaneous psychic experiences, and has been referred to as the \"first lady of parapsychology.\"",
-        "born": 1891,
+        "name": "Louis III, Prince of Condé",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Anonymous_-_Louis_III%2C_Duke_of_Bourbon_-_Prado.jpg/330px-Anonymous_-_Louis_III%2C_Duke_of_Bourbon_-_Prado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Prince of Condé (1668–1710)",
+        "extract": "Louis III de Bourbon, Prince of Condé was a prince du sang as a member of the reigning House of Bourbon at the French court of Louis XIV. Styled as Duke of Bourbon from birth, he succeeded his father in 1709 as Prince of Condé ; however, he was still known by the ducal title. He was prince for less than a year.",
+        "born": 1668,
         "highlights": [
-          "Foremost researcher of spontaneous psychic experiences.",
-          "Known as the \"first lady of parapsychology.\"",
-          "American doctor of botany."
+          "Prince du sang at French court of Louis XIV.",
+          "Succeeded father as Prince of Condé in 1709.",
+          "Styled as Duke of Bourbon from birth."
         ]
       },
       {
-        "name": "Chitresh Das",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Chitresh_Das2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Indian dancer, choreographer and educator",
-        "extract": "Chitresh Das was a classical dancer of the North Indian style of Kathak. Born in Calcutta, Das was a performer, choreographer, composer and educator. He was instrumental in bringing Kathak to the US and is credited with having established Kathak amongst the Indian diaspora in America. In 1979, Das established the Chhandam School of Kathak and the Chitresh Das Dance Company in California. In 2002, he founded Chhandam Nritya Bharati in India. There were ten branches of Chhandam worldwide. Until his death in 2015, Das taught dance as a way of life, a path for attaining self-knowledge and as a service to society.",
-        "born": 1944,
+        "name": "Hans-Rudolf Merz",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Hans-Rudolf_Merz%2C_2009.jpg/330px-Hans-Rudolf_Merz%2C_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "90th President of the Swiss Confederation",
+        "extract": "Hans-Rudolf Merz is a Swiss politician who served as President of Switzerland in 2009. He concurrently served as a member of the Federal Council from 2004 to 2010 for the Free Democratic Party.",
+        "born": 1942,
         "highlights": [
-          "Classical dancer of North Indian Kathak style.",
-          "Instrumental in bringing Kathak to the US.",
-          "Established Chhandam School of Kathak and Dance Company."
+          "Served as President of Switzerland in 2009.",
+          "Swiss politician.",
+          "Member of Federal Council (2004-2010)."
         ]
       },
       {
-        "name": "Roger McGough",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ossett_-FestivalInADay_-Observer150_-_Saturday_20.09.2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "English poet and performer (b. 1937)",
-        "extract": "Roger Joseph McGough is an English poet, performance poet, broadcaster, children's author and playwright. He presents the BBC Radio 4 programme Poetry Please, as well as performing his own poetry. McGough was one of the leading members of the Liverpool poets, a group of young poets influenced by Beat poetry and the popular music and culture of 1960s Liverpool. He is an honorary fellow of Liverpool John Moores University, a fellow of the Royal Society of Literature and President of the Poetry Society.",
-        "born": 1937,
+        "name": "John Bevis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Bagnigge_Wells_by_Samuel_Hieronymus_Grimm.jpg/330px-Bagnigge_Wells_by_Samuel_Hieronymus_Grimm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English astronomer (1695–1771)",
+        "extract": "John Bevis was an English medical doctor, electrical researcher and astronomer. He is best known for discovering the Crab Nebula in 1731. He was educated at Christ Church, Oxford, being awarded his B.A. in 1715 and his M.A. in 1718.",
+        "born": 1695,
         "highlights": [
-          "English poet, broadcaster, children's author, playwright.",
-          "Presents BBC Radio 4 programme Poetry Please.",
-          "Leading member of the Liverpool poets."
+          "Discovered the Crab Nebula in 1731.",
+          "English medical doctor, electrical researcher, and astronomer.",
+          "Educated at Christ Church, Oxford."
         ]
       }
     ]
