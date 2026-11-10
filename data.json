@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T01:51:50.339Z",
+  "generatedAt": "2026-11-10T20:14:29.473Z",
   "weather": {
     "location": "New York City",
-    "tempC": 9.8,
+    "tempC": 17.2,
     "condition": "Overcast",
     "code": 3,
-    "highC": 15.1,
-    "lowC": 7.6,
-    "rainChance": 4
+    "highC": 17.3,
+    "lowC": 7.2,
+    "rainChance": 0
   },
   "hotTopics": {
     "headline": "Today's news",
@@ -15,44 +15,50 @@
       {
         "keywords": [
           "World",
-          "Cyberattack"
+          "Diplomacy",
+          "Ukraine War"
         ],
-        "summary": "France accused Iran of cyberattacks targeting supermarket refrigeration systems, escalating international tensions."
+        "summary": "Russia and Ukraine held US-mediated talks in Abu Dhabi, suggesting diplomatic efforts to resolve their ongoing conflict."
+      },
+      {
+        "keywords": [
+          "World",
+          "Geopolitics",
+          "Iran"
+        ],
+        "summary": "The U.S. moved military aircraft from a British base, adjusting its strategic posture amid rising threats from Iran."
       },
       {
         "keywords": [
           "US/Politics",
-          "Border Wall"
+          "House Leadership",
+          "GOP"
         ],
-        "summary": "The Supreme Court allowed construction of a border wall section in Texas, advancing a key Trump administration policy."
+        "summary": "Jim Jordan became the new House GOP leader, a significant shift impacting the Republican party's legislative agenda."
       },
       {
         "keywords": [
           "Business",
-          "Streaming Merger"
+          "National Security",
+          "Nvidia"
         ],
-        "summary": "Skydance announced cost savings and a bundled streaming service for HBO Max and Paramount+ post-merger."
+        "summary": "Allegations of Nvidia's CEO having an affair with a Chinese spy raise serious national security and economic concerns."
       },
       {
         "keywords": [
           "Tech",
-          "Security Update"
+          "AI",
+          "Google"
         ],
-        "summary": "Apple released iOS 27.2.1 to fix critical security vulnerabilities in Messages, AirPlay, and other features."
-      },
-      {
-        "keywords": [
-          "Entertainment",
-          "DC Studios"
-        ],
-        "summary": "James Gunn and Peter Safran exited leadership roles at DC Studios following the recent corporate merger."
+        "summary": "Google launched Gemini 4 Carbon with an agent 'swarm' feature, marking a significant advancement in artificial intelligence."
       },
       {
         "keywords": [
           "Sports",
-          "NFL Trade"
+          "NFL",
+          "Trade"
         ],
-        "summary": "The Jaguars acquired defensive tackle Jordan Davis from the Eagles in a significant NFL trade."
+        "summary": "Kirk Cousins rejoined the Vikings in a trade with the Raiders, significantly impacting both NFL teams' quarterback situations."
       }
     ]
   },
@@ -62,84 +68,84 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7549.94,
-        "changePct": 2.346255723980121
+        "price": 7509.36,
+        "changePct": -0.537487715134159
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25253.139,
-        "changePct": 2.7410717918256657
+        "price": 25003.25,
+        "changePct": -0.989536389911762
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6290.45,
-        "changePct": 1.9440919602819233
+        "price": 6327.87,
+        "changePct": 0.5948700013512559
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10782.87,
-        "changePct": 1.0205228809605478
+        "price": 10751.59,
+        "changePct": -0.29008974419612454
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3676.1516,
-        "changePct": 0.4195786392325989
+        "price": 3663.723,
+        "changePct": 0.39852788845713616
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4076.3545,
-        "changePct": 0.4991558164054843
+        "price": 4059.1106,
+        "changePct": 0.0740216939972127
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24534.62,
-        "changePct": 0.3504035960644455
+        "price": 24557.04,
+        "changePct": 0.3069206229908602
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "How is a male prostitute like Inspector Clouseau?\nThey're both Peter Sellers",
+        "joke": "There's a reason World War I ended exactly on the eleventh day of the eleventh month (11/11/1918)\nThey needed to make sure the Americans stopped fighting on the same date everyone else did.",
         "source": "r/Jokes",
-        "explanation": "Wordplay on Peter Sellers, referring to the actor and selling a penis."
+        "explanation": "{\n  \"note\": \"Jokes about American eagerness to fight, needing a specific date to stop.\"\n}"
       },
       {
-        "joke": "A horse walks into a bar.\n\"Hey\", the Bartender says.\n\"Sure\", the horse replies.",
+        "joke": "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "at-the-end-of-your-rope",
-    "title": "At the end of your rope",
-    "glossZh": "“走投无路” 或 “忍无可忍”。",
-    "interpretationEn": "This phrase originates from farm work, referring to the point where a rope has reached its maximum length. It symbolizes someone having exhausted all means or patience. It is often used to convey extreme fatigue or helplessness.",
-    "interpretationZh": "这个短语源自农场工作，用来表示一条绳子到了尽头。比喻某人已经使尽了最后的手段或忍耐到了极限。通常用于表达极度的疲劳或无助。",
+    "id": "mad-as-a-hornet",
+    "title": "Mad as a hornet",
+    "glossZh": "“非常生气” 或 “怒不可遏”。",
+    "interpretationEn": "This phrase comes from the behavior traits of hornets. Hornets are highly aggressive insects that become very violent and threatening when disturbed or provoked. Therefore, “<em>mad as a hornet</em>” is used to describe someone who is extremely angry, as angry and irrational as a provoked hornet.",
+    "interpretationZh": "这个短语来源于黄蜂（hornet）的行为特征。黄蜂是一种攻击性很强的昆虫，当它们受惊或被激怒时会非常狂暴和具有威胁性。因而，“mad as a hornet” 用来形容一个人非常愤怒，像被激怒的黄蜂一样愤怒和不可理喻。",
     "examples": [
       {
-        "en": "I’m really <em>at the end of my rope</em> with this project; nothing seems to work.",
-        "zh": "我对这个项目真的走投无路了；没有什么方案有效。"
+        "en": "He was <em>mad as a hornet</em> when he found out someone had scratched his new car.",
+        "zh": "当他发现有人划了他的新车时，他气得怒不可遏。"
       },
       {
-        "en": "She was <em>at the end of her rope</em>, unable to find a solution to her problems.",
-        "zh": "她已经忍无可忍，无法找到解决问题的方法。"
+        "en": "She got <em>mad as a hornet</em> when her coworker took credit for her idea.",
+        "zh": "当她的同事把她的主意据为己有时，她非常生气。"
       },
       {
-        "en": "John is <em>at the end of his rope</em> with his job; he can’t take it anymore.",
-        "zh": "约翰对他的工作已经忍无可忍了；他再也受不了了。"
+        "en": "You better apologize quickly, or he’ll be <em>mad as a hornet</em>.",
+        "zh": "你最好快点道歉，否则他会非常生气的。"
       }
     ]
   },
@@ -147,39 +153,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Louis III, Prince of Condé",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Anonymous_-_Louis_III%2C_Duke_of_Bourbon_-_Prado.jpg/330px-Anonymous_-_Louis_III%2C_Duke_of_Bourbon_-_Prado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Prince of Condé (1668–1710)",
-        "extract": "Louis III de Bourbon, Prince of Condé was a prince du sang as a member of the reigning House of Bourbon at the French court of Louis XIV. Styled as Duke of Bourbon from birth, he succeeded his father in 1709 as Prince of Condé ; however, he was still known by the ducal title. He was prince for less than a year.",
+        "name": "William Hogarth",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Painter_and_His_Pug_by_William_Hogarth.jpg/330px-The_Painter_and_His_Pug_by_William_Hogarth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English artist and writer (1697–1764)",
+        "extract": "William Hogarth was an English painter, engraver, cartoonist, and satirist. His work ranges from realistic portraiture to comic strip-like series of pictures called \"modern moral subjects\", and he is perhaps best known for his series A Harlot's Progress, A Rake's Progress and Marriage A-la-Mode. Familiarity with his work is so widespread that satirical political illustrations in this style are often referred to as \"Hogarthian\".",
+        "born": 1697,
+        "highlights": [
+          "Best known for \"A Harlot's Progress\".",
+          "Created \"A Rake's Progress\" and \"Marriage A-la-Mode\".",
+          "His style inspired \"Hogarthian\" satirical illustrations."
+        ]
+      },
+      {
+        "name": "François Couperin",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Francois_Couperin_2.jpg/330px-Francois_Couperin_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French composer (1668–1733)",
+        "extract": "François Couperin was a French Baroque composer, organist and harpsichordist. He was known as Couperin le Grand to distinguish him from other members of the musically talented Couperin family.",
         "born": 1668,
         "highlights": [
-          "Prince du sang at French court of Louis XIV.",
-          "Succeeded father as Prince of Condé in 1709.",
-          "Styled as Duke of Bourbon from birth."
+          "French Baroque composer, organist, and harpsichordist.",
+          "Known as \"Couperin le Grand\".",
+          "Distinguished from other musically talented family members."
         ]
       },
       {
-        "name": "Hans-Rudolf Merz",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Hans-Rudolf_Merz%2C_2009.jpg/330px-Hans-Rudolf_Merz%2C_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "90th President of the Swiss Confederation",
-        "extract": "Hans-Rudolf Merz is a Swiss politician who served as President of Switzerland in 2009. He concurrently served as a member of the Federal Council from 2004 to 2010 for the Free Democratic Party.",
-        "born": 1942,
+        "name": "Michael Cimino (actor)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Michael_Cimino_by_Gage_Skidmore.jpg/330px-Michael_Cimino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (born 1999)",
+        "extract": "Michael Cimino is an American actor. He is known for his roles as Victor Salazar in the Hulu television series Love, Victor, Bob Palmeri in Annabelle Comes Home and Ethan Morales on Never Have I Ever. Since 2022, he has voiced Kevin Grant-Gomez from the Disney Channel animated series Hamster & Gretel. On November 10, 2022, he released his debut EP, I'm Somewhere Out There. For his role in Love, Victor, Cimino was nominated for Imagen Awards for all three seasons of the show, winning consecutive Best Actor - Comedy (Television) awards in 2021 and 2022.",
+        "born": 1999,
         "highlights": [
-          "Served as President of Switzerland in 2009.",
-          "Swiss politician.",
-          "Member of Federal Council (2004-2010)."
-        ]
-      },
-      {
-        "name": "John Bevis",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Bagnigge_Wells_by_Samuel_Hieronymus_Grimm.jpg/330px-Bagnigge_Wells_by_Samuel_Hieronymus_Grimm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English astronomer (1695–1771)",
-        "extract": "John Bevis was an English medical doctor, electrical researcher and astronomer. He is best known for discovering the Crab Nebula in 1731. He was educated at Christ Church, Oxford, being awarded his B.A. in 1715 and his M.A. in 1718.",
-        "born": 1695,
-        "highlights": [
-          "Discovered the Crab Nebula in 1731.",
-          "English medical doctor, electrical researcher, and astronomer.",
-          "Educated at Christ Church, Oxford."
+          "Starred as Victor Salazar in Hulu's Love, Victor.",
+          "Voiced Kevin Grant-Gomez in Hamster & Gretel.",
+          "Won Imagen Awards for Best Actor in Love, Victor."
         ]
       }
     ]
