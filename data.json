@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T20:39:30.117Z",
+  "generatedAt": "2026-11-12T23:57:16.794Z",
   "weather": {
     "location": "New York City",
-    "tempC": 11.9,
+    "tempC": 9.6,
     "condition": "Rain",
     "code": 63,
     "highC": 16,
-    "lowC": 8.7,
-    "rainChance": 97
+    "lowC": 8.2,
+    "rainChance": 90
   },
   "hotTopics": {
     "headline": "Today's news",
@@ -15,50 +15,50 @@
       {
         "keywords": [
           "World",
-          "Middle East",
-          "Oil"
+          "Ukraine War",
+          "Diplomacy"
         ],
-        "summary": "Explosions struck four oil tankers in the Strait of Hormuz, raising concerns about global energy security."
+        "summary": "US envoys reported Europe will join upcoming talks with Russia aimed at resolving the ongoing Ukraine conflict."
       },
       {
         "keywords": [
-          "World",
-          "Geopolitics",
-          "Ukraine"
+          "US",
+          "Building Collapse",
+          "Tragedy"
         ],
-        "summary": "Putin adopted a firm stance in US talks, while Ukraine reported new Starlink disruptions, escalating global tensions."
-      },
-      {
-        "keywords": [
-          "US Politics",
-          "Disaster",
-          "Brooklyn"
-        ],
-        "summary": "A Brooklyn building collapse tragically killed eight people, including two children, prompting an urgent investigation."
+        "summary": "An apartment building collapse in New York City tragically killed eight people, including two children."
       },
       {
         "keywords": [
           "Business",
-          "Markets",
+          "Stock Market",
           "Economy"
         ],
-        "summary": "Nasdaq declined as Nvidia shares fell after its CEO's exit, compounded by rising global oil prices."
+        "summary": "Global stock markets fell due to troubles at Nvidia and declining oil prices, signaling economic uncertainty."
+      },
+      {
+        "keywords": [
+          "World",
+          "Indonesia",
+          "Politics"
+        ],
+        "summary": "Indonesia's Vice President resigned amid public scrutiny over his eligibility and academic qualifications."
       },
       {
         "keywords": [
           "Tech",
-          "Outage",
-          "Microsoft"
+          "Microsoft",
+          "Outage"
         ],
-        "summary": "Thousands reported Microsoft Outlook issues, disrupting communication for many users globally."
+        "summary": "Microsoft's Outlook email service experienced a nationwide outage, disrupting communication for many users."
       },
       {
         "keywords": [
-          "Entertainment",
-          "Scandal",
-          "Celebrity"
+          "Sports",
+          "Soccer",
+          "Manchester United"
         ],
-        "summary": "Russell Brand faces new allegations of misconduct, further impacting his career and public image."
+        "summary": "Mauricio Pochettino is reportedly set to become Manchester United's new manager, signing a two-and-a-half year deal."
       }
     ]
   },
@@ -68,15 +68,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7591.95,
-        "changePct": -0.3600030448671715
+        "price": 7592.4,
+        "changePct": -0.3540970525160902
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25338.037,
-        "changePct": -0.5032280054456455
+        "price": 25366.094,
+        "changePct": -0.3930544773285589
       },
       {
         "region": "Europe",
@@ -120,32 +120,32 @@
       {
         "joke": "A hacker called me. He said he had all my passwords. I said, “Hold on. I’m getting a pen.”\n“What are they?”",
         "source": "r/Jokes",
-        "explanation": "The victim's forgetfulness makes them ask the hacker for their own passwords."
+        "explanation": "Speaker forgot passwords and asks the hacker for them, subverting the threat."
       },
       {
-        "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+        "joke": "My wife and I have reached the difficult decision that we do not want children.\nIf anybody does, please just send me your contact details and we can drop them off tomorrow.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "touch-and-go",
-    "title": "Touch and go",
-    "glossZh": "“危险的” 或 “情况不确定的”。",
-    "interpretationEn": "This phrase originates from aviation terminology, where “touch and go” describes a maneuver where an aircraft briefly touches down on the runway and immediately takes off again. It is often used to describe situations that are perilous or highly uncertain.",
-    "interpretationZh": "这个短语源自于飞行术语，其中 “<em>touch and go</em>” 描述的是飞机在跑道上短暂停留然后立即起飞的动作。这种情况经常用来形容比较危险或者结果非常不确定的事情。",
+    "id": "water-under-the-bridge",
+    "title": "Water under the bridge",
+    "glossZh": "“过眼云烟” 或 “既往不咎”。",
+    "interpretationEn": "This idiom originates with the imagery of water flowing under a bridge, signifying that the water (<em>or past events</em>) has passed and will not return. In everyday usage, this phrase indicates letting go of past disputes or issues, choosing not to worry about them anymore.",
+    "interpretationZh": "这个短语的起源与河水有关，表示已经流过桥下的水不会再回来，暗喻过去的事情已经发生，无需再为之烦恼或忧虑。在日常生活中，这个短语常用于表示放下过去的争执或矛盾，不再计较。",
     "examples": [
       {
-        "en": "It was <em>touch and go</em> for a while after the surgery.",
-        "zh": "在手术之后，有段时间情况非常不稳定。"
+        "en": "We had our differences in the past, but it’s all <em>water under the bridge</em> now.",
+        "zh": "我们过去有些分歧，但现在这些都已经是过眼云烟了。"
       },
       {
-        "en": "The rescue mission was <em>touch and go</em> due to the severe weather conditions.",
-        "zh": "由于恶劣的天气条件，救援任务非常危险。"
+        "en": "Let’s forget about our old arguments; it’s <em>water under the bridge</em>.",
+        "zh": "让我们忘记以前的争吵吧，这都是既往不咎了。"
       },
       {
-        "en": "It’s <em>touch and go</em> whether the company will survive the financial crisis.",
-        "zh": "公司是否能渡过财务危机还是个未知数。"
+        "en": "They decided to move forward and consider past mistakes as <em>water under the bridge</em>.",
+        "zh": "他们决定向前看，把过去的错误看作既往不咎。"
       }
     ]
   },
@@ -153,39 +153,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Jeanne Mance",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/JeanneManceHotelDieu.jpg/330px-JeanneManceHotelDieu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "17th-century French nurse and settler in Quebec, New France",
-        "extract": "Jeanne Mance was a French nurse and settler of New France. She arrived in New France two years after the Ursuline nuns came to Quebec. Among the founders of Montreal in 1642, she established its first hospital, the Hotel-Dieu de Montreal, in 1645. She returned twice to France to seek financial support for the hospital. After providing most of the care directly for years, in 1657 she recruited three sisters of the Religieuses hospitalieres de Saint-Joseph and continued to direct operations of the hospital. During her era, she was also known as Jehanne Mance by the French, and as Joan Mance by the English.",
-        "born": 1606,
-        "highlights": [
-          "French nurse and settler of New France.",
-          "Co-founder of Montreal in 1642.",
-          "Established Montreal's first hospital, Hotel-Dieu de Montreal."
-        ]
-      },
-      {
-        "name": "Jorge Masvidal",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jorge_Masvidal_2023.jpg/330px-Jorge_Masvidal_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American mixed martial artist (born 1984)",
-        "extract": "Jorge Luis Masvidal is an American professional boxer and former professional mixed martial artist who competed in the Welterweight and Lightweight divisions. He competed professionally for 20 years from 2003 until 2023, having fought in the Ultimate Fighting Championship (UFC), Bellator, Strikeforce, Shark Fights, and World Victory Road. Masvidal holds the record for the fastest knockout in UFC history at five seconds, and won the symbolic UFC \"BMF\" title.",
+        "name": "Sandara Park",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sandara_Park_SHURINK_HOME_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "South Korean singer and rapper (born 1984)",
+        "extract": "Sandara Park, also known mononymously as Dara (다라), is a South Korean singer, actress and television presenter. She rose to fame in the Philippines as a contestant on the ABS-CBN original talent show Star Circle Quest in 2004, after which she had a successful acting and singing career before returning to South Korea in 2007. She made her Korean debut in 2009 as a member of the K-pop group 2NE1, which became one of the most popular K-pop groups in the world. Park is one of the most recognizable Korean celebrities in the Philippines and is considered a leading figure in the spread of Korean wave into the country.",
         "born": 1984,
         "highlights": [
-          "American professional boxer and former MMA artist.",
-          "Holds record for fastest UFC knockout at five seconds.",
-          "Won the symbolic UFC \"BMF\" title."
+          "South Korean singer, actress, and television presenter.",
+          "Rose to fame in Philippines on Star Circle Quest.",
+          "Debuted in 2009 as member of K-pop group 2NE1."
         ]
       },
       {
-        "name": "Harry Blackmun",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Justice_Blackmun_Official.jpg/330px-Justice_Blackmun_Official.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "US Supreme Court justice from 1970 to 1994",
-        "extract": "Harold Andrew Blackmun was an American lawyer and jurist who served as an associate justice of the Supreme Court of the United States from 1970 to 1994. Appointed by President Richard Nixon, Blackmun ultimately became one of the most liberal justices on the Court. He is best known as the author of the Court's opinion in Roe v. Wade.",
-        "born": 1908,
+        "name": "Thorleif Schjelderup-Ebbe",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/ThorleifSchjelderupEbbe.jpg/330px-ThorleifSchjelderupEbbe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Norwegian zoologist",
+        "extract": "Thorleif Schjelderup-Ebbe was a Norwegian zoologist and comparative psychologist. He was the first person to describe a pecking order of hens, a discovery that contributed to understanding dominance hierarchies across species and influenced the field of ethology.",
+        "born": 1894,
         "highlights": [
-          "Associate Justice of the Supreme Court (1970-1994).",
-          "Appointed by President Richard Nixon.",
-          "Author of the Court's opinion in Roe v. Wade."
+          "Norwegian zoologist and comparative psychologist.",
+          "First to describe pecking order of hens.",
+          "Discovery influenced ethology and dominance hierarchies."
+        ]
+      },
+      {
+        "name": "Ivan Šuker",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ivan_%C5%A0uker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Croatian politician and economist (1957–2023)",
+        "extract": "Ivan Šuker was a Croatian politician and economist. He served as Minister of Finance from 2003 to 2010, as a member of the Croatian Democratic Union.",
+        "born": 1957,
+        "highlights": [
+          "Croatian politician and economist.",
+          "Served as Minister of Finance from 2003 to 2010.",
+          "Member of the Croatian Democratic Union."
         ]
       }
     ]
