@@ -1,13 +1,60 @@
 {
-  "generatedAt": "2026-11-11T20:00:18.963Z",
+  "generatedAt": "2026-11-12T01:17:09.882Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.7,
+    "tempC": 12.8,
     "condition": "Overcast",
     "code": 3,
-    "highC": 17.9,
+    "highC": 18.3,
     "lowC": 8.7,
     "rainChance": 1
+  },
+  "hotTopics": {
+    "headline": "Today's news",
+    "topics": [
+      {
+        "keywords": [
+          "World",
+          "Ukraine War"
+        ],
+        "summary": "Russia and Ukraine exchanged prisoners, a rare humanitarian agreement despite no peace breakthrough."
+      },
+      {
+        "keywords": [
+          "US Politics",
+          "Election"
+        ],
+        "summary": "Democrat Scott Colom won the Mississippi Senate race, shifting the state's political landscape."
+      },
+      {
+        "keywords": [
+          "Business",
+          "AI Investment"
+        ],
+        "summary": "Anthropic's IPO is reportedly oversubscribed, signaling strong investor confidence in the AI market."
+      },
+      {
+        "keywords": [
+          "Tech",
+          "AI Creativity"
+        ],
+        "summary": "Adobe's new AI experiments allow users to interact with photos and characters, showing creative tech advancements."
+      },
+      {
+        "keywords": [
+          "Entertainment",
+          "TV Industry"
+        ],
+        "summary": "John Landgraf discussed Disney's reorganization and TV's evolving landscape, offering industry insights."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "NFL Trade"
+        ],
+        "summary": "Kirk Cousins approved a Vikings trade after a call with Kevin O'Connell, impacting team dynamics."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -15,15 +62,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7626.72,
-        "changePct": 1.4066079593880005
+        "price": 7619.38,
+        "changePct": 1.3090136459187869
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25522.174,
-        "changePct": 1.8203992479815647
+        "price": 25466.19,
+        "changePct": 1.5970517685897607
       },
       {
         "region": "Europe",
@@ -58,41 +105,41 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 24315.92,
-        "changePct": -0.5439099509589519
+        "changePct": 0
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "If you are attracted to both women and men, but neither are attracted to you...\nThat means you are Bi-yourself.",
+        "joke": "A mother of five is asked what her kids’ names are. “I named all of them Anthony,” she replies.\n-So how do you tell them apart?\n-By their surnames.",
         "source": "r/Jokes",
-        "explanation": ""
+        "explanation": "Unexpected reversal of first and last names for identification."
       },
       {
-        "joke": "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
+        "joke": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "waste-not-want-not",
-    "title": "Waste not, want not",
-    "glossZh": "“俭以防匮” 或 “不浪费就不会缺乏”。",
-    "interpretationEn": "This phrase means if you don’t waste anything, you will never be in need. It encourages people to save resources and cherish their belongings to avoid future shortages and needs. This concept dates back to ancient thrift virtues and is widely applied in both household and social life.",
-    "interpretationZh": "这个短语意指如果你不浪费任何东西，你就永远不会缺乏任何东西。这句话鼓励人们节约资源、珍惜物品，以避免未来的匮乏和需要。这种思想可以追溯到古代的节约美德，在家庭和社会生活中广泛应用。",
+    "id": "keep-something-under-ones-hat",
+    "title": "Keep something under one’s hat",
+    "glossZh": "“保密” 或 “将某事保密”。",
+    "interpretationEn": "The phrase originates from the 18th and 19th-century British custom of sometimes hiding valuable small items under a hat to prevent theft. Hats were considered very personal items and symbols of individual privacy. Thus, “keep something under one’s hat” means keeping something hidden from others, maintaining secrecy.",
+    "interpretationZh": "这个短语源自 18、19 世纪英国的习俗，当时人们有时候会把贵重的小物品藏在帽子下以免被盗。帽子被认为是非常私人的物品，也是个人秘密的象征。所以 “keep something under one’s hat” 意思就是把某事隐藏起来，不为他人所知。",
     "examples": [
       {
-        "en": "<em>Waste not, want not</em> is a principle my parents taught me from a young age.",
-        "zh": "我的父母从小就教我 “俭以防匮” 的道理。"
+        "en": "I have some exciting news, but you gotta <em>keep it under your hat</em> for now.",
+        "zh": "我有一些令人兴奋的消息，但你现在得保密。"
       },
       {
-        "en": "By following the <em>waste not, want not</em> rule, we managed to save a lot of money over the years.",
-        "zh": "通过遵循 “不浪费就不会缺乏” 的原则，我们多年下来省了不少钱。"
+        "en": "He was told to <em>keep the project under his hat</em> until the official announcement.",
+        "zh": "他被告知在正式宣布之前要对这个项目保密。"
       },
       {
-        "en": "Grandma always said, <em>waste not, want not</em>, and she lived a very modest but fulfilling life.",
-        "zh": "奶奶总是说，“俭以防匮”，她过着非常简朴但满足的生活。"
+        "en": "They managed to <em>keep the surprise party under their hats</em> until the last minute.",
+        "zh": "他们设法保密了惊喜派对，直到最后一刻。"
       }
     ]
   },
@@ -100,38 +147,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Chris Kelly (ice hockey)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Chris_Kelly_-_Boston_Bruins.jpg/330px-Chris_Kelly_-_Boston_Bruins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian player and coach (born 1980)",
-        "extract": "Christopher Kelly is a Canadian professional ice hockey coach and former player. Kelly played for the Ottawa Senators, Boston Bruins and Anaheim Ducks of the National Hockey League (NHL). He was a member of the Bruins' 2011 Stanley Cup-winning team. He is currently an assistant coach for the Bruins.",
-        "born": 1980,
+        "name": "Neil Young",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Neil_Young_for_Fairy_Creek.jpg/330px-Neil_Young_for_Fairy_Creek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian and American musician (born 1945)",
+        "extract": "Neil Percival Young is a Canadian and American singer-songwriter and musician. Young's deeply personal lyrics and signature high tenor singing voice define his long career. Young's often distorted electric guitar playing, especially with his backing band Crazy Horse, earned him the nickname \"Godfather of Grunge\" and led to his 1995 album Mirror Ball with Pearl Jam. He also plays piano and harmonica on many albums, which frequently combine folk, rock, country, and other musical genres.",
+        "born": 1945,
         "highlights": [
-          "Played for Ottawa Senators, Boston Bruins, Anaheim Ducks in NHL.",
-          "Member of Bruins' 2011 Stanley Cup-winning team.",
-          "Currently an assistant coach for the Boston Bruins."
+          "Singer-songwriter known for high tenor voice.",
+          "\"Godfather of Grunge\" for distorted guitar.",
+          "Released \"Mirror Ball\" album with Pearl Jam."
         ]
       },
       {
-        "name": "Carlos Fuentes",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Carlos_Fuentes_1987.jpg/330px-Carlos_Fuentes_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mexican writer (1928–2012)",
-        "extract": "Carlos Fuentes Macías was a Mexican novelist, essayist and ambassador to France. Among his works are The Death of Artemio Cruz (1962), Aura (1962), Terra Nostra (1975), The Old Gringo (1985) and Christopher Unborn (1987). In his obituary, The New York Times described Fuentes as \"one of the most admired writers in the Spanish-speaking world\" and an important influence on the Latin American Boom, the \"explosion of Latin American literature in the 1960s and '70s\", while The Guardian called him \"Mexico's most celebrated novelist\". His many literary honors include the Miguel de Cervantes Prize as well as Mexico's highest award, the Belisario Domínguez Medal of Honor (1999). He was often named as a likely candidate for the Nobel Prize in Literature, though he never won.",
-        "born": 1928,
+        "name": "Benjamin Mkapa",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Benjamin_Mkapa_2010-05-07.jpg/330px-Benjamin_Mkapa_2010-05-07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "President of Tanzania from 1995 to 2005",
+        "extract": " Benjamin William Mkapa was the third president of Tanzania, in office from 1995 to 2005. He was Chairman of the Revolutionary State Political Party.",
+        "born": 1938,
         "highlights": [
-          "Mexican novelist, essayist and ambassador to France.",
-          "Authored The Death of Artemio Cruz and Terra Nostra.",
-          "Awarded Miguel de Cervantes Prize and Belisario Domínguez Medal."
+          "Served as third president of Tanzania.",
+          "In office from 1995 to 2005.",
+          "Chairman of Revolutionary State Political Party."
         ]
       },
       {
-        "name": "Margarete Bagshaw",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/Margarete_Bagshaw_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American artist (1964–2015)",
-        "extract": "Margarete Bagshaw was an American artist known for her paintings and pottery. She was descended from the Tewa people of Kháˀ Póvi or Khaˀpʼoe Ówîngeh, Santa Clara Pueblo, New Mexico.",
-        "born": 1964,
+        "name": "Anne Hathaway",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/AnneHathaway-byPhilipRomano-Crop.jpg/330px-AnneHathaway-byPhilipRomano-Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1982)",
+        "extract": "Anne Jacqueline Hathaway is an American actress. Her work encompasses both screen and stage, and her accolades include an Academy Award, a British Academy Film Award, a Golden Globe Award, a Screen Actors Guild Award, and a Primetime Emmy Award, in addition to two other Golden Globe nominations. Her films have grossed more than $6.7 billion worldwide.",
+        "born": 1982,
         "highlights": [
-          "American artist known for her paintings and pottery.",
-          "Descended from Tewa people of Santa Clara Pueblo."
+          "Award-winning American actress.",
+          "Won an Academy Award and Golden Globe.",
+          "Films grossed over $6.7 billion worldwide."
         ]
       }
     ]
