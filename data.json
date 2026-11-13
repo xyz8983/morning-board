@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T23:57:16.794Z",
+  "generatedAt": "2026-11-13T20:20:23.729Z",
   "weather": {
     "location": "New York City",
-    "tempC": 9.6,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 16,
-    "lowC": 8.2,
-    "rainChance": 90
+    "tempC": 3.8,
+    "condition": "Snow",
+    "code": 73,
+    "highC": 8.7,
+    "lowC": 2.3,
+    "rainChance": 71
   },
   "hotTopics": {
     "headline": "Today's news",
@@ -15,50 +15,50 @@
       {
         "keywords": [
           "World",
-          "Ukraine War",
-          "Diplomacy"
+          "Diplomacy",
+          "Middle East"
         ],
-        "summary": "US envoys reported Europe will join upcoming talks with Russia aimed at resolving the ongoing Ukraine conflict."
+        "summary": "The U.S.-Israel relationship faces significant strain, with proposals emerging to mend the crucial diplomatic ties."
       },
       {
         "keywords": [
-          "US",
-          "Building Collapse",
-          "Tragedy"
+          "US/Politics",
+          "Economy",
+          "Tech Policy"
         ],
-        "summary": "An apartment building collapse in New York City tragically killed eight people, including two children."
+        "summary": "Trump's economic advisors are reportedly clashing over policy regarding major tech companies like Nvidia."
       },
       {
         "keywords": [
           "Business",
           "Stock Market",
-          "Economy"
+          "Nvidia"
         ],
-        "summary": "Global stock markets fell due to troubles at Nvidia and declining oil prices, signaling economic uncertainty."
-      },
-      {
-        "keywords": [
-          "World",
-          "Indonesia",
-          "Politics"
-        ],
-        "summary": "Indonesia's Vice President resigned amid public scrutiny over his eligibility and academic qualifications."
+        "summary": "Nvidia's stock continues to fall, causing the Nasdaq to slump and raising investor concerns."
       },
       {
         "keywords": [
           "Tech",
-          "Microsoft",
-          "Outage"
+          "Apple",
+          "Smart Home"
         ],
-        "summary": "Microsoft's Outlook email service experienced a nationwide outage, disrupting communication for many users."
+        "summary": "Apple's HomeView feature requires strong iPhone integration, shaping its smart home ecosystem strategy."
+      },
+      {
+        "keywords": [
+          "Entertainment",
+          "Music",
+          "Taylor Swift"
+        ],
+        "summary": "Taylor Swift will perform at the CMA Awards for the first time in 13 years, exciting fans."
       },
       {
         "keywords": [
           "Sports",
-          "Soccer",
-          "Manchester United"
+          "NFL",
+          "Football"
         ],
-        "summary": "Mauricio Pochettino is reportedly set to become Manchester United's new manager, signing a two-and-a-half year deal."
+        "summary": "The Commanders rallied to defeat the Giants 24-21, keeping their playoff hopes alive."
       }
     ]
   },
@@ -68,84 +68,84 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7592.4,
-        "changePct": -0.3540970525160902
+        "price": 7553.43,
+        "changePct": -0.5132764343290572
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25366.094,
-        "changePct": -0.3930544773285589
+        "price": 25122.645,
+        "changePct": -0.9597417718313292
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6398.98,
-        "changePct": 0.08743405298283438
+        "price": 6386.86,
+        "changePct": -0.18940518645158902
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10863.09,
-        "changePct": 0.2549035713264012
+        "price": 10902.56,
+        "changePct": 0.3633404491723749
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3655.83,
-        "changePct": -0.2153548851986471
+        "price": 3634.353,
+        "changePct": -1.2575802034428742
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4043.9253,
-        "changePct": -0.779837285741581
+        "price": 4016.2898,
+        "changePct": -0.6833830486433532
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 24008.55,
-        "changePct": -2.2333754123060663
+        "price": 23637.6,
+        "changePct": -2.7895327748510352
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "A hacker called me. He said he had all my passwords. I said, “Hold on. I’m getting a pen.”\n“What are they?”",
+        "joke": "Today my Magic 8-Ball told me “Outlook not good.”\nDid I break the Internet?",
         "source": "r/Jokes",
-        "explanation": "Speaker forgot passwords and asks the hacker for them, subverting the threat."
+        "explanation": "It puns on 'Outlook' as both the toy's answer and the email software."
       },
       {
-        "joke": "My wife and I have reached the difficult decision that we do not want children.\nIf anybody does, please just send me your contact details and we can drop them off tomorrow.",
+        "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "water-under-the-bridge",
-    "title": "Water under the bridge",
-    "glossZh": "“过眼云烟” 或 “既往不咎”。",
-    "interpretationEn": "This idiom originates with the imagery of water flowing under a bridge, signifying that the water (<em>or past events</em>) has passed and will not return. In everyday usage, this phrase indicates letting go of past disputes or issues, choosing not to worry about them anymore.",
-    "interpretationZh": "这个短语的起源与河水有关，表示已经流过桥下的水不会再回来，暗喻过去的事情已经发生，无需再为之烦恼或忧虑。在日常生活中，这个短语常用于表示放下过去的争执或矛盾，不再计较。",
+    "id": "cup-of-joe",
+    "title": "Cup of Joe",
+    "glossZh": "“一杯咖啡”。",
+    "interpretationEn": "The exact origin of this phrase is uncertain, but the most common explanation is that it is linked to Josephus “<em>Joe</em>” Daniels, the Secretary of the Navy, who prohibited alcohol on Navy ships in 1914, leading sailors to drink more coffee instead. Another simpler explanation is that “<em>Joe</em>” is a slang term for “<em>man</em>” or “fellow,” and coffee is a common beverage, making it “a cup of Joe.”",
+    "interpretationZh": "这个短语的具体起源尚无定论，但最常见的一种解释是它来源于美国海军部长约瑟夫斯·丹尼尔斯（Josephus “<em>Joe</em>” Daniels），他在 1914 年禁止海军舰船上供应酒类，这样水手们就转向喝咖啡了。另一种解释更为简单：“<em>Joe</em>” 是 “<em>man</em>” 或 “<em>fellow</em>” 的非正式称呼，而咖啡是普通大众每日必饮之物，所以就成为了 “a cup of Joe”。",
     "examples": [
       {
-        "en": "We had our differences in the past, but it’s all <em>water under the bridge</em> now.",
-        "zh": "我们过去有些分歧，但现在这些都已经是过眼云烟了。"
+        "en": "I need a <em>cup of Joe</em> to start my day.",
+        "zh": "我需要一杯咖啡来开始我的一天。"
       },
       {
-        "en": "Let’s forget about our old arguments; it’s <em>water under the bridge</em>.",
-        "zh": "让我们忘记以前的争吵吧，这都是既往不咎了。"
+        "en": "Let’s grab a <em>cup of Joe</em> and catch up.",
+        "zh": "我们去喝杯咖啡，聊聊近况吧。"
       },
       {
-        "en": "They decided to move forward and consider past mistakes as <em>water under the bridge</em>.",
-        "zh": "他们决定向前看，把过去的错误看作既往不咎。"
+        "en": "A <em>cup of Joe</em> always helps me wake up in the morning.",
+        "zh": "一杯咖啡总是能让我在早晨醒过来。"
       }
     ]
   },
@@ -153,39 +153,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Sandara Park",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sandara_Park_SHURINK_HOME_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "South Korean singer and rapper (born 1984)",
-        "extract": "Sandara Park, also known mononymously as Dara (다라), is a South Korean singer, actress and television presenter. She rose to fame in the Philippines as a contestant on the ABS-CBN original talent show Star Circle Quest in 2004, after which she had a successful acting and singing career before returning to South Korea in 2007. She made her Korean debut in 2009 as a member of the K-pop group 2NE1, which became one of the most popular K-pop groups in the world. Park is one of the most recognizable Korean celebrities in the Philippines and is considered a leading figure in the spread of Korean wave into the country.",
-        "born": 1984,
+        "name": "Saul Kripke",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Kripke.JPG/330px-Kripke.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American philosopher and logician (1940–2022)",
+        "extract": "Saul Aaron Kripke was an American philosopher and logician. He was a distinguished professor of philosophy at the Graduate Center of the City University of New York and a professor emeritus at Princeton University. From the 1960s until his death, he was a central figure in a number of fields related to mathematical and modal logic, philosophy of language and mathematics, metaphysics, epistemology, and recursion theory.",
+        "born": 1940,
         "highlights": [
-          "South Korean singer, actress, and television presenter.",
-          "Rose to fame in Philippines on Star Circle Quest.",
-          "Debuted in 2009 as member of K-pop group 2NE1."
+          "American philosopher and logician.",
+          "Professor at CUNY and Princeton University.",
+          "Central figure in mathematical and modal logic."
         ]
       },
       {
-        "name": "Thorleif Schjelderup-Ebbe",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/ThorleifSchjelderupEbbe.jpg/330px-ThorleifSchjelderupEbbe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Norwegian zoologist",
-        "extract": "Thorleif Schjelderup-Ebbe was a Norwegian zoologist and comparative psychologist. He was the first person to describe a pecking order of hens, a discovery that contributed to understanding dominance hierarchies across species and influenced the field of ethology.",
-        "born": 1894,
+        "name": "Joseph F. Smith",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/JFS_First_Presidency_1905_large.jpg/330px-JFS_First_Presidency_1905_large.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "President of The Church of Jesus Christ of Latter-day Saints",
+        "extract": "Joseph Fielding Smith Sr. was an American religious leader who served as the sixth president of the Church of Jesus Christ of Latter-day Saints. He was a nephew of Joseph Smith, founder of the Latter Day Saint movement, and the last LDS Church president who had personally known him.",
+        "born": 1838,
         "highlights": [
-          "Norwegian zoologist and comparative psychologist.",
-          "First to describe pecking order of hens.",
-          "Discovery influenced ethology and dominance hierarchies."
+          "Sixth president of the LDS Church.",
+          "Nephew of Joseph Smith, movement founder.",
+          "Last LDS president who knew Joseph Smith."
         ]
       },
       {
-        "name": "Ivan Šuker",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ivan_%C5%A0uker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Croatian politician and economist (1957–2023)",
-        "extract": "Ivan Šuker was a Croatian politician and economist. He served as Minister of Finance from 2003 to 2010, as a member of the Croatian Democratic Union.",
-        "born": 1957,
+        "name": "Juhi Chawla",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Juhi_Chawla_LFW-2017.jpg/330px-Juhi_Chawla_LFW-2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Indian actress (born 1967)",
+        "extract": "Juhi Chawla Mehta is an Indian actress. She established herself as one of the leading actresses of Hindi cinema from the late 1980s through the early 2000s. Recognised for her comic timing and vivacious on-screen persona, she is the recipient of several accolades, including two Filmfare Awards. As of 2025, she is the wealthiest Indian actress, with a net worth of ₹7,790 crore (US$830 million).",
+        "born": 1967,
         "highlights": [
-          "Croatian politician and economist.",
-          "Served as Minister of Finance from 2003 to 2010.",
-          "Member of the Croatian Democratic Union."
+          "Leading Indian actress in Hindi cinema.",
+          "Recipient of two Filmfare Awards.",
+          "Wealthiest Indian actress as of 2025."
         ]
       }
     ]
