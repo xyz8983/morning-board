@@ -1,53 +1,63 @@
 {
-  "generatedAt": "2026-11-14T18:39:25.552Z",
+  "generatedAt": "2026-11-14T22:51:23.539Z",
+  "weather": {
+    "location": "New York City",
+    "tempC": 4.1,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 6.8,
+    "lowC": 2.5,
+    "rainChance": 4
+  },
   "hotTopics": {
     "headline": "Today's news",
     "topics": [
       {
         "keywords": [
           "World",
-          "Geopolitics"
+          "Data Privacy",
+          "Meta"
         ],
-        "summary": "Trump, Xi, and Putin plan a rare joint meeting at APEC, signaling significant geopolitical discussions among world leaders."
+        "summary": "Italy's privacy regulator fined Meta €805 million for improperly accessing user photos, highlighting global data protection enforcement."
       },
       {
         "keywords": [
           "US/Politics",
-          "Travel",
-          "FAA"
+          "Air Travel",
+          "Infrastructure"
         ],
-        "summary": "A nationwide ground stop led to thousands of flight cancellations, causing widespread travel disruption across the country."
+        "summary": "A nationwide ground stop exposed significant vulnerabilities in the air traffic control system, impacting travel and national infrastructure."
       },
       {
         "keywords": [
           "Business",
-          "Politics",
-          "Scandal"
+          "SpaceX",
+          "Innovation"
         ],
-        "summary": "An Nvidia scandal is reportedly impacting Trump's political standing following recent Democratic election successes."
+        "summary": "SpaceX successfully caught Starship's upper stage for the first time, marking a major advance in reusable rocket technology."
       },
       {
         "keywords": [
-          "Tech",
-          "Gaming",
-          "Sales"
+          "World",
+          "Social Justice",
+          "History"
         ],
-        "summary": "A Zelda remake sold 5 million copies in four days, demonstrating the series' continued strong commercial appeal."
+        "summary": "The Pope's visit to Peru highlighted the historical impact of the African slave trade, bringing attention to social justice."
       },
       {
         "keywords": [
           "Entertainment",
           "Film",
-          "Box office"
+          "Box Office"
         ],
-        "summary": "Johnny Depp's new film \"Ebenezer\" led the box office on its opening day, indicating strong initial audience interest."
+        "summary": "Johnny Depp's new film \"Ebenezer\" achieved box office success, signaling his return to mainstream studio productions."
       },
       {
         "keywords": [
           "Sports",
           "College Football"
         ],
-        "summary": "College football games, including Ole Miss-Oklahoma, faced schedule changes due to the nationwide FAA flight stoppage."
+        "summary": "Wake Forest's continued wins position them strongly for the College Football Playoff, impacting national rankings."
       }
     ]
   },
@@ -109,32 +119,32 @@
       {
         "joke": "Little-known fact: there are two Frankfurts in Germany.\nThere's the Main one, and the Oder one",
         "source": "r/Jokes",
-        "explanation": "It's a pun on 'Main' and 'Oder' sounding like 'main' and 'other'."
+        "explanation": "Pun on \\\"Main\\\" (principal) and \\\"Oder\\\" (as in \\\"other\\\") from the city names."
       },
       {
-        "joke": "I have a joke about trickle down economics, but 99% of you will never get it.",
+        "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "elevator-pitch",
-    "title": "Elevator Pitch",
-    "glossZh": "“电梯游说” 或 “电梯推介”。",
-    "interpretationEn": "This phrase originates from a hypothetical scenario where you find yourself in an elevator with a significant person and have only a few seconds to briefly and compellingly present your idea, product, or yourself. An “<em>elevator pitch</em>” is typically used to describe a concise, effective, and powerful self-introduction or proposal, primarily in business or professional settings.",
-    "interpretationZh": "这个短语源于一个假设情境：假设你与一个重要人物同在一部电梯内，你要在短短几秒钟内向对方简明扼要地介绍你的想法、产品或自己。这个 “电梯推介” 通常被用来表示简明、高效且有力的自我介绍或推介，通常在商业或专业环境中使用。",
+    "id": "a-breath-of-fresh-air",
+    "title": "A breath of fresh air",
+    "glossZh": "“一缕新鲜空气” 或 “耳目一新”。",
+    "interpretationEn": "This phrase originates from actual fresh air. When people are in a confined or stuffy environment, breathing in fresh air can make them feel comfortable and invigorated. This metaphor is often used to describe a person or thing that brings pleasure, a new perspective, or a refreshing change.",
+    "interpretationZh": "这个短语起源于实际的新鲜空气，当人们置身于一个封闭或沉闷的环境中，突然吸入新鲜空气会令人感到舒适和振奋。这个比喻通常用来形容令人愉快、带来新鲜感或像是焕然一新的人或事物。",
     "examples": [
       {
-        "en": "She practiced her <em>elevator pitch</em> before the networking event.",
-        "zh": "她在社交活动前反复练习她的电梯推介。"
+        "en": "Her innovative ideas were a <em>breath of fresh air</em> for the company.",
+        "zh": "她的创新理念给公司带来了耳目一新的感觉。"
       },
       {
-        "en": "In just two minutes, he delivered a convincing <em>elevator pitch</em> to the investors.",
-        "zh": "在短短两分钟内，他向投资者们做了一个令人信服的电梯推介。"
+        "en": "After months of routine work, the unexpected day off was like a <em>breath of fresh air</em>.",
+        "zh": "经历了几个月的常规工作后，这次意外的休息日就像一缕新鲜空气。"
       },
       {
-        "en": "An effective <em>elevator pitch</em> can make all the difference in getting a job interview.",
-        "zh": "一个有效的电梯推介可以在获得面试机会方面起到决定性作用。"
+        "en": "The new manager is a <em>breath of fresh air</em>; she’s already made amazing improvements.",
+        "zh": "新经理真是一缕新鲜空气，她已经做出了令人惊叹的改进。"
       }
     ]
   },
@@ -142,39 +152,38 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Charles Lyell",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Charles_Lyell00.jpg/330px-Charles_Lyell00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Scottish geologist (1797–1875)",
-        "extract": "Sir Charles Lyell, 1st Baronet was a Scottish geologist who demonstrated the power of known natural causes in explaining the earth's history. He is best known today for his association with Charles Darwin and as the author of Principles of Geology (1830–33), which presented to a wide public audience the idea that the earth was shaped by the same natural processes still in operation today, operating at similar intensities. The philosopher William Whewell dubbed this gradualistic view \"uniformitarianism\" and contrasted it with catastrophism, which had been championed by Georges Cuvier and was better accepted in Europe. The combination of evidence and eloquence in Principles convinced a wide range of readers of the significance of \"deep time\" for understanding the earth and environment.",
-        "born": 1797,
+        "name": "Thinzar Shunlei Yi",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Thinzar_Shunlei_Yi_circa_2016.jpg/330px-Thinzar_Shunlei_Yi_circa_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Burmese human rights activist (born 1991)",
+        "extract": "Thinzar Shunlei Yi is a Burmese pro-democracy activist and television host. Following the 2021 Burmese coup d'état, she helped organize mass protests against the Tatmadaw. Born in Sagaing to a military family, she originally trained to become a high school teacher, graduating from the Yangon University of Education in 2013. Between 2012 and 2016, Thinzar Shunlei Yi was politically active in executive positions of several youth organizations, and later became a television host on Under 30 Dialogue, a youth-oriented television programme. In 2018, she was charged for unlawful protest against the Rohingya genocide, and was convicted in 2020. After organizing protests against the Tatmadaw in the wake of the 2021 coup d'état, she fled to the jungle and briefly joined an armed rebel group. She lives in exile in Thailand as of 2022, and runs the #Sisters2Sisters anti-wartime sexual violence campaign. She has received the Magnitsky Human Rights Award, and further honors from Women of the Future, the Obama Foundation, and the US Department of State.",
+        "born": 1991,
         "highlights": [
-          "Scottish geologist, author of \"Principles of Geology\".",
-          "Demonstrated natural causes explaining Earth's history.",
-          "Popularized \"uniformitarianism\" and \"deep time\"."
+          "Pro-democracy activist and television host.",
+          "Organized mass protests against the Tatmadaw.",
+          "Received the Magnitsky Human Rights Award."
         ]
       },
       {
-        "name": "Joy Williams (singer)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Joy_Williams_in_Kansas_City_I_%28crop%29.jpg/330px-Joy_Williams_in_Kansas_City_I_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer",
-        "extract": "Joy Elizabeth Williams is an American singer-songwriter. The winner of four Grammy Awards, Williams has released five solo albums and four EPs since her self-titled debut in 2001. She was half of The Civil Wars duo from 2009 until 2014.",
-        "born": 1982,
+        "name": "Miguel Sabah",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Miguel_Sabah_crop.jpg/330px-Miguel_Sabah_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mexican footballer (born 1979)",
+        "extract": "Miguel Sabah Rodríguez is a Mexican former professional footballer who played as a striker.",
+        "born": 1979,
         "highlights": [
-          "American singer-songwriter.",
-          "Winner of four Grammy Awards.",
-          "Half of The Civil Wars duo."
+          "Mexican former professional footballer.",
+          "Played as a striker."
         ]
       },
       {
-        "name": "Madeleine Lemoyne Ellicott",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Madeleine_Lemoyne_Ellicott.png/330px-Madeleine_Lemoyne_Ellicott.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American suffragette",
-        "extract": "Madeleine Romaine Lemoyne, Mrs. Charles E. Ellicott was an American suffragist. She was the founder of the League of Women Voters of Maryland, serving as its president for 20 years, longer than anyone else.",
-        "born": 1856,
+        "name": "Charles Hazlewood",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Charles_Hazlewood_conducts_the_Paraorchestra_at_Southbank_Centre_%28sq_cropped%29.jpg/330px-Charles_Hazlewood_conducts_the_Paraorchestra_at_Southbank_Centre_%28sq_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "British conductor (born 1959)",
+        "extract": "Charles Matthew Egerton Hazlewood is a British conductor. After winning the European Broadcasting Union conducting competition in 1995 whilst still in his twenties, Hazlewood has had a career as an international conductor, music director of film and theatre, composer and a curator of music on British radio and television, Motivational Speaker and founder of Paraorchestra – the world's first integrated ensemble of disabled and non-disabled musicians. He was a guest on BBC Radio 4's Desert Island Discs in May 2019 and became Sky Arts' Ambassador for Music in January 2021. In 2023, Hazlewood was recognised for his 'outstanding contribution to the musical life of the UK' when awarded the Sir Charles Groves Prize by music charity Making Music.",
+        "born": 1966,
         "highlights": [
-          "American suffragist.",
-          "Founder of League of Women Voters of Maryland.",
-          "Served as president for 20 years."
+          "British conductor.",
+          "Won European Broadcasting Union conducting competition.",
+          "Founder of Paraorchestra."
         ]
       }
     ]
