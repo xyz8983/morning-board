@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T20:20:23.729Z",
+  "generatedAt": "2026-11-14T00:08:56.084Z",
   "weather": {
     "location": "New York City",
-    "tempC": 3.8,
+    "tempC": 4.4,
     "condition": "Snow",
     "code": 73,
     "highC": 8.7,
@@ -14,27 +14,43 @@
     "topics": [
       {
         "keywords": [
-          "World",
-          "Diplomacy",
-          "Middle East"
+          "Business",
+          "Travel",
+          "Air Traffic"
         ],
-        "summary": "The U.S.-Israel relationship faces significant strain, with proposals emerging to mend the crucial diplomatic ties."
+        "summary": "A nationwide flight ground stop continues with no resolution timeline, causing widespread travel disruptions."
       },
       {
         "keywords": [
-          "US/Politics",
-          "Economy",
-          "Tech Policy"
+          "World",
+          "Espionage",
+          "National Security"
         ],
-        "summary": "Trump's economic advisors are reportedly clashing over policy regarding major tech companies like Nvidia."
+        "summary": "The US Army identified an officer detained on espionage allegations, raising national security concerns."
+      },
+      {
+        "keywords": [
+          "US Politics",
+          "Election",
+          "Colorado"
+        ],
+        "summary": "Lauren Boebert, a Trump-backed MAGA firebrand, lost her Colorado congressional race, signaling a political shift."
+      },
+      {
+        "keywords": [
+          "Entertainment",
+          "Misconduct",
+          "MeToo"
+        ],
+        "summary": "More women have accused Russell Brand of predatory behavior, adding to ongoing concerns about his conduct."
       },
       {
         "keywords": [
           "Business",
-          "Stock Market",
-          "Nvidia"
+          "Tech Policy",
+          "Regulation"
         ],
-        "summary": "Nvidia's stock continues to fall, causing the Nasdaq to slump and raising investor concerns."
+        "summary": "Nvidia faces significant regulatory scrutiny in Washington, potentially impacting its strategic direction."
       },
       {
         "keywords": [
@@ -42,23 +58,7 @@
           "Apple",
           "Smart Home"
         ],
-        "summary": "Apple's HomeView feature requires strong iPhone integration, shaping its smart home ecosystem strategy."
-      },
-      {
-        "keywords": [
-          "Entertainment",
-          "Music",
-          "Taylor Swift"
-        ],
-        "summary": "Taylor Swift will perform at the CMA Awards for the first time in 13 years, exciting fans."
-      },
-      {
-        "keywords": [
-          "Sports",
-          "NFL",
-          "Football"
-        ],
-        "summary": "The Commanders rallied to defeat the Giants 24-21, keeping their playoff hopes alive."
+        "summary": "Apple's HomeView system heavily depends on the iPhone, highlighting its central role in smart home integration."
       }
     ]
   },
@@ -68,15 +68,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7553.43,
-        "changePct": -0.5132764343290572
+        "price": 7561.67,
+        "changePct": -0.4047468521152674
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25122.645,
-        "changePct": -0.9597417718313292
+        "price": 25136.273,
+        "changePct": -0.906016511647398
       },
       {
         "region": "Europe",
@@ -120,32 +120,32 @@
       {
         "joke": "Today my Magic 8-Ball told me “Outlook not good.”\nDid I break the Internet?",
         "source": "r/Jokes",
-        "explanation": "It puns on 'Outlook' as both the toy's answer and the email software."
+        "explanation": "Plays on the double meaning of \\\"Outlook\\\" as a forecast and an email program."
       },
       {
-        "joke": "\"Knock, knock.\"\n\"Who's there?\"\n\n[very long pause]\n\n\"Java.\"",
+        "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "cup-of-joe",
-    "title": "Cup of Joe",
-    "glossZh": "“一杯咖啡”。",
-    "interpretationEn": "The exact origin of this phrase is uncertain, but the most common explanation is that it is linked to Josephus “<em>Joe</em>” Daniels, the Secretary of the Navy, who prohibited alcohol on Navy ships in 1914, leading sailors to drink more coffee instead. Another simpler explanation is that “<em>Joe</em>” is a slang term for “<em>man</em>” or “fellow,” and coffee is a common beverage, making it “a cup of Joe.”",
-    "interpretationZh": "这个短语的具体起源尚无定论，但最常见的一种解释是它来源于美国海军部长约瑟夫斯·丹尼尔斯（Josephus “<em>Joe</em>” Daniels），他在 1914 年禁止海军舰船上供应酒类，这样水手们就转向喝咖啡了。另一种解释更为简单：“<em>Joe</em>” 是 “<em>man</em>” 或 “<em>fellow</em>” 的非正式称呼，而咖啡是普通大众每日必饮之物，所以就成为了 “a cup of Joe”。",
+    "id": "pushing-your-luck",
+    "title": "Pushing your luck",
+    "glossZh": "“得寸进尺” 或 “把好运气用到极限”。",
+    "interpretationEn": "This idiom originates from the idea of someone who, after having a fortunate event, tries to stretch their luck further, risking losing what they have. It is typically used to describe those who, having benefited or succeeded, aim for even more, thereby increasing the likelihood of failure.",
+    "interpretationZh": "这个短语的来源主要是关于人的行为，当一个人已经很幸运但试图更进一步，冒险去挑战他们的好运是否能继续。它通常用来形容那些已经获得了好处或成功的人却仍然希望得到更多，从而增加了失败的风险。",
     "examples": [
       {
-        "en": "I need a <em>cup of Joe</em> to start my day.",
-        "zh": "我需要一杯咖啡来开始我的一天。"
+        "en": "You’ve won three games in a row. Don’t <em>push your luck</em> and quit while you’re ahead.",
+        "zh": "你已经连赢了三局，不要得寸进尺，及时收手。"
       },
       {
-        "en": "Let’s grab a <em>cup of Joe</em> and catch up.",
-        "zh": "我们去喝杯咖啡，聊聊近况吧。"
+        "en": "I think asking for a third raise this year would be <em>pushing your luck</em>.",
+        "zh": "我认为今年再要求第三次加薪就是得寸进尺了。"
       },
       {
-        "en": "A <em>cup of Joe</em> always helps me wake up in the morning.",
-        "zh": "一杯咖啡总是能让我在早晨醒过来。"
+        "en": "You’ve already got the day off; asking for more time might be <em>pushing your luck</em>.",
+        "zh": "你已经请到假了，再要求更多时间可能就是得寸进尺了。"
       }
     ]
   },
@@ -153,39 +153,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Saul Kripke",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Kripke.JPG/330px-Kripke.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American philosopher and logician (1940–2022)",
-        "extract": "Saul Aaron Kripke was an American philosopher and logician. He was a distinguished professor of philosophy at the Graduate Center of the City University of New York and a professor emeritus at Princeton University. From the 1960s until his death, he was a central figure in a number of fields related to mathematical and modal logic, philosophy of language and mathematics, metaphysics, epistemology, and recursion theory.",
-        "born": 1940,
+        "name": "Boosie Badazz",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Boosie_2024_%28cropped%29.jpg/330px-Boosie_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American rapper (born 1982)",
+        "extract": "Torence Ivy Hatch Jr., better known by his stage name Boosie BadAzz or simply Boosie, is an American rapper. Hatch began rapping in the 1990s as a member of the Southern hip hop collective Concentration Camp, eventually pursuing a solo career in 2000 with the release of his debut album Youngest of da Camp. After leaving the label the following year, he signed with Pimp C's Trill Entertainment to release his second studio album, For My Thugz (2002). One of the most prominent figures of Southern\nhip hop, Hatch has gone on to release thirteen solo studio albums, as well as seven collaborative albums and 44 mixtapes.",
+        "born": 1982,
         "highlights": [
-          "American philosopher and logician.",
-          "Professor at CUNY and Princeton University.",
-          "Central figure in mathematical and modal logic."
+          "Released debut album Youngest of da Camp in 2000.",
+          "Signed with Pimp C's Trill Entertainment.",
+          "Released thirteen solo albums and 44 mixtapes."
         ]
       },
       {
-        "name": "Joseph F. Smith",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/JFS_First_Presidency_1905_large.jpg/330px-JFS_First_Presidency_1905_large.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "President of The Church of Jesus Christ of Latter-day Saints",
-        "extract": "Joseph Fielding Smith Sr. was an American religious leader who served as the sixth president of the Church of Jesus Christ of Latter-day Saints. He was a nephew of Joseph Smith, founder of the Latter Day Saint movement, and the last LDS Church president who had personally known him.",
-        "born": 1838,
+        "name": "Norman Brookes",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Norman_Brookes_1919_%28cropped%29.jpg/330px-Norman_Brookes_1919_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian tennis player (1877–1968)",
+        "extract": "Sir Norman Everard Brookes was an Australian tennis player. During his career he won three Grand Slam singles titles; Wimbledon in 1907 and 1914 and the Australasian Championships in 1911. Brookes was part of the Australasian Davis Cup team that won the title on six occasions. The Australian Open men's singles trophy, the Norman Brookes Challenge Cup, is named in his honour. After his active playing career Brookes became president of the Lawn Tennis Association of Australia.",
+        "born": 1877,
         "highlights": [
-          "Sixth president of the LDS Church.",
-          "Nephew of Joseph Smith, movement founder.",
-          "Last LDS president who knew Joseph Smith."
+          "Won Wimbledon singles titles in 1907 and 1914.",
+          "Won Australasian Championships singles title in 1911.",
+          "Norman Brookes Challenge Cup named in his honour."
         ]
       },
       {
-        "name": "Juhi Chawla",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Juhi_Chawla_LFW-2017.jpg/330px-Juhi_Chawla_LFW-2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Indian actress (born 1967)",
-        "extract": "Juhi Chawla Mehta is an Indian actress. She established herself as one of the leading actresses of Hindi cinema from the late 1980s through the early 2000s. Recognised for her comic timing and vivacious on-screen persona, she is the recipient of several accolades, including two Filmfare Awards. As of 2025, she is the wealthiest Indian actress, with a net worth of ₹7,790 crore (US$830 million).",
-        "born": 1967,
+        "name": "Paul Attanasio",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Paul_Attanasio.jpg/330px-Paul_Attanasio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American screenwriter and producer (born 1959)",
+        "extract": "Paul Albert Attanasio is an American screenwriter and producer. He has twice been nominated for the Academy Award for Best Adapted Screenplay, for Quiz Show (1994) and Donnie Brasco (1997).",
+        "born": 1959,
         "highlights": [
-          "Leading Indian actress in Hindi cinema.",
-          "Recipient of two Filmfare Awards.",
-          "Wealthiest Indian actress as of 2025."
+          "Nominated for Academy Award for Quiz Show (1994).",
+          "Nominated for Academy Award for Donnie Brasco (1997).",
+          "Twice nominated for Best Adapted Screenplay Academy Award."
         ]
       }
     ]
