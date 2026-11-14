@@ -1,64 +1,53 @@
 {
-  "generatedAt": "2026-11-14T00:08:56.084Z",
-  "weather": {
-    "location": "New York City",
-    "tempC": 4.4,
-    "condition": "Snow",
-    "code": 73,
-    "highC": 8.7,
-    "lowC": 2.3,
-    "rainChance": 71
-  },
+  "generatedAt": "2026-11-14T18:39:25.552Z",
   "hotTopics": {
     "headline": "Today's news",
     "topics": [
       {
         "keywords": [
-          "Business",
-          "Travel",
-          "Air Traffic"
-        ],
-        "summary": "A nationwide flight ground stop continues with no resolution timeline, causing widespread travel disruptions."
-      },
-      {
-        "keywords": [
           "World",
-          "Espionage",
-          "National Security"
+          "Geopolitics"
         ],
-        "summary": "The US Army identified an officer detained on espionage allegations, raising national security concerns."
+        "summary": "Trump, Xi, and Putin plan a rare joint meeting at APEC, signaling significant geopolitical discussions among world leaders."
       },
       {
         "keywords": [
-          "US Politics",
-          "Election",
-          "Colorado"
+          "US/Politics",
+          "Travel",
+          "FAA"
         ],
-        "summary": "Lauren Boebert, a Trump-backed MAGA firebrand, lost her Colorado congressional race, signaling a political shift."
-      },
-      {
-        "keywords": [
-          "Entertainment",
-          "Misconduct",
-          "MeToo"
-        ],
-        "summary": "More women have accused Russell Brand of predatory behavior, adding to ongoing concerns about his conduct."
+        "summary": "A nationwide ground stop led to thousands of flight cancellations, causing widespread travel disruption across the country."
       },
       {
         "keywords": [
           "Business",
-          "Tech Policy",
-          "Regulation"
+          "Politics",
+          "Scandal"
         ],
-        "summary": "Nvidia faces significant regulatory scrutiny in Washington, potentially impacting its strategic direction."
+        "summary": "An Nvidia scandal is reportedly impacting Trump's political standing following recent Democratic election successes."
       },
       {
         "keywords": [
           "Tech",
-          "Apple",
-          "Smart Home"
+          "Gaming",
+          "Sales"
         ],
-        "summary": "Apple's HomeView system heavily depends on the iPhone, highlighting its central role in smart home integration."
+        "summary": "A Zelda remake sold 5 million copies in four days, demonstrating the series' continued strong commercial appeal."
+      },
+      {
+        "keywords": [
+          "Entertainment",
+          "Film",
+          "Box office"
+        ],
+        "summary": "Johnny Depp's new film \"Ebenezer\" led the box office on its opening day, indicating strong initial audience interest."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "College Football"
+        ],
+        "summary": "College football games, including Ole Miss-Oklahoma, faced schedule changes due to the nationwide FAA flight stoppage."
       }
     ]
   },
@@ -76,7 +65,7 @@
         "name": "Nasdaq",
         "symbol": "^IXIC",
         "price": 25136.273,
-        "changePct": -0.906016511647398
+        "changePct": -0.9060399509581587
       },
       {
         "region": "Europe",
@@ -90,62 +79,62 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10902.56,
-        "changePct": 0.3633404491723749
+        "changePct": 0.36324805994604786
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3634.353,
-        "changePct": -1.2575802034428742
+        "changePct": -0.5874726122385303
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4016.2898,
-        "changePct": -0.6833830486433532
+        "price": 4016.29,
+        "changePct": -0.683493532281713
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23637.6,
-        "changePct": -2.7895327748510352
+        "changePct": -1.5452796081404163
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "Today my Magic 8-Ball told me “Outlook not good.”\nDid I break the Internet?",
+        "joke": "Little-known fact: there are two Frankfurts in Germany.\nThere's the Main one, and the Oder one",
         "source": "r/Jokes",
-        "explanation": "Plays on the double meaning of \\\"Outlook\\\" as a forecast and an email program."
+        "explanation": "It's a pun on 'Main' and 'Oder' sounding like 'main' and 'other'."
       },
       {
-        "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+        "joke": "I have a joke about trickle down economics, but 99% of you will never get it.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "pushing-your-luck",
-    "title": "Pushing your luck",
-    "glossZh": "“得寸进尺” 或 “把好运气用到极限”。",
-    "interpretationEn": "This idiom originates from the idea of someone who, after having a fortunate event, tries to stretch their luck further, risking losing what they have. It is typically used to describe those who, having benefited or succeeded, aim for even more, thereby increasing the likelihood of failure.",
-    "interpretationZh": "这个短语的来源主要是关于人的行为，当一个人已经很幸运但试图更进一步，冒险去挑战他们的好运是否能继续。它通常用来形容那些已经获得了好处或成功的人却仍然希望得到更多，从而增加了失败的风险。",
+    "id": "elevator-pitch",
+    "title": "Elevator Pitch",
+    "glossZh": "“电梯游说” 或 “电梯推介”。",
+    "interpretationEn": "This phrase originates from a hypothetical scenario where you find yourself in an elevator with a significant person and have only a few seconds to briefly and compellingly present your idea, product, or yourself. An “<em>elevator pitch</em>” is typically used to describe a concise, effective, and powerful self-introduction or proposal, primarily in business or professional settings.",
+    "interpretationZh": "这个短语源于一个假设情境：假设你与一个重要人物同在一部电梯内，你要在短短几秒钟内向对方简明扼要地介绍你的想法、产品或自己。这个 “电梯推介” 通常被用来表示简明、高效且有力的自我介绍或推介，通常在商业或专业环境中使用。",
     "examples": [
       {
-        "en": "You’ve won three games in a row. Don’t <em>push your luck</em> and quit while you’re ahead.",
-        "zh": "你已经连赢了三局，不要得寸进尺，及时收手。"
+        "en": "She practiced her <em>elevator pitch</em> before the networking event.",
+        "zh": "她在社交活动前反复练习她的电梯推介。"
       },
       {
-        "en": "I think asking for a third raise this year would be <em>pushing your luck</em>.",
-        "zh": "我认为今年再要求第三次加薪就是得寸进尺了。"
+        "en": "In just two minutes, he delivered a convincing <em>elevator pitch</em> to the investors.",
+        "zh": "在短短两分钟内，他向投资者们做了一个令人信服的电梯推介。"
       },
       {
-        "en": "You’ve already got the day off; asking for more time might be <em>pushing your luck</em>.",
-        "zh": "你已经请到假了，再要求更多时间可能就是得寸进尺了。"
+        "en": "An effective <em>elevator pitch</em> can make all the difference in getting a job interview.",
+        "zh": "一个有效的电梯推介可以在获得面试机会方面起到决定性作用。"
       }
     ]
   },
@@ -153,39 +142,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Boosie Badazz",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Boosie_2024_%28cropped%29.jpg/330px-Boosie_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American rapper (born 1982)",
-        "extract": "Torence Ivy Hatch Jr., better known by his stage name Boosie BadAzz or simply Boosie, is an American rapper. Hatch began rapping in the 1990s as a member of the Southern hip hop collective Concentration Camp, eventually pursuing a solo career in 2000 with the release of his debut album Youngest of da Camp. After leaving the label the following year, he signed with Pimp C's Trill Entertainment to release his second studio album, For My Thugz (2002). One of the most prominent figures of Southern\nhip hop, Hatch has gone on to release thirteen solo studio albums, as well as seven collaborative albums and 44 mixtapes.",
+        "name": "Charles Lyell",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Charles_Lyell00.jpg/330px-Charles_Lyell00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Scottish geologist (1797–1875)",
+        "extract": "Sir Charles Lyell, 1st Baronet was a Scottish geologist who demonstrated the power of known natural causes in explaining the earth's history. He is best known today for his association with Charles Darwin and as the author of Principles of Geology (1830–33), which presented to a wide public audience the idea that the earth was shaped by the same natural processes still in operation today, operating at similar intensities. The philosopher William Whewell dubbed this gradualistic view \"uniformitarianism\" and contrasted it with catastrophism, which had been championed by Georges Cuvier and was better accepted in Europe. The combination of evidence and eloquence in Principles convinced a wide range of readers of the significance of \"deep time\" for understanding the earth and environment.",
+        "born": 1797,
+        "highlights": [
+          "Scottish geologist, author of \"Principles of Geology\".",
+          "Demonstrated natural causes explaining Earth's history.",
+          "Popularized \"uniformitarianism\" and \"deep time\"."
+        ]
+      },
+      {
+        "name": "Joy Williams (singer)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Joy_Williams_in_Kansas_City_I_%28crop%29.jpg/330px-Joy_Williams_in_Kansas_City_I_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer",
+        "extract": "Joy Elizabeth Williams is an American singer-songwriter. The winner of four Grammy Awards, Williams has released five solo albums and four EPs since her self-titled debut in 2001. She was half of The Civil Wars duo from 2009 until 2014.",
         "born": 1982,
         "highlights": [
-          "Released debut album Youngest of da Camp in 2000.",
-          "Signed with Pimp C's Trill Entertainment.",
-          "Released thirteen solo albums and 44 mixtapes."
+          "American singer-songwriter.",
+          "Winner of four Grammy Awards.",
+          "Half of The Civil Wars duo."
         ]
       },
       {
-        "name": "Norman Brookes",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Norman_Brookes_1919_%28cropped%29.jpg/330px-Norman_Brookes_1919_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian tennis player (1877–1968)",
-        "extract": "Sir Norman Everard Brookes was an Australian tennis player. During his career he won three Grand Slam singles titles; Wimbledon in 1907 and 1914 and the Australasian Championships in 1911. Brookes was part of the Australasian Davis Cup team that won the title on six occasions. The Australian Open men's singles trophy, the Norman Brookes Challenge Cup, is named in his honour. After his active playing career Brookes became president of the Lawn Tennis Association of Australia.",
-        "born": 1877,
+        "name": "Madeleine Lemoyne Ellicott",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Madeleine_Lemoyne_Ellicott.png/330px-Madeleine_Lemoyne_Ellicott.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American suffragette",
+        "extract": "Madeleine Romaine Lemoyne, Mrs. Charles E. Ellicott was an American suffragist. She was the founder of the League of Women Voters of Maryland, serving as its president for 20 years, longer than anyone else.",
+        "born": 1856,
         "highlights": [
-          "Won Wimbledon singles titles in 1907 and 1914.",
-          "Won Australasian Championships singles title in 1911.",
-          "Norman Brookes Challenge Cup named in his honour."
-        ]
-      },
-      {
-        "name": "Paul Attanasio",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Paul_Attanasio.jpg/330px-Paul_Attanasio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American screenwriter and producer (born 1959)",
-        "extract": "Paul Albert Attanasio is an American screenwriter and producer. He has twice been nominated for the Academy Award for Best Adapted Screenplay, for Quiz Show (1994) and Donnie Brasco (1997).",
-        "born": 1959,
-        "highlights": [
-          "Nominated for Academy Award for Quiz Show (1994).",
-          "Nominated for Academy Award for Donnie Brasco (1997).",
-          "Twice nominated for Best Adapted Screenplay Academy Award."
+          "American suffragist.",
+          "Founder of League of Women Voters of Maryland.",
+          "Served as president for 20 years."
         ]
       }
     ]
