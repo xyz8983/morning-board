@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T19:15:17.148Z",
+  "generatedAt": "2026-11-15T23:18:41.591Z",
   "weather": {
     "location": "New York City",
-    "tempC": 9.9,
+    "tempC": 6.2,
     "condition": "Overcast",
     "code": 3,
-    "highC": 9.9,
-    "lowC": 2,
+    "highC": 10.8,
+    "lowC": 2.6,
     "rainChance": 1
   },
   "hotTopics": {
@@ -15,44 +15,50 @@
       {
         "keywords": [
           "World",
-          "Ukraine War"
+          "Ukraine",
+          "NATO"
         ],
-        "summary": "A new US proposal suggests Ukraine could trade Donbas for NATO membership, potentially altering the conflict's future."
-      },
-      {
-        "keywords": [
-          "US/Politics",
-          "FAA"
-        ],
-        "summary": "The Transportation Secretary defended the FAA's nationwide ground stop, emphasizing safety after a system outage."
+        "summary": "A new US proposal suggests Ukraine could cede Donbas for NATO membership, potentially altering the ongoing conflict with Russia."
       },
       {
         "keywords": [
           "Tech",
-          "Apple"
+          "Cybersecurity",
+          "Windows 11"
         ],
-        "summary": "Apple plans to make Siri-powered AI apps the key feature of its upcoming smart glasses, shaping future tech interaction."
+        "summary": "A new Windows 11 zero-day exploit grants system privileges by misusing a security fix, posing a major cybersecurity risk."
+      },
+      {
+        "keywords": [
+          "US Politics",
+          "FAA",
+          "Funding"
+        ],
+        "summary": "The Trump administration seeks more FAA funding, but Democrats claim the agency already has it, sparking a political dispute."
       },
       {
         "keywords": [
           "Business",
-          "AI"
+          "Nvidia",
+          "Leadership"
         ],
-        "summary": "Nvidia CEO Jensen Huang is criticized for a questionable business deal, raising concerns about AI industry leadership."
+        "summary": "Nvidia CEO Jensen Huang is reportedly discussing his company's comeback with allies, indicating strategic shifts in the tech industry."
       },
       {
         "keywords": [
           "World",
-          "Pope"
+          "Jordan",
+          "Justice"
         ],
-        "summary": "Pope Francis concluded his Peru trip, visiting remote communities in the Andes and Amazon regions."
+        "summary": "Jordan sentenced three to death for a Greek Orthodox church attack, demonstrating a firm stance against extremism."
       },
       {
         "keywords": [
           "Sports",
-          "NFL"
+          "NFL",
+          "Football"
         ],
-        "summary": "Patriots and Lions star players Drake Maye and Aidan Hutchinson sustained injuries during their game in Munich."
+        "summary": "The Vikings defeated the Packers 30-10 in Kirk Cousins' return, marking a significant win for the team."
       }
     ]
   },
@@ -112,34 +118,34 @@
   "joke": {
     "items": [
       {
-        "joke": "A girl tells her friend, \"I met an exchange student last night. He's a !Kung tribesman from Namibia.\"\n\"How did you get along?\" asks her friend.\nAnd the girl says, \"It was incredible. We just clicked.\"",
+        "joke": "My wife left me because I’m too insecure and paranoid\nOh wait, never mind. She was just getting the mail",
         "source": "r/Jokes",
-        "explanation": "It's a pun on 'clicked,' referring to both connection and click languages."
+        "explanation": "The mundane punchline ironically confirms the speaker's self-diagnosis of paranoia."
       },
       {
-        "joke": "Two fish in a tank. One turns to the other and says, \"Do you know how to drive this thing?\"",
+        "joke": "Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "kill-two-birds-with-one-stone",
-    "title": "Kill two birds with one stone",
-    "glossZh": "“一箭双雕” 或 “一举两得”。",
-    "interpretationEn": "This idiom originates from Ancient Greece and literally means killing two birds with one stone, symbolizing accomplishing two goals with a single effort. The phrase is commonly used to describe situations where a single action effectively addresses two or more issues.",
-    "interpretationZh": "这个成语最早源于古希腊，字面意思是在一块石头上杀死两只鸟，代表用一次努力同时完成两个目标。这一短语经常用来描述那些能用一个简单行动同时解决两个或更多问题的情况。",
+    "id": "like-there-is-no-tomorrow",
+    "title": "Like there is no tomorrow",
+    "glossZh": "“像没有明天一样” 或 “不顾明天”。",
+    "interpretationEn": "This phrase originates from a sense of urgency and living in the moment, implying that today might be the last day, so one should do something to the fullest. It is typically used to describe people doing something in large quantities, without regard for the future consequences, such as spending, eating, or working.",
+    "interpretationZh": "这个短语起源于一种紧迫感和尽情享受当下的精神，暗指今天可能是最后一天，所以要尽情去做某事。这个表达通常用来形容人们不顾后果地大量做某事，比如消费、吃喝或者工作。",
     "examples": [
       {
-        "en": "By carpooling, we can <em>kill two birds with one stone</em> — save money on gas and reduce our carbon footprint.",
-        "zh": "通过拼车，我们可以一箭双雕 —— 省油钱又减少碳足迹。"
+        "en": "They were spending money <em>like there is no tomorrow</em> during their vacation.",
+        "zh": "他们在度假时花钱像没有明天一样。"
       },
       {
-        "en": "She went shopping to get groceries and gifts, <em>killing two birds with one stone</em>.",
-        "zh": "她去购物，买了食品和礼物，一举两得。"
+        "en": "She ate those chocolates <em>like there is no tomorrow</em>.",
+        "zh": "她像没有明天一样吃那些巧克力。"
       },
       {
-        "en": "By studying for his exams on the train, he <em>kills two birds with one stone</em> — utilizing his travel time effectively.",
-        "zh": "他在火车上复习考试，一举两得 —— 有效利用了旅行时间。"
+        "en": "He’s working <em>like there is no tomorrow</em> to finish the project on time.",
+        "zh": "为了按时完成项目，他正在拼命工作，像没有明天一样。"
       }
     ]
   },
@@ -147,37 +153,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Patrick Mboma",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ancien_du_PSG_Patrick_Mboma.jpg/330px-Ancien_du_PSG_Patrick_Mboma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Cameroonian footballer (born 1970)",
-        "extract": "Henri Patrick Mboma Dem is a Cameroonian former professional footballer who played as a striker. He is the fourth all-time top goal-scorer for the Cameroon national team.",
-        "born": 1970,
+        "name": "Fausto Brizzi",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Fausto_Brizzi_2012_cropped.jpg/330px-Fausto_Brizzi_2012_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian screenwriter, producer and film director",
+        "extract": "Fausto Brizzi is an Italian screenwriter, producer and film director.",
+        "born": 1968,
         "highlights": [
-          "Cameroonian former professional footballer.",
-          "Played as a striker.",
-          "Fourth all-time top goal-scorer for Cameroon national team."
+          "Italian screenwriter.",
+          "Also a film producer.",
+          "Known as a film director."
         ]
       },
       {
-        "name": "Michel Chasles",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Michel_Chasles.jpg/330px-Michel_Chasles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French mathematician (1793–1880)",
-        "extract": "Michel Floréal Chasles was a French mathematician.",
-        "born": 1793,
+        "name": "Steven Miles",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Steven_Miles_official_portrait.jpg/330px-Steven_Miles_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Premier of Queensland from 2023 to 2024",
+        "extract": "Steven John Miles is an Australian politician who served as the 40th premier of Queensland from 2023 to 2024. He has been the leader of the Queensland Labor Party since 2023 and the leader of the opposition in Queensland since 2024, and previously served as deputy premier from 2020 to 2023.",
+        "born": 1977,
         "highlights": [
-          "French mathematician."
+          "40th premier of Queensland (2023-2024).",
+          "Leader of Queensland Labor Party since 2023.",
+          "Leader of opposition in Queensland since 2024."
         ]
       },
       {
-        "name": "Gloria Foster",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Gloria_Foster_1970.JPG/330px-Gloria_Foster_1970.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (1933–2001)",
-        "extract": "Gloria Foster was an American actress. She had acclaimed roles in plays such as In White America and Having Our Say, winning three Obie Awards during her career. Foster played the Oracle in The Matrix (1999) and its first sequel, The Matrix Reloaded (2003). She played the role of the mother of Yusef Bell in the miniseries The Atlanta Child Murders which aired in 1985.",
-        "born": 1933,
+        "name": "Emil Krebs",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Emil_Krebs.jpg/330px-Emil_Krebs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "German hyperpolyglot and sinologist",
+        "extract": " Emil Krebs  was a German polyglot and sinologist. He was reportedly able to speak and write 68 languages and studied 120 other languages.",
+        "born": 1867,
         "highlights": [
-          "American actress.",
-          "Won three Obie Awards.",
-          "Played the Oracle in The Matrix (1999)."
+          "German polyglot and sinologist.",
+          "Reportedly spoke and wrote 68 languages.",
+          "Studied 120 other languages."
         ]
       }
     ]
