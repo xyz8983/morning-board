@@ -1,64 +1,21 @@
 {
-  "generatedAt": "2026-11-15T23:18:41.591Z",
-  "weather": {
-    "location": "New York City",
-    "tempC": 6.2,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 10.8,
-    "lowC": 2.6,
-    "rainChance": 1
-  },
+  "generatedAt": "2026-11-16T22:44:40.895Z",
   "hotTopics": {
     "headline": "Today's news",
     "topics": [
       {
         "keywords": [
-          "World",
-          "Ukraine",
-          "NATO"
+          "Sports",
+          "NFL Injury"
         ],
-        "summary": "A new US proposal suggests Ukraine could cede Donbas for NATO membership, potentially altering the ongoing conflict with Russia."
-      },
-      {
-        "keywords": [
-          "Tech",
-          "Cybersecurity",
-          "Windows 11"
-        ],
-        "summary": "A new Windows 11 zero-day exploit grants system privileges by misusing a security fix, posing a major cybersecurity risk."
-      },
-      {
-        "keywords": [
-          "US Politics",
-          "FAA",
-          "Funding"
-        ],
-        "summary": "The Trump administration seeks more FAA funding, but Democrats claim the agency already has it, sparking a political dispute."
-      },
-      {
-        "keywords": [
-          "Business",
-          "Nvidia",
-          "Leadership"
-        ],
-        "summary": "Nvidia CEO Jensen Huang is reportedly discussing his company's comeback with allies, indicating strategic shifts in the tech industry."
-      },
-      {
-        "keywords": [
-          "World",
-          "Jordan",
-          "Justice"
-        ],
-        "summary": "Jordan sentenced three to death for a Greek Orthodox church attack, demonstrating a firm stance against extremism."
+        "summary": "Lions' star Aidan Hutchinson is out for the season with a knee injury, significantly impacting the team's defense."
       },
       {
         "keywords": [
           "Sports",
-          "NFL",
-          "Football"
+          "NFL Recap"
         ],
-        "summary": "The Vikings defeated the Packers 30-10 in Kirk Cousins' return, marking a significant win for the team."
+        "summary": "NFL Week 10 saw the Bengals emerge as AFC contenders, alongside notable player returns and debuts."
       }
     ]
   },
@@ -68,84 +25,84 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7561.67,
-        "changePct": -0.4047468521152674
+        "price": 7416.59,
+        "changePct": -1.9186237960662118
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 25136.273,
-        "changePct": -0.9060399509581587
+        "price": 24509.758,
+        "changePct": -2.492473725122254
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6386.86,
-        "changePct": -0.18940518645158902
+        "price": 6348.35,
+        "changePct": -0.6029566954653666
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10902.56,
-        "changePct": 0.36324805994604786
+        "price": 10881.55,
+        "changePct": -0.19270703394432334
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3634.353,
-        "changePct": -0.5874726122385303
+        "price": 3602.57,
+        "changePct": -0.8745160417823997
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 4016.29,
-        "changePct": -0.683493532281713
+        "price": 3979.8035,
+        "changePct": -0.9084578508254069
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23637.6,
-        "changePct": -1.5452796081404163
+        "price": 23753.84,
+        "changePct": 0.49175889261177785
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "My wife left me because I’m too insecure and paranoid\nOh wait, never mind. She was just getting the mail",
+        "joke": "You thought Jensen Huang was smart before?\nGuy is a genuis, he quit his job and lost his wife right before the launch of GTA 6!",
         "source": "r/Jokes",
-        "explanation": "The mundane punchline ironically confirms the speaker's self-diagnosis of paranoia."
+        "explanation": "It's dark humor about extreme dedication to gaming, sacrificing everything for GTA 6."
       },
       {
-        "joke": "Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.",
+        "joke": "I have a joke about trickle down economics, but 99% of you will never get it.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "like-there-is-no-tomorrow",
-    "title": "Like there is no tomorrow",
-    "glossZh": "“像没有明天一样” 或 “不顾明天”。",
-    "interpretationEn": "This phrase originates from a sense of urgency and living in the moment, implying that today might be the last day, so one should do something to the fullest. It is typically used to describe people doing something in large quantities, without regard for the future consequences, such as spending, eating, or working.",
-    "interpretationZh": "这个短语起源于一种紧迫感和尽情享受当下的精神，暗指今天可能是最后一天，所以要尽情去做某事。这个表达通常用来形容人们不顾后果地大量做某事，比如消费、吃喝或者工作。",
+    "id": "get-wind-of-something",
+    "title": "Get wind of something",
+    "glossZh": "“得知或听到某事” 或 “风闻”。通常指秘密或非公开的信息被无意中听到或发现。",
+    "interpretationEn": "This phrase originates from nautical terminology. In old times, sailors relied on the wind to gauge their surroundings; if they “got wind” of something, it meant they became aware of it. Nowadays, the expression refers to someone unintentionally hearing or discovering some news or a secret.",
+    "interpretationZh": "这个短语源自航海术语。在旧时，航海员依靠风向来判断周围的事物，如果他们 “得到了风”，说明他们有所察觉。现如今，这个表达用于指某人无意中听到了某些消息或秘密。",
     "examples": [
       {
-        "en": "They were spending money <em>like there is no tomorrow</em> during their vacation.",
-        "zh": "他们在度假时花钱像没有明天一样。"
+        "en": "If they get wind of our plans, the surprise will be ruined.",
+        "zh": "如果他们风闻了我们的计划，惊喜就会被破坏。"
       },
       {
-        "en": "She ate those chocolates <em>like there is no tomorrow</em>.",
-        "zh": "她像没有明天一样吃那些巧克力。"
+        "en": "I got wind of a change in the company’s management.",
+        "zh": "我听说公司管理层有变动。"
       },
       {
-        "en": "He’s working <em>like there is no tomorrow</em> to finish the project on time.",
-        "zh": "为了按时完成项目，他正在拼命工作，像没有明天一样。"
+        "en": "She got wind of the rumors about the merger before anyone else.",
+        "zh": "她最先风闻了关于合并的谣言。"
       }
     ]
   },
@@ -153,39 +110,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Fausto Brizzi",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Fausto_Brizzi_2012_cropped.jpg/330px-Fausto_Brizzi_2012_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian screenwriter, producer and film director",
-        "extract": "Fausto Brizzi is an Italian screenwriter, producer and film director.",
-        "born": 1968,
+        "name": "Chi Coltrane",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Chi_Coltrane_1974.jpg/330px-Chi_Coltrane_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer (born 1948)",
+        "extract": "Chi Coltrane is an American rock/gospel singer, songwriter, and pianist.",
+        "born": 1948,
         "highlights": [
-          "Italian screenwriter.",
-          "Also a film producer.",
-          "Known as a film director."
+          "American rock/gospel singer.",
+          "Also a songwriter.",
+          "And a pianist."
         ]
       },
       {
-        "name": "Steven Miles",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Steven_Miles_official_portrait.jpg/330px-Steven_Miles_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Premier of Queensland from 2023 to 2024",
-        "extract": "Steven John Miles is an Australian politician who served as the 40th premier of Queensland from 2023 to 2024. He has been the leader of the Queensland Labor Party since 2023 and the leader of the opposition in Queensland since 2024, and previously served as deputy premier from 2020 to 2023.",
-        "born": 1977,
+        "name": "Jannie du Plessis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jannie_du_Plessis_2007.jpg/330px-Jannie_du_Plessis_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "South African rugby union player",
+        "extract": "Jan Nathaniel du Plessis is a former South African rugby union player, who played as a prop for Montpellier in the French Top 14 and the Lions in Super Rugby. He played for the Free State Cheetahs in the Currie Cup and the Cheetahs in Super Rugby until 2007, when he joined Durban-based side the Sharks, where he played until 2015. He won 70 caps for South Africa between 2007 and 2015.",
+        "born": 1982,
         "highlights": [
-          "40th premier of Queensland (2023-2024).",
-          "Leader of Queensland Labor Party since 2023.",
-          "Leader of opposition in Queensland since 2024."
+          "Former South African rugby union player.",
+          "Played as a prop for Montpellier and Lions.",
+          "Won 70 caps for South Africa."
         ]
       },
       {
-        "name": "Emil Krebs",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Emil_Krebs.jpg/330px-Emil_Krebs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German hyperpolyglot and sinologist",
-        "extract": " Emil Krebs  was a German polyglot and sinologist. He was reportedly able to speak and write 68 languages and studied 120 other languages.",
-        "born": 1867,
+        "name": "Choudhry Rahmat Ali",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Choudhry_Rahmat_Ali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Muslim nationalist activist (1897–1951)",
+        "extract": "Chaudhary Rahmat Ali was a Muslim nationalist activist who is credited with coining the name \"Pakistan\" for a separate Muslim homeland in British India and is sometimes regarded as the originator of the Pakistan Movement.",
+        "born": 1897,
         "highlights": [
-          "German polyglot and sinologist.",
-          "Reportedly spoke and wrote 68 languages.",
-          "Studied 120 other languages."
+          "Muslim nationalist activist.",
+          "Credited with coining \"Pakistan\" name.",
+          "Regarded as originator of Pakistan Movement."
         ]
       }
     ]
