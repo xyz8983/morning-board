@@ -1,21 +1,64 @@
 {
-  "generatedAt": "2026-11-16T22:44:40.895Z",
+  "generatedAt": "2026-11-17T02:16:59.232Z",
+  "weather": {
+    "location": "New York City",
+    "tempC": 6.3,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 14,
+    "lowC": 1.8,
+    "rainChance": 1
+  },
   "hotTopics": {
     "headline": "Today's news",
     "topics": [
       {
         "keywords": [
-          "Sports",
-          "NFL Injury"
+          "World",
+          "Middle East",
+          "Military"
         ],
-        "summary": "Lions' star Aidan Hutchinson is out for the season with a knee injury, significantly impacting the team's defense."
+        "summary": "The US deployed a third aircraft carrier and thousands of troops to the Middle East, escalating regional military presence."
+      },
+      {
+        "keywords": [
+          "Business",
+          "Banking",
+          "Tech issue"
+        ],
+        "summary": "A technical issue at JPMorgan Chase caused widespread online banking delays for major US banks, affecting customer access."
+      },
+      {
+        "keywords": [
+          "Business",
+          "Airlines",
+          "Travel"
+        ],
+        "summary": "United Airlines resolved a widespread system outage, days after a previous nationwide ground stop disrupted air travel."
+      },
+      {
+        "keywords": [
+          "US",
+          "Legal",
+          "Crime"
+        ],
+        "summary": "A judge scheduled a spring retrial for Lindsay Clancy, who faces charges related to her children's deaths."
       },
       {
         "keywords": [
           "Sports",
-          "NFL Recap"
+          "NFL",
+          "Injury"
         ],
-        "summary": "NFL Week 10 saw the Bengals emerge as AFC contenders, alongside notable player returns and debuts."
+        "summary": "Aidan Hutchinson reportedly has a torn ACL with no additional damage, impacting his football season."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "NFL",
+          "Performance"
+        ],
+        "summary": "Joe Burrow is performing exceptionally, potentially achieving one of the greatest passing seasons in NFL history."
       }
     ]
   },
@@ -53,22 +96,22 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3602.57,
-        "changePct": -0.8745160417823997
+        "price": 3574.4333,
+        "changePct": -0.7810119320935868
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3979.8035,
-        "changePct": -0.9084578508254069
+        "price": 3952.2727,
+        "changePct": -0.6917627968315521
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23753.84,
-        "changePct": 0.49175889261177785
+        "price": 23427.52,
+        "changePct": -1.373756832579489
       }
     ]
   },
@@ -77,32 +120,32 @@
       {
         "joke": "You thought Jensen Huang was smart before?\nGuy is a genuis, he quit his job and lost his wife right before the launch of GTA 6!",
         "source": "r/Jokes",
-        "explanation": "It's dark humor about extreme dedication to gaming, sacrificing everything for GTA 6."
+        "explanation": "Sacrificing everything for a game is framed as genius due to its overwhelming allure."
       },
       {
-        "joke": "I have a joke about trickle down economics, but 99% of you will never get it.",
+        "joke": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "get-wind-of-something",
-    "title": "Get wind of something",
-    "glossZh": "“得知或听到某事” 或 “风闻”。通常指秘密或非公开的信息被无意中听到或发现。",
-    "interpretationEn": "This phrase originates from nautical terminology. In old times, sailors relied on the wind to gauge their surroundings; if they “got wind” of something, it meant they became aware of it. Nowadays, the expression refers to someone unintentionally hearing or discovering some news or a secret.",
-    "interpretationZh": "这个短语源自航海术语。在旧时，航海员依靠风向来判断周围的事物，如果他们 “得到了风”，说明他们有所察觉。现如今，这个表达用于指某人无意中听到了某些消息或秘密。",
+    "id": "go-the-extra-mile",
+    "title": "Go the extra mile",
+    "glossZh": "“多做一点” 或 “加倍努力”。",
+    "interpretationEn": "This phrase originates from the New Testament in the Bible, specifically Matthew 5:41, where Jesus said, “If anyone forces you to go one mile, go with them two miles.” The meaning behind this is that when you are asked to do something, you should put in extra effort. Today, the idiom is used to describe people who are willing to go beyond the minimum requirement to achieve higher goals or provide better service.",
+    "interpretationZh": "这个短语源自《新约圣经》中《马太福音》第五章 41 节，其中耶稣提到 “有人强逼你走一里路，你就同他走二里”。这句话的意思是，当你被要求完成一些事情时，应该多做一点，多付出一些努力。现在，这个习语常用于表示人们不满足于完成最基本的任务，而是愿意付出额外的努力来达到更高的目标或提供更好的服务。",
     "examples": [
       {
-        "en": "If they get wind of our plans, the surprise will be ruined.",
-        "zh": "如果他们风闻了我们的计划，惊喜就会被破坏。"
+        "en": "She always goes the extra mile to help her students succeed.",
+        "zh": "她总是加倍努力帮助她的学生取得成功。"
       },
       {
-        "en": "I got wind of a change in the company’s management.",
-        "zh": "我听说公司管理层有变动。"
+        "en": "Our customer service team goes the extra mile to ensure customer satisfaction.",
+        "zh": "我们的客户服务团队总是多做一点，以确保客户满意。"
       },
       {
-        "en": "She got wind of the rumors about the merger before anyone else.",
-        "zh": "她最先风闻了关于合并的谣言。"
+        "en": "I’m so grateful to my colleagues who went the extra mile to complete the project on time.",
+        "zh": "我非常感激我的同事们，他们加倍努力按时完成了这个项目。"
       }
     ]
   },
@@ -110,39 +153,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Chi Coltrane",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Chi_Coltrane_1974.jpg/330px-Chi_Coltrane_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American singer (born 1948)",
-        "extract": "Chi Coltrane is an American rock/gospel singer, songwriter, and pianist.",
-        "born": 1948,
+        "name": "Ioannis Bourousis",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Basketball_match_Greece_vs_France_on_02_September_2017_01_%28Ioannis_Bourousis_cropped%29.jpg/330px-Basketball_match_Greece_vs_France_on_02_September_2017_01_%28Ioannis_Bourousis_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Greek basketball player (born 1983)",
+        "extract": "Ioannis Bourousis, commonly known as Giannis Bourousis is a Greek former professional basketball player and basketball executive. He is the general manager of the Greek basketball club ASK Karditsa. During his playing career, at a height of 7 ft 3⁄4 in tall and a weight of 270 lb. (122 kg), Bourousis played at the center position. Bourousis, who was a two-time All-EuroLeague First Team selection, was compared to FIBA Hall of Fame / Basketball Hall of Fame center Vlade Divac, by San Antonio Spurs' head coach Gregg Popovich.",
+        "born": 1983,
         "highlights": [
-          "American rock/gospel singer.",
-          "Also a songwriter.",
-          "And a pianist."
+          "Former Greek professional basketball player and executive.",
+          "General manager of Greek basketball club ASK Karditsa.",
+          "Two-time All-EuroLeague First Team selection."
         ]
       },
       {
-        "name": "Jannie du Plessis",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jannie_du_Plessis_2007.jpg/330px-Jannie_du_Plessis_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South African rugby union player",
-        "extract": "Jan Nathaniel du Plessis is a former South African rugby union player, who played as a prop for Montpellier in the French Top 14 and the Lions in Super Rugby. He played for the Free State Cheetahs in the Currie Cup and the Cheetahs in Super Rugby until 2007, when he joined Durban-based side the Sharks, where he played until 2015. He won 70 caps for South Africa between 2007 and 2015.",
-        "born": 1982,
+        "name": "Stephen Root",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Stephen_Root_2024.jpg/330px-Stephen_Root_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor (born 1951)",
+        "extract": "Stephen Root is an American actor. Known for his extensive work in film and television, he gained attention for his roles as Jimmy James on the NBC sitcom NewsRadio (1995–1999), as Milton Waddams in the comedy film Office Space (1999), and voiced Bill Dauterive and Buck Strickland on the animated series King of the Hill.",
+        "born": 1951,
         "highlights": [
-          "Former South African rugby union player.",
-          "Played as a prop for Montpellier and Lions.",
-          "Won 70 caps for South Africa."
+          "Actor known for Jimmy James on NewsRadio.",
+          "Played Milton Waddams in the film Office Space.",
+          "Voiced characters on animated series King of the Hill."
         ]
       },
       {
-        "name": "Choudhry Rahmat Ali",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Choudhry_Rahmat_Ali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Muslim nationalist activist (1897–1951)",
-        "extract": "Chaudhary Rahmat Ali was a Muslim nationalist activist who is credited with coining the name \"Pakistan\" for a separate Muslim homeland in British India and is sometimes regarded as the originator of the Pakistan Movement.",
-        "born": 1897,
+        "name": "Doug Walker (comedian)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Doug_Walker_Comic_Con_2022.png/330px-Doug_Walker_Comic_Con_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American YouTuber and comedian (born 1981)",
+        "extract": "Douglas Darien Walker is an American film critic, comedian, YouTuber, filmmaker, and actor. He is best known for creating and starring in the satirical film review series Nostalgia Critic, wherein the title character reviews nostalgic media in an exaggeratedly aggressive manner. After an initial run on YouTube, Walker co-created the website That Guy with the Glasses in 2008, where he and the series gained wider popularity. The site also presented other media critics who created similar content, including Lindsay Ellis and Angry Joe. Walker and his series returned to YouTube in 2014.",
+        "born": 1981,
         "highlights": [
-          "Muslim nationalist activist.",
-          "Credited with coining \"Pakistan\" name.",
-          "Regarded as originator of Pakistan Movement."
+          "Creator and star of Nostalgia Critic review series.",
+          "Co-created website That Guy with the Glasses.",
+          "Reviews nostalgic media in an exaggeratedly aggressive manner."
         ]
       }
     ]
