@@ -1,64 +1,49 @@
 {
-  "generatedAt": "2026-11-17T02:16:59.232Z",
-  "weather": {
-    "location": "New York City",
-    "tempC": 6.3,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 14,
-    "lowC": 1.8,
-    "rainChance": 1
-  },
+  "generatedAt": "2026-11-17T21:30:50.373Z",
   "hotTopics": {
     "headline": "Today's news",
     "topics": [
       {
         "keywords": [
           "World",
-          "Middle East",
-          "Military"
+          "Ukraine War"
         ],
-        "summary": "The US deployed a third aircraft carrier and thousands of troops to the Middle East, escalating regional military presence."
+        "summary": "Ukraine attacked the Kerch Bridge, a key supply route, impacting Russia's logistics in occupied Crimea."
       },
       {
         "keywords": [
           "Business",
-          "Banking",
-          "Tech issue"
+          "Tech Market"
         ],
-        "summary": "A technical issue at JPMorgan Chase caused widespread online banking delays for major US banks, affecting customer access."
+        "summary": "Nvidia reports Q3 earnings today, a key indicator for the tech sector and AI market."
       },
       {
         "keywords": [
-          "Business",
-          "Airlines",
-          "Travel"
+          "US/Politics",
+          "Justice System"
         ],
-        "summary": "United Airlines resolved a widespread system outage, days after a previous nationwide ground stop disrupted air travel."
+        "summary": "California families are challenging the governor's commutation of death sentences in the state Supreme Court."
       },
       {
         "keywords": [
-          "US",
-          "Legal",
-          "Crime"
+          "Tech",
+          "Service Outage"
         ],
-        "summary": "A judge scheduled a spring retrial for Lindsay Clancy, who faces charges related to her children's deaths."
+        "summary": "Apple services experienced widespread outages, affecting thousands of users globally."
       },
       {
         "keywords": [
-          "Sports",
-          "NFL",
-          "Injury"
+          "Entertainment",
+          "Art Market"
         ],
-        "summary": "Aidan Hutchinson reportedly has a torn ACL with no additional damage, impacting his football season."
+        "summary": "Jewish heirs settled a claim over a valuable van Gogh painting, allowing its sale to proceed."
       },
       {
         "keywords": [
           "Sports",
-          "NFL",
-          "Performance"
+          "Golf"
         ],
-        "summary": "Joe Burrow is performing exceptionally, potentially achieving one of the greatest passing seasons in NFL history."
+        "summary": "Golf legend Tiger Woods announced his return to competitive play next month."
       }
     ]
   },
@@ -68,84 +53,83 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7416.59,
-        "changePct": -1.9186237960662118
+        "price": 7340.53,
+        "changePct": -1.0255386909617545
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24509.758,
-        "changePct": -2.492473725122254
+        "price": 24328.383,
+        "changePct": -0.7400113864853336
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6348.35,
-        "changePct": -0.6029566954653666
+        "price": 6212.11,
+        "changePct": -2.14606945111723
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10881.55,
-        "changePct": -0.19270703394432334
+        "price": 10689.87,
+        "changePct": -1.761513754933796
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3574.4333,
-        "changePct": -0.7810119320935868
+        "price": 3584.579,
+        "changePct": -1.3694608389395555
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3952.2727,
-        "changePct": -0.6917627968315521
+        "price": 3976.463,
+        "changePct": -0.08393630489545006
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23427.52,
-        "changePct": -1.373756832579489
+        "price": 23508.17,
+        "changePct": -0.5475598199478809
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "You thought Jensen Huang was smart before?\nGuy is a genuis, he quit his job and lost his wife right before the launch of GTA 6!",
-        "source": "r/Jokes",
-        "explanation": "Sacrificing everything for a game is framed as genius due to its overwhelming allure."
+        "joke": "If you're here for the yodeling lesson, please form an orderly orderly orderly queue.",
+        "source": "JokeAPI"
       },
       {
-        "joke": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+        "joke": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "go-the-extra-mile",
-    "title": "Go the extra mile",
-    "glossZh": "“多做一点” 或 “加倍努力”。",
-    "interpretationEn": "This phrase originates from the New Testament in the Bible, specifically Matthew 5:41, where Jesus said, “If anyone forces you to go one mile, go with them two miles.” The meaning behind this is that when you are asked to do something, you should put in extra effort. Today, the idiom is used to describe people who are willing to go beyond the minimum requirement to achieve higher goals or provide better service.",
-    "interpretationZh": "这个短语源自《新约圣经》中《马太福音》第五章 41 节，其中耶稣提到 “有人强逼你走一里路，你就同他走二里”。这句话的意思是，当你被要求完成一些事情时，应该多做一点，多付出一些努力。现在，这个习语常用于表示人们不满足于完成最基本的任务，而是愿意付出额外的努力来达到更高的目标或提供更好的服务。",
+    "id": "between-a-rock-and-a-hard-place",
+    "title": "Between a rock and a hard place",
+    "glossZh": "“进退两难” 或 “左右为难”。",
+    "interpretationEn": "This phrase originates from the Greek mythology of Scylla and Charybdis, two monsters situated on either side of a narrow strait. Sailors had to navigate between avoiding one hazard and falling into the other, typically a choice leading to disaster.",
+    "interpretationZh": "这个短语来源于希腊神话中的 Scylla 和 Charybdis，这两个无根据海峡的两侧分别是一个吞船怪物 Scylla 和一个巨大的漩涡 Charybdis。水手不得不在避开一个怪物和另一个危险之间做出抉择，通常无论选择哪一种都意味着毁灭。",
     "examples": [
       {
-        "en": "She always goes the extra mile to help her students succeed.",
-        "zh": "她总是加倍努力帮助她的学生取得成功。"
+        "en": "She felt like she was <em>between a rock and a hard place</em> when deciding whether to quit her job or stay in a toxic environment.",
+        "zh": "她在决定是辞职还是继续待在有毒的环境中时，感觉自己进退两难。"
       },
       {
-        "en": "Our customer service team goes the extra mile to ensure customer satisfaction.",
-        "zh": "我们的客户服务团队总是多做一点，以确保客户满意。"
+        "en": "Being <em>between a rock and a hard place</em>, he had to choose either paying a hefty fine or facing court.",
+        "zh": "他进退两难，不得不选择是支付高额罚款还是上法庭。"
       },
       {
-        "en": "I’m so grateful to my colleagues who went the extra mile to complete the project on time.",
-        "zh": "我非常感激我的同事们，他们加倍努力按时完成了这个项目。"
+        "en": "When the rent increased, she was <em>between a rock and a hard place</em>, deciding to move or cut other expenses.",
+        "zh": "当房租上涨时，她进退两难，不知道是搬家还是削减其他开支。"
       }
     ]
   },
@@ -153,39 +137,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Ioannis Bourousis",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Basketball_match_Greece_vs_France_on_02_September_2017_01_%28Ioannis_Bourousis_cropped%29.jpg/330px-Basketball_match_Greece_vs_France_on_02_September_2017_01_%28Ioannis_Bourousis_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Greek basketball player (born 1983)",
-        "extract": "Ioannis Bourousis, commonly known as Giannis Bourousis is a Greek former professional basketball player and basketball executive. He is the general manager of the Greek basketball club ASK Karditsa. During his playing career, at a height of 7 ft 3⁄4 in tall and a weight of 270 lb. (122 kg), Bourousis played at the center position. Bourousis, who was a two-time All-EuroLeague First Team selection, was compared to FIBA Hall of Fame / Basketball Hall of Fame center Vlade Divac, by San Antonio Spurs' head coach Gregg Popovich.",
-        "born": 1983,
+        "name": "Gorō Naya",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/GoroNaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Japanese voice actor and narrator (1929–2013)",
+        "extract": "Gorō Naya  was a Japanese actor, voice actor, narrator and theatre director from Hakodate, Hokkaidō. He was part of Theatre Echo all his career, and was the older brother of actor and voice actor Rokurō Naya.",
+        "born": 1929,
         "highlights": [
-          "Former Greek professional basketball player and executive.",
-          "General manager of Greek basketball club ASK Karditsa.",
-          "Two-time All-EuroLeague First Team selection."
+          "Japanese actor, voice actor, narrator, and theatre director.",
+          "Part of Theatre Echo all his career.",
+          "Older brother of actor Rokurō Naya."
         ]
       },
       {
-        "name": "Stephen Root",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Stephen_Root_2024.jpg/330px-Stephen_Root_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor (born 1951)",
-        "extract": "Stephen Root is an American actor. Known for his extensive work in film and television, he gained attention for his roles as Jimmy James on the NBC sitcom NewsRadio (1995–1999), as Milton Waddams in the comedy film Office Space (1999), and voiced Bill Dauterive and Buck Strickland on the animated series King of the Hill.",
-        "born": 1951,
+        "name": "Jaanus Tamkivi",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jaanus_Tamkivi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Estonian politician (born 1959)",
+        "extract": "Jaanus Tamkivi is an Estonian politician of the Estonian Reform Party. He was Mayor of Kuressaare from 1996 to 2005, a member of the Riigikogu from 2005 to 2015, and the Minister of the Environment from 2007 to 2011. Currently he is the chairman of Saaremaa Municipality Council.",
+        "born": 1959,
         "highlights": [
-          "Actor known for Jimmy James on NewsRadio.",
-          "Played Milton Waddams in the film Office Space.",
-          "Voiced characters on animated series King of the Hill."
+          "Mayor of Kuressaare from 1996 to 2005.",
+          "Member of the Riigikogu from 2005 to 2015.",
+          "Minister of the Environment from 2007 to 2011."
         ]
       },
       {
-        "name": "Doug Walker (comedian)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Doug_Walker_Comic_Con_2022.png/330px-Doug_Walker_Comic_Con_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American YouTuber and comedian (born 1981)",
-        "extract": "Douglas Darien Walker is an American film critic, comedian, YouTuber, filmmaker, and actor. He is best known for creating and starring in the satirical film review series Nostalgia Critic, wherein the title character reviews nostalgic media in an exaggeratedly aggressive manner. After an initial run on YouTube, Walker co-created the website That Guy with the Glasses in 2008, where he and the series gained wider popularity. The site also presented other media critics who created similar content, including Lindsay Ellis and Angry Joe. Walker and his series returned to YouTube in 2014.",
-        "born": 1981,
+        "name": "Diane Neal",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Diane_Neal_-_Monte-Carlo_Television_Festival.JPG/330px-Diane_Neal_-_Monte-Carlo_Television_Festival.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1975)",
+        "extract": "Diane Neal is an American-Israeli actress. She is best known for portraying New York Assistant District Attorney Casey Novak in the television series Law & Order: Special Victims Unit from 2003 to 2012. She is also known for portraying Coast Guard Investigative Service (CGIS) Special Agent Abigail Borin in the NCIS franchise.",
+        "born": 1976,
         "highlights": [
-          "Creator and star of Nostalgia Critic review series.",
-          "Co-created website That Guy with the Glasses.",
-          "Reviews nostalgic media in an exaggeratedly aggressive manner."
+          "Best known as ADA Casey Novak in Law & Order: SVU.",
+          "Portrayed Casey Novak from 2003 to 2012.",
+          "Also played CGIS Special Agent Abigail Borin in NCIS."
         ]
       }
     ]
