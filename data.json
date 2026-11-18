@@ -1,49 +1,64 @@
 {
-  "generatedAt": "2026-11-17T21:30:50.373Z",
+  "generatedAt": "2026-11-18T01:28:57.527Z",
+  "weather": {
+    "location": "New York City",
+    "tempC": 8.5,
+    "condition": "Clear sky",
+    "code": 0,
+    "highC": 14.8,
+    "lowC": 2.1,
+    "rainChance": 0
+  },
   "hotTopics": {
     "headline": "Today's news",
     "topics": [
       {
         "keywords": [
           "World",
-          "Ukraine War"
+          "Middle East",
+          "Conflict"
         ],
-        "summary": "Ukraine attacked the Kerch Bridge, a key supply route, impacting Russia's logistics in occupied Crimea."
+        "summary": "Iran attacked US targets in Bahrain, prompting US retaliation and escalating regional tensions."
+      },
+      {
+        "keywords": [
+          "World",
+          "Geopolitics",
+          "Diplomacy"
+        ],
+        "summary": "European leaders expressed concern over potential secret discussions between Trump, Xi, and Putin in China."
+      },
+      {
+        "keywords": [
+          "US Politics",
+          "Public Health",
+          "Environment"
+        ],
+        "summary": "A gas geyser at an LA landfill caused a public health emergency due to noxious odors and trash."
       },
       {
         "keywords": [
           "Business",
-          "Tech Market"
+          "Tech",
+          "Earnings"
         ],
-        "summary": "Nvidia reports Q3 earnings today, a key indicator for the tech sector and AI market."
-      },
-      {
-        "keywords": [
-          "US/Politics",
-          "Justice System"
-        ],
-        "summary": "California families are challenging the governor's commutation of death sentences in the state Supreme Court."
+        "summary": "Nvidia reported strong Q3 earnings with 103% revenue growth, but its board will not reinstate Jensen Huang as CEO."
       },
       {
         "keywords": [
           "Tech",
-          "Service Outage"
+          "AI",
+          "Microsoft"
         ],
-        "summary": "Apple services experienced widespread outages, affecting thousands of users globally."
-      },
-      {
-        "keywords": [
-          "Entertainment",
-          "Art Market"
-        ],
-        "summary": "Jewish heirs settled a claim over a valuable van Gogh painting, allowing its sale to proceed."
+        "summary": "Microsoft CEO Satya Nadella expressed strong belief in Artificial General Intelligence's imminent arrival."
       },
       {
         "keywords": [
           "Sports",
-          "Golf"
+          "College Football",
+          "Playoff"
         ],
-        "summary": "Golf legend Tiger Woods announced his return to competitive play next month."
+        "summary": "Projections for the 12-team College Football Playoff bracket were released ahead of Week 12 games."
       }
     ]
   },
@@ -96,40 +111,40 @@
         "name": "Hang Seng",
         "symbol": "^HSI",
         "price": 23508.17,
-        "changePct": -0.5475598199478809
+        "changePct": 0
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "If you're here for the yodeling lesson, please form an orderly orderly orderly queue.",
+        "joke": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
         "source": "JokeAPI"
       },
       {
-        "joke": "Two C strings walk into a bar.\nThe bartender asks \"What can I get ya?\"\nThe first string says \"I'll have a gin and tonic.\"\nThe second string thinks for a minute, then says \"I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@\"\nThe first string apologizes, \"You'll have to excuse my friend, he's not null-terminated.\"",
+        "joke": "\"We messed up the keming again guys.\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "between-a-rock-and-a-hard-place",
-    "title": "Between a rock and a hard place",
-    "glossZh": "“进退两难” 或 “左右为难”。",
-    "interpretationEn": "This phrase originates from the Greek mythology of Scylla and Charybdis, two monsters situated on either side of a narrow strait. Sailors had to navigate between avoiding one hazard and falling into the other, typically a choice leading to disaster.",
-    "interpretationZh": "这个短语来源于希腊神话中的 Scylla 和 Charybdis，这两个无根据海峡的两侧分别是一个吞船怪物 Scylla 和一个巨大的漩涡 Charybdis。水手不得不在避开一个怪物和另一个危险之间做出抉择，通常无论选择哪一种都意味着毁灭。",
+    "id": "throw-a-monkey-wrench-into-the-works",
+    "title": "Throw a monkey wrench into the works",
+    "glossZh": "“搅局” 或 “破坏计划”。",
+    "interpretationEn": "This phrase originates from a real tool in American industrial history, the “monkey wrench.” If the tool was thrown into a working machine, it would cause the machine to stop or be damaged. Consequently, this phrase metaphorically evolved to describe any action that disrupts or sabotages plans or ongoing processes, whether intentionally or accidentally.",
+    "interpretationZh": "这个短语起源于美国工业历史中的一个真实工具，即 “猴子扳手（monkey wrench）”。如果把这个工具扔进运转的机器里，势必会导致机器停工或损坏。因此，这个表达逐渐演变为比喻任何故意或无意中破坏已经计划好或正在进行的事情的行为。",
     "examples": [
       {
-        "en": "She felt like she was <em>between a rock and a hard place</em> when deciding whether to quit her job or stay in a toxic environment.",
-        "zh": "她在决定是辞职还是继续待在有毒的环境中时，感觉自己进退两难。"
+        "en": "His sudden resignation really <em>threw a monkey wrench into the works</em> of our project.",
+        "zh": "他的突然辞职真是我么项目里的大搅局。"
       },
       {
-        "en": "Being <em>between a rock and a hard place</em>, he had to choose either paying a hefty fine or facing court.",
-        "zh": "他进退两难，不得不选择是支付高额罚款还是上法庭。"
+        "en": "The bad weather <em>threw a monkey wrench into the works</em> of our outdoor event schedules.",
+        "zh": "恶劣天气破坏了我们户外活动的安排。"
       },
       {
-        "en": "When the rent increased, she was <em>between a rock and a hard place</em>, deciding to move or cut other expenses.",
-        "zh": "当房租上涨时，她进退两难，不知道是搬家还是削减其他开支。"
+        "en": "Technical issues <em>threw a monkey wrench into the works</em> of the live broadcast.",
+        "zh": "技术问题让直播出了乱子。"
       }
     ]
   },
@@ -137,39 +152,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Gorō Naya",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/GoroNaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Japanese voice actor and narrator (1929–2013)",
-        "extract": "Gorō Naya  was a Japanese actor, voice actor, narrator and theatre director from Hakodate, Hokkaidō. He was part of Theatre Echo all his career, and was the older brother of actor and voice actor Rokurō Naya.",
-        "born": 1929,
+        "name": "Amanda Lear",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Amanda_Lear_2010_a.jpg/330px-Amanda_Lear_2010_a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French singer, actress, television presenter",
+        "extract": "Amanda Lear is a French singer, songwriter, painter, television presenter, actress and former model.",
+        "born": 1939,
         "highlights": [
-          "Japanese actor, voice actor, narrator, and theatre director.",
-          "Part of Theatre Echo all his career.",
-          "Older brother of actor Rokurō Naya."
+          "French singer, songwriter, painter",
+          "Television presenter and actress",
+          "Former model"
         ]
       },
       {
-        "name": "Jaanus Tamkivi",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jaanus_Tamkivi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Estonian politician (born 1959)",
-        "extract": "Jaanus Tamkivi is an Estonian politician of the Estonian Reform Party. He was Mayor of Kuressaare from 1996 to 2005, a member of the Riigikogu from 2005 to 2015, and the Minister of the Environment from 2007 to 2011. Currently he is the chairman of Saaremaa Municipality Council.",
-        "born": 1959,
+        "name": "Lamoral, Count of Egmont",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Portrait_of_Lamoral%2C_Count_of_Egmont%2C_Prince_of_Gavere_%281522%E2%80%931568%29%2C_by_Frans_Pourbus_the_Elder.jpg/330px-Portrait_of_Lamoral%2C_Count_of_Egmont%2C_Prince_of_Gavere_%281522%E2%80%931568%29%2C_by_Frans_Pourbus_the_Elder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "General and statesman in Flanders (1522–1568)",
+        "extract": "Lamoral, Count of Egmont, Prince of Gavere was a general and statesman in the Spanish Netherlands just before the start of the Eighty Years' War, whose execution helped spark the national uprising that eventually led to the independence of the Netherlands.",
+        "born": 1522,
         "highlights": [
-          "Mayor of Kuressaare from 1996 to 2005.",
-          "Member of the Riigikogu from 2005 to 2015.",
-          "Minister of the Environment from 2007 to 2011."
+          "General and statesman in Spanish Netherlands",
+          "Execution helped spark national uprising",
+          "Led to independence of the Netherlands"
         ]
       },
       {
-        "name": "Diane Neal",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Diane_Neal_-_Monte-Carlo_Television_Festival.JPG/330px-Diane_Neal_-_Monte-Carlo_Television_Festival.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (born 1975)",
-        "extract": "Diane Neal is an American-Israeli actress. She is best known for portraying New York Assistant District Attorney Casey Novak in the television series Law & Order: Special Victims Unit from 2003 to 2012. She is also known for portraying Coast Guard Investigative Service (CGIS) Special Agent Abigail Borin in the NCIS franchise.",
-        "born": 1976,
+        "name": "Trent Barrett",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Trent_Barrett_autographing_small_ball.jpg/330px-Trent_Barrett_autographing_small_ball.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian RL coach and former Australia international rugby league footballer",
+        "extract": "Trent Barrett is an Australian professional rugby league football coach who is currently the assistant coach of the Brisbane Broncos and a former professional rugby league footballer who played in the 1990s, 2000s and 2010s.",
+        "born": 1977,
         "highlights": [
-          "Best known as ADA Casey Novak in Law & Order: SVU.",
-          "Portrayed Casey Novak from 2003 to 2012.",
-          "Also played CGIS Special Agent Abigail Borin in NCIS."
+          "Assistant coach of the Brisbane Broncos",
+          "Former professional rugby league footballer",
+          "Played in 1990s, 2000s, and 2010s"
         ]
       }
     ]
