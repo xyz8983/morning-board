@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T01:28:57.527Z",
+  "generatedAt": "2026-11-18T21:06:37.787Z",
   "weather": {
     "location": "New York City",
-    "tempC": 8.5,
+    "tempC": 16.5,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 14.8,
-    "lowC": 2.1,
+    "highC": 18.1,
+    "lowC": 4.6,
     "rainChance": 0
   },
   "hotTopics": {
@@ -15,50 +15,44 @@
       {
         "keywords": [
           "World",
-          "Middle East",
-          "Conflict"
+          "Gulf Conflict"
         ],
-        "summary": "Iran attacked US targets in Bahrain, prompting US retaliation and escalating regional tensions."
+        "summary": "US and Iran escalate tit-for-tat strikes, putting Gulf states and global oil tankers at risk."
       },
       {
         "keywords": [
-          "World",
-          "Geopolitics",
-          "Diplomacy"
+          "US/Politics",
+          "House Leadership"
         ],
-        "summary": "European leaders expressed concern over potential secret discussions between Trump, Xi, and Putin in China."
-      },
-      {
-        "keywords": [
-          "US Politics",
-          "Public Health",
-          "Environment"
-        ],
-        "summary": "A gas geyser at an LA landfill caused a public health emergency due to noxious odors and trash."
+        "summary": "Hakeem Jeffries was nominated as the first Black House Speaker, marking a significant political milestone."
       },
       {
         "keywords": [
           "Business",
-          "Tech",
-          "Earnings"
+          "Tech Outages"
         ],
-        "summary": "Nvidia reported strong Q3 earnings with 103% revenue growth, but its board will not reinstate Jensen Huang as CEO."
+        "summary": "Widespread tech outages occurred, but US officials denied cyberattacks, despite hits to major companies."
       },
       {
         "keywords": [
-          "Tech",
-          "AI",
-          "Microsoft"
+          "World",
+          "US-China"
         ],
-        "summary": "Microsoft CEO Satya Nadella expressed strong belief in Artificial General Intelligence's imminent arrival."
+        "summary": "Former President Trump visited Shenzhen, China, underscoring complex US-China geopolitical relations."
+      },
+      {
+        "keywords": [
+          "Entertainment",
+          "Media Merger"
+        ],
+        "summary": "Skydance will merge Paramount TV Studios into Warner Bros. TV, consolidating entertainment production."
       },
       {
         "keywords": [
           "Sports",
-          "College Football",
-          "Playoff"
+          "Fan Safety"
         ],
-        "summary": "Projections for the 12-team College Football Playoff bracket were released ahead of Week 12 games."
+        "summary": "Hockey players face death threats over game results, highlighting serious issues with fan behavior."
       }
     ]
   },
@@ -68,83 +62,83 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7340.53,
-        "changePct": -1.0255386909617545
+        "price": 7323.63,
+        "changePct": -0.2302286074711177
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24328.383,
-        "changePct": -0.7400113864853336
+        "price": 24429.885,
+        "changePct": 0.41721638466476285
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6212.11,
-        "changePct": -2.14606945111723
+        "price": 6154.39,
+        "changePct": -0.9291528965198516
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10689.87,
-        "changePct": -1.761513754933796
+        "price": 10551.17,
+        "changePct": -1.2974900536676377
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3584.579,
-        "changePct": -1.3694608389395555
+        "price": 3587.832,
+        "changePct": -0.40909683920091167
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3976.463,
-        "changePct": -0.08393630489545006
+        "price": 3983.767,
+        "changePct": 0.1836808238879535
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23508.17,
-        "changePct": 0
+        "price": 23294.75,
+        "changePct": -1.9325328999991551
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "Four engineers get into a car. The car won't start.\nThe Mechanical engineer says \"It's a broken starter\".\nThe Electrical engineer says \"Dead battery\".\nThe Chemical engineer says \"Impurities in the gasoline\".\nThe IT engineer says \"Hey guys, I have an idea: How about we all get out of the car and get back in\".",
+        "joke": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
         "source": "JokeAPI"
       },
       {
-        "joke": "\"We messed up the keming again guys.\"",
+        "joke": "I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "throw-a-monkey-wrench-into-the-works",
-    "title": "Throw a monkey wrench into the works",
-    "glossZh": "“搅局” 或 “破坏计划”。",
-    "interpretationEn": "This phrase originates from a real tool in American industrial history, the “monkey wrench.” If the tool was thrown into a working machine, it would cause the machine to stop or be damaged. Consequently, this phrase metaphorically evolved to describe any action that disrupts or sabotages plans or ongoing processes, whether intentionally or accidentally.",
-    "interpretationZh": "这个短语起源于美国工业历史中的一个真实工具，即 “猴子扳手（monkey wrench）”。如果把这个工具扔进运转的机器里，势必会导致机器停工或损坏。因此，这个表达逐渐演变为比喻任何故意或无意中破坏已经计划好或正在进行的事情的行为。",
+    "id": "skip-classcut-class",
+    "title": "Skip class/cut class",
+    "glossZh": "“逃课” 或 “旷课”。",
+    "interpretationEn": "This phrase refers to the act of students deliberately not attending class to do something else. Its origin can be traced back to student slang in English, describing students skipping classes to enjoy other activities or avoid responsibilities. In modern usage, both “<em>skip class</em>” and “<em>cut class</em>” are widely used to denote this behavior, commonly found in student conversations.",
+    "interpretationZh": "这个短语指的是学生故意不去上课，而做其他事情。其起源可以追溯到英语的学生俚语，描述学生为了享受其他活动或逃避责任而不参加课堂。现代用语中，“skip class” 和 “<em>cut class</em>” 均广泛使用来表示这一行为，常见于学生的对话中。",
     "examples": [
       {
-        "en": "His sudden resignation really <em>threw a monkey wrench into the works</em> of our project.",
-        "zh": "他的突然辞职真是我么项目里的大搅局。"
+        "en": "He decided to <em>skip class</em> and go to the beach instead.",
+        "zh": "他决定逃课去海滩。"
       },
       {
-        "en": "The bad weather <em>threw a monkey wrench into the works</em> of our outdoor event schedules.",
-        "zh": "恶劣天气破坏了我们户外活动的安排。"
+        "en": "It’s not a good idea to <em>cut class</em> too often.",
+        "zh": "经常逃课不是个好主意。"
       },
       {
-        "en": "Technical issues <em>threw a monkey wrench into the works</em> of the live broadcast.",
-        "zh": "技术问题让直播出了乱子。"
+        "en": "They were caught by the principal for <em>cutting class</em>.",
+        "zh": "他们因为逃课被校长发现了。"
       }
     ]
   },
@@ -152,39 +146,38 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Amanda Lear",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Amanda_Lear_2010_a.jpg/330px-Amanda_Lear_2010_a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French singer, actress, television presenter",
-        "extract": "Amanda Lear is a French singer, songwriter, painter, television presenter, actress and former model.",
-        "born": 1939,
+        "name": "Attilio Bertolucci",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Attilio_Bertolucci.jpeg/330px-Attilio_Bertolucci.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian poet and writer (1911–2000)",
+        "extract": "Attilio Bertolucci was an Italian poet and writer. He was the father of film directors Bernardo and Giuseppe Bertolucci.",
+        "born": 1911,
         "highlights": [
-          "French singer, songwriter, painter",
-          "Television presenter and actress",
-          "Former model"
+          "Italian poet and writer.",
+          "Father of film directors Bernardo and Giuseppe Bertolucci."
         ]
       },
       {
-        "name": "Lamoral, Count of Egmont",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Portrait_of_Lamoral%2C_Count_of_Egmont%2C_Prince_of_Gavere_%281522%E2%80%931568%29%2C_by_Frans_Pourbus_the_Elder.jpg/330px-Portrait_of_Lamoral%2C_Count_of_Egmont%2C_Prince_of_Gavere_%281522%E2%80%931568%29%2C_by_Frans_Pourbus_the_Elder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "General and statesman in Flanders (1522–1568)",
-        "extract": "Lamoral, Count of Egmont, Prince of Gavere was a general and statesman in the Spanish Netherlands just before the start of the Eighty Years' War, whose execution helped spark the national uprising that eventually led to the independence of the Netherlands.",
-        "born": 1522,
+        "name": "Marie Josée Ta Lou-Smith",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Marie-Jos%C3%A9e_Ta_Lou_%28cropped%29.png/330px-Marie-Jos%C3%A9e_Ta_Lou_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Ivorian sprinter (born 1988)",
+        "extract": "Gonezie Marie Josée Dominique Ta Lou-Smith is an Ivorian sprinter competing in the 100 metres and 200 metres. She is a two-time World Championships medalist and is the African record holder in the 100 m.",
+        "born": 1988,
         "highlights": [
-          "General and statesman in Spanish Netherlands",
-          "Execution helped spark national uprising",
-          "Led to independence of the Netherlands"
+          "Ivorian sprinter in 100m and 200m.",
+          "Two-time World Championships medalist.",
+          "African record holder in the 100m."
         ]
       },
       {
-        "name": "Trent Barrett",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Trent_Barrett_autographing_small_ball.jpg/330px-Trent_Barrett_autographing_small_ball.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian RL coach and former Australia international rugby league footballer",
-        "extract": "Trent Barrett is an Australian professional rugby league football coach who is currently the assistant coach of the Brisbane Broncos and a former professional rugby league footballer who played in the 1990s, 2000s and 2010s.",
-        "born": 1977,
+        "name": "Hamza al-Ghamdi",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hamza_al-Ghamdi_6-27-01_HQ.jpg/330px-Hamza_al-Ghamdi_6-27-01_HQ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Saudi terrorist and 9/11 hijacker (1980–2001)",
+        "extract": "Hamza Salah Sa'id al-Ghamdi was a Saudi terrorist hijacker. He was one of five hijackers of United Airlines Flight 175 as part of the September 11 attacks.",
+        "born": 1980,
         "highlights": [
-          "Assistant coach of the Brisbane Broncos",
-          "Former professional rugby league footballer",
-          "Played in 1990s, 2000s, and 2010s"
+          "Saudi terrorist hijacker.",
+          "Hijacker of United Airlines Flight 175.",
+          "Part of the September 11 attacks."
         ]
       }
     ]
