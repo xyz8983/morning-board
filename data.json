@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T00:56:50.152Z",
+  "generatedAt": "2026-11-19T21:11:36.768Z",
   "weather": {
     "location": "New York City",
-    "tempC": 10.6,
-    "condition": "Clear sky",
-    "code": 0,
-    "highC": 18.4,
-    "lowC": 4.6,
+    "tempC": 16.4,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 18.1,
+    "lowC": 5.3,
     "rainChance": 0
   },
   "hotTopics": {
@@ -15,49 +15,44 @@
       {
         "keywords": [
           "World",
-          "Geopolitics",
-          "Summit"
+          "Human Rights"
         ],
-        "summary": "Trump, Xi, and Putin will meet for the first time, signaling a major shift in global power dynamics."
+        "summary": "A UN court ruled Myanmar committed genocide against the Rohingya, holding the nation accountable for atrocities."
       },
       {
         "keywords": [
           "World",
-          "Gaza",
-          "Conflict"
+          "Geopolitics"
         ],
-        "summary": "Israeli forces conducted a rare ground operation in Gaza, escalating the ongoing conflict."
+        "summary": "Major world leaders Trump, Xi, and Putin met, signaling shifts in global power dynamics and alliances."
       },
       {
         "keywords": [
           "US/Politics",
-          "Outages",
-          "Infrastructure"
+          "Public Safety"
         ],
-        "summary": "Frequent system outages are raising concerns about infrastructure reliability, potentially due to hacks or AI."
+        "summary": "Iowa residents face a potential lead dust cloud as the Army plans to detonate five tons of bomb-making chemicals."
       },
       {
         "keywords": [
           "Business",
-          "AI",
-          "IPO"
+          "AI Tech"
         ],
-        "summary": "AI company Anthropic is going public, with its stock priced at $83, marking a significant market event."
+        "summary": "AI company Anthropic had a successful IPO, marking a significant milestone for the artificial intelligence industry."
       },
       {
         "keywords": [
           "Tech",
-          "Gaming",
-          "GTA"
+          "Gaming Culture"
         ],
-        "summary": "Grand Theft Auto 6 reviews praise the highly anticipated game as a masterpiece, setting new industry standards."
+        "summary": "After 13 years, \"Grand Theft Auto 6\" was released, generating massive gamer engagement and cultural discussion."
       },
       {
         "keywords": [
           "Sports",
-          "College Basketball"
+          "NFL Football"
         ],
-        "summary": "Houston defeated top-ranked Florida to reach the Players Era 8 championship, avenging a past loss."
+        "summary": "The Texans face the Colts in a crucial Thursday Night Football game, impacting their NFL playoff hopes."
       }
     ]
   },
@@ -67,83 +62,83 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7323.63,
-        "changePct": -0.2302286074711177
+        "price": 7175.83,
+        "changePct": -2.018124891617957
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24429.885,
-        "changePct": 0.41721638466476285
+        "price": 23879.2,
+        "changePct": -2.2541448721514556
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6154.39,
-        "changePct": -0.9291528965198516
+        "price": 6113.86,
+        "changePct": -0.6585543002637249
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10551.17,
-        "changePct": -1.2974900536676377
+        "price": 10452.68,
+        "changePct": -0.933450982213345
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3587.832,
-        "changePct": -0.40909683920091167
+        "price": 3577.617,
+        "changePct": -0.1942486985922964
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3983.767,
-        "changePct": 0.1836808238879535
+        "price": 3984.8398,
+        "changePct": 0.02693932922677423
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 23294.75,
-        "changePct": -1.9325328999991551
+        "price": 22841.62,
+        "changePct": -2.835521222381985
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
+        "joke": "I was struggling to figure out how lightning works, but then it struck me.",
         "source": "JokeAPI"
       },
       {
-        "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
+        "joke": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "cold-feet",
-    "title": "Cold feet",
-    "glossZh": "“临阵退缩” 或 “在最后一刻因为害怕或紧张而退缩”。",
-    "interpretationEn": "The origin of this phrase is unclear, but one explanation is that “<em>cold feet</em>” metaphorically links the physical sensation of coldness with fear or nervousness. This feeling may arise when someone is about to do something but suddenly feels scared, especially during significant decisions like weddings, job interviews, or public speaking.",
-    "interpretationZh": "这个短语的起源不太明确，但有一种解释认为 “<em>cold feet</em>” 是由身体上的冷感觉与害怕或紧张相关联的比喻。这种情绪可能发生在马上要做某件事但突然感到害怕的时候，尤其在面临重大决定的时候，如婚礼、面试或上台演讲等。",
+    "id": "fortune-favors-the-bold",
+    "title": "Fortune favors the bold",
+    "glossZh": "“命运垂青勇者” 或 “勇敢者得以成功”。",
+    "interpretationEn": "This phrase originates from ancient Roman times and was introduced by the tragic playwright Plautus. In his work “Phormio,” he used a similar expression to convey that fortune tends to favor those who are bold and decisive, encouraging people to undertake bold actions when faced with challenges.",
+    "interpretationZh": "这个短语的起源可以追溯到古罗马时代，由悲剧诗人普劳图斯（Plautus）提出。在他的作品《Phormio》中，他使用了类似的表达，意思是命运更倾向于帮助那些勇敢果断的人，以鼓励人们在面对挑战时采取大胆的行动。",
     "examples": [
       {
-        "en": "He got <em>cold feet</em> right before the wedding and called it off.",
-        "zh": "他在婚礼前临阵退缩，取消了婚礼。"
+        "en": "He took a risk by starting his own business, but <em>fortune favors the bold</em>.",
+        "zh": "他冒险开办了自己的公司，但命运垂青勇者。"
       },
       {
-        "en": "I was going to take that job offer, but I got <em>cold feet</em> at the last moment.",
-        "zh": "我本来要接受那个工作机会，但最后一刻我临阵退缩了。"
+        "en": "She decided to move to a new city without a job lined up, believing that <em>fortune favors the bold</em>.",
+        "zh": "她决定在没有工作安排的情况下搬到新城市，相信命运垂青勇者。"
       },
       {
-        "en": "Don’t get <em>cold feet</em> now; you’ve prepared so much for this presentation.",
-        "zh": "现在可别临阵退缩；你已经为这次演讲准备了这么多。"
+        "en": "In order to succeed in life, sometimes you have to remember that <em>fortune favors the bold</em>.",
+        "zh": "为了在生活中取得成功，有时候你必须记住命运垂青勇者。"
       }
     ]
   },
@@ -151,39 +146,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Lieuwe van Aitzema",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lieuwe-van-Aitzema-Saken-van-staet-en-oorlogh_MG_0395.tif/lossy-page1-330px-Lieuwe-van-Aitzema-Saken-van-staet-en-oorlogh_MG_0395.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Dutch historian (1600–1669)",
-        "extract": "Lieuwe (Leo) van Aitzema was a Dutch historian, diplomat, bon viveur, libertine and spy.",
-        "born": 1600,
+        "name": "Robert Barron",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bishop_Robert_Barron.jpg/330px-Bishop_Robert_Barron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American Catholic prelate, scholar and evangelist (born 1959)",
+        "extract": "Robert Emmet Patrick Barron is an American Catholic theologian who has served as bishop of the Diocese of Winona–Rochester since 2022. He served as rector at Mundelein Seminary from 2012 to 2015 and as auxiliary bishop for the Archdiocese of Los Angeles from 2015 to 2022. He has published on theology and spirituality, and is the founder of Word on Fire.",
+        "born": 1959,
         "highlights": [
-          "Dutch historian and diplomat.",
-          "Also known as a bon viveur.",
-          "Served as a libertine and spy."
+          "Bishop of Diocese of Winona–Rochester since 2022.",
+          "Served as rector at Mundelein Seminary.",
+          "Founder of Word on Fire."
         ]
       },
       {
-        "name": "Tommy Dorsey",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Tommy_Dorsey%2C_WMCA%2C_New_York%2C_ca._Oct._1947_%28William_P._Gottlieb_02111%29.jpg/330px-Tommy_Dorsey%2C_WMCA%2C_New_York%2C_ca._Oct._1947_%28William_P._Gottlieb_02111%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American jazz trombonist and bandleader (1905–1956)",
-        "extract": "Thomas Francis Dorsey Jr. was an American jazz trombonist, composer, conductor and bandleader of the big band era. He was known as the \"Sentimental Gentleman of Swing\" because of his smooth-toned trombone playing. His theme song was \"I'm Getting Sentimental Over You\". His technical skill on the trombone gave him renown among other musicians. He was the younger brother of bandleader Jimmy Dorsey. After Dorsey broke with his brother in the mid-1930s, he led an extremely successful band from the late 1930s into the 1950s. He is best remembered for standards such as \"Opus One\", \"This Love of Mine\" featuring Frank Sinatra on vocals, \"Song of India\", \"Marie\", \"On Treasure Island\", and his biggest hit single, \"I'll Never Smile Again\".",
-        "born": 1905,
+        "name": "Glynnis O'Connor",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Glynnis_O%27Connor_%22Sons_and_Daughters%22_%281974_CBS_press_photo%29.JPG/330px-Glynnis_O%27Connor_%22Sons_and_Daughters%22_%281974_CBS_press_photo%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (b. 1955)",
+        "extract": "Glynnis O'Connor is an American actress. She made her big-screen debut starring in the 1973 romantic drama film, Jeremy. She later starred in the short-lived CBS drama series Sons and Daughters (1974) and the television version of Our Town (1977). She starred in films Ode to Billy Joe, Baby Blue Marine, California Dreaming (1979), Those Lips, Those Eyes (1980), The White Lions (1981), Night Crossing, Melanie and Johnny Dangerously (1984).",
+        "born": 1956,
         "highlights": [
-          "Jazz trombonist, composer, conductor, and bandleader.",
-          "Known as the \"Sentimental Gentleman of Swing\".",
-          "Best remembered for \"Opus One\" and \"I'll Never Smile Again\"."
+          "Made big-screen debut in 1973 film Jeremy.",
+          "Starred in CBS drama series Sons and Daughters.",
+          "Appeared in films like Ode to Billy Joe."
         ]
       },
       {
-        "name": "Kathleen Quinlan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Kathleen_Quinlan_1975.JPG/330px-Kathleen_Quinlan_1975.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (born 1954)",
-        "extract": "Kathleen Denise Quinlan is an American film and television actress. She is best known for her Golden Globe-nominated performance in the 1977 film of the novel I Never Promised You a Rose Garden, and her Golden Globe and Academy Award-nominated role in the 1995 film Apollo 13, along with many roles in other feature films, television movies, and series, in a career spanning almost five decades.",
-        "born": 1954,
+        "name": "Ertuğrul Sağlam",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ertu%C4%9Frul_Sa%C4%9Flam_2023.jpg/330px-Ertu%C4%9Frul_Sa%C4%9Flam_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Turkish footballer and manager",
+        "extract": "Ertuğrul Sağlam is a UEFA Pro Licensed Turkish football manager and former player who most recently coached Kocaelispor.",
+        "born": 1969,
         "highlights": [
-          "American film and television actress.",
-          "Golden Globe nominated for I Never Promised You a Rose Garden.",
-          "Oscar and Golden Globe nominated for Apollo 13."
+          "UEFA Pro Licensed Turkish football manager.",
+          "Former professional football player.",
+          "Most recently coached Kocaelispor."
         ]
       }
     ]
