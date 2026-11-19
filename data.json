@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T21:06:37.787Z",
+  "generatedAt": "2026-11-19T00:56:50.152Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.5,
+    "tempC": 10.6,
     "condition": "Clear sky",
     "code": 0,
-    "highC": 18.1,
+    "highC": 18.4,
     "lowC": 4.6,
     "rainChance": 0
   },
@@ -15,44 +15,49 @@
       {
         "keywords": [
           "World",
-          "Gulf Conflict"
+          "Geopolitics",
+          "Summit"
         ],
-        "summary": "US and Iran escalate tit-for-tat strikes, putting Gulf states and global oil tankers at risk."
-      },
-      {
-        "keywords": [
-          "US/Politics",
-          "House Leadership"
-        ],
-        "summary": "Hakeem Jeffries was nominated as the first Black House Speaker, marking a significant political milestone."
-      },
-      {
-        "keywords": [
-          "Business",
-          "Tech Outages"
-        ],
-        "summary": "Widespread tech outages occurred, but US officials denied cyberattacks, despite hits to major companies."
+        "summary": "Trump, Xi, and Putin will meet for the first time, signaling a major shift in global power dynamics."
       },
       {
         "keywords": [
           "World",
-          "US-China"
+          "Gaza",
+          "Conflict"
         ],
-        "summary": "Former President Trump visited Shenzhen, China, underscoring complex US-China geopolitical relations."
+        "summary": "Israeli forces conducted a rare ground operation in Gaza, escalating the ongoing conflict."
       },
       {
         "keywords": [
-          "Entertainment",
-          "Media Merger"
+          "US/Politics",
+          "Outages",
+          "Infrastructure"
         ],
-        "summary": "Skydance will merge Paramount TV Studios into Warner Bros. TV, consolidating entertainment production."
+        "summary": "Frequent system outages are raising concerns about infrastructure reliability, potentially due to hacks or AI."
+      },
+      {
+        "keywords": [
+          "Business",
+          "AI",
+          "IPO"
+        ],
+        "summary": "AI company Anthropic is going public, with its stock priced at $83, marking a significant market event."
+      },
+      {
+        "keywords": [
+          "Tech",
+          "Gaming",
+          "GTA"
+        ],
+        "summary": "Grand Theft Auto 6 reviews praise the highly anticipated game as a masterpiece, setting new industry standards."
       },
       {
         "keywords": [
           "Sports",
-          "Fan Safety"
+          "College Basketball"
         ],
-        "summary": "Hockey players face death threats over game results, highlighting serious issues with fan behavior."
+        "summary": "Houston defeated top-ranked Florida to reach the Players Era 8 championship, avenging a past loss."
       }
     ]
   },
@@ -112,33 +117,33 @@
   "joke": {
     "items": [
       {
-        "joke": "How do you tell HTML from HTML5?\n- Try it out in Internet Explorer\n- Did it work?\n- No?\n- It's HTML5.",
+        "joke": "Debugging is like being the detective in a crime movie where you're also the murderer at the same time.",
         "source": "JokeAPI"
       },
       {
-        "joke": "I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.",
+        "joke": "UDP is better in the COVID era since it avoids unnecessary handshakes.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "skip-classcut-class",
-    "title": "Skip class/cut class",
-    "glossZh": "“逃课” 或 “旷课”。",
-    "interpretationEn": "This phrase refers to the act of students deliberately not attending class to do something else. Its origin can be traced back to student slang in English, describing students skipping classes to enjoy other activities or avoid responsibilities. In modern usage, both “<em>skip class</em>” and “<em>cut class</em>” are widely used to denote this behavior, commonly found in student conversations.",
-    "interpretationZh": "这个短语指的是学生故意不去上课，而做其他事情。其起源可以追溯到英语的学生俚语，描述学生为了享受其他活动或逃避责任而不参加课堂。现代用语中，“skip class” 和 “<em>cut class</em>” 均广泛使用来表示这一行为，常见于学生的对话中。",
+    "id": "cold-feet",
+    "title": "Cold feet",
+    "glossZh": "“临阵退缩” 或 “在最后一刻因为害怕或紧张而退缩”。",
+    "interpretationEn": "The origin of this phrase is unclear, but one explanation is that “<em>cold feet</em>” metaphorically links the physical sensation of coldness with fear or nervousness. This feeling may arise when someone is about to do something but suddenly feels scared, especially during significant decisions like weddings, job interviews, or public speaking.",
+    "interpretationZh": "这个短语的起源不太明确，但有一种解释认为 “<em>cold feet</em>” 是由身体上的冷感觉与害怕或紧张相关联的比喻。这种情绪可能发生在马上要做某件事但突然感到害怕的时候，尤其在面临重大决定的时候，如婚礼、面试或上台演讲等。",
     "examples": [
       {
-        "en": "He decided to <em>skip class</em> and go to the beach instead.",
-        "zh": "他决定逃课去海滩。"
+        "en": "He got <em>cold feet</em> right before the wedding and called it off.",
+        "zh": "他在婚礼前临阵退缩，取消了婚礼。"
       },
       {
-        "en": "It’s not a good idea to <em>cut class</em> too often.",
-        "zh": "经常逃课不是个好主意。"
+        "en": "I was going to take that job offer, but I got <em>cold feet</em> at the last moment.",
+        "zh": "我本来要接受那个工作机会，但最后一刻我临阵退缩了。"
       },
       {
-        "en": "They were caught by the principal for <em>cutting class</em>.",
-        "zh": "他们因为逃课被校长发现了。"
+        "en": "Don’t get <em>cold feet</em> now; you’ve prepared so much for this presentation.",
+        "zh": "现在可别临阵退缩；你已经为这次演讲准备了这么多。"
       }
     ]
   },
@@ -146,38 +151,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Attilio Bertolucci",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Attilio_Bertolucci.jpeg/330px-Attilio_Bertolucci.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian poet and writer (1911–2000)",
-        "extract": "Attilio Bertolucci was an Italian poet and writer. He was the father of film directors Bernardo and Giuseppe Bertolucci.",
-        "born": 1911,
+        "name": "Lieuwe van Aitzema",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lieuwe-van-Aitzema-Saken-van-staet-en-oorlogh_MG_0395.tif/lossy-page1-330px-Lieuwe-van-Aitzema-Saken-van-staet-en-oorlogh_MG_0395.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Dutch historian (1600–1669)",
+        "extract": "Lieuwe (Leo) van Aitzema was a Dutch historian, diplomat, bon viveur, libertine and spy.",
+        "born": 1600,
         "highlights": [
-          "Italian poet and writer.",
-          "Father of film directors Bernardo and Giuseppe Bertolucci."
+          "Dutch historian and diplomat.",
+          "Also known as a bon viveur.",
+          "Served as a libertine and spy."
         ]
       },
       {
-        "name": "Marie Josée Ta Lou-Smith",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Marie-Jos%C3%A9e_Ta_Lou_%28cropped%29.png/330px-Marie-Jos%C3%A9e_Ta_Lou_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Ivorian sprinter (born 1988)",
-        "extract": "Gonezie Marie Josée Dominique Ta Lou-Smith is an Ivorian sprinter competing in the 100 metres and 200 metres. She is a two-time World Championships medalist and is the African record holder in the 100 m.",
-        "born": 1988,
+        "name": "Tommy Dorsey",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Tommy_Dorsey%2C_WMCA%2C_New_York%2C_ca._Oct._1947_%28William_P._Gottlieb_02111%29.jpg/330px-Tommy_Dorsey%2C_WMCA%2C_New_York%2C_ca._Oct._1947_%28William_P._Gottlieb_02111%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American jazz trombonist and bandleader (1905–1956)",
+        "extract": "Thomas Francis Dorsey Jr. was an American jazz trombonist, composer, conductor and bandleader of the big band era. He was known as the \"Sentimental Gentleman of Swing\" because of his smooth-toned trombone playing. His theme song was \"I'm Getting Sentimental Over You\". His technical skill on the trombone gave him renown among other musicians. He was the younger brother of bandleader Jimmy Dorsey. After Dorsey broke with his brother in the mid-1930s, he led an extremely successful band from the late 1930s into the 1950s. He is best remembered for standards such as \"Opus One\", \"This Love of Mine\" featuring Frank Sinatra on vocals, \"Song of India\", \"Marie\", \"On Treasure Island\", and his biggest hit single, \"I'll Never Smile Again\".",
+        "born": 1905,
         "highlights": [
-          "Ivorian sprinter in 100m and 200m.",
-          "Two-time World Championships medalist.",
-          "African record holder in the 100m."
+          "Jazz trombonist, composer, conductor, and bandleader.",
+          "Known as the \"Sentimental Gentleman of Swing\".",
+          "Best remembered for \"Opus One\" and \"I'll Never Smile Again\"."
         ]
       },
       {
-        "name": "Hamza al-Ghamdi",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hamza_al-Ghamdi_6-27-01_HQ.jpg/330px-Hamza_al-Ghamdi_6-27-01_HQ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Saudi terrorist and 9/11 hijacker (1980–2001)",
-        "extract": "Hamza Salah Sa'id al-Ghamdi was a Saudi terrorist hijacker. He was one of five hijackers of United Airlines Flight 175 as part of the September 11 attacks.",
-        "born": 1980,
+        "name": "Kathleen Quinlan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Kathleen_Quinlan_1975.JPG/330px-Kathleen_Quinlan_1975.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1954)",
+        "extract": "Kathleen Denise Quinlan is an American film and television actress. She is best known for her Golden Globe-nominated performance in the 1977 film of the novel I Never Promised You a Rose Garden, and her Golden Globe and Academy Award-nominated role in the 1995 film Apollo 13, along with many roles in other feature films, television movies, and series, in a career spanning almost five decades.",
+        "born": 1954,
         "highlights": [
-          "Saudi terrorist hijacker.",
-          "Hijacker of United Airlines Flight 175.",
-          "Part of the September 11 attacks."
+          "American film and television actress.",
+          "Golden Globe nominated for I Never Promised You a Rose Garden.",
+          "Oscar and Golden Globe nominated for Apollo 13."
         ]
       }
     ]
