@@ -1,60 +1,13 @@
 {
-  "generatedAt": "2026-11-19T21:11:36.768Z",
+  "generatedAt": "2026-11-20T01:00:21.299Z",
   "weather": {
     "location": "New York City",
-    "tempC": 16.4,
+    "tempC": 9.4,
     "condition": "Overcast",
     "code": 3,
-    "highC": 18.1,
+    "highC": 18.7,
     "lowC": 5.3,
     "rainChance": 0
-  },
-  "hotTopics": {
-    "headline": "Today's news",
-    "topics": [
-      {
-        "keywords": [
-          "World",
-          "Human Rights"
-        ],
-        "summary": "A UN court ruled Myanmar committed genocide against the Rohingya, holding the nation accountable for atrocities."
-      },
-      {
-        "keywords": [
-          "World",
-          "Geopolitics"
-        ],
-        "summary": "Major world leaders Trump, Xi, and Putin met, signaling shifts in global power dynamics and alliances."
-      },
-      {
-        "keywords": [
-          "US/Politics",
-          "Public Safety"
-        ],
-        "summary": "Iowa residents face a potential lead dust cloud as the Army plans to detonate five tons of bomb-making chemicals."
-      },
-      {
-        "keywords": [
-          "Business",
-          "AI Tech"
-        ],
-        "summary": "AI company Anthropic had a successful IPO, marking a significant milestone for the artificial intelligence industry."
-      },
-      {
-        "keywords": [
-          "Tech",
-          "Gaming Culture"
-        ],
-        "summary": "After 13 years, \"Grand Theft Auto 6\" was released, generating massive gamer engagement and cultural discussion."
-      },
-      {
-        "keywords": [
-          "Sports",
-          "NFL Football"
-        ],
-        "summary": "The Texans face the Colts in a crucial Thursday Night Football game, impacting their NFL playoff hopes."
-      }
-    ]
   },
   "market": {
     "indices": [
@@ -112,33 +65,33 @@
   "joke": {
     "items": [
       {
-        "joke": "I was struggling to figure out how lightning works, but then it struck me.",
+        "joke": "A byte walks into a bar looking miserable.\nThe bartender asks it: \"What's wrong buddy?\"\n\"Parity error.\" it replies. \n\"Ah that makes sense, I thought you looked a bit off.\"",
         "source": "JokeAPI"
       },
       {
-        "joke": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right.",
+        "joke": "Yo mama is so old, she knew Burger King while he was still a prince.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "fortune-favors-the-bold",
-    "title": "Fortune favors the bold",
-    "glossZh": "“命运垂青勇者” 或 “勇敢者得以成功”。",
-    "interpretationEn": "This phrase originates from ancient Roman times and was introduced by the tragic playwright Plautus. In his work “Phormio,” he used a similar expression to convey that fortune tends to favor those who are bold and decisive, encouraging people to undertake bold actions when faced with challenges.",
-    "interpretationZh": "这个短语的起源可以追溯到古罗马时代，由悲剧诗人普劳图斯（Plautus）提出。在他的作品《Phormio》中，他使用了类似的表达，意思是命运更倾向于帮助那些勇敢果断的人，以鼓励人们在面对挑战时采取大胆的行动。",
+    "id": "break-a-leg",
+    "title": "Break a leg",
+    "glossZh": "“祝好运” 或 “加油”。",
+    "interpretationEn": "This idiom originates from the theater and performing arts. Traditionally, instead of saying “good luck,” which is considered bad luck, actors would tell each other to “<em>break a leg</em>” before a performance. Today, it’s widely used in various contexts to wish someone success.",
+    "interpretationZh": "这个惯用语起源于戏剧和表演艺术界。通常，在演员上场前，其他演员会祝他 “摔断腿”（Break a leg），听似不吉利，但实际上是为了避开坏运（因为直接祝 “好运” 被认为会带来厄运）。如今，这个短语已经被广泛用于各种场合，表示希望对方在某个活动或任务中取得成功。",
     "examples": [
       {
-        "en": "He took a risk by starting his own business, but <em>fortune favors the bold</em>.",
-        "zh": "他冒险开办了自己的公司，但命运垂青勇者。"
+        "en": "You’re going to do great in your performance tonight. <em>Break a leg</em>!",
+        "zh": "你今晚的表演一定会很棒。加油！"
       },
       {
-        "en": "She decided to move to a new city without a job lined up, believing that <em>fortune favors the bold</em>.",
-        "zh": "她决定在没有工作安排的情况下搬到新城市，相信命运垂青勇者。"
+        "en": "Before her big presentation, her colleague told her, “<em>Break a leg</em>.”",
+        "zh": "在她的重要演讲前，她的同事对她说：“祝好运。”"
       },
       {
-        "en": "In order to succeed in life, sometimes you have to remember that <em>fortune favors the bold</em>.",
-        "zh": "为了在生活中取得成功，有时候你必须记住命运垂青勇者。"
+        "en": "As he went on stage, his friends shouted, “<em>Break a leg</em>!”",
+        "zh": "当他上台的时候，他的朋友们大声喊道：“加油！”"
       }
     ]
   },
@@ -146,40 +99,25 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Robert Barron",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bishop_Robert_Barron.jpg/330px-Bishop_Robert_Barron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American Catholic prelate, scholar and evangelist (born 1959)",
-        "extract": "Robert Emmet Patrick Barron is an American Catholic theologian who has served as bishop of the Diocese of Winona–Rochester since 2022. He served as rector at Mundelein Seminary from 2012 to 2015 and as auxiliary bishop for the Archdiocese of Los Angeles from 2015 to 2022. He has published on theology and spirituality, and is the founder of Word on Fire.",
-        "born": 1959,
-        "highlights": [
-          "Bishop of Diocese of Winona–Rochester since 2022.",
-          "Served as rector at Mundelein Seminary.",
-          "Founder of Word on Fire."
-        ]
+        "name": "Kurt Lundqvist",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kurt_Lundqvist3.jpg/330px-Kurt_Lundqvist3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Swedish high jumper",
+        "extract": "Kurt Lundqvist was a Swedish track and field athlete who competed in the high jump. He was the 1938 European champion in the event.",
+        "born": 1914
       },
       {
-        "name": "Glynnis O'Connor",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Glynnis_O%27Connor_%22Sons_and_Daughters%22_%281974_CBS_press_photo%29.JPG/330px-Glynnis_O%27Connor_%22Sons_and_Daughters%22_%281974_CBS_press_photo%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (b. 1955)",
-        "extract": "Glynnis O'Connor is an American actress. She made her big-screen debut starring in the 1973 romantic drama film, Jeremy. She later starred in the short-lived CBS drama series Sons and Daughters (1974) and the television version of Our Town (1977). She starred in films Ode to Billy Joe, Baby Blue Marine, California Dreaming (1979), Those Lips, Those Eyes (1980), The White Lions (1981), Night Crossing, Melanie and Johnny Dangerously (1984).",
-        "born": 1956,
-        "highlights": [
-          "Made big-screen debut in 1973 film Jeremy.",
-          "Starred in CBS drama series Sons and Daughters.",
-          "Appeared in films like Ode to Billy Joe."
-        ]
+        "name": "Ray Ozzie",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Ray_Ozzie%2C_Web_2.0_Conference.jpg/330px-Ray_Ozzie%2C_Web_2.0_Conference.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American software industry entrepreneur (born 1955)",
+        "extract": "Raymond \"Ray\" Ozzie is an American software industry entrepreneur who held the positions of Chief Technical Officer and Chief Software Architect at Microsoft between 2005 and 2010. Before Microsoft, he was best known for his role in creating Lotus Notes.",
+        "born": 1955
       },
       {
-        "name": "Ertuğrul Sağlam",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ertu%C4%9Frul_Sa%C4%9Flam_2023.jpg/330px-Ertu%C4%9Frul_Sa%C4%9Flam_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Turkish footballer and manager",
-        "extract": "Ertuğrul Sağlam is a UEFA Pro Licensed Turkish football manager and former player who most recently coached Kocaelispor.",
-        "born": 1969,
-        "highlights": [
-          "UEFA Pro Licensed Turkish football manager.",
-          "Former professional football player.",
-          "Most recently coached Kocaelispor."
-        ]
+        "name": "Vakhtang Balavadze (wrestler)",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vakhtang_Balavadze_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Georgian wrestler (1927–2018)",
+        "extract": "Vakhtang Balavadze was a Georgian welterweight freestyle wrestler. He competed at the 1956 and 1960 Summer Olympics and won a bronze medal in 1956. He won the world title in 1954 and 1957, and was a runner-up in 1959. Balavadze won the Soviet title in 1952–55 and 1957, placing second in 1956 and 1959. He retired from competition following the 1960 Summer Olympics to become a wrestling coach and referee.",
+        "born": 1927
       }
     ]
   }
