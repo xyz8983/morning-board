@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-21T19:56:23.220Z",
+  "generatedAt": "2026-11-21T23:42:10.930Z",
   "weather": {
     "location": "New York City",
-    "tempC": 17.7,
+    "tempC": 12.2,
     "condition": "Overcast",
     "code": 3,
     "highC": 19.1,
@@ -15,50 +15,44 @@
       {
         "keywords": [
           "World",
-          "AI Ethics",
-          "Warfare"
+          "AI Weapons"
         ],
-        "summary": "Nations extended discussions on autonomous weapons, failing to commit to immediate regulation despite ethical concerns."
+        "summary": "UN talks failed to create binding rules on autonomous weapons, raising concerns about future warfare ethics."
       },
       {
         "keywords": [
           "US/Politics",
-          "Drug Cartel",
-          "Mexico"
+          "Drug Cartel"
         ],
-        "summary": "Mexican special forces arrested alleged cartel leader \"El Chapo Isidro,\" a significant blow to organized crime."
+        "summary": "Mexico arrested a top drug lord, triggering violence in Sinaloa and impacting regional stability."
       },
       {
         "keywords": [
           "Business",
-          "Market Sell-off",
-          "Tech Stocks"
+          "Market Downturn"
         ],
-        "summary": "Tech and AI stocks are experiencing a significant market sell-off, raising concerns about economic stability."
+        "summary": "A significant market sell-off is impacting tech and AI stocks, signaling potential economic shifts."
       },
       {
         "keywords": [
           "Tech",
-          "Gaming",
-          "Entertainment"
+          "Gaming Industry"
         ],
-        "summary": "Grand Theft Auto VI launched with a record-breaking $3.79 billion debut, highlighting gaming's massive economic power."
-      },
-      {
-        "keywords": [
-          "Business",
-          "IPO",
-          "Wall Street"
-        ],
-        "summary": "Anthropic's successful IPO occurred during tech's worst Wall Street week since 2020, showing market volatility."
+        "summary": "Grand Theft Auto VI's record-breaking $3.79 billion debut highlights the immense financial power of gaming."
       },
       {
         "keywords": [
           "Sports",
-          "College Football",
-          "Playoff"
+          "College Football"
         ],
-        "summary": "College Football Playoff contention intensified in Week 12 with close games and upsets impacting rankings."
+        "summary": "Nebraska upset Ohio State, ending their losing streak and shaking up college football rankings."
+      },
+      {
+        "keywords": [
+          "World",
+          "Royalty Health"
+        ],
+        "summary": "Princess Catherine's BBC film details her cancer journey, offering a personal look at her health."
       }
     ]
   },
@@ -118,33 +112,33 @@
   "joke": {
     "items": [
       {
-        "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+        "joke": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
         "source": "JokeAPI"
       },
       {
-        "joke": "My husband and I were happy for 20 years. And then we met.",
+        "joke": "I've got a really good UDP joke to tell you but I don’t know if you'll get it.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "give-a-run-for-ones-money",
-    "title": "Give a run for one’s money",
-    "glossZh": "“给……以有力的竞争” 或 “使……充分享受（乐趣）”。",
-    "interpretationEn": "The phrase originates from 18th-century horse racing, where a horse that could run competently and provide a good race would make the betters feel satisfied or happy. In modern use, this phrase broadly means that someone or something performs well in competition, posing a challenge or giving opponents a tough time.",
-    "interpretationZh": "这个短语起源于 18 世纪的赛马，指的是一匹马能参与比赛并跑得好，从而使赌注投得其上的人为之尽兴或感到高兴。在现代使用中，这个短语广泛适用于表示某人或某物在竞争中表现出色，给对手带来压力或挑战。",
+    "id": "turn-a-blind-eye",
+    "title": "Turn a blind eye",
+    "glossZh": "“视而不见” 或 “装作没看见”。",
+    "interpretationEn": "This idiom originates from the story of British naval hero Admiral Horatio Nelson. In 1801, during a battle, Nelson received a signal from his commander to retreat. However, because Nelson was blind in one eye, he used his blind eye to look at the signal, effectively ignoring it and continuing the attack. He won the battle, and the phrase “Turn a blind eye” has come to mean deliberately ignoring certain facts or issues.",
+    "interpretationZh": "这个成语来源于英国海军英雄霍雷肖·纳尔逊上将的故事。在 1801 年，纳尔逊在一次战斗中接受指挥官的信号，让他撤退。然而，纳尔逊因为自己的一只眼睛是盲的，他把这个信号看作是一个借口，故意用盲眼看向信号，并继续进攻。最终他战斗成功，这个故事流传下来，就有了 “<em>Turn a blind eye</em>” 这个成语，表示故意忽视某些事实或问题。",
     "examples": [
       {
-        "en": "Our team is going to <em>give them a run for their money</em> in the finals.",
-        "zh": "我们队将在决赛中给他们以有力的竞争。"
+        "en": "The manager decided to <em>turn a blind eye</em> to the minor rule-breaking.",
+        "zh": "经理决定对小违规行为视而不见。"
       },
       {
-        "en": "The new startup is <em>giving the established companies a run for their money</em>.",
-        "zh": "这家新创公司正给那些老牌公司带来强有力的竞争。"
+        "en": "She knows her son is lying, but she chooses to <em>turn a blind eye</em>.",
+        "zh": "她知道儿子在撒谎，但她选择装作没看见。"
       },
       {
-        "en": "She really <em>gave her opponents a run for their money</em> in that tennis match.",
-        "zh": "在那场网球比赛中，她确实给对手们带来了很大的压力。"
+        "en": "It’s hard to <em>turn a blind eye</em> to corruption in the government.",
+        "zh": "很难对政府中的腐败现象视而不见。"
       }
     ]
   },
@@ -152,39 +146,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Alec Brownstein",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Public_headshot_of_Alec_Brownstein.jpg/330px-Public_headshot_of_Alec_Brownstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American film director",
-        "extract": "Alec Brownstein is an American creative marketer, the co-author of several humor books, and a film director. He attended The Haverford School in Haverford, Pennsylvania, and Tufts University. He is currently advisor and investor in a number of American startups. Previously, he was Global Head of Creative at PayPal Honey and was also the original Creative Director of Dollar Shave Club.",
-        "born": 1980,
+        "name": "Jan Bertels",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Bertels.jpg/330px-Jan_Bertels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Belgian politician (born 1968)",
+        "extract": "Jan Bertels is a Belgian politician and member of the Chamber of Representatives. A member of Vooruit, he has represented Antwerp since June 2024. He had previously been a member of the Chamber of Representatives from June 2019 to November 2020. He was a member of the Flemish Parliament from June 2014 to May 2019.",
+        "born": 1968,
         "highlights": [
-          "Co-author of several humor books.",
-          "Original Creative Director of Dollar Shave Club.",
-          "Global Head of Creative at PayPal Honey."
+          "Belgian politician and member of the Chamber of Representatives.",
+          "Represented Antwerp in the Chamber since June 2024.",
+          "Previously served in the Flemish Parliament."
         ]
       },
       {
-        "name": "Michael Strahan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Michael_Strahan_2022_%28cropped%29.jpg/330px-Michael_Strahan_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player and television presenter (born 1971)",
-        "extract": "Michael Anthony Strahan is an American television host and former professional football defensive end who played in the National Football League (NFL) for 15 seasons with the New York Giants. A dominant pass rusher, Strahan set the NFL single-season record for quarterback sacks and helped the Giants win Super Bowl XLII in his final season in 2007. He was inducted into the Pro Football Hall of Fame in 2014.",
-        "born": 1971,
+        "name": "Alexander Berkman",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Alex._Berkman_LCCN2014680765_Crop.jpg/330px-Alex._Berkman_LCCN2014680765_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Russian-American anarchist and writer (1870–1936)",
+        "extract": "Alexander Berkman was a Russian-American anarchist and author. He was a leading member of the anarchist movement in the early 20th century, famous for both his political activism and his writing.",
+        "born": 1870,
         "highlights": [
-          "Set NFL single-season record for quarterback sacks.",
-          "Helped Giants win Super Bowl XLII in 2007.",
-          "Inducted into Pro Football Hall of Fame in 2014."
+          "Russian-American anarchist and author.",
+          "Leading member of early 20th century anarchist movement.",
+          "Famous for political activism and writing."
         ]
       },
       {
-        "name": "Ralph Meeker",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Ralph_Meeker_1953.png/330px-Ralph_Meeker_1953.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actor",
-        "extract": "Ralph Meeker was an American film, stage, and television actor. He first rose to prominence for his roles in the Broadway productions of Mister Roberts (1948–1951) and Picnic (1953), the former of which earned him a Theatre World Award for his performance. In film, Meeker is known for his portrayal of Mike Hammer in Robert Aldrich's 1955 Kiss Me Deadly and as condemned infantryman Cpl. Philippe Paris in Stanley Kubrick’s Paths of Glory.",
-        "born": 1920,
+        "name": "Evgeny Bareev",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bareev_Evgeny_%2830219958676%29_%28cropped%29.jpg/330px-Bareev_Evgeny_%2830219958676%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Russian-Canadian chess grandmaster (born 1966)",
+        "extract": "Evgeny Ilgizovich Bareev is a Russian-Canadian chess player, trainer, and writer. Awarded the FIDE Grandmaster title in 1989, he was ranked fourth in the world in the international rankings in 1992 and again in 2003, with an Elo rating of 2739.",
+        "born": 1966,
         "highlights": [
-          "Starred in Broadway productions of Mister Roberts and Picnic.",
-          "Earned a Theatre World Award for Mister Roberts.",
-          "Portrayed Mike Hammer in 1955 film Kiss Me Deadly."
+          "Russian-Canadian chess player, trainer, and writer.",
+          "Awarded FIDE Grandmaster title in 1989.",
+          "Ranked fourth in the world in 1992 and 2003."
         ]
       }
     ]
