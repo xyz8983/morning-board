@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T20:55:48.816Z",
+  "generatedAt": "2026-11-21T00:34:05.830Z",
   "weather": {
     "location": "New York City",
-    "tempC": 19.9,
+    "tempC": 13.3,
     "condition": "Overcast",
     "code": 3,
-    "highC": 21.2,
+    "highC": 21.3,
     "lowC": 6.3,
     "rainChance": 0
   },
@@ -14,51 +14,45 @@
     "topics": [
       {
         "keywords": [
+          "World",
+          "Brexit Deal"
+        ],
+        "summary": "The EU and UK reached a landmark deal to strengthen post-Brexit ties, impacting future cooperation and stability."
+      },
+      {
+        "keywords": [
           "Business",
-          "Stock Market",
-          "Economy"
+          "Market Crash"
         ],
-        "summary": "The Dow and S&P 500 entered correction territory, signaling broad market downturns and investor caution."
-      },
-      {
-        "keywords": [
-          "World",
-          "Geopolitics",
-          "US Foreign Policy"
-        ],
-        "summary": "Trump highlighted potential Asia deals and upcoming meetings with leaders Xi and Putin, signaling future foreign policy directions."
-      },
-      {
-        "keywords": [
-          "World",
-          "Human Rights",
-          "Myanmar"
-        ],
-        "summary": "Myanmar expressed disappointment over the UN court's ruling on Rohingya genocide, highlighting ongoing international human rights concerns."
+        "summary": "Major stock markets plunged, with Nasdaq erasing yearly gains and S&P/Dow entering corrections."
       },
       {
         "keywords": [
           "US/Politics",
-          "Legal Challenges",
-          "Trump"
+          "Capital Punishment"
         ],
-        "summary": "A second judge blocked a legal argument by Trump, indicating his challenges face significant hurdles in court."
+        "summary": "A Texas prisoner reportedly moaned during his execution, raising concerns about lethal injection methods."
       },
       {
         "keywords": [
           "Tech",
-          "Gaming",
-          "Sales Record"
+          "Gaming Sales"
         ],
-        "summary": "Grand Theft Auto 6 achieved record-breaking first-day sales of $3.79 billion, marking a significant event in gaming."
+        "summary": "Grand Theft Auto 6 achieved record-breaking first-day sales of $3.79 billion, highlighting its massive market impact."
       },
       {
         "keywords": [
-          "Entertainment",
-          "Film",
-          "Box Office"
+          "Business",
+          "Chip Exports"
         ],
-        "summary": "The new 'Hunger Games' film earned $21 million in previews, marking a strong box office start for the franchise."
+        "summary": "Treasury Secretary stated no new restrictions are needed for Nvidia chip exports to China."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "NFL Injury"
+        ],
+        "summary": "Patriots quarterback Drake Maye reportedly suffered a fractured fibula, impacting the team's season outlook."
       }
     ]
   },
@@ -68,15 +62,15 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 6892.26,
-        "changePct": -3.9517379871039267
+        "price": 6910.39,
+        "changePct": -3.69908428711382
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 22542.443,
-        "changePct": -5.597997420349096
+        "price": 22617.732,
+        "changePct": -5.28270628831787
       },
       {
         "region": "Europe",
@@ -118,33 +112,33 @@
   "joke": {
     "items": [
       {
-        "joke": "A neutron walks into a bar and asks for a price on a drink.\nThe barkeeper says: \"For you... no charge!\"",
+        "joke": "Yo mama is so old, she knew Burger King while he was still a prince.",
         "source": "JokeAPI"
       },
       {
-        "joke": "Two SQL tables sit at the bar. A query approaches and asks \"Can I join you?\"",
+        "joke": "Two fish in a tank. One turns to the other and says, \"Do you know how to drive this thing?\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "when-the-chips-are-down",
-    "title": "When the chips are down",
-    "glossZh": "“在关键时刻” 或 “在危急时刻”。",
-    "interpretationEn": "This idiom originated from the context of gambling, particularly poker. When the chips (<em>bets</em>) are all on the table, the situation becomes more serious and critical. “<em>When the chips are down</em>” is used to describe how people behave or make decisions under significant pressure or in critical situations.",
-    "interpretationZh": "这个成语起源于赌博，尤其是扑克游戏。当赌注已经下完的时候（“<em>chips</em>” 指代赌注），局势变得更加严峻和关键。“<em>When the chips are down</em>” 用来形容人在重大压力或者危急情况下所采取的行为和决定。",
+    "id": "horse-around",
+    "title": "Horse around",
+    "glossZh": "“瞎胡闹” 或 “玩闹”。",
+    "interpretationEn": "This phrase originates from the playful and sometimes reckless nature of horses. It’s used as a figurative expression to describe people engaging in silly, unserious, or aimless behavior.",
+    "interpretationZh": "这个短语源于马匹常常爱嬉戏和奔跑的天性，人们用这一形象化的表达来形容人的打闹和无所事事的状态。通常用来描述那些不严肃的、搞笑的、或者无目的的行为。",
     "examples": [
       {
-        "en": "You can always count on him <em>when the chips are down.</em>",
-        "zh": "在关键时刻，你总是能指望他。"
+        "en": "The kids were <em>horsing around</em> in the living room and broke a vase.",
+        "zh": "孩子们在客厅里瞎胡闹，结果打碎了一个花瓶。"
       },
       {
-        "en": "<em>When the chips are down</em>, true friends will be there for you.",
-        "zh": "危急时刻，真正的朋友会陪在你身边。"
+        "en": "Stop <em>horsing around</em>, we need to get this project done!",
+        "zh": "别瞎闹了，我们需要完成这个项目！"
       },
       {
-        "en": "<em>When the chips are down</em>, she always finds a way to succeed.",
-        "zh": "在关键时刻，她总能找到成功的道路。"
+        "en": "They spent the whole afternoon <em>horsing around</em> by the lake.",
+        "zh": "他们整个下午都在湖边瞎闹。"
       }
     ]
   },
@@ -152,41 +146,38 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Živko Budimir",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/General_bojnik_%C5%BDivko_Budimir.jpg/330px-General_bojnik_%C5%BDivko_Budimir.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Bosnian Croat politician",
-        "extract": "Živko Budimir is a Bosnian Croat politician who served as the 9th President of the Federation of Bosnia and Herzegovina, one of the two autonomous entities that compose Bosnia and Herzegovina, from 17 March 2011 until 9 February 2015. He is the founder and current president of the Party of Justice and Trust.",
-        "born": 1962,
+        "name": "Vincenzo Iaquinta",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Vincenzo_Iaquinta_2010.jpg/330px-Vincenzo_Iaquinta_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Italian footballer (born 1979)",
+        "extract": "Vincenzo Iaquinta is an Italian former professional footballer who played as a striker.",
+        "born": 1979,
         "highlights": [
-          "Served as 9th President of Federation of Bosnia and Herzegovina.",
-          "President of Federation of Bosnia and Herzegovina from 2011 to 2015.",
-          "Founder and current president of Party of Justice and Trust."
+          "Italian former professional footballer.",
+          "Played as a striker."
         ]
       },
       {
-        "name": "Jerry Colangelo",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Colangelo.jpg/330px-Colangelo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American basketball executive and coach and sports executive and owner (born 1939)",
-        "extract": "Jerry Colangelo is an American businessman and sports executive. He formerly owned the Phoenix Suns of the NBA, the Phoenix Mercury of the WNBA, the Arizona Sandsharks of the Continental Indoor Soccer League, the Arizona Rattlers of the Arena Football League, and the Arizona Diamondbacks of Major League Baseball. He was also instrumental in the relocation of the original Winnipeg Jets team in the NHL to Phoenix to become the Phoenix Coyotes. In 2014, Grand Canyon University renamed its Christian based school of business after Colangelo, replacing Ken Blanchard's namesake. From December 2015 to April 2016, Colangelo served as chairman of basketball operations for the Philadelphia 76ers, before serving as a special advisor to the team until December 2018.",
-        "born": 1939,
+        "name": "Wyatt Teller",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Wyatt_Teller_%282021%29.jpg/330px-Wyatt_Teller_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player (born 1994)",
+        "extract": "Wyatt Teller is an American professional football guard for the Houston Texans of the National Football League (NFL). He played college football for the Virginia Tech Hokies.",
+        "born": 1994,
         "highlights": [
-          "Owned Phoenix Suns, Mercury, Sandsharks, Rattlers, Diamondbacks.",
-          "Instrumental in relocating Winnipeg Jets to become Phoenix Coyotes.",
-          "Chairman of basketball operations for Philadelphia 76ers."
+          "American professional football guard.",
+          "Plays for the Houston Texans.",
+          "Played college football for Virginia Tech Hokies."
         ]
       },
       {
-        "name": "Gustav Giemsa",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Gustav_Giemsa.jpg/330px-Gustav_Giemsa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "German scientist (1867–1948)",
-        "extract": "Berthold Carl Gustav Giemsa was a German chemist and bacteriologist who was a native of Medar-Blechhammer. He is best known for creating a dye solution commonly known as \"Giemsa stain\" which is used in staining for use in the histopathological diagnosis of malaria and parasites such as Plasmodium, Trypanosoma, and Chlamydia.",
-        "born": 1867,
+        "name": "Chung Il-kwon",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/HF01_01_B_2005028001_002.jpg/330px-HF01_01_B_2005028001_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "South Korean general (1917–1994)",
+        "extract": "Chung Il-kwon was a South Korean politician, diplomat, and soldier. A general in the Republic of Korea Army, he served as foreign minister 1963 to 1964, and prime minister from 1964 to 1970. He was an ally of President Park Chung Hee.",
+        "born": 1917,
         "highlights": [
-          "German chemist and bacteriologist.",
-          "Created the ",
-          "Giemsa stain",
-          "dye solution.",
-          "Giemsa stain diagnoses malaria and parasites."
+          "South Korean politician, diplomat, and soldier.",
+          "Served as foreign minister 1963-1964.",
+          "Served as prime minister 1964-1970."
         ]
       }
     ]
