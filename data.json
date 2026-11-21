@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T00:34:05.830Z",
+  "generatedAt": "2026-11-21T19:56:23.220Z",
   "weather": {
     "location": "New York City",
-    "tempC": 13.3,
+    "tempC": 17.7,
     "condition": "Overcast",
     "code": 3,
-    "highC": 21.3,
-    "lowC": 6.3,
+    "highC": 19.1,
+    "lowC": 7.4,
     "rainChance": 0
   },
   "hotTopics": {
@@ -15,44 +15,50 @@
       {
         "keywords": [
           "World",
-          "Brexit Deal"
+          "AI Ethics",
+          "Warfare"
         ],
-        "summary": "The EU and UK reached a landmark deal to strengthen post-Brexit ties, impacting future cooperation and stability."
-      },
-      {
-        "keywords": [
-          "Business",
-          "Market Crash"
-        ],
-        "summary": "Major stock markets plunged, with Nasdaq erasing yearly gains and S&P/Dow entering corrections."
+        "summary": "Nations extended discussions on autonomous weapons, failing to commit to immediate regulation despite ethical concerns."
       },
       {
         "keywords": [
           "US/Politics",
-          "Capital Punishment"
+          "Drug Cartel",
+          "Mexico"
         ],
-        "summary": "A Texas prisoner reportedly moaned during his execution, raising concerns about lethal injection methods."
-      },
-      {
-        "keywords": [
-          "Tech",
-          "Gaming Sales"
-        ],
-        "summary": "Grand Theft Auto 6 achieved record-breaking first-day sales of $3.79 billion, highlighting its massive market impact."
+        "summary": "Mexican special forces arrested alleged cartel leader \"El Chapo Isidro,\" a significant blow to organized crime."
       },
       {
         "keywords": [
           "Business",
-          "Chip Exports"
+          "Market Sell-off",
+          "Tech Stocks"
         ],
-        "summary": "Treasury Secretary stated no new restrictions are needed for Nvidia chip exports to China."
+        "summary": "Tech and AI stocks are experiencing a significant market sell-off, raising concerns about economic stability."
+      },
+      {
+        "keywords": [
+          "Tech",
+          "Gaming",
+          "Entertainment"
+        ],
+        "summary": "Grand Theft Auto VI launched with a record-breaking $3.79 billion debut, highlighting gaming's massive economic power."
+      },
+      {
+        "keywords": [
+          "Business",
+          "IPO",
+          "Wall Street"
+        ],
+        "summary": "Anthropic's successful IPO occurred during tech's worst Wall Street week since 2020, showing market volatility."
       },
       {
         "keywords": [
           "Sports",
-          "NFL Injury"
+          "College Football",
+          "Playoff"
         ],
-        "summary": "Patriots quarterback Drake Maye reportedly suffered a fractured fibula, impacting the team's season outlook."
+        "summary": "College Football Playoff contention intensified in Week 12 with close games and upsets impacting rankings."
       }
     ]
   },
@@ -84,14 +90,14 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10346.34,
-        "changePct": -1.0173467474370221
+        "changePct": -1.0175361389880182
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
         "price": 3533.793,
-        "changePct": -1.506119297737067
+        "changePct": -1.225032284032395
       },
       {
         "region": "Asia",
@@ -112,33 +118,33 @@
   "joke": {
     "items": [
       {
-        "joke": "Yo mama is so old, she knew Burger King while he was still a prince.",
+        "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
         "source": "JokeAPI"
       },
       {
-        "joke": "Two fish in a tank. One turns to the other and says, \"Do you know how to drive this thing?\"",
+        "joke": "My husband and I were happy for 20 years. And then we met.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "horse-around",
-    "title": "Horse around",
-    "glossZh": "“瞎胡闹” 或 “玩闹”。",
-    "interpretationEn": "This phrase originates from the playful and sometimes reckless nature of horses. It’s used as a figurative expression to describe people engaging in silly, unserious, or aimless behavior.",
-    "interpretationZh": "这个短语源于马匹常常爱嬉戏和奔跑的天性，人们用这一形象化的表达来形容人的打闹和无所事事的状态。通常用来描述那些不严肃的、搞笑的、或者无目的的行为。",
+    "id": "give-a-run-for-ones-money",
+    "title": "Give a run for one’s money",
+    "glossZh": "“给……以有力的竞争” 或 “使……充分享受（乐趣）”。",
+    "interpretationEn": "The phrase originates from 18th-century horse racing, where a horse that could run competently and provide a good race would make the betters feel satisfied or happy. In modern use, this phrase broadly means that someone or something performs well in competition, posing a challenge or giving opponents a tough time.",
+    "interpretationZh": "这个短语起源于 18 世纪的赛马，指的是一匹马能参与比赛并跑得好，从而使赌注投得其上的人为之尽兴或感到高兴。在现代使用中，这个短语广泛适用于表示某人或某物在竞争中表现出色，给对手带来压力或挑战。",
     "examples": [
       {
-        "en": "The kids were <em>horsing around</em> in the living room and broke a vase.",
-        "zh": "孩子们在客厅里瞎胡闹，结果打碎了一个花瓶。"
+        "en": "Our team is going to <em>give them a run for their money</em> in the finals.",
+        "zh": "我们队将在决赛中给他们以有力的竞争。"
       },
       {
-        "en": "Stop <em>horsing around</em>, we need to get this project done!",
-        "zh": "别瞎闹了，我们需要完成这个项目！"
+        "en": "The new startup is <em>giving the established companies a run for their money</em>.",
+        "zh": "这家新创公司正给那些老牌公司带来强有力的竞争。"
       },
       {
-        "en": "They spent the whole afternoon <em>horsing around</em> by the lake.",
-        "zh": "他们整个下午都在湖边瞎闹。"
+        "en": "She really <em>gave her opponents a run for their money</em> in that tennis match.",
+        "zh": "在那场网球比赛中，她确实给对手们带来了很大的压力。"
       }
     ]
   },
@@ -146,38 +152,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Vincenzo Iaquinta",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Vincenzo_Iaquinta_2010.jpg/330px-Vincenzo_Iaquinta_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Italian footballer (born 1979)",
-        "extract": "Vincenzo Iaquinta is an Italian former professional footballer who played as a striker.",
-        "born": 1979,
+        "name": "Alec Brownstein",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Public_headshot_of_Alec_Brownstein.jpg/330px-Public_headshot_of_Alec_Brownstein.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American film director",
+        "extract": "Alec Brownstein is an American creative marketer, the co-author of several humor books, and a film director. He attended The Haverford School in Haverford, Pennsylvania, and Tufts University. He is currently advisor and investor in a number of American startups. Previously, he was Global Head of Creative at PayPal Honey and was also the original Creative Director of Dollar Shave Club.",
+        "born": 1980,
         "highlights": [
-          "Italian former professional footballer.",
-          "Played as a striker."
+          "Co-author of several humor books.",
+          "Original Creative Director of Dollar Shave Club.",
+          "Global Head of Creative at PayPal Honey."
         ]
       },
       {
-        "name": "Wyatt Teller",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Wyatt_Teller_%282021%29.jpg/330px-Wyatt_Teller_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player (born 1994)",
-        "extract": "Wyatt Teller is an American professional football guard for the Houston Texans of the National Football League (NFL). He played college football for the Virginia Tech Hokies.",
-        "born": 1994,
+        "name": "Michael Strahan",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Michael_Strahan_2022_%28cropped%29.jpg/330px-Michael_Strahan_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player and television presenter (born 1971)",
+        "extract": "Michael Anthony Strahan is an American television host and former professional football defensive end who played in the National Football League (NFL) for 15 seasons with the New York Giants. A dominant pass rusher, Strahan set the NFL single-season record for quarterback sacks and helped the Giants win Super Bowl XLII in his final season in 2007. He was inducted into the Pro Football Hall of Fame in 2014.",
+        "born": 1971,
         "highlights": [
-          "American professional football guard.",
-          "Plays for the Houston Texans.",
-          "Played college football for Virginia Tech Hokies."
+          "Set NFL single-season record for quarterback sacks.",
+          "Helped Giants win Super Bowl XLII in 2007.",
+          "Inducted into Pro Football Hall of Fame in 2014."
         ]
       },
       {
-        "name": "Chung Il-kwon",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/HF01_01_B_2005028001_002.jpg/330px-HF01_01_B_2005028001_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South Korean general (1917–1994)",
-        "extract": "Chung Il-kwon was a South Korean politician, diplomat, and soldier. A general in the Republic of Korea Army, he served as foreign minister 1963 to 1964, and prime minister from 1964 to 1970. He was an ally of President Park Chung Hee.",
-        "born": 1917,
+        "name": "Ralph Meeker",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Ralph_Meeker_1953.png/330px-Ralph_Meeker_1953.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor",
+        "extract": "Ralph Meeker was an American film, stage, and television actor. He first rose to prominence for his roles in the Broadway productions of Mister Roberts (1948–1951) and Picnic (1953), the former of which earned him a Theatre World Award for his performance. In film, Meeker is known for his portrayal of Mike Hammer in Robert Aldrich's 1955 Kiss Me Deadly and as condemned infantryman Cpl. Philippe Paris in Stanley Kubrick’s Paths of Glory.",
+        "born": 1920,
         "highlights": [
-          "South Korean politician, diplomat, and soldier.",
-          "Served as foreign minister 1963-1964.",
-          "Served as prime minister 1964-1970."
+          "Starred in Broadway productions of Mister Roberts and Picnic.",
+          "Earned a Theatre World Award for Mister Roberts.",
+          "Portrayed Mike Hammer in 1955 film Kiss Me Deadly."
         ]
       }
     ]
