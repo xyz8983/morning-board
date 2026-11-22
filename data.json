@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T20:09:25.939Z",
+  "generatedAt": "2026-11-22T23:58:30.376Z",
   "weather": {
     "location": "New York City",
-    "tempC": 15.3,
-    "condition": "Light drizzle",
-    "code": 51,
+    "tempC": 14.2,
+    "condition": "Fog",
+    "code": 45,
     "highC": 16.1,
     "lowC": 11.5,
-    "rainChance": 18
+    "rainChance": 10
   },
   "hotTopics": {
     "headline": "Today's news",
@@ -15,44 +15,44 @@
       {
         "keywords": [
           "World",
-          "Climate Change"
+          "Climate Policy"
         ],
-        "summary": "Global climate talks failed to reach a deal on fossil fuels and funding, hindering efforts against climate change."
-      },
-      {
-        "keywords": [
-          "US Politics",
-          "Foreign Policy"
-        ],
-        "summary": "European middle powers are increasingly mobilizing independently, signaling a shift in global alliances without US leadership."
+        "summary": "COP31 concluded with agreements on climate finance and a continued debate over fossil fuel reduction targets."
       },
       {
         "keywords": [
           "World",
-          "Geopolitics"
+          "Ukraine Conflict"
         ],
-        "summary": "Libya suspects a drone attack hit a Russian ship in Benghazi, raising regional tensions and security concerns."
+        "summary": "A suspected Ukrainian drone reportedly struck a Russian vessel in Libya, indicating conflict expansion."
       },
       {
         "keywords": [
           "Business",
-          "Travel Disruption"
+          "National Security"
         ],
-        "summary": "An automated system failure at the FAA delayed all Delta flights through Atlanta, causing significant travel disruption."
+        "summary": "The DNI warned of future disruptions from tech outages, urging national infrastructure resilience."
       },
       {
         "keywords": [
-          "Sports",
-          "Tennis"
+          "US Politics",
+          "Election Result"
         ],
-        "summary": "Carlos Alcaraz won the ATP Finals, securing a major title in professional tennis."
+        "summary": "Democrat Chuck Hubbard won a North Carolina House seat, shifting the state's political balance."
       },
       {
         "keywords": [
           "Entertainment",
-          "Film Industry"
+          "Film Success"
         ],
-        "summary": "The new 'Hunger Games' film debuted with $120 million, successfully reigniting the popular franchise at the box office."
+        "summary": "The new 'Hunger Games' film debuted with $120 million, revitalizing the popular franchise."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "MLB Contract"
+        ],
+        "summary": "Pitcher Tarik Skubal signed a record $450 million contract with the Mets, impacting baseball finances."
       }
     ]
   },
@@ -112,33 +112,33 @@
   "joke": {
     "items": [
       {
-        "joke": "Never date a baker. They're too kneady.",
+        "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
         "source": "JokeAPI"
       },
       {
-        "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+        "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "the-early-bird-gets-the-worm",
-    "title": "The early bird gets the worm",
-    "glossZh": "“早起的鸟儿有虫吃”。",
-    "interpretationEn": "This proverb originates from the feeding habits of birds. Birds that wake up early are able to find food first. Therefore, this saying is used to imply that those who start early will have success or advantages, often used to encourage people to take action early and seize opportunities.",
-    "interpretationZh": "这个谚语源自鸟类的早晨觅食习惯。早上早起的鸟儿会最先找到食物。因此，这句话用来比喻早早行动的人会获得成功或利益，常用来鼓励人们抓住机会，早些开始行动。",
+    "id": "buy-a-lemon",
+    "title": "Buy a lemon",
+    "glossZh": "“买到次品” 或 “买到有缺陷的商品”。",
+    "interpretationEn": "This phrase originated from early 20th-century American slang, where “<em>lemon</em>” referred to something that was defective or below standard. It was initially used more in the context of buying cars but has since expanded to other consumer goods. It is commonly used when someone buys a product and discovers that it is of poor quality or has significant issues.",
+    "interpretationZh": "该短语来源于 20 世纪初的美国俚语，其中 “<em>lemon</em>” 意指有缺陷的产品或事物。最初在汽车销售领域使用较多，后来渐渐扩展到其他消费领域。购买一件商品后发现其质量低劣或存在明显问题时，常用这个表达。",
     "examples": [
       {
-        "en": "She always arrives at the office before anyone else; the <em>early bird gets the worm</em>.",
-        "zh": "她总是在其他人之前到达办公室，早起的鸟儿有虫吃。"
+        "en": "I thought I was getting a great deal on that used car, but I ended up buying a <em>lemon</em>.",
+        "zh": "我以为买到了一辆二手车的好便宜，结果发现买到的是辆次品。"
       },
       {
-        "en": "If you want the best deals, remember that the <em>early bird gets the worm</em>.",
-        "zh": "如果你想要最好的交易，记得早起的鸟儿有虫吃。"
+        "en": "He bought a new phone, but it’s been nothing but trouble. He really bought a <em>lemon</em>.",
+        "zh": "他买了一部新手机，但问题不断，真是买到个次品。"
       },
       {
-        "en": "The <em>early bird gets the worm</em>, so I try to wake up at 5 AM every day.",
-        "zh": "早起的鸟儿有虫吃，所以我每天都试图五点起床。"
+        "en": "When my laptop kept crashing, I realized I had bought a <em>lemon</em>.",
+        "zh": "我的笔记本电脑总是崩溃，我才意识到买到了一台次品。"
       }
     ]
   },
@@ -146,39 +146,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Eugene Stoner",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mr._Eugene_M._Stoner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American firearms designer (1922–1997)",
-        "extract": "Eugene Morrison Stoner was an American machinist and firearms designer who is most associated with the development of the ArmaLite AR-15 rifle that was redesigned and modified by Colt's Patent Firearm Company for the United States military as the M16A1 rifle.",
-        "born": 1922,
+        "name": "Enver Pasha",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Enver_Pasha_1911_%28cropped%29.jpg/330px-Enver_Pasha_1911_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Turkish general and politician (1881–1922)",
+        "extract": "İsmâil Enver Pasha was a Turkish military officer, revolutionary, and convicted war criminal who served as the Ottoman Empire's Minister of War from 1914 to 1918. Along with Talaat and Djemal, he was one of the Three Pashas that ruled the Ottoman Empire during World War I and one of the principal perpetrators of the Armenian, Greek, and Assyrian genocides.",
+        "born": 1881,
         "highlights": [
-          "American machinist and firearms designer.",
-          "Associated with development of ArmaLite AR-15 rifle.",
-          "AR-15 redesigned as M16A1 rifle for US military."
+          "Served as Ottoman Empire's Minister of War (1914-1918).",
+          "One of the Three Pashas ruling Ottoman Empire during WWI.",
+          "Principal perpetrator of Armenian, Greek, and Assyrian genocides."
         ]
       },
       {
-        "name": "Scarlett Johansson",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/330px-Scarlett_Johansson-8588.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress (born 1984)",
-        "extract": "Scarlett Ingrid Johansson is an American actress, singer, producer, and director. Her films as a leading actress have grossed over $15.4 billion worldwide, making her the third-highest-grossing actor in history. Her accolades include a British Academy Film Award and a Tony Award, as well as nominations for two Academy Awards and five Golden Globe Awards. She was the world's highest-paid actress in 2018, 2019, and 2025.",
-        "born": 1984,
+        "name": "Tom West",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/Tom_West_2009.jpg/330px-Tom_West_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American computer hardware engineer",
+        "extract": "Joseph Thomas West III was an American technologist. He is notable for being the protagonist in the Pulitzer Prize winning non-fiction book The Soul of a New Machine.",
+        "born": 1939,
         "highlights": [
-          "American actress, singer, producer, and director.",
-          "Third-highest-grossing actor in history.",
-          "Won British Academy Film Award and Tony Award."
+          "American technologist.",
+          "Protagonist in The Soul of a New Machine.",
+          "Featured in Pulitzer Prize winning non-fiction book."
         ]
       },
       {
-        "name": "Steven Van Zandt",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Steven_Van_Zandt_Springsteen-65_%28cropped%29.jpg/330px-Steven_Van_Zandt_Springsteen-65_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American musician and actor (born 1950)",
-        "extract": "Steven Van Zandt, also known as Little Steven or Miami Steve, is an American musician and actor. He is a member of Bruce Springsteen's E Street Band, in which he plays guitar and mandolin. He has appeared in several television drama series, including as Silvio Dante in The Sopranos (1999–2007) and as Frank Tagliano/Giovanni \"Johnny\" Henriksen in Lilyhammer (2012–2014). Van Zandt has his own solo band called Little Steven and the Disciples of Soul, intermittently active since the 1980s.",
-        "born": 1950,
+        "name": "Kari Tapio",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Kari_Tapio.jpg/330px-Kari_Tapio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Finnish singer (1945–2010)",
+        "extract": "Kari Tapani Jalkanen, better known by his stage name Kari Tapio, was a Finnish schlager and country & western singer. During his career, he was the most popular singer in Finland for decades; having sold estimately over a million certified records, he is the best-selling soloist in the country. Kari Tapio was born in Suonenjoki, Finland. In the 1960s he performed in his home town Pieksämäki with the local bands ER-Quartet and Jami & The Noisemakers. In 1966 he took singing lessons from Ture Ara.",
+        "born": 1945,
         "highlights": [
-          "Musician and actor, also known as Little Steven.",
-          "Member of Bruce Springsteen's E Street Band.",
-          "Played Silvio Dante in The Sopranos."
+          "Finnish schlager and country & western singer.",
+          "Most popular singer in Finland for decades.",
+          "Best-selling soloist in Finland, sold over a million records."
         ]
       }
     ]
