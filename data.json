@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-21T23:42:10.930Z",
+  "generatedAt": "2026-11-22T20:09:25.939Z",
   "weather": {
     "location": "New York City",
-    "tempC": 12.2,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 19.1,
-    "lowC": 7.4,
-    "rainChance": 0
+    "tempC": 15.3,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 16.1,
+    "lowC": 11.5,
+    "rainChance": 18
   },
   "hotTopics": {
     "headline": "Today's news",
@@ -15,44 +15,44 @@
       {
         "keywords": [
           "World",
-          "AI Weapons"
+          "Climate Change"
         ],
-        "summary": "UN talks failed to create binding rules on autonomous weapons, raising concerns about future warfare ethics."
+        "summary": "Global climate talks failed to reach a deal on fossil fuels and funding, hindering efforts against climate change."
       },
       {
         "keywords": [
-          "US/Politics",
-          "Drug Cartel"
+          "US Politics",
+          "Foreign Policy"
         ],
-        "summary": "Mexico arrested a top drug lord, triggering violence in Sinaloa and impacting regional stability."
-      },
-      {
-        "keywords": [
-          "Business",
-          "Market Downturn"
-        ],
-        "summary": "A significant market sell-off is impacting tech and AI stocks, signaling potential economic shifts."
-      },
-      {
-        "keywords": [
-          "Tech",
-          "Gaming Industry"
-        ],
-        "summary": "Grand Theft Auto VI's record-breaking $3.79 billion debut highlights the immense financial power of gaming."
-      },
-      {
-        "keywords": [
-          "Sports",
-          "College Football"
-        ],
-        "summary": "Nebraska upset Ohio State, ending their losing streak and shaking up college football rankings."
+        "summary": "European middle powers are increasingly mobilizing independently, signaling a shift in global alliances without US leadership."
       },
       {
         "keywords": [
           "World",
-          "Royalty Health"
+          "Geopolitics"
         ],
-        "summary": "Princess Catherine's BBC film details her cancer journey, offering a personal look at her health."
+        "summary": "Libya suspects a drone attack hit a Russian ship in Benghazi, raising regional tensions and security concerns."
+      },
+      {
+        "keywords": [
+          "Business",
+          "Travel Disruption"
+        ],
+        "summary": "An automated system failure at the FAA delayed all Delta flights through Atlanta, causing significant travel disruption."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "Tennis"
+        ],
+        "summary": "Carlos Alcaraz won the ATP Finals, securing a major title in professional tennis."
+      },
+      {
+        "keywords": [
+          "Entertainment",
+          "Film Industry"
+        ],
+        "summary": "The new 'Hunger Games' film debuted with $120 million, successfully reigniting the popular franchise at the box office."
       }
     ]
   },
@@ -98,7 +98,7 @@
         "name": "CSI 300",
         "symbol": "000300.SS",
         "price": 3954.565,
-        "changePct": -0.7597494885490789
+        "changePct": -0.7597544694391768
       },
       {
         "region": "Asia",
@@ -112,33 +112,33 @@
   "joke": {
     "items": [
       {
-        "joke": "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says \"Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!\" to which the man replies, \"I am a programmer.  We don't worry about warnings; we only worry about errors.\"",
+        "joke": "Never date a baker. They're too kneady.",
         "source": "JokeAPI"
       },
       {
-        "joke": "I've got a really good UDP joke to tell you but I don’t know if you'll get it.",
+        "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "turn-a-blind-eye",
-    "title": "Turn a blind eye",
-    "glossZh": "“视而不见” 或 “装作没看见”。",
-    "interpretationEn": "This idiom originates from the story of British naval hero Admiral Horatio Nelson. In 1801, during a battle, Nelson received a signal from his commander to retreat. However, because Nelson was blind in one eye, he used his blind eye to look at the signal, effectively ignoring it and continuing the attack. He won the battle, and the phrase “Turn a blind eye” has come to mean deliberately ignoring certain facts or issues.",
-    "interpretationZh": "这个成语来源于英国海军英雄霍雷肖·纳尔逊上将的故事。在 1801 年，纳尔逊在一次战斗中接受指挥官的信号，让他撤退。然而，纳尔逊因为自己的一只眼睛是盲的，他把这个信号看作是一个借口，故意用盲眼看向信号，并继续进攻。最终他战斗成功，这个故事流传下来，就有了 “<em>Turn a blind eye</em>” 这个成语，表示故意忽视某些事实或问题。",
+    "id": "the-early-bird-gets-the-worm",
+    "title": "The early bird gets the worm",
+    "glossZh": "“早起的鸟儿有虫吃”。",
+    "interpretationEn": "This proverb originates from the feeding habits of birds. Birds that wake up early are able to find food first. Therefore, this saying is used to imply that those who start early will have success or advantages, often used to encourage people to take action early and seize opportunities.",
+    "interpretationZh": "这个谚语源自鸟类的早晨觅食习惯。早上早起的鸟儿会最先找到食物。因此，这句话用来比喻早早行动的人会获得成功或利益，常用来鼓励人们抓住机会，早些开始行动。",
     "examples": [
       {
-        "en": "The manager decided to <em>turn a blind eye</em> to the minor rule-breaking.",
-        "zh": "经理决定对小违规行为视而不见。"
+        "en": "She always arrives at the office before anyone else; the <em>early bird gets the worm</em>.",
+        "zh": "她总是在其他人之前到达办公室，早起的鸟儿有虫吃。"
       },
       {
-        "en": "She knows her son is lying, but she chooses to <em>turn a blind eye</em>.",
-        "zh": "她知道儿子在撒谎，但她选择装作没看见。"
+        "en": "If you want the best deals, remember that the <em>early bird gets the worm</em>.",
+        "zh": "如果你想要最好的交易，记得早起的鸟儿有虫吃。"
       },
       {
-        "en": "It’s hard to <em>turn a blind eye</em> to corruption in the government.",
-        "zh": "很难对政府中的腐败现象视而不见。"
+        "en": "The <em>early bird gets the worm</em>, so I try to wake up at 5 AM every day.",
+        "zh": "早起的鸟儿有虫吃，所以我每天都试图五点起床。"
       }
     ]
   },
@@ -146,39 +146,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Jan Bertels",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jan_Bertels.jpg/330px-Jan_Bertels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Belgian politician (born 1968)",
-        "extract": "Jan Bertels is a Belgian politician and member of the Chamber of Representatives. A member of Vooruit, he has represented Antwerp since June 2024. He had previously been a member of the Chamber of Representatives from June 2019 to November 2020. He was a member of the Flemish Parliament from June 2014 to May 2019.",
-        "born": 1968,
+        "name": "Eugene Stoner",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mr._Eugene_M._Stoner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American firearms designer (1922–1997)",
+        "extract": "Eugene Morrison Stoner was an American machinist and firearms designer who is most associated with the development of the ArmaLite AR-15 rifle that was redesigned and modified by Colt's Patent Firearm Company for the United States military as the M16A1 rifle.",
+        "born": 1922,
         "highlights": [
-          "Belgian politician and member of the Chamber of Representatives.",
-          "Represented Antwerp in the Chamber since June 2024.",
-          "Previously served in the Flemish Parliament."
+          "American machinist and firearms designer.",
+          "Associated with development of ArmaLite AR-15 rifle.",
+          "AR-15 redesigned as M16A1 rifle for US military."
         ]
       },
       {
-        "name": "Alexander Berkman",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Alex._Berkman_LCCN2014680765_Crop.jpg/330px-Alex._Berkman_LCCN2014680765_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Russian-American anarchist and writer (1870–1936)",
-        "extract": "Alexander Berkman was a Russian-American anarchist and author. He was a leading member of the anarchist movement in the early 20th century, famous for both his political activism and his writing.",
-        "born": 1870,
+        "name": "Scarlett Johansson",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/330px-Scarlett_Johansson-8588.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress (born 1984)",
+        "extract": "Scarlett Ingrid Johansson is an American actress, singer, producer, and director. Her films as a leading actress have grossed over $15.4 billion worldwide, making her the third-highest-grossing actor in history. Her accolades include a British Academy Film Award and a Tony Award, as well as nominations for two Academy Awards and five Golden Globe Awards. She was the world's highest-paid actress in 2018, 2019, and 2025.",
+        "born": 1984,
         "highlights": [
-          "Russian-American anarchist and author.",
-          "Leading member of early 20th century anarchist movement.",
-          "Famous for political activism and writing."
+          "American actress, singer, producer, and director.",
+          "Third-highest-grossing actor in history.",
+          "Won British Academy Film Award and Tony Award."
         ]
       },
       {
-        "name": "Evgeny Bareev",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bareev_Evgeny_%2830219958676%29_%28cropped%29.jpg/330px-Bareev_Evgeny_%2830219958676%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Russian-Canadian chess grandmaster (born 1966)",
-        "extract": "Evgeny Ilgizovich Bareev is a Russian-Canadian chess player, trainer, and writer. Awarded the FIDE Grandmaster title in 1989, he was ranked fourth in the world in the international rankings in 1992 and again in 2003, with an Elo rating of 2739.",
-        "born": 1966,
+        "name": "Steven Van Zandt",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Steven_Van_Zandt_Springsteen-65_%28cropped%29.jpg/330px-Steven_Van_Zandt_Springsteen-65_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American musician and actor (born 1950)",
+        "extract": "Steven Van Zandt, also known as Little Steven or Miami Steve, is an American musician and actor. He is a member of Bruce Springsteen's E Street Band, in which he plays guitar and mandolin. He has appeared in several television drama series, including as Silvio Dante in The Sopranos (1999–2007) and as Frank Tagliano/Giovanni \"Johnny\" Henriksen in Lilyhammer (2012–2014). Van Zandt has his own solo band called Little Steven and the Disciples of Soul, intermittently active since the 1980s.",
+        "born": 1950,
         "highlights": [
-          "Russian-Canadian chess player, trainer, and writer.",
-          "Awarded FIDE Grandmaster title in 1989.",
-          "Ranked fourth in the world in 1992 and 2003."
+          "Musician and actor, also known as Little Steven.",
+          "Member of Bruce Springsteen's E Street Band.",
+          "Played Silvio Dante in The Sopranos."
         ]
       }
     ]
