@@ -1,55 +1,58 @@
 {
-  "generatedAt": "2026-11-24T04:10:14.371Z",
+  "generatedAt": "2026-11-24T22:55:06.198Z",
+  "weather": {
+    "location": "New York City",
+    "tempC": 5.8,
+    "condition": "Clear sky",
+    "code": 0,
+    "highC": 10,
+    "lowC": 0.3,
+    "rainChance": 2
+  },
   "hotTopics": {
     "headline": "Today's news",
     "topics": [
       {
         "keywords": [
           "World",
-          "NATO",
-          "Poland"
+          "Middle East Conflict"
         ],
-        "summary": "NATO will provide Poland with early-warning aircraft following Russian missile strikes, bolstering regional defense."
+        "summary": "A Houthi drone attack on a Riyadh tower injured 11, escalating regional tensions and civilian risk."
       },
       {
         "keywords": [
-          "US/Politics",
-          "Environment",
-          "Iowa"
+          "US Politics",
+          "Corporate Law"
         ],
-        "summary": "A federal court allowed the US Army to detonate old bomb material in Iowa, raising environmental and safety concerns."
+        "summary": "Huawei was found guilty of stealing trade secrets, impacting its global operations and intellectual property law."
       },
       {
         "keywords": [
           "Business",
-          "Sanctions",
-          "Tech"
+          "Stock Market"
         ],
-        "summary": "The Trump administration blacklisted Megaspeed, a firm linked to the Nvidia scandal, impacting global tech supply chains."
+        "summary": "Tech stocks declined after a recent rally, signaling market volatility and investor caution."
       },
       {
         "keywords": [
-          "Sports",
-          "MLB",
-          "Finance"
+          "US Politics",
+          "Public Safety"
         ],
-        "summary": "Mets owner Steve Cohen's record player acquisition prompted other MLB owners to seek rule changes for future spending."
+        "summary": "An Army detonation of lead azide in Iowa prompted evacuations, addressing a serious local safety hazard."
       },
       {
         "keywords": [
           "Tech",
-          "Email",
-          "Privacy"
+          "Digital Rights"
         ],
-        "summary": "Kagi, a Google alternative, launched a new email service, offering users another privacy-focused communication option."
+        "summary": "GTA6 buyers cannot resell their $100 game, highlighting concerns about digital ownership and consumer rights."
       },
       {
         "keywords": [
           "Entertainment",
-          "Marvel",
-          "Film"
+          "Cultural Event"
         ],
-        "summary": "Marvel released the final \"Avengers: Doomsday\" trailer, showcasing numerous superheroes for the upcoming major film."
+        "summary": "Macy's 100th Thanksgiving Day Parade will feature new performances and honor Fiona the hippo."
       }
     ]
   },
@@ -59,83 +62,83 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7237.17,
-        "changePct": 4.728821383453028
+        "price": 7201.09,
+        "changePct": -0.4985374117230897
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 24089.559,
-        "changePct": 6.507403129544559
+        "price": 23733.535,
+        "changePct": -1.4779182964702726
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6074.47,
-        "changePct": 2.2302442800764135
+        "price": 6003.76,
+        "changePct": -1.1640521724529058
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10480.82,
-        "changePct": 1.299783305014136
+        "price": 10467.07,
+        "changePct": -0.13119202505147498
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3555.491,
-        "changePct": 0.4674553002756786
+        "price": 3548.369,
+        "changePct": 0.41255988612793
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3980.9126,
-        "changePct": 0.5714305636289682
+        "price": 3963.823,
+        "changePct": 0.13978258288301013
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22283.22,
-        "changePct": -0.44907598104695834
+        "price": 22219.65,
+        "changePct": -0.8529369768147403
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "I was struggling to figure out how lightning works, but then it struck me.",
+        "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
         "source": "JokeAPI"
       },
       {
-        "joke": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
+        "joke": "A neutron walks into a bar and asks for a price on a drink.\nThe barkeeper says: \"For you... no charge!\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "money-burns-a-hole-in-someones-pocket",
-    "title": "Money burns a hole in someone’s pocket",
-    "glossZh": "“钱在口袋里烧了个洞” 或 “留不住钱”（形容某人很难存住钱，总是迫不及待地花掉）。",
-    "interpretationEn": "This phrase originates from an emotional sensation, almost as if the money is burning a hole in your pocket, compelling you to spend it quickly. This figurative expression reflects a strong desire and impulse to spend money, referring to individuals who cannot resist the urge to spend.",
-    "interpretationZh": "这个短语源自一种情感体验，好像钱在你的口袋里燃烧，迫使你赶紧花掉它。这种形象化的表达方式体现了对花钱的强烈欲望和冲动，表示那些总是忍不住要花钱的人。",
+    "id": "keyed-up",
+    "title": "Keyed up",
+    "glossZh": "“激动” 或 “紧张”。",
+    "interpretationEn": "This idiom originates from the 19th century. The original meaning involved making something taut or ready by turning a key or a string, such as winding a clock or tuning an instrument. Figuratively, it describes the state of being excited or anxious in anticipation of something.",
+    "interpretationZh": "“<em>Keyed up</em>” 起源于 19 世纪，原意是通过扭动钥匙或者用弦来使某些东西（如时钟或乐器）紧绷或者准备好。引申义上，这个短语形象地比喻了人们因为即将发生的事情而感到激动或紧张的状态。",
     "examples": [
       {
-        "en": "As soon as he gets his paycheck, it’s gone. <em>Money burns a hole in his pocket.</em>",
-        "zh": "他一拿到工资就花光了。钱在他的口袋里烧了个洞。"
+        "en": "She was all <em>keyed up</em> before her big presentation.",
+        "zh": "她在大演讲前非常紧张。"
       },
       {
-        "en": "She always buys new clothes as soon as she gets some money. <em>Money burns a hole in her pocket.</em>",
-        "zh": "她一有钱就买新衣服。钱在她口袋里烧了个洞。"
+        "en": "He gets <em>keyed up</em> every time he has an important meeting.",
+        "zh": "每当他有重要会议时，他都会变得非常紧张。"
       },
       {
-        "en": "<em>Money burns a hole in his pocket</em> because he spends it immediately on electronics.",
-        "zh": "他一有钱就马上花在电子产品上，留不住钱。"
+        "en": "The kids were all <em>keyed up</em> waiting for the fireworks to start.",
+        "zh": "孩子们都激动地等待烟火开始。"
       }
     ]
   },
@@ -143,25 +146,40 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Branko Radivojevič",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Branko_Radivojevic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Slovak ice hockey player (born 1980)",
-        "extract": "Branko Radivojevič is a Slovak former professional ice hockey player who began and finished his career playing for HK Dukla Trenčín of the Slovak Extraliga. He also played in the National Hockey League (NHL) with the Phoenix Coyotes, Philadelphia Flyers and Minnesota Wild from 2002 to 2008, and other leagues in Europe during his career, which lasted from 1998 to 2019.",
-        "born": 1980
+        "name": "Denise Crosby",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Denise_Crosby_%2853373315035%29.jpg/330px-Denise_Crosby_%2853373315035%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress",
+        "extract": "Denise Michelle Crosby is an American actress and model known for portraying Security Chief Tasha Yar mainly in season one of Star Trek: The Next Generation, and Yar's daughter, the half-Romulan Commander Sela, in subsequent seasons. She is also known for her numerous film and television roles and for starring in and producing the 1997 film Trekkies.",
+        "born": 1957,
+        "highlights": [
+          "Portrayed Security Chief Tasha Yar in Star Trek: The Next Generation.",
+          "Played Commander Sela in Star Trek: The Next Generation.",
+          "Starred in and produced the 1997 film Trekkies."
+        ]
       },
       {
-        "name": "Alphonso, Earl of Chester",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alphonso_of_England.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Heir apparent to Edward I of England (1273–1284)",
-        "extract": "Alphonso or Alfonso, also called Alphonsus and Alphonse and styled Earl of Chester, was an heir apparent to the English throne who never became king.",
-        "born": 1273
+        "name": "Dale Carnegie",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Dale_Carnegie_%281937%29.jpg/330px-Dale_Carnegie_%281937%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American writer and lecturer (1888–1955)",
+        "extract": "Dale Carnegie was an American writer and teacher of courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills. Born into poverty on a farm in Missouri, he was the author of How to Win Friends and Influence People (1936), a bestseller that remains popular today. He also wrote How to Stop Worrying and Start Living (1948), Lincoln the Unknown (1932), and several other books.",
+        "born": 1888,
+        "highlights": [
+          "Authored bestseller How to Win Friends and Influence People.",
+          "Wrote How to Stop Worrying and Start Living.",
+          "Taught self-improvement, salesmanship, public speaking, and interpersonal skills courses."
+        ]
       },
       {
-        "name": "George Moscone",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Official_photograph%2C_George_Moscone%2C_circa_1976_Edit.jpg/330px-Official_photograph%2C_George_Moscone%2C_circa_1976_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Mayor of San Francisco from 1976 to 1978",
-        "extract": "George Richard Moscone was an American attorney and politician who served as the 37th mayor of San Francisco from January 1976 until his assassination in November 1978.",
-        "born": 1929
+        "name": "Christian Wirth",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Wirth%2C_Christian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Nazi German police chief and extermination camp commandant (1885–1944)",
+        "extract": "Christian Wirth was a German Schutzstaffel (SS) officer and leading Holocaust perpetrator who was one of the primary architects of the program to exterminate the Jewish people of Poland, known as Operation Reinhard. His nicknames included Christian the Cruel, Stuka, and The Wild Christian due to the extremity of his behaviour among the SS and Trawniki guards and to the camp inmates and victims.",
+        "born": 1885,
+        "highlights": [
+          "German Schutzstaffel (SS) officer.",
+          "Leading Holocaust perpetrator.",
+          "Primary architect of Operation Reinhard."
+        ]
       }
     ]
   }
