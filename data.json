@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T23:58:30.376Z",
+  "generatedAt": "2026-11-24T00:36:00.750Z",
   "weather": {
     "location": "New York City",
-    "tempC": 14.2,
-    "condition": "Fog",
-    "code": 45,
-    "highC": 16.1,
-    "lowC": 11.5,
-    "rainChance": 10
+    "tempC": 11.8,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 20.9,
+    "lowC": 8.5,
+    "rainChance": 2
   },
   "hotTopics": {
     "headline": "Today's news",
@@ -15,44 +15,44 @@
       {
         "keywords": [
           "World",
-          "Climate Policy"
+          "Ukraine war"
         ],
-        "summary": "COP31 concluded with agreements on climate finance and a continued debate over fossil fuel reduction targets."
-      },
-      {
-        "keywords": [
-          "World",
-          "Ukraine Conflict"
-        ],
-        "summary": "A suspected Ukrainian drone reportedly struck a Russian vessel in Libya, indicating conflict expansion."
-      },
-      {
-        "keywords": [
-          "Business",
-          "National Security"
-        ],
-        "summary": "The DNI warned of future disruptions from tech outages, urging national infrastructure resilience."
+        "summary": "A Russian ship was struck in Libya, suggesting the Ukraine conflict's reach is expanding to new regions."
       },
       {
         "keywords": [
           "US Politics",
-          "Election Result"
+          "Public safety"
         ],
-        "summary": "Democrat Chuck Hubbard won a North Carolina House seat, shifting the state's political balance."
+        "summary": "Trump ordered the Army to delay detonating Iowa chemicals without court approval, raising public safety concerns."
       },
       {
         "keywords": [
-          "Entertainment",
-          "Film Success"
+          "Business",
+          "Stock market"
         ],
-        "summary": "The new 'Hunger Games' film debuted with $120 million, revitalizing the popular franchise."
+        "summary": "The stock market surged significantly, with Nvidia shares up 30%, after Jensen Huang's reinstatement, boosting investor confidence."
       },
       {
         "keywords": [
           "Sports",
-          "MLB Contract"
+          "MLB finance"
         ],
-        "summary": "Pitcher Tarik Skubal signed a record $450 million contract with the Mets, impacting baseball finances."
+        "summary": "Mets owner Steve Cohen's large player acquisition is prompting other MLB owners to seek changes in spending rules."
+      },
+      {
+        "keywords": [
+          "US Politics",
+          "Travel disruption"
+        ],
+        "summary": "Severe weather is forecast for both coasts, potentially disrupting Thanksgiving travel plans for millions."
+      },
+      {
+        "keywords": [
+          "World",
+          "UK EU"
+        ],
+        "summary": "Andy Burnham stated his pragmatic approach to the EU, signaling potential shifts in UK-EU relations."
       }
     ]
   },
@@ -62,83 +62,83 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 6910.39,
-        "changePct": -3.69908428711382
+        "price": 7237.17,
+        "changePct": 4.728821383453028
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 22617.732,
-        "changePct": -5.28270628831787
+        "price": 24089.559,
+        "changePct": 6.507403129544559
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 5941.95,
-        "changePct": -2.8118079249443046
+        "price": 6074.47,
+        "changePct": 2.2302442800764135
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10346.34,
-        "changePct": -1.0175361389880182
+        "price": 10480.82,
+        "changePct": 1.299783305014136
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3533.793,
-        "changePct": -1.225032284032395
+        "price": 3538.948,
+        "changePct": 0.14587724861076315
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3954.565,
-        "changePct": -0.7597544694391768
+        "price": 3958.294,
+        "changePct": 0.0942960856630202
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22410.8,
-        "changePct": -3.794838333018528
+        "price": 22383.74,
+        "changePct": -0.12074535491815408
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+        "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
         "source": "JokeAPI"
       },
       {
-        "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+        "joke": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "buy-a-lemon",
-    "title": "Buy a lemon",
-    "glossZh": "“买到次品” 或 “买到有缺陷的商品”。",
-    "interpretationEn": "This phrase originated from early 20th-century American slang, where “<em>lemon</em>” referred to something that was defective or below standard. It was initially used more in the context of buying cars but has since expanded to other consumer goods. It is commonly used when someone buys a product and discovers that it is of poor quality or has significant issues.",
-    "interpretationZh": "该短语来源于 20 世纪初的美国俚语，其中 “<em>lemon</em>” 意指有缺陷的产品或事物。最初在汽车销售领域使用较多，后来渐渐扩展到其他消费领域。购买一件商品后发现其质量低劣或存在明显问题时，常用这个表达。",
+    "id": "set-my-teeth-on-edge",
+    "title": "Set my teeth on edge",
+    "glossZh": "使人烦躁不安，令人极度反感。",
+    "interpretationEn": "This idiom originates from the Bible and Shakespeare’s works. In the Bible, it mentioned how eating unripe grapes sets teeth on edge, which evolved in Shakespeare’s usage to describe something that causes extreme discomfort or irritation.",
+    "interpretationZh": "这个短语的起源可以追溯到《圣经》和莎士比亚的作品。在《圣经》里，提到了葡萄未熟时吃起来会让牙酸的感觉，莎士比亚则进一步发展了这个表达，以形容某些让人极度不适或厌恶的事物或行为。",
     "examples": [
       {
-        "en": "I thought I was getting a great deal on that used car, but I ended up buying a <em>lemon</em>.",
-        "zh": "我以为买到了一辆二手车的好便宜，结果发现买到的是辆次品。"
+        "en": "His loud chewing really <em>sets my teeth on edge</em>.",
+        "zh": "他大声咀嚼的声音真让我烦躁不安。"
       },
       {
-        "en": "He bought a new phone, but it’s been nothing but trouble. He really bought a <em>lemon</em>.",
-        "zh": "他买了一部新手机，但问题不断，真是买到个次品。"
+        "en": "The sound of nails on a chalkboard <em>sets my teeth on edge</em>.",
+        "zh": "指甲在黑板上刮的声音真让我受不了。"
       },
       {
-        "en": "When my laptop kept crashing, I realized I had bought a <em>lemon</em>.",
-        "zh": "我的笔记本电脑总是崩溃，我才意识到买到了一台次品。"
+        "en": "Her constant humming <em>sets my teeth on edge</em>.",
+        "zh": "她不停的哼哼声真叫我受不了。"
       }
     ]
   },
@@ -146,39 +146,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Enver Pasha",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Enver_Pasha_1911_%28cropped%29.jpg/330px-Enver_Pasha_1911_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Turkish general and politician (1881–1922)",
-        "extract": "İsmâil Enver Pasha was a Turkish military officer, revolutionary, and convicted war criminal who served as the Ottoman Empire's Minister of War from 1914 to 1918. Along with Talaat and Djemal, he was one of the Three Pashas that ruled the Ottoman Empire during World War I and one of the principal perpetrators of the Armenian, Greek, and Assyrian genocides.",
-        "born": 1881,
+        "name": "Frances Hodgson Burnett",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Frances_Burnett.jpg/330px-Frances_Burnett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "English-American novelist (1849–1924)",
+        "extract": "Frances Eliza Hodgson Burnett was an English-American novelist and playwright. She is best known for the three children's novels Little Lord Fauntleroy (1886), A Little Princess (1905), and The Secret Garden (1911).",
+        "born": 1849,
         "highlights": [
-          "Served as Ottoman Empire's Minister of War (1914-1918).",
-          "One of the Three Pashas ruling Ottoman Empire during WWI.",
-          "Principal perpetrator of Armenian, Greek, and Assyrian genocides."
+          "English-American novelist and playwright.",
+          "Wrote \"Little Lord Fauntleroy\".",
+          "Authored \"A Little Princess\" and \"The Secret Garden\"."
         ]
       },
       {
-        "name": "Tom West",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/Tom_West_2009.jpg/330px-Tom_West_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American computer hardware engineer",
-        "extract": "Joseph Thomas West III was an American technologist. He is notable for being the protagonist in the Pulitzer Prize winning non-fiction book The Soul of a New Machine.",
-        "born": 1939,
+        "name": "Denise Crosby",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Denise_Crosby_%2853373315035%29.jpg/330px-Denise_Crosby_%2853373315035%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actress",
+        "extract": "Denise Michelle Crosby is an American actress and model known for portraying Security Chief Tasha Yar mainly in season one of Star Trek: The Next Generation, and Yar's daughter, the half-Romulan Commander Sela, in subsequent seasons. She is also known for her numerous film and television roles and for starring in and producing the 1997 film Trekkies.",
+        "born": 1957,
         "highlights": [
-          "American technologist.",
-          "Protagonist in The Soul of a New Machine.",
-          "Featured in Pulitzer Prize winning non-fiction book."
+          "American actress and model.",
+          "Played Tasha Yar in Star Trek: The Next Generation.",
+          "Starred in and produced the film \"Trekkies\"."
         ]
       },
       {
-        "name": "Kari Tapio",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Kari_Tapio.jpg/330px-Kari_Tapio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Finnish singer (1945–2010)",
-        "extract": "Kari Tapani Jalkanen, better known by his stage name Kari Tapio, was a Finnish schlager and country & western singer. During his career, he was the most popular singer in Finland for decades; having sold estimately over a million certified records, he is the best-selling soloist in the country. Kari Tapio was born in Suonenjoki, Finland. In the 1960s he performed in his home town Pieksämäki with the local bands ER-Quartet and Jami & The Noisemakers. In 1966 he took singing lessons from Ture Ara.",
-        "born": 1945,
+        "name": "Joe Medwick",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joe_Medwick_1964_%28cropped%29.jpg/330px-Joe_Medwick_1964_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American baseball player (1911–1975)",
+        "extract": "Joseph Michael Medwick, nicknamed \"Ducky\", \"Muscles\", and \"Mickey\", was an American professional baseball left fielder. He played 17 major-league seasons from 1932 to 1948, all in the National League, for the St. Louis Cardinals, Brooklyn Dodgers, New York Giants, and Boston Braves. His playing days included the latter half of the Cardinals \"Gashouse Gang\" era and their 1934 World Series championship.",
+        "born": 1911,
         "highlights": [
-          "Finnish schlager and country & western singer.",
-          "Most popular singer in Finland for decades.",
-          "Best-selling soloist in Finland, sold over a million records."
+          "American professional baseball left fielder.",
+          "Played 17 major-league seasons (1932-1948).",
+          "Won 1934 World Series with St. Louis Cardinals."
         ]
       }
     ]
