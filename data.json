@@ -1,58 +1,55 @@
 {
-  "generatedAt": "2026-11-24T00:36:00.750Z",
-  "weather": {
-    "location": "New York City",
-    "tempC": 11.8,
-    "condition": "Overcast",
-    "code": 3,
-    "highC": 20.9,
-    "lowC": 8.5,
-    "rainChance": 2
-  },
+  "generatedAt": "2026-11-24T04:10:14.371Z",
   "hotTopics": {
     "headline": "Today's news",
     "topics": [
       {
         "keywords": [
           "World",
-          "Ukraine war"
+          "NATO",
+          "Poland"
         ],
-        "summary": "A Russian ship was struck in Libya, suggesting the Ukraine conflict's reach is expanding to new regions."
+        "summary": "NATO will provide Poland with early-warning aircraft following Russian missile strikes, bolstering regional defense."
       },
       {
         "keywords": [
-          "US Politics",
-          "Public safety"
+          "US/Politics",
+          "Environment",
+          "Iowa"
         ],
-        "summary": "Trump ordered the Army to delay detonating Iowa chemicals without court approval, raising public safety concerns."
+        "summary": "A federal court allowed the US Army to detonate old bomb material in Iowa, raising environmental and safety concerns."
       },
       {
         "keywords": [
           "Business",
-          "Stock market"
+          "Sanctions",
+          "Tech"
         ],
-        "summary": "The stock market surged significantly, with Nvidia shares up 30%, after Jensen Huang's reinstatement, boosting investor confidence."
+        "summary": "The Trump administration blacklisted Megaspeed, a firm linked to the Nvidia scandal, impacting global tech supply chains."
       },
       {
         "keywords": [
           "Sports",
-          "MLB finance"
+          "MLB",
+          "Finance"
         ],
-        "summary": "Mets owner Steve Cohen's large player acquisition is prompting other MLB owners to seek changes in spending rules."
+        "summary": "Mets owner Steve Cohen's record player acquisition prompted other MLB owners to seek rule changes for future spending."
       },
       {
         "keywords": [
-          "US Politics",
-          "Travel disruption"
+          "Tech",
+          "Email",
+          "Privacy"
         ],
-        "summary": "Severe weather is forecast for both coasts, potentially disrupting Thanksgiving travel plans for millions."
+        "summary": "Kagi, a Google alternative, launched a new email service, offering users another privacy-focused communication option."
       },
       {
         "keywords": [
-          "World",
-          "UK EU"
+          "Entertainment",
+          "Marvel",
+          "Film"
         ],
-        "summary": "Andy Burnham stated his pragmatic approach to the EU, signaling potential shifts in UK-EU relations."
+        "summary": "Marvel released the final \"Avengers: Doomsday\" trailer, showcasing numerous superheroes for the upcoming major film."
       }
     ]
   },
@@ -90,55 +87,55 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3538.948,
-        "changePct": 0.14587724861076315
+        "price": 3555.491,
+        "changePct": 0.4674553002756786
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3958.294,
-        "changePct": 0.0942960856630202
+        "price": 3980.9126,
+        "changePct": 0.5714305636289682
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22383.74,
-        "changePct": -0.12074535491815408
+        "price": 22283.22,
+        "changePct": -0.44907598104695834
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+        "joke": "I was struggling to figure out how lightning works, but then it struck me.",
         "source": "JokeAPI"
       },
       {
-        "joke": "My wife is really mad at the fact that I have no sense of direction.\nSo I packed up my stuff and right.",
+        "joke": "The six stages of debugging:\n1. That can't happen.\n2. That doesn't happen on my machine.\n3. That shouldn't happen.\n4. Why does that happen?\n5. Oh, I see.\n6. How did that ever work?",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "set-my-teeth-on-edge",
-    "title": "Set my teeth on edge",
-    "glossZh": "使人烦躁不安，令人极度反感。",
-    "interpretationEn": "This idiom originates from the Bible and Shakespeare’s works. In the Bible, it mentioned how eating unripe grapes sets teeth on edge, which evolved in Shakespeare’s usage to describe something that causes extreme discomfort or irritation.",
-    "interpretationZh": "这个短语的起源可以追溯到《圣经》和莎士比亚的作品。在《圣经》里，提到了葡萄未熟时吃起来会让牙酸的感觉，莎士比亚则进一步发展了这个表达，以形容某些让人极度不适或厌恶的事物或行为。",
+    "id": "money-burns-a-hole-in-someones-pocket",
+    "title": "Money burns a hole in someone’s pocket",
+    "glossZh": "“钱在口袋里烧了个洞” 或 “留不住钱”（形容某人很难存住钱，总是迫不及待地花掉）。",
+    "interpretationEn": "This phrase originates from an emotional sensation, almost as if the money is burning a hole in your pocket, compelling you to spend it quickly. This figurative expression reflects a strong desire and impulse to spend money, referring to individuals who cannot resist the urge to spend.",
+    "interpretationZh": "这个短语源自一种情感体验，好像钱在你的口袋里燃烧，迫使你赶紧花掉它。这种形象化的表达方式体现了对花钱的强烈欲望和冲动，表示那些总是忍不住要花钱的人。",
     "examples": [
       {
-        "en": "His loud chewing really <em>sets my teeth on edge</em>.",
-        "zh": "他大声咀嚼的声音真让我烦躁不安。"
+        "en": "As soon as he gets his paycheck, it’s gone. <em>Money burns a hole in his pocket.</em>",
+        "zh": "他一拿到工资就花光了。钱在他的口袋里烧了个洞。"
       },
       {
-        "en": "The sound of nails on a chalkboard <em>sets my teeth on edge</em>.",
-        "zh": "指甲在黑板上刮的声音真让我受不了。"
+        "en": "She always buys new clothes as soon as she gets some money. <em>Money burns a hole in her pocket.</em>",
+        "zh": "她一有钱就买新衣服。钱在她口袋里烧了个洞。"
       },
       {
-        "en": "Her constant humming <em>sets my teeth on edge</em>.",
-        "zh": "她不停的哼哼声真叫我受不了。"
+        "en": "<em>Money burns a hole in his pocket</em> because he spends it immediately on electronics.",
+        "zh": "他一有钱就马上花在电子产品上，留不住钱。"
       }
     ]
   },
@@ -146,40 +143,25 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Frances Hodgson Burnett",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Frances_Burnett.jpg/330px-Frances_Burnett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "English-American novelist (1849–1924)",
-        "extract": "Frances Eliza Hodgson Burnett was an English-American novelist and playwright. She is best known for the three children's novels Little Lord Fauntleroy (1886), A Little Princess (1905), and The Secret Garden (1911).",
-        "born": 1849,
-        "highlights": [
-          "English-American novelist and playwright.",
-          "Wrote \"Little Lord Fauntleroy\".",
-          "Authored \"A Little Princess\" and \"The Secret Garden\"."
-        ]
+        "name": "Branko Radivojevič",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Branko_Radivojevic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Slovak ice hockey player (born 1980)",
+        "extract": "Branko Radivojevič is a Slovak former professional ice hockey player who began and finished his career playing for HK Dukla Trenčín of the Slovak Extraliga. He also played in the National Hockey League (NHL) with the Phoenix Coyotes, Philadelphia Flyers and Minnesota Wild from 2002 to 2008, and other leagues in Europe during his career, which lasted from 1998 to 2019.",
+        "born": 1980
       },
       {
-        "name": "Denise Crosby",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Denise_Crosby_%2853373315035%29.jpg/330px-Denise_Crosby_%2853373315035%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress",
-        "extract": "Denise Michelle Crosby is an American actress and model known for portraying Security Chief Tasha Yar mainly in season one of Star Trek: The Next Generation, and Yar's daughter, the half-Romulan Commander Sela, in subsequent seasons. She is also known for her numerous film and television roles and for starring in and producing the 1997 film Trekkies.",
-        "born": 1957,
-        "highlights": [
-          "American actress and model.",
-          "Played Tasha Yar in Star Trek: The Next Generation.",
-          "Starred in and produced the film \"Trekkies\"."
-        ]
+        "name": "Alphonso, Earl of Chester",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alphonso_of_England.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Heir apparent to Edward I of England (1273–1284)",
+        "extract": "Alphonso or Alfonso, also called Alphonsus and Alphonse and styled Earl of Chester, was an heir apparent to the English throne who never became king.",
+        "born": 1273
       },
       {
-        "name": "Joe Medwick",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joe_Medwick_1964_%28cropped%29.jpg/330px-Joe_Medwick_1964_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American baseball player (1911–1975)",
-        "extract": "Joseph Michael Medwick, nicknamed \"Ducky\", \"Muscles\", and \"Mickey\", was an American professional baseball left fielder. He played 17 major-league seasons from 1932 to 1948, all in the National League, for the St. Louis Cardinals, Brooklyn Dodgers, New York Giants, and Boston Braves. His playing days included the latter half of the Cardinals \"Gashouse Gang\" era and their 1934 World Series championship.",
-        "born": 1911,
-        "highlights": [
-          "American professional baseball left fielder.",
-          "Played 17 major-league seasons (1932-1948).",
-          "Won 1934 World Series with St. Louis Cardinals."
-        ]
+        "name": "George Moscone",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Official_photograph%2C_George_Moscone%2C_circa_1976_Edit.jpg/330px-Official_photograph%2C_George_Moscone%2C_circa_1976_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Mayor of San Francisco from 1976 to 1978",
+        "extract": "George Richard Moscone was an American attorney and politician who served as the 37th mayor of San Francisco from January 1976 until his assassination in November 1978.",
+        "born": 1929
       }
     ]
   }
