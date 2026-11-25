@@ -1,60 +1,13 @@
 {
-  "generatedAt": "2026-11-25T02:54:59.053Z",
+  "generatedAt": "2026-11-25T22:08:57.952Z",
   "weather": {
     "location": "New York City",
-    "tempC": 2.9,
-    "condition": "Clear sky",
-    "code": 0,
-    "highC": 10,
-    "lowC": 1.2,
-    "rainChance": 2
-  },
-  "hotTopics": {
-    "headline": "Today's news",
-    "topics": [
-      {
-        "keywords": [
-          "World",
-          "Conflict"
-        ],
-        "summary": "Yemen's Houthis attacked a major tower in Saudi Arabia again, indicating escalating regional conflict and instability."
-      },
-      {
-        "keywords": [
-          "US/Politics",
-          "Death Penalty"
-        ],
-        "summary": "The Fort Hood shooter is challenging his firing squad execution, raising questions about military justice."
-      },
-      {
-        "keywords": [
-          "Business",
-          "Economy"
-        ],
-        "summary": "The Dow reached 50,000 while other indexes fell, reflecting mixed market performance after Nvidia's surge."
-      },
-      {
-        "keywords": [
-          "Tech",
-          "Gaming"
-        ],
-        "summary": "Grand Theft Auto VI achieved record-breaking sales, highlighting its significant impact on the gaming industry."
-      },
-      {
-        "keywords": [
-          "Entertainment",
-          "Weather"
-        ],
-        "summary": "A major storm is threatening New York City's Thanksgiving parade, potentially causing significant disruptions."
-      },
-      {
-        "keywords": [
-          "Sports",
-          "College Football"
-        ],
-        "summary": "A former LSU coach suggested other SEC schools might vote to remove LSU, signaling major conference drama."
-      }
-    ]
+    "tempC": 4.3,
+    "condition": "Overcast",
+    "code": 3,
+    "highC": 6.3,
+    "lowC": -0.5,
+    "rainChance": 1
   },
   "market": {
     "indices": [
@@ -62,83 +15,83 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7201.09,
-        "changePct": -0.4985374117230897
+        "price": 7182.78,
+        "changePct": -0.2542670623475113
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 23733.535,
-        "changePct": -1.4779182964702726
+        "price": 23585.803,
+        "changePct": -0.622461002964792
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6003.76,
-        "changePct": -1.1640521724529058
+        "price": 5894.46,
+        "changePct": -1.820525803829603
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10467.07,
-        "changePct": -0.13100145027096752
+        "price": 10426.94,
+        "changePct": -0.38339286925566757
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3512.1643,
-        "changePct": -1.0203306341216933
+        "price": 3476.47,
+        "changePct": -1.7654954153068008
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3924.8345,
-        "changePct": -0.9836134971912945
+        "price": 3898.2356,
+        "changePct": -1.6546550310316526
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22435.16,
-        "changePct": 0.9699072667661209
+        "price": 21966.01,
+        "changePct": -1.86604538123725
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
+        "joke": "A horse walks into a bar.\n\"Hey\", the Bartender says.\n\"Sure\", the horse replies.",
         "source": "JokeAPI"
       },
       {
-        "joke": "My parents raised me as an only child, which really annoyed my younger brother.",
+        "joke": "Schrödinger's cat walks into a bar and doesn't.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "hang-tight",
-    "title": "Hang tight",
-    "glossZh": "“稍安勿躁” 或 “耐心等待”。",
-    "interpretationEn": "This idiom comes from the idea of holding on tightly, often used to encourage someone to be patient or stay calm. In situations requiring waiting or enduring, it emphasizes the need for patience and suggests that things will improve.",
-    "interpretationZh": "“<em>Hang tight</em>” 是一个口语化的短语，源自 “紧紧抓住” 的概念，常用于鼓励别人保持耐心或冷静。在面对需要等待或忍耐的情况时，这个短语强调了要有耐心，并暗示情况会有所改善。",
+    "id": "on-the-spur-of-the-moment",
+    "title": "On the spur of the moment",
+    "glossZh": "“心血来潮” 或 “一时冲动”。",
+    "interpretationEn": "This phrase originates from an action where a rider uses spurs gently against a horse to provoke an instant response. It metaphorically describes situations where people make decisions or take actions spontaneously, without prior planning or thorough consideration. It emphasizes the impromptu and sudden nature of the action.",
+    "interpretationZh": "这个短语源自于骑马时用马刺轻轻刺马，使马马上作出反应的动作，比喻当人们在没有提前计划或仔细考虑的情况下，突然做出决定或行动的情景。它强调了行为的即兴性和突然性。",
     "examples": [
       {
-        "en": "<em>Hang tight,</em> the doctor will be with you shortly.",
-        "zh": "稍安勿躁，医生很快就会来。"
+        "en": "We decided to go on a trip <em>on the spur of the moment</em>.",
+        "zh": "我们一时心血来潮决定去旅行。"
       },
       {
-        "en": "<em>Hang tight,</em> I’ll be right back.",
-        "zh": "稍等一下，我马上回来。"
+        "en": "He bought a new car <em>on the spur of the moment</em>.",
+        "zh": "他一时冲动买了辆新车。"
       },
       {
-        "en": "Just <em>hang tight,</em> everything will be okay.",
-        "zh": "耐心点，一切都会好的。"
+        "en": "<em>On the spur of the moment</em>, she decided to join the dance competition.",
+        "zh": "她心血来潮决定参加舞蹈比赛。"
       }
     ]
   },
@@ -146,40 +99,25 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Cris Carter",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cris_Carter_HOF.JPG/330px-Cris_Carter_HOF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American football player (born 1965)",
-        "extract": "Graduel Christopher Darwin Carter is an American former professional football wide receiver who played in the National Football League (NFL) for the Philadelphia Eagles (1987–1989), the Minnesota Vikings (1990–2001) and the Miami Dolphins (2002). He is widely regarded as one of the greatest wide receivers of all time.",
-        "born": 1965,
-        "highlights": [
-          "Played wide receiver in the NFL.",
-          "Played for the Minnesota Vikings.",
-          "Regarded as one of the greatest wide receivers."
-        ]
+        "name": "Chris Claremont",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Chris_Claremont_at_Galaxy_Con_Richmond_-_55175609845.jpg/330px-Chris_Claremont_at_Galaxy_Con_Richmond_-_55175609845.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American comic book writer (born 1950)",
+        "extract": "Christopher Simon Claremont is an English-born American comic book writer and novelist. Claremont wrote for 16 years on Uncanny X-Men from 1975 to 1991, longer than that of any other writer, during which he is credited with developing strong female characters as well as introducing complex literary themes into superhero narratives, turning the once underachieving comic into one of Marvel's most popular series. During his tenure, X-Men was the best-selling comic book in the world.",
+        "born": 1950
       },
       {
-        "name": "John Flynn (minister)",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Rev_John_Flynn_1929.jpg/330px-Rev_John_Flynn_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Australian Presbyterian minister and founder of the Royal Flying Doctor Service",
-        "extract": "John Flynn was an Australian Presbyterian minister who founded the Australian Inland Mission (AIM) which later separated into Frontier Services and the Presbyterian Inland Mission, as well as founding what became the Royal Flying Doctor Service, the world's first air ambulance.",
-        "born": 1880,
-        "highlights": [
-          "Australian Presbyterian minister.",
-          "Founded the Australian Inland Mission (AIM).",
-          "Founded the Royal Flying Doctor Service."
-        ]
+        "name": "Nodar Kumaritashvili",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Nodar_Kumaritashvili.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Georgian luge athlete (1988–2010)",
+        "extract": "Nodar Kumaritashvili was a Georgian luge athlete who suffered a fatal crash during a training run for the 2010 Winter Olympics competition in Whistler, British Columbia, Canada, on the day of the opening ceremony. He became the fourth athlete to die during preparations for a Winter Olympics, and the eighth athlete to die as a result of Olympic competition or during practice at their sport's venue at an Olympic Games.",
+        "born": 1988
       },
       {
-        "name": "Ben Stein",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ben_Stein_2011.jpg/330px-Ben_Stein_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American writer and commentator (born 1944)",
-        "extract": "Benjamin Jeremy Stein is an American writer, lawyer, actor, economist, comedian, and commentator on political and economic issues. He began his career as a speechwriter for U.S. presidents Richard Nixon and Gerald Ford before entering the entertainment field as an actor, comedian, and game show host. His screen roles include the economics teacher in Ferris Bueller's Day Off, being the host of Win Ben Stein's Money, and as Dr. Arthur Neuman in The Mask and Son of the Mask. Stein also co-wrote and starred in the controversial 2008 film Expelled which was widely criticized for promoting pseudoscientific intelligent design creationist claims. Stein is the son of economist and writer Herbert Stein, who worked at the White House under President Nixon. As an actor, he is known for his droning, monotonous delivery. In comedy, Stein is known for his deadpan delivery.",
-        "born": 1944,
-        "highlights": [
-          "Speechwriter for Presidents Nixon and Ford.",
-          "Actor in Ferris Bueller's Day Off.",
-          "Host of Win Ben Stein's Money."
-        ]
+        "name": "Léon Zitrone",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/LeonZitrone-StudioHarcourt-1960.png/330px-LeonZitrone-StudioHarcourt-1960.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "French journalist (1914–1995)",
+        "extract": "Léon Zitrone was a Russian-born French journalist and television presenter.",
+        "born": 1914
       }
     ]
   }
