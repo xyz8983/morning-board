@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T22:55:06.198Z",
+  "generatedAt": "2026-11-25T02:54:59.053Z",
   "weather": {
     "location": "New York City",
-    "tempC": 5.8,
+    "tempC": 2.9,
     "condition": "Clear sky",
     "code": 0,
     "highC": 10,
-    "lowC": 0.3,
+    "lowC": 1.2,
     "rainChance": 2
   },
   "hotTopics": {
@@ -15,44 +15,44 @@
       {
         "keywords": [
           "World",
-          "Middle East Conflict"
+          "Conflict"
         ],
-        "summary": "A Houthi drone attack on a Riyadh tower injured 11, escalating regional tensions and civilian risk."
+        "summary": "Yemen's Houthis attacked a major tower in Saudi Arabia again, indicating escalating regional conflict and instability."
       },
       {
         "keywords": [
-          "US Politics",
-          "Corporate Law"
+          "US/Politics",
+          "Death Penalty"
         ],
-        "summary": "Huawei was found guilty of stealing trade secrets, impacting its global operations and intellectual property law."
+        "summary": "The Fort Hood shooter is challenging his firing squad execution, raising questions about military justice."
       },
       {
         "keywords": [
           "Business",
-          "Stock Market"
+          "Economy"
         ],
-        "summary": "Tech stocks declined after a recent rally, signaling market volatility and investor caution."
-      },
-      {
-        "keywords": [
-          "US Politics",
-          "Public Safety"
-        ],
-        "summary": "An Army detonation of lead azide in Iowa prompted evacuations, addressing a serious local safety hazard."
+        "summary": "The Dow reached 50,000 while other indexes fell, reflecting mixed market performance after Nvidia's surge."
       },
       {
         "keywords": [
           "Tech",
-          "Digital Rights"
+          "Gaming"
         ],
-        "summary": "GTA6 buyers cannot resell their $100 game, highlighting concerns about digital ownership and consumer rights."
+        "summary": "Grand Theft Auto VI achieved record-breaking sales, highlighting its significant impact on the gaming industry."
       },
       {
         "keywords": [
           "Entertainment",
-          "Cultural Event"
+          "Weather"
         ],
-        "summary": "Macy's 100th Thanksgiving Day Parade will feature new performances and honor Fiona the hippo."
+        "summary": "A major storm is threatening New York City's Thanksgiving parade, potentially causing significant disruptions."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "College Football"
+        ],
+        "summary": "A former LSU coach suggested other SEC schools might vote to remove LSU, signaling major conference drama."
       }
     ]
   },
@@ -84,61 +84,61 @@
         "name": "FTSE 100",
         "symbol": "^FTSE",
         "price": 10467.07,
-        "changePct": -0.13119202505147498
+        "changePct": -0.13100145027096752
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3548.369,
-        "changePct": 0.41255988612793
+        "price": 3512.1643,
+        "changePct": -1.0203306341216933
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3963.823,
-        "changePct": 0.13978258288301013
+        "price": 3924.8345,
+        "changePct": -0.9836134971912945
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22219.65,
-        "changePct": -0.8529369768147403
+        "price": 22435.16,
+        "changePct": 0.9699072667661209
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "Have a great weekend!\nI hope your code behaves the same on Monday as it did on Friday.",
+        "joke": "Today I learned that changing random stuff until your program works is \"hacky\" and a \"bad coding practice\" but if you do it fast enough it's \"Machine Learning\" and pays 4x your current salary.",
         "source": "JokeAPI"
       },
       {
-        "joke": "A neutron walks into a bar and asks for a price on a drink.\nThe barkeeper says: \"For you... no charge!\"",
+        "joke": "My parents raised me as an only child, which really annoyed my younger brother.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "keyed-up",
-    "title": "Keyed up",
-    "glossZh": "“激动” 或 “紧张”。",
-    "interpretationEn": "This idiom originates from the 19th century. The original meaning involved making something taut or ready by turning a key or a string, such as winding a clock or tuning an instrument. Figuratively, it describes the state of being excited or anxious in anticipation of something.",
-    "interpretationZh": "“<em>Keyed up</em>” 起源于 19 世纪，原意是通过扭动钥匙或者用弦来使某些东西（如时钟或乐器）紧绷或者准备好。引申义上，这个短语形象地比喻了人们因为即将发生的事情而感到激动或紧张的状态。",
+    "id": "hang-tight",
+    "title": "Hang tight",
+    "glossZh": "“稍安勿躁” 或 “耐心等待”。",
+    "interpretationEn": "This idiom comes from the idea of holding on tightly, often used to encourage someone to be patient or stay calm. In situations requiring waiting or enduring, it emphasizes the need for patience and suggests that things will improve.",
+    "interpretationZh": "“<em>Hang tight</em>” 是一个口语化的短语，源自 “紧紧抓住” 的概念，常用于鼓励别人保持耐心或冷静。在面对需要等待或忍耐的情况时，这个短语强调了要有耐心，并暗示情况会有所改善。",
     "examples": [
       {
-        "en": "She was all <em>keyed up</em> before her big presentation.",
-        "zh": "她在大演讲前非常紧张。"
+        "en": "<em>Hang tight,</em> the doctor will be with you shortly.",
+        "zh": "稍安勿躁，医生很快就会来。"
       },
       {
-        "en": "He gets <em>keyed up</em> every time he has an important meeting.",
-        "zh": "每当他有重要会议时，他都会变得非常紧张。"
+        "en": "<em>Hang tight,</em> I’ll be right back.",
+        "zh": "稍等一下，我马上回来。"
       },
       {
-        "en": "The kids were all <em>keyed up</em> waiting for the fireworks to start.",
-        "zh": "孩子们都激动地等待烟火开始。"
+        "en": "Just <em>hang tight,</em> everything will be okay.",
+        "zh": "耐心点，一切都会好的。"
       }
     ]
   },
@@ -146,39 +146,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Denise Crosby",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Denise_Crosby_%2853373315035%29.jpg/330px-Denise_Crosby_%2853373315035%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress",
-        "extract": "Denise Michelle Crosby is an American actress and model known for portraying Security Chief Tasha Yar mainly in season one of Star Trek: The Next Generation, and Yar's daughter, the half-Romulan Commander Sela, in subsequent seasons. She is also known for her numerous film and television roles and for starring in and producing the 1997 film Trekkies.",
-        "born": 1957,
+        "name": "Cris Carter",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cris_Carter_HOF.JPG/330px-Cris_Carter_HOF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American football player (born 1965)",
+        "extract": "Graduel Christopher Darwin Carter is an American former professional football wide receiver who played in the National Football League (NFL) for the Philadelphia Eagles (1987–1989), the Minnesota Vikings (1990–2001) and the Miami Dolphins (2002). He is widely regarded as one of the greatest wide receivers of all time.",
+        "born": 1965,
         "highlights": [
-          "Portrayed Security Chief Tasha Yar in Star Trek: The Next Generation.",
-          "Played Commander Sela in Star Trek: The Next Generation.",
-          "Starred in and produced the 1997 film Trekkies."
+          "Played wide receiver in the NFL.",
+          "Played for the Minnesota Vikings.",
+          "Regarded as one of the greatest wide receivers."
         ]
       },
       {
-        "name": "Dale Carnegie",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Dale_Carnegie_%281937%29.jpg/330px-Dale_Carnegie_%281937%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American writer and lecturer (1888–1955)",
-        "extract": "Dale Carnegie was an American writer and teacher of courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills. Born into poverty on a farm in Missouri, he was the author of How to Win Friends and Influence People (1936), a bestseller that remains popular today. He also wrote How to Stop Worrying and Start Living (1948), Lincoln the Unknown (1932), and several other books.",
-        "born": 1888,
+        "name": "John Flynn (minister)",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Rev_John_Flynn_1929.jpg/330px-Rev_John_Flynn_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Australian Presbyterian minister and founder of the Royal Flying Doctor Service",
+        "extract": "John Flynn was an Australian Presbyterian minister who founded the Australian Inland Mission (AIM) which later separated into Frontier Services and the Presbyterian Inland Mission, as well as founding what became the Royal Flying Doctor Service, the world's first air ambulance.",
+        "born": 1880,
         "highlights": [
-          "Authored bestseller How to Win Friends and Influence People.",
-          "Wrote How to Stop Worrying and Start Living.",
-          "Taught self-improvement, salesmanship, public speaking, and interpersonal skills courses."
+          "Australian Presbyterian minister.",
+          "Founded the Australian Inland Mission (AIM).",
+          "Founded the Royal Flying Doctor Service."
         ]
       },
       {
-        "name": "Christian Wirth",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Wirth%2C_Christian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Nazi German police chief and extermination camp commandant (1885–1944)",
-        "extract": "Christian Wirth was a German Schutzstaffel (SS) officer and leading Holocaust perpetrator who was one of the primary architects of the program to exterminate the Jewish people of Poland, known as Operation Reinhard. His nicknames included Christian the Cruel, Stuka, and The Wild Christian due to the extremity of his behaviour among the SS and Trawniki guards and to the camp inmates and victims.",
-        "born": 1885,
+        "name": "Ben Stein",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ben_Stein_2011.jpg/330px-Ben_Stein_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American writer and commentator (born 1944)",
+        "extract": "Benjamin Jeremy Stein is an American writer, lawyer, actor, economist, comedian, and commentator on political and economic issues. He began his career as a speechwriter for U.S. presidents Richard Nixon and Gerald Ford before entering the entertainment field as an actor, comedian, and game show host. His screen roles include the economics teacher in Ferris Bueller's Day Off, being the host of Win Ben Stein's Money, and as Dr. Arthur Neuman in The Mask and Son of the Mask. Stein also co-wrote and starred in the controversial 2008 film Expelled which was widely criticized for promoting pseudoscientific intelligent design creationist claims. Stein is the son of economist and writer Herbert Stein, who worked at the White House under President Nixon. As an actor, he is known for his droning, monotonous delivery. In comedy, Stein is known for his deadpan delivery.",
+        "born": 1944,
         "highlights": [
-          "German Schutzstaffel (SS) officer.",
-          "Leading Holocaust perpetrator.",
-          "Primary architect of Operation Reinhard."
+          "Speechwriter for Presidents Nixon and Ford.",
+          "Actor in Ferris Bueller's Day Off.",
+          "Host of Win Ben Stein's Money."
         ]
       }
     ]
