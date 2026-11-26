@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-25T22:08:57.952Z",
+  "generatedAt": "2026-11-26T02:01:08.367Z",
   "weather": {
     "location": "New York City",
-    "tempC": 4.3,
+    "tempC": 5.3,
     "condition": "Overcast",
     "code": 3,
     "highC": 6.3,
@@ -43,55 +43,55 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3476.47,
-        "changePct": -1.7654954153068008
+        "price": 3471.0742,
+        "changePct": -0.15520054726782412
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3898.2356,
-        "changePct": -1.6546550310316526
+        "price": 3900.9705,
+        "changePct": 0.07015738094434121
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 21966.01,
-        "changePct": -1.86604538123725
+        "price": 22243.15,
+        "changePct": 1.261676563017148
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "A horse walks into a bar.\n\"Hey\", the Bartender says.\n\"Sure\", the horse replies.",
+        "joke": "Never date a baker. They're too kneady.",
         "source": "JokeAPI"
       },
       {
-        "joke": "Schrödinger's cat walks into a bar and doesn't.",
+        "joke": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "on-the-spur-of-the-moment",
-    "title": "On the spur of the moment",
-    "glossZh": "“心血来潮” 或 “一时冲动”。",
-    "interpretationEn": "This phrase originates from an action where a rider uses spurs gently against a horse to provoke an instant response. It metaphorically describes situations where people make decisions or take actions spontaneously, without prior planning or thorough consideration. It emphasizes the impromptu and sudden nature of the action.",
-    "interpretationZh": "这个短语源自于骑马时用马刺轻轻刺马，使马马上作出反应的动作，比喻当人们在没有提前计划或仔细考虑的情况下，突然做出决定或行动的情景。它强调了行为的即兴性和突然性。",
+    "id": "if-you-cant-stand-the-heat-get-out-of-the-kitchen",
+    "title": "If you can’t stand the heat, get out of the kitchen",
+    "glossZh": "“如果你不能忍受热度，那就离开厨房” 或 “如果你不能承受压力，那就退出”。",
+    "interpretationEn": "This phrase originates from the fact that a kitchen is an environment with high temperatures. Working in a kitchen requires being able to withstand the heat and the intense pressure of the job. Over time, this expression became a metaphor for situations where if someone cannot handle the pressure or challenges, they should leave or give up.",
+    "interpretationZh": "这个短语源自厨房环境中温度很高的事实。在厨房工作需要能够忍受高温以及紧张的工作压力。后来这个短语变成了一种比喻，用来表示如果一个人不能处理某种情况的压力或挑战，他们就应该离开或放弃。",
     "examples": [
       {
-        "en": "We decided to go on a trip <em>on the spur of the moment</em>.",
-        "zh": "我们一时心血来潮决定去旅行。"
+        "en": "Running a business is tough. If you can’t stand the heat, get out of the kitchen.",
+        "zh": "经营一家公司是很艰难的。如果你不能承受压力，就退出吧。"
       },
       {
-        "en": "He bought a new car <em>on the spur of the moment</em>.",
-        "zh": "他一时冲动买了辆新车。"
+        "en": "Politics is a rough game. If you can’t stand the heat, get out of the kitchen.",
+        "zh": "政治是一场残酷的游戏。如果你不能承受压力，就退出吧。"
       },
       {
-        "en": "<em>On the spur of the moment</em>, she decided to join the dance competition.",
-        "zh": "她心血来潮决定参加舞蹈比赛。"
+        "en": "Being a teacher is challenging. If you can’t stand the heat, get out of the kitchen.",
+        "zh": "当老师很有挑战性。如果你不能承受压力，就退出吧。"
       }
     ]
   },
@@ -99,25 +99,25 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Chris Claremont",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Chris_Claremont_at_Galaxy_Con_Richmond_-_55175609845.jpg/330px-Chris_Claremont_at_Galaxy_Con_Richmond_-_55175609845.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American comic book writer (born 1950)",
-        "extract": "Christopher Simon Claremont is an English-born American comic book writer and novelist. Claremont wrote for 16 years on Uncanny X-Men from 1975 to 1991, longer than that of any other writer, during which he is credited with developing strong female characters as well as introducing complex literary themes into superhero narratives, turning the once underachieving comic into one of Marvel's most popular series. During his tenure, X-Men was the best-selling comic book in the world.",
-        "born": 1950
+        "name": "Olivia O'Brien",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Olivia_O%27Brien_%40_Mack_Sennett_Studios_09_26_2019_%2849311330527%29_%28cropped%29.jpg/330px-Olivia_O%27Brien_%40_Mack_Sennett_Studios_09_26_2019_%2849311330527%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American singer-songwriter (born 1999)",
+        "extract": "Olivia Gail O'Brien is an American singer-songwriter. She is best known for her guest appearance on Gnash's 2016 single \"I Hate U, I Love U\", which peaked at number 10 on the Billboard Hot 100. Its success led her to sign with Island Records; the label released two extended plays, three mixtapes, and her debut studio album Was It Even Real? (2019). In 2024, she formed the independent label Girlhood Records and released the EPs Love & Limerence and Everywhere I Go, There I Am. O'Brien signed with Gamma for the release of her second studio album Pixie (2026).",
+        "born": 1999
       },
       {
-        "name": "Nodar Kumaritashvili",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Nodar_Kumaritashvili.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Georgian luge athlete (1988–2010)",
-        "extract": "Nodar Kumaritashvili was a Georgian luge athlete who suffered a fatal crash during a training run for the 2010 Winter Olympics competition in Whistler, British Columbia, Canada, on the day of the opening ceremony. He became the fourth athlete to die during preparations for a Winter Olympics, and the eighth athlete to die as a result of Olympic competition or during practice at their sport's venue at an Olympic Games.",
-        "born": 1988
+        "name": "Jelko Kacin",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Jelko_Kacin.jpg/330px-Jelko_Kacin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Slovenian politician (1955)",
+        "extract": "Jelko Kacin is a Slovenian politician.",
+        "born": 1955
       },
       {
-        "name": "Léon Zitrone",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/LeonZitrone-StudioHarcourt-1960.png/330px-LeonZitrone-StudioHarcourt-1960.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "French journalist (1914–1995)",
-        "extract": "Léon Zitrone was a Russian-born French journalist and television presenter.",
-        "born": 1914
+        "name": "Peter Facinelli",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Peter_Facinelli_at_Big_Lick_ComicCon_2026_01_%28cropped%29.jpg/330px-Peter_Facinelli_at_Big_Lick_ComicCon_2026_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American actor and producer (born 1973)",
+        "extract": "Peter Facinelli is an American-Italian actor. He starred as Donovan \"Van\" Ray on the Fox series Fastlane from 2002 to 2003. He played Dr. Carlisle Cullen in the film adaptations of the Twilight novel series, and is also known for his role as Mike Dexter in the 1998 film Can't Hardly Wait. Facinelli was a regular on the Showtime comedy-drama series Nurse Jackie, portraying the role of Dr. Fitch \"Coop\" Cooper. He portrayed Maxwell Lord on the first season of the TV series Supergirl.",
+        "born": 1973
       }
     ]
   }
