@@ -1,13 +1,51 @@
 {
-  "generatedAt": "2026-11-27T02:02:01.687Z",
-  "weather": {
-    "location": "New York City",
-    "tempC": 9.1,
-    "condition": "Rain",
-    "code": 63,
-    "highC": 11.9,
-    "lowC": 5.4,
-    "rainChance": 100
+  "generatedAt": "2026-11-27T21:49:12.767Z",
+  "hotTopics": {
+    "headline": "Today's news",
+    "topics": [
+      {
+        "keywords": [
+          "World",
+          "US-China Trade"
+        ],
+        "summary": "Trump's shifting stance on China, embracing Xi then imposing new tariffs, signals potential future trade policy shifts."
+      },
+      {
+        "keywords": [
+          "World",
+          "Religious Freedom"
+        ],
+        "summary": "Canada's Supreme Court upheld Quebec's ban on religious symbols for public servants, impacting rights and secularism."
+      },
+      {
+        "keywords": [
+          "Business",
+          "Stock Market"
+        ],
+        "summary": "The Dow achieved its best week since 2022, signaling a strong market rebound and improved investor confidence."
+      },
+      {
+        "keywords": [
+          "US Politics",
+          "Personal News"
+        ],
+        "summary": "Senator Deb Fischer's office announced her husband's death by suicide, a personal tragedy for the public figure."
+      },
+      {
+        "keywords": [
+          "Entertainment",
+          "Box Office"
+        ],
+        "summary": "\"Hunger Games: Sunrise on Reaping\" dominated the Thanksgiving box office, showing strong audience engagement."
+      },
+      {
+        "keywords": [
+          "Sports",
+          "NFL"
+        ],
+        "summary": "The Chicago Bears secured first place after a dramatic Week 12 win, boosting team morale and fan expectations."
+      }
+    ]
   },
   "market": {
     "indices": [
@@ -15,83 +53,83 @@
         "region": "US",
         "name": "S&P 500",
         "symbol": "^GSPC",
-        "price": 7182.78,
-        "changePct": -0.2542670623475113
+        "price": 7297.49,
+        "changePct": 1.5970139695215508
       },
       {
         "region": "US",
         "name": "Nasdaq",
         "symbol": "^IXIC",
-        "price": 23585.803,
-        "changePct": -0.622461002964792
+        "price": 24129.5,
+        "changePct": 2.3051875740673324
       },
       {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "symbol": "^STOXX50E",
-        "price": 6014.74,
-        "changePct": 2.040560119162735
+        "price": 6089.2,
+        "changePct": 1.2379587480090584
       },
       {
         "region": "Europe",
         "name": "FTSE 100",
         "symbol": "^FTSE",
-        "price": 10609.3,
-        "changePct": 1.7489311341582356
+        "price": 10698.81,
+        "changePct": 0.8436937403975778
       },
       {
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3471.6997,
-        "changePct": -0.14903872481593972
+        "price": 3606.487,
+        "changePct": 3.7399143383949895
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3891.247,
-        "changePct": -0.23846134657530285
+        "price": 4063.064,
+        "changePct": 4.166483465927083
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22339.1,
-        "changePct": 0.5048841762766413
+        "price": 22694.77,
+        "changePct": 3.317718291905675
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
+        "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
         "source": "JokeAPI"
       },
       {
-        "joke": "My parents raised me as an only child, which really annoyed my younger brother.",
+        "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "up-for-grabs",
-    "title": "Up for grabs",
-    "glossZh": "“人人可得” 或 “人人都有机会”。",
-    "interpretationEn": "This idiom originated in the early 20th century, implying that something is available for anyone to claim. You can understand it as prizes, opportunities, or items that don’t have a fixed owner and are available for anyone to take.",
-    "interpretationZh": "这个成语起源于 20 世纪初期，意指某物可以供大家争夺。我们可以将它理解为某些奖品、机会、或物品没有固定的拥有者，任何人都有机会获得。",
+    "id": "back-to-square-one",
+    "title": "Back to square one",
+    "glossZh": "“回到起点” 或 “重新开始”。",
+    "interpretationEn": "The idiom originates from the recursive nature of an old game or activity, where participants have to go back to the beginning whenever they make a mistake. In modern society, this saying is often used to indicate that after a failed attempt in a project or task, one has to start over again.",
+    "interpretationZh": "这个短语源于一项古老的游戏或活动的递归性质，当参与者出错时需要回到起点重新开始。在现代社会，这个成语常用以指某个项目或任务中的尝试失败之后，不得不从头再来。",
     "examples": [
       {
-        "en": "The tickets to the concert are <em>up for grabs</em>, so act fast!",
-        "zh": "音乐会的门票人人可得，所以动作要快！"
+        "en": "We took the wrong approach with this project, so it’s back to square one.",
+        "zh": "我们在这个项目上采取了错误的方法，所以不得不重新开始。"
       },
       {
-        "en": "With the manager retiring, the position is <em>up for grabs</em>.",
-        "zh": "经理退休了，这个职位人人都有机会。"
+        "en": "After the meeting, it seemed like we were back to square one with our plan.",
+        "zh": "会议结束后，我们的计划似乎又回到了原点。"
       },
       {
-        "en": "There’s a scholarship <em>up for grabs</em> for the best essay.",
-        "zh": "有一个奖学金供最佳文章竞争。"
+        "en": "Every time we think we’ve solved the problem, something else goes wrong and we are back to square one.",
+        "zh": "每次我们以为解决了问题，都会再出些状况让我们回到原点。"
       }
     ]
   },
@@ -99,39 +137,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Ammo Baba",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ammo_Baba%2C_Assyrian_footballer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "Iraqi footballer (1934–2009)",
-        "extract": "Emmanuel Baba Dawud, better known as Ammo Baba, was an Iraqi football player and coach of the Iraq national football team.",
-        "born": 1934,
+        "name": "Shimazu Tadatsune",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Shimazu_Tadatsune.jpg/330px-Shimazu_Tadatsune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "16/17th-century Japanese warlord; leader of Satsuma Domain",
+        "extract": "Shimazu Tadatsune  was a tozama daimyō of Satsuma, the first to hold it as a formal fief (han) under the Tokugawa shogunate, and the first Japanese to rule over the Ryūkyū Kingdom. As lord of Satsuma, he was among the most powerful lords in Japan at the time, and formally submitted to Tokugawa Ieyasu in 1602, to prove his loyalty, being rewarded as a result with the name Matsudaira Iehisa; Matsudaira being a branch family of the Tokugawa, and \"Ie\" of \"Iehisa\" being taken from \"Ieyasu\", this was a great honor. As of 1603, his holdings amounted to 605,000 koku.",
+        "born": 1576,
         "highlights": [
-          "Iraqi football player.",
-          "Coached Iraq national football team.",
-          "Known as Ammo Baba."
+          "First to hold Satsuma as a formal fief",
+          "First Japanese to rule over Ryūkyū Kingdom",
+          "Among the most powerful lords in Japan"
         ]
       },
       {
-        "name": "Lyle Mays",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lyle_Mays_%284799655574%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "American jazz musician (1953–2020)",
-        "extract": "Lyle David Mays was an American jazz pianist, composer, and member of the Pat Metheny Group. Metheny and Mays composed and arranged nearly all of the group's music, for which Mays won eleven Grammy Awards.",
-        "born": 1953,
+        "name": "Jacques Godbout",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Jacques_Godbout_2014-04-12.jpg/330px-Jacques_Godbout_2014-04-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Canadian novelist, essayist, children's writer, journalist, filmmaker and poet",
+        "extract": "Jacques Godbout, OC, CQ is a Canadian novelist, essayist, children's writer, journalist, filmmaker and poet. By his own admission a bit of a dabbler (touche-à-tout), Godbout has become one of the most important writers of his generation, with a major influence on post-1960 Quebec intellectual life.",
+        "born": 1933,
         "highlights": [
-          "American jazz pianist, composer.",
-          "Member of the Pat Metheny Group.",
-          "Won eleven Grammy Awards."
+          "Canadian novelist, essayist, children's writer, journalist, filmmaker, poet",
+          "One of the most important writers of his generation",
+          "Major influence on post-1960 Quebec intellectual life"
         ]
       },
       {
-        "name": "Increase Sumner",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/IncreaseSumnerBySharples.jpg/330px-IncreaseSumnerBySharples.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American judge and politician (1746–1799)",
-        "extract": "Increase Sumner was an American lawyer, jurist, and politician from Massachusetts. He was the fifth governor of Massachusetts, serving from 1797 to 1799. Trained as a lawyer, he served in the provisional government of Massachusetts during the American Revolutionary War, and was elected to the Confederation Congress in 1782. Appointed to the Massachusetts Supreme Judicial Court the same year, he served there as an associate justice until 1797.",
-        "born": 1746,
+        "name": "Fredric Warburg",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Fredric_warburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "British publisher and author (1898–1981)",
+        "extract": "Fredric John Warburg was a British publisher, who in 1935 founded the company Secker & Warburg. He is best known for his association with the author George Orwell. During a career spanning a large part of the 20th century and ending in 1971, Warburg published Orwell's major books Animal Farm (1945) and Nineteen Eighty-Four (1949), as well as works by other leading figures such as Thomas Mann and Franz Kafka. Other notable publications included The Third Eye by Lobsang Rampa, Pierre Boulle's The Bridge over the River Kwai and William Shirer's The Rise and Fall of the Third Reich.",
+        "born": 1898,
         "highlights": [
-          "Fifth governor of Massachusetts.",
-          "Served in provisional government during American Revolutionary War.",
-          "Associate justice of Massachusetts Supreme Judicial Court."
+          "Founded the publishing company Secker & Warburg",
+          "Published George Orwell's Animal Farm and Nineteen Eighty-Four",
+          "Published works by Thomas Mann, Franz Kafka, Pierre Boulle"
         ]
       }
     ]
