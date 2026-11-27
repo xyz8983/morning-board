@@ -1,60 +1,13 @@
 {
-  "generatedAt": "2026-11-26T22:07:58.724Z",
+  "generatedAt": "2026-11-27T02:02:01.687Z",
   "weather": {
     "location": "New York City",
-    "tempC": 6.9,
+    "tempC": 9.1,
     "condition": "Rain",
     "code": 63,
-    "highC": 12.1,
+    "highC": 11.9,
     "lowC": 5.4,
     "rainChance": 100
-  },
-  "hotTopics": {
-    "headline": "Today's news",
-    "topics": [
-      {
-        "keywords": [
-          "World",
-          "Trade Policy"
-        ],
-        "summary": "The US imposed new tariffs on China, signaling renewed trade pressure and impacting global economic relations."
-      },
-      {
-        "keywords": [
-          "World",
-          "European Politics"
-        ],
-        "summary": "Spain's far-right party gained significant support due to immigration concerns, potentially ending decades out of power."
-      },
-      {
-        "keywords": [
-          "Business",
-          "Tech Policy"
-        ],
-        "summary": "Nvidia reportedly restricts GPU sales to buyers who exclude Chinese renters, impacting global tech supply chains."
-      },
-      {
-        "keywords": [
-          "US",
-          "Weather Impact"
-        ],
-        "summary": "Severe storms across the US disrupted Thanksgiving travel and canceled events, impacting millions of holiday plans."
-      },
-      {
-        "keywords": [
-          "Entertainment",
-          "Film Release"
-        ],
-        "summary": "\"Sunrise on the Reaping\" earned $15 million on Thanksgiving Eve, showing strong box office performance."
-      },
-      {
-        "keywords": [
-          "Sports",
-          "NFL Season"
-        ],
-        "summary": "The Packers' playoff hopes are dim after a significant loss to the Rams, despite earlier Super Bowl aspirations."
-      }
-    ]
   },
   "market": {
     "indices": [
@@ -90,55 +43,55 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3476.882,
-        "changePct": -2.014671525235526
+        "price": 3471.6997,
+        "changePct": -0.14903872481593972
       },
       {
         "region": "Asia",
         "name": "CSI 300",
         "symbol": "000300.SS",
-        "price": 3900.5483,
-        "changePct": 0.05932684007092721
+        "price": 3891.247,
+        "changePct": -0.23846134657530285
       },
       {
         "region": "Asia",
         "name": "Hang Seng",
         "symbol": "^HSI",
-        "price": 22226.88,
-        "changePct": 0.032313667601274056
+        "price": 22339.1,
+        "changePct": 0.5048841762766413
       }
     ]
   },
   "joke": {
     "items": [
       {
-        "joke": "My wife and I have reached the difficult decision that we do not want children.\nIf anybody does, please just send me your contact details and we can drop them off tomorrow.",
+        "joke": "There are only 10 kinds of people in this world: those who know binary and those who don't.",
         "source": "JokeAPI"
       },
       {
-        "joke": "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!",
+        "joke": "My parents raised me as an only child, which really annoyed my younger brother.",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "it-takes-one-to-know-one",
-    "title": "It takes one to know one",
-    "glossZh": "“半斤八两” 或 “彼此彼此”。",
-    "interpretationEn": "This phrase originates from the idea that only someone with similar traits or behavior can recognize those traits in someone else. For example, if someone calls another person a “liar,” it might be implied that the accuser is familiar with lying too. In modern usage, it’s often used as a retort to criticism or accusation, suggesting that the accuser shares the same flaws or problems.",
-    "interpretationZh": "这个短语最早起源于人们对彼此性格或行为特点的相互认同，意思是只有同类的人才能辨认出同类。例如，如果一个人被称为 “骗子”，而另一个人指出这一点，那么这个人也很可能具备相似的特点。在现代用法中，这个短语通常用于回应他人的批评或指责，暗示对方和自己其实是同一类人，具有相同的缺点或问题。",
+    "id": "up-for-grabs",
+    "title": "Up for grabs",
+    "glossZh": "“人人可得” 或 “人人都有机会”。",
+    "interpretationEn": "This idiom originated in the early 20th century, implying that something is available for anyone to claim. You can understand it as prizes, opportunities, or items that don’t have a fixed owner and are available for anyone to take.",
+    "interpretationZh": "这个成语起源于 20 世纪初期，意指某物可以供大家争夺。我们可以将它理解为某些奖品、机会、或物品没有固定的拥有者，任何人都有机会获得。",
     "examples": [
       {
-        "en": "“You’re so lazy.” “Well, it takes one to know one.”",
-        "zh": "“你真懒。”“彼此彼此！”"
+        "en": "The tickets to the concert are <em>up for grabs</em>, so act fast!",
+        "zh": "音乐会的门票人人可得，所以动作要快！"
       },
       {
-        "en": "“He’s so arrogant.” “It takes one to know one.”",
-        "zh": "“他真傲慢。”“半斤八两。”"
+        "en": "With the manager retiring, the position is <em>up for grabs</em>.",
+        "zh": "经理退休了，这个职位人人都有机会。"
       },
       {
-        "en": "“You’re always late!” “It takes one to know one!”",
-        "zh": "“你总是迟到！” “彼此彼此！”"
+        "en": "There’s a scholarship <em>up for grabs</em> for the best essay.",
+        "zh": "有一个奖学金供最佳文章竞争。"
       }
     ]
   },
@@ -146,39 +99,39 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Jon Ryan",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Jon_Ryan_2014.jpg/330px-Jon_Ryan_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian gridiron football player (born 1981)",
-        "extract": "Jonathan Robert Ryan is a Canadian former professional football player who was a punter in the Canadian Football League (CFL) and National Football League (NFL). He played university football for the Regina Rams, and began his professional career in the CFL with the Winnipeg Blue Bombers after being selected in the 2004 CFL draft. He also played in the NFL for the Green Bay Packers and was a member of the Seattle Seahawks for ten seasons.",
-        "born": 1981,
+        "name": "Ammo Baba",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ammo_Baba%2C_Assyrian_footballer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "Iraqi footballer (1934–2009)",
+        "extract": "Emmanuel Baba Dawud, better known as Ammo Baba, was an Iraqi football player and coach of the Iraq national football team.",
+        "born": 1934,
         "highlights": [
-          "Canadian former professional football punter.",
-          "Played for Winnipeg Blue Bombers in CFL.",
-          "Member of Seattle Seahawks for ten seasons."
+          "Iraqi football player.",
+          "Coached Iraq national football team.",
+          "Known as Ammo Baba."
         ]
       },
       {
-        "name": "Jamie Rose",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/JamieRose-Bohm.jpg/330px-JamieRose-Bohm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "American actress and acting instructor (born 1959)",
-        "extract": "Jamie Rose is an American actress and acting coach. Born in New York City, Rose was raised in Southern California, where she began her career as a child actor, first appearing in commercials. She made her feature film debut in the cult horror film Just Before Dawn (1981), and subsequently had supporting roles in Clint Eastwood's Tightrope and Heartbreakers.",
-        "born": 1959,
-        "highlights": [
-          "American actress and acting coach.",
-          "Debut in cult horror film Just Before Dawn.",
-          "Supporting roles in Tightrope and Heartbreakers."
-        ]
-      },
-      {
-        "name": "Desiré Wilson",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Spice_SE90C_-_Ford_-_Euro_Racing_-_24_Hours_of_Le_Mans_1991.jpg/330px-Spice_SE90C_-_Ford_-_Euro_Racing_-_24_Hours_of_Le_Mans_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "South African racing driver (born 1953)",
-        "extract": "Desiré Wilson, born 26 November 1953, is a former racing driver from South Africa and one of only five women to have competed in Formula One. Born in Brakpan, she entered one Formula One World Championship Grand Prix in 1980 with a non-works RAM Racing-prepared Williams FW07, but failed to qualify. She also raced in the 1981 non-world championship South African Grand Prix in a one off deal with Tyrrell Racing. This race was not part of the 1981 World Championship due, in part, to the FISA–FOCA war. She qualified 16th and, after the car stalled during the start of the race, she moved up through the field in wet conditions; as conditions dried, she fell back and damaged the car when it touched a wall while she was letting the race leader through.",
+        "name": "Lyle Mays",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lyle_Mays_%284799655574%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American jazz musician (1953–2020)",
+        "extract": "Lyle David Mays was an American jazz pianist, composer, and member of the Pat Metheny Group. Metheny and Mays composed and arranged nearly all of the group's music, for which Mays won eleven Grammy Awards.",
         "born": 1953,
         "highlights": [
-          "Former racing driver from South Africa.",
-          "One of five women to compete in Formula One.",
-          "Raced in 1981 non-world championship South African Grand Prix."
+          "American jazz pianist, composer.",
+          "Member of the Pat Metheny Group.",
+          "Won eleven Grammy Awards."
+        ]
+      },
+      {
+        "name": "Increase Sumner",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/IncreaseSumnerBySharples.jpg/330px-IncreaseSumnerBySharples.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "American judge and politician (1746–1799)",
+        "extract": "Increase Sumner was an American lawyer, jurist, and politician from Massachusetts. He was the fifth governor of Massachusetts, serving from 1797 to 1799. Trained as a lawyer, he served in the provisional government of Massachusetts during the American Revolutionary War, and was elected to the Confederation Congress in 1782. Appointed to the Massachusetts Supreme Judicial Court the same year, he served there as an associate justice until 1797.",
+        "born": 1746,
+        "highlights": [
+          "Fifth governor of Massachusetts.",
+          "Served in provisional government during American Revolutionary War.",
+          "Associate justice of Massachusetts Supreme Judicial Court."
         ]
       }
     ]
