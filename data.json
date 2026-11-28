@@ -1,51 +1,13 @@
 {
-  "generatedAt": "2026-11-27T21:49:12.767Z",
-  "hotTopics": {
-    "headline": "Today's news",
-    "topics": [
-      {
-        "keywords": [
-          "World",
-          "US-China Trade"
-        ],
-        "summary": "Trump's shifting stance on China, embracing Xi then imposing new tariffs, signals potential future trade policy shifts."
-      },
-      {
-        "keywords": [
-          "World",
-          "Religious Freedom"
-        ],
-        "summary": "Canada's Supreme Court upheld Quebec's ban on religious symbols for public servants, impacting rights and secularism."
-      },
-      {
-        "keywords": [
-          "Business",
-          "Stock Market"
-        ],
-        "summary": "The Dow achieved its best week since 2022, signaling a strong market rebound and improved investor confidence."
-      },
-      {
-        "keywords": [
-          "US Politics",
-          "Personal News"
-        ],
-        "summary": "Senator Deb Fischer's office announced her husband's death by suicide, a personal tragedy for the public figure."
-      },
-      {
-        "keywords": [
-          "Entertainment",
-          "Box Office"
-        ],
-        "summary": "\"Hunger Games: Sunrise on Reaping\" dominated the Thanksgiving box office, showing strong audience engagement."
-      },
-      {
-        "keywords": [
-          "Sports",
-          "NFL"
-        ],
-        "summary": "The Chicago Bears secured first place after a dramatic Week 12 win, boosting team morale and fan expectations."
-      }
-    ]
+  "generatedAt": "2026-11-28T01:46:39.558Z",
+  "weather": {
+    "location": "New York City",
+    "tempC": 6.4,
+    "condition": "Light drizzle",
+    "code": 51,
+    "highC": 13.9,
+    "lowC": 5.4,
+    "rainChance": 48
   },
   "market": {
     "indices": [
@@ -81,8 +43,8 @@
         "region": "Asia",
         "name": "SSE Composite",
         "symbol": "000001.SS",
-        "price": 3606.487,
-        "changePct": 3.7399143383949895
+        "price": 3606.4868,
+        "changePct": 3.7276276534697055
       },
       {
         "region": "Asia",
@@ -103,33 +65,33 @@
   "joke": {
     "items": [
       {
-        "joke": "A guy walks into a bar and asks for 1.4 root beers.\nThe bartender says \"I'll have to charge you extra, that's a root beer float\".\nThe guy says \"In that case, better make it a double.\"",
+        "joke": "Yo mama is so old, she knew Burger King while he was still a prince.",
         "source": "JokeAPI"
       },
       {
-        "joke": "Knock knock.\nWho's there?\nRecursion.\nRecursion who?\nKnock knock.",
+        "joke": "Eight bytes walk into a bar.\nThe bartender asks, \"Can I get you anything?\"\n\"Yeah,\" reply the bytes.\n\"Make us a double.\"",
         "source": "JokeAPI"
       }
     ]
   },
   "idiom": {
-    "id": "back-to-square-one",
-    "title": "Back to square one",
-    "glossZh": "“回到起点” 或 “重新开始”。",
-    "interpretationEn": "The idiom originates from the recursive nature of an old game or activity, where participants have to go back to the beginning whenever they make a mistake. In modern society, this saying is often used to indicate that after a failed attempt in a project or task, one has to start over again.",
-    "interpretationZh": "这个短语源于一项古老的游戏或活动的递归性质，当参与者出错时需要回到起点重新开始。在现代社会，这个成语常用以指某个项目或任务中的尝试失败之后，不得不从头再来。",
+    "id": "actions-speak-louder-than-words",
+    "title": "Actions Speak Louder Than Words",
+    "glossZh": "“行动胜于言辞”。",
+    "interpretationEn": "This phrase originates from 16th-century England, and it means that actions are a more powerful demonstration of one’s intentions and feelings than words. It reminds people not to rely solely on what others say but to look at what they do to truly understand their intentions.",
+    "interpretationZh": "这个短语起源于 16 世纪的英国，意指实际行动比言辞更能表达一个人的真实意图和感受。它提醒人们不要仅仅依赖言辞，而是要通过实际行动来证明自己。",
     "examples": [
       {
-        "en": "We took the wrong approach with this project, so it’s back to square one.",
-        "zh": "我们在这个项目上采取了错误的方法，所以不得不重新开始。"
+        "en": "He keeps promising to help, but <em>actions speak louder than words</em>; so far, he hasn’t done anything.",
+        "zh": "他说了很多次要帮忙，但行动胜于言辞，到目前为止他什么都没做。"
       },
       {
-        "en": "After the meeting, it seemed like we were back to square one with our plan.",
-        "zh": "会议结束后，我们的计划似乎又回到了原点。"
+        "en": "She says she loves him, but since <em>actions speak louder than words</em>, she’s planning a surprise for him this weekend.",
+        "zh": "她说她爱他，但因为行动胜于言辞，她正在计划这个周末给他一个惊喜。"
       },
       {
-        "en": "Every time we think we’ve solved the problem, something else goes wrong and we are back to square one.",
-        "zh": "每次我们以为解决了问题，都会再出些状况让我们回到原点。"
+        "en": "In politics, <em>actions speak louder than words</em>; politicians need to show their commitment through their deeds.",
+        "zh": "在政治中，行动胜于言辞：政治家需要通过他们的作为来展示他们的承诺。"
       }
     ]
   },
@@ -137,40 +99,25 @@
     "headline": "Born today",
     "people": [
       {
-        "name": "Shimazu Tadatsune",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Shimazu_Tadatsune.jpg/330px-Shimazu_Tadatsune.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "16/17th-century Japanese warlord; leader of Satsuma Domain",
-        "extract": "Shimazu Tadatsune  was a tozama daimyō of Satsuma, the first to hold it as a formal fief (han) under the Tokugawa shogunate, and the first Japanese to rule over the Ryūkyū Kingdom. As lord of Satsuma, he was among the most powerful lords in Japan at the time, and formally submitted to Tokugawa Ieyasu in 1602, to prove his loyalty, being rewarded as a result with the name Matsudaira Iehisa; Matsudaira being a branch family of the Tokugawa, and \"Ie\" of \"Iehisa\" being taken from \"Ieyasu\", this was a great honor. As of 1603, his holdings amounted to 605,000 koku.",
-        "born": 1576,
-        "highlights": [
-          "First to hold Satsuma as a formal fief",
-          "First Japanese to rule over Ryūkyū Kingdom",
-          "Among the most powerful lords in Japan"
-        ]
+        "name": "Sophie Magdalene of Brandenburg-Kulmbach",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Dronning-Sophie-Magdalene.jpg/330px-Dronning-Sophie-Magdalene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Queen of Denmark and Norway from 1730 to 1746",
+        "extract": "Sophie Magdalene of Brandenburg-Kulmbach was Queen of Denmark and Norway by marriage to King Christian VI of Denmark and Norway.",
+        "born": 1700
       },
       {
-        "name": "Jacques Godbout",
-        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Jacques_Godbout_2014-04-12.jpg/330px-Jacques_Godbout_2014-04-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "bio": "Canadian novelist, essayist, children's writer, journalist, filmmaker and poet",
-        "extract": "Jacques Godbout, OC, CQ is a Canadian novelist, essayist, children's writer, journalist, filmmaker and poet. By his own admission a bit of a dabbler (touche-à-tout), Godbout has become one of the most important writers of his generation, with a major influence on post-1960 Quebec intellectual life.",
-        "born": 1933,
-        "highlights": [
-          "Canadian novelist, essayist, children's writer, journalist, filmmaker, poet",
-          "One of the most important writers of his generation",
-          "Major influence on post-1960 Quebec intellectual life"
-        ]
+        "name": "Margaret Tudor",
+        "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Daniel_Mytens_%28c._1590-1647%29_-_Margaret_Tudor%2C_Queen_of_Scotland_%281489-1541%29_-_RCIN_401181_-_Royal_Collection_%28cropped%29_2.jpg/330px-Daniel_Mytens_%28c._1590-1647%29_-_Margaret_Tudor%2C_Queen_of_Scotland_%281489-1541%29_-_RCIN_401181_-_Royal_Collection_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "bio": "Queen of Scotland from 1503 to 1513",
+        "extract": "Margaret Tudor was Queen of Scotland from 1503 until 1513 as the wife of James IV. She then served as regent of Scotland during her son's minority, and fought to extend her regency. Margaret was the eldest daughter of Henry VII of England and Elizabeth of York, and the elder sister of Henry VIII. Through her descendants, the House of Stuart eventually acceded to the thrones of England and Ireland, culminating in the \"Union of the Crowns\" under her great-grandson James VI and I in 1603 following the death of her niece Elizabeth I.",
+        "born": 1489
       },
       {
-        "name": "Fredric Warburg",
-        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Fredric_warburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "bio": "British publisher and author (1898–1981)",
-        "extract": "Fredric John Warburg was a British publisher, who in 1935 founded the company Secker & Warburg. He is best known for his association with the author George Orwell. During a career spanning a large part of the 20th century and ending in 1971, Warburg published Orwell's major books Animal Farm (1945) and Nineteen Eighty-Four (1949), as well as works by other leading figures such as Thomas Mann and Franz Kafka. Other notable publications included The Third Eye by Lobsang Rampa, Pierre Boulle's The Bridge over the River Kwai and William Shirer's The Rise and Fall of the Third Reich.",
-        "born": 1898,
-        "highlights": [
-          "Founded the publishing company Secker & Warburg",
-          "Published George Orwell's Animal Farm and Nineteen Eighty-Four",
-          "Published works by Thomas Mann, Franz Kafka, Pierre Boulle"
-        ]
+        "name": "Rose Bampton",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Rose_Bampton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "bio": "American opera singer (1907–2007)",
+        "extract": "Rose Bampton was an American opera singer who had an active international career during the 1930s and 1940s. She began her professional career performing mostly minor roles from the mezzo-soprano repertoire in 1929 but later switched to singing primarily leading soprano roles in 1937 until her retirement from the opera stage in 1963.",
+        "born": 1907
       }
     ]
   }
